@@ -120,14 +120,58 @@
         </p>
       </section>
 
-      <section class="p-5 pb-0">
-        calculator
+      <section class="p-5">
+        <h2>Enter Details</h2>
+        <form>
+          <div class="row mb-3">
+            <label for="year-select" class="col-lg-4 col-form-label">
+              Select year:
+            </label>
+            <div class="col-lg-8">
+              <select id="year-select" class="form-select">
+                <option value="">Select year</option>
+              </select>
+            </div>
+          </div>
+          <div class="row mb-3">
+            <label for="facility-type-select" class="col-lg-4 col-form-label">
+              Select facility type:
+            </label>
+            <div class="col-lg-8">
+              <select id="facility-type-select" class="form-select">
+                <option value="">Select facility type</option>
+              </select>
+            </div>
+          </div>
+          <div class="row mb-3">
+            <label for="msa-select" class="col-lg-4 col-form-label">
+              Select metropolitan statistical area (MSA):
+            </label>
+            <div class="col-lg-8">
+              <select id="msa-select" class="form-select">
+                <option value="">Select MSA</option>
+              </select>
+            </div>
+          </div>
+          <div class="row mb-3">
+            <label for="miles-input" class="col-lg-4 col-form-label">Input total lane miles added:</label>
+            <div class="col-lg-8">
+              <div class=" input-group">
+                <input id="miles-input" type="text" class="form-control">
+                <span class="input-group-text">miles</span>
+              </div>
+            </div>
+          </div>
+          <div class="d-flex justify-content-center mt-4">
+            <button type="submit" class="btn btn-primary">Calculate Induced Travel</button>
+          </div>
+        </form>
       </section>
 
     </main>
 
     <footer class="py-4">
-      <p class="text-body-secondary text-center">&copy; 2023 Rutgers University</p>
+      <p class="text-body-secondary text-center m-0">&copy; 2023 Rutgers University</p>
     </footer>
   </div>
 
