@@ -1,0 +1,25 @@
+---
+const currentPath = Astro.url.pathname;
+const navItems = [
+  { name: "Home", path: "/" },
+  { name: "Calculator", path: "/calculator/" },
+  { name: "FAQ", path: "/faq/" },
+  { name: "About", path: "/about/" },
+].map((item) => ({ ...item, currentPage: item.path === currentPath }));
+---
+
+<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+  {
+    navItems.map((item) => (
+      <li class="nav-item">
+        <a
+          class={"nav-link" + (item.currentPage ? " active" : "")}
+          aria-page={item.currentPage ? "page" : "false"}
+          href={item.path}
+        >
+          {item.name}
+        </a>
+      </li>
+    ))
+  }
+</ul>
