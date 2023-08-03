@@ -48,7 +48,27 @@
   </div>
 </form>
 
+<div class="modal fade" id="results-modal" tabindex="-1" aria-labelledby="results-model-label" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="results-model-label">Results</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <span id="miles-added"></span>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
 <script>
+  // XXX: See: https://stackoverflow.com/questions/68216663/bootstrap-5-popover-error-cannot-find-name-bootstrap
+  declare var bootstrap: any;
+
   // XXX: Might want to do all of this server-side instead so we can easily
   // render the form based on the data.
   import Papa from "papaparse";
@@ -126,6 +146,11 @@
       row.county === county
     ))[0];
 
-    // console.log(newMiles / miles * vmt * 1.0);
+    const modal = new bootstrap.Modal('#results-modal');
+    modal.show();
+
+    // XXX: More calculations + better formatting.
+    const milesAddedEl = document.getElementById("miles-added")!;
+    milesAddedEl.innerText = String(newMiles / miles * vmt * 1.0);
   });
 </script>
