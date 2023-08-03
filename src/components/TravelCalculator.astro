@@ -1,46 +1,131 @@
-<form>
+<!-- XXX: Populate form options based on data. -->
+<form id="travel-calculator" novalidate>
   <div class="row mb-3">
-    <label for="year" class="col-lg-4 col-form-label"> Select year:</label>
+    <label for="year" class="col-lg-4 col-form-label">Select year:</label>
     <div class="col-lg-8">
       <select id="year" class="form-select">
         <option value="">Select year</option>
+        <option>2017</option>
+        <option>2018</option>
       </select>
+      <div class="invalid-feedback">Please select a year.</div>
     </div>
   </div>
   <div class="row mb-3">
-    <label for="facility-type" class="col-lg-4 col-form-label">
-      Select facility type:
-    </label>
+    <label for="facility" class="col-lg-4 col-form-label">Select facility type:</label>
     <div class="col-lg-8">
-      <select id="facility-type" class="form-select">
+      <select id="facility" class="form-select">
         <option value="">Select facility type</option>
+        <option>Urban interstate freeway/expressway</option>
+        <option>Urban principal arterial</option>
       </select>
+      <div class="invalid-feedback">Please select a facility type.</div>
     </div>
   </div>
   <div class="row mb-3">
-    <label for="msa" class="col-lg-4 col-form-label">
-      Select metropolitan statistical area (MSA):
-    </label>
+    <label for="county" class="col-lg-4 col-form-label">Select county:</label>
     <div class="col-lg-8">
-      <select id="msa" class="form-select">
-        <option value="">Select MSA</option>
+      <select id="county" class="form-select">
+        <option value="">Select county</option>
+        <option>Mercer</option>
+        <option>Middlesex</option>
       </select>
+      <div class="invalid-feedback">Please select a county.</div>
     </div>
   </div>
   <div class="row mb-3">
-    <label for="miles" class="col-lg-4 col-form-label">
-      Input total lane miles added:
-    </label>
+    <label for="miles" class="col-lg-4 col-form-label">Input total lane miles added:</label>
     <div class="col-lg-8">
       <div class="input-group">
         <input id="miles" type="text" class="form-control" />
         <span class="input-group-text">miles</span>
+        <div class="invalid-feedback">Please provide a non-negative value for lane miles.</div>
       </div>
     </div>
   </div>
   <div class="d-flex justify-content-center mt-4">
-    <button type="submit" class="btn btn-primary">
-      Calculate Induced Travel
-    </button>
+    <button type="submit" class="btn btn-primary">Calculate Induced Travel</button>
   </div>
 </form>
+
+<script>
+  // XXX: Might want to do all of this server-side instead so we can easily
+  // render the form based on the data.
+  import Papa from "papaparse";
+
+  const yearEl = document.getElementById("year") as HTMLInputElement;
+  const facilityEl = document.getElementById("facility") as HTMLInputElement;
+  const countyEl = document.getElementById("county") as HTMLInputElement;
+  const milesEl = document.getElementById("miles") as HTMLInputElement;
+  const travelCalcEl = document.getElementById("travel-calculator") as HTMLFormElement;
+
+  function getInvalidInputs() {
+    const elements = [];
+
+    if (!yearEl.value) elements.push(yearEl);
+    if (!facilityEl.value) elements.push(facilityEl);
+    if (!countyEl.value) elements.push(countyEl);
+
+    const miles = parseFloat(milesEl.value);
+    if (isNaN(miles) || miles < 0) elements.push(milesEl);
+
+    return elements;
+  }
+
+  const invalidClass = "is-invalid";
+
+  function markInputsAsValid() {
+    yearEl.classList.remove(invalidClass);
+    facilityEl.classList.remove(invalidClass);
+    countyEl.classList.remove(invalidClass);
+    milesEl.classList.remove(invalidClass);
+  }
+
+  interface DataEntry {
+    county: string;
+    year: number;
+    facility: string;
+    vmt: number;
+    miles: number;
+  }
+
+  function readData() {
+    return new Promise<DataEntry[]>((resolve) => {
+      Papa.parse("/data/data.csv", {
+        download: true,
+        header: true,
+        dynamicTyping: true,
+        complete: function (results) {
+          resolve(results.data as DataEntry[]);
+        },
+      });
+    });
+  }
+
+  const data = await readData();
+
+  travelCalcEl.addEventListener("submit", (event) => {
+    event.preventDefault();
+
+    markInputsAsValid();
+
+    const invalidInputs = getInvalidInputs();
+    for (const input of invalidInputs)
+      input.classList.add(invalidClass);
+
+    if (invalidInputs.length > 0) return;
+
+    const year = parseInt(yearEl.value);
+    const facility = facilityEl.value;
+    const county = countyEl.value;
+    const newMiles = parseFloat(milesEl.value);
+
+    const { vmt, miles } = data.filter((row) => (
+      row.year === year &&
+      row.facility === facility &&
+      row.county === county
+    ))[0];
+
+    // console.log(newMiles / miles * vmt * 1.0);
+  });
+</script>
