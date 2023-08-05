@@ -50,8 +50,14 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-        <span id="min-miles-added"></span>
-        <span id="max-miles-added"></span>
+        <p>
+          Minimum miles added:
+          <span id="min-miles-added"></span>
+        </p>
+        <p>
+          Maximum miles added:
+          <span id="max-miles-added"></span>
+        </p>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>
@@ -72,11 +78,11 @@
   const facilityTypeInput = document.getElementById("facility-type") as HTMLInputElement;
   const countyInput = document.getElementById("county") as HTMLInputElement;
   const laneMilesInput = document.getElementById("lane-miles") as HTMLInputElement;
-  const travelCalcInput = document.getElementById("travel-calculator") as HTMLFormElement;
+  const travelCalc = document.getElementById("travel-calculator") as HTMLFormElement;
 
   setupForm();
 
-  travelCalcInput.addEventListener("submit", (event) => {
+  travelCalc.addEventListener("submit", (event) => {
     event.preventDefault();
 
     if (!validateInputs()) return;
@@ -131,10 +137,12 @@
     const { vmt, laneMiles, minElast, maxElast } = resultRow!;
 
     const minMilesAdded = document.getElementById("min-miles-added")!;
-    minMilesAdded.innerText = String(newLaneMiles / laneMiles * vmt * minElast);
+    minMilesAdded.innerText = String(
+      (newLaneMiles / laneMiles * vmt * minElast).toFixed());
 
     const maxMilesAdded = document.getElementById("max-miles-added")!;
-    maxMilesAdded.innerText = String(newLaneMiles / laneMiles * vmt * maxElast);
+    maxMilesAdded.innerText = String(
+      (newLaneMiles / laneMiles * vmt * maxElast).toFixed());
   }
 
   const invalidClass = "is-invalid";
