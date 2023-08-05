@@ -1,4 +1,4 @@
-<!-- XXX: Populate form options based on data. -->
+
 <form id="travel-calculator" novalidate>
   <div class="row mb-3">
     <label for="year" class="col-lg-4 col-form-label">Select year:</label>
@@ -12,9 +12,9 @@
     </div>
   </div>
   <div class="row mb-3">
-    <label for="facility" class="col-lg-4 col-form-label">Select facility type:</label>
+    <label for="facility-type" class="col-lg-4 col-form-label">Select facility type:</label>
     <div class="col-lg-8">
-      <select id="facility" class="form-select">
+      <select id="facility-type" class="form-select">
         <option value="">Select facility type</option>
         <option>Urban interstate freeway/expressway</option>
         <option>Urban principal arterial</option>
@@ -34,10 +34,10 @@
     </div>
   </div>
   <div class="row mb-3">
-    <label for="miles" class="col-lg-4 col-form-label">Input total lane miles added:</label>
+    <label for="lane-miles" class="col-lg-4 col-form-label">Input total lane miles added:</label>
     <div class="col-lg-8">
       <div class="input-group">
-        <input id="miles" type="text" class="form-control" />
+        <input id="lane-miles" type="text" class="form-control" />
         <span class="input-group-text">miles</span>
         <div class="invalid-feedback">Please provide a non-negative value for lane miles.</div>
       </div>
@@ -66,28 +66,26 @@
 </div>
 
 <script>
-  // XXX: See: https://stackoverflow.com/questions/68216663/bootstrap-5-popover-error-cannot-find-name-bootstrap
+  // See: https://stackoverflow.com/questions/68216663/bootstrap-5-popover-error-cannot-find-name-bootstrap
   declare var bootstrap: any;
 
-  // XXX: Might want to do all of this server-side instead so we can easily
-  // render the form based on the data.
   import Papa from "papaparse";
 
   const yearEl = document.getElementById("year") as HTMLInputElement;
-  const facilityEl = document.getElementById("facility") as HTMLInputElement;
+  const facilityTypeEl = document.getElementById("facility-type") as HTMLInputElement;
   const countyEl = document.getElementById("county") as HTMLInputElement;
-  const milesEl = document.getElementById("miles") as HTMLInputElement;
+  const laneMilesEl = document.getElementById("lane-miles") as HTMLInputElement;
   const travelCalcEl = document.getElementById("travel-calculator") as HTMLFormElement;
 
   function getInvalidInputs() {
     const elements = [];
 
     if (!yearEl.value) elements.push(yearEl);
-    if (!facilityEl.value) elements.push(facilityEl);
+    if (!facilityTypeEl.value) elements.push(facilityTypeEl);
     if (!countyEl.value) elements.push(countyEl);
 
-    const miles = parseFloat(milesEl.value);
-    if (isNaN(miles) || miles < 0) elements.push(milesEl);
+    const miles = parseFloat(laneMilesEl.value);
+    if (isNaN(miles) || miles < 0) elements.push(laneMilesEl);
 
     return elements;
   }
@@ -96,17 +94,17 @@
 
   function markInputsAsValid() {
     yearEl.classList.remove(invalidClass);
-    facilityEl.classList.remove(invalidClass);
+    facilityTypeEl.classList.remove(invalidClass);
     countyEl.classList.remove(invalidClass);
-    milesEl.classList.remove(invalidClass);
+    laneMilesEl.classList.remove(invalidClass);
   }
 
   interface DataEntry {
     county: string;
     year: number;
-    facility: string;
+    facilityType: string;
     vmt: number;
-    miles: number;
+    laneMiles: number;
   }
 
   function readData() {
@@ -136,13 +134,13 @@
     if (invalidInputs.length > 0) return;
 
     const year = parseInt(yearEl.value);
-    const facility = facilityEl.value;
+    const facilityType = facilityTypeEl.value;
     const county = countyEl.value;
-    const newMiles = parseFloat(milesEl.value);
+    const newLaneMiles = parseFloat(laneMilesEl.value);
 
-    const { vmt, miles } = data.filter((row) => (
+    const { vmt, laneMiles } = data.filter((row) => (
       row.year === year &&
-      row.facility === facility &&
+      row.facilityType === facilityType &&
       row.county === county
     ))[0];
 
@@ -151,6 +149,6 @@
 
     // XXX: More calculations + better formatting.
     const milesAddedEl = document.getElementById("miles-added")!;
-    milesAddedEl.innerText = String(newMiles / miles * vmt * 1.0);
+    milesAddedEl.innerText = String(newLaneMiles / laneMiles * vmt * 1.0);
   });
 </script>

@@ -1,4 +1,4 @@
-year,county,facility,vmt,miles
+year,county,facilityType,vmt,laneMiles
 2017,Mercer,Urban interstate freeway/expressway,1098131,84
 2017,Mercer,Urban principal arterial,1098131,84
 2018,Mercer,Urban interstate freeway/expressway,1098131,84
