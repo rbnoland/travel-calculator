@@ -50,7 +50,8 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-        <span id="miles-added"></span>
+        <span id="min-miles-added"></span>
+        <span id="max-miles-added"></span>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>
@@ -90,6 +91,8 @@
     facilityType: string;
     vmt: number;
     laneMiles: number;
+    minElast: number;
+    maxElast: number;
   }
 
   function loadData() {
@@ -116,16 +119,22 @@
     const county = countyInput.value;
     const newLaneMiles = parseFloat(laneMilesInput.value);
 
-    // XXX: Show error if no data available.
-    const { vmt, laneMiles } = data.filter((row) => (
+    const resultRow = data.find((row) => (
       row.year === year &&
       row.facilityType === facilityType &&
       row.county === county
-    ))[0];
+    ));
 
-    // XXX: More calculations + better formatting.
-    const milesAdded = document.getElementById("miles-added")!;
-    milesAdded.innerText = String(newLaneMiles / laneMiles * vmt * 1.0);
+    // XXX: Show error modal.
+    if (!resultRow) console.log("no data");
+
+    const { vmt, laneMiles, minElast, maxElast } = resultRow!;
+
+    const minMilesAdded = document.getElementById("min-miles-added")!;
+    minMilesAdded.innerText = String(newLaneMiles / laneMiles * vmt * minElast);
+
+    const maxMilesAdded = document.getElementById("max-miles-added")!;
+    maxMilesAdded.innerText = String(newLaneMiles / laneMiles * vmt * maxElast);
   }
 
   const invalidClass = "is-invalid";
