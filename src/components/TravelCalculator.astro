@@ -42,11 +42,11 @@
   </div>
 </form>
 
-<div class="modal fade" id="results-modal" tabindex="-1" aria-labelledby="results-model-label" aria-hidden="true">
+<div class="modal fade" id="results-modal" tabindex="-1" aria-labelledby="results-modal-label" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h1 class="modal-title fs-5" id="results-model-label">Results</h1>
+        <h1 class="modal-title fs-5" id="results-modal-label">Results</h1>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
@@ -58,6 +58,25 @@
           <span id="modal-new-lane-miles"></span> lane miles would add between
           <span id="modal-min-miles-added"></span> and <span id="modal-max-miles-added"></span>
           vehicle miles travelled.
+        </p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="error-modal" tabindex="-1" aria-labelledby="error-modal-label" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="error-modal-label">No results found!</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <p>
+          There are no results for this combination of year, county, and facility type. Try some different inputs.
         </p>
       </div>
       <div class="modal-footer">
@@ -89,7 +108,6 @@
     if (!validateInputs()) return;
     
     calculateInducedTravel();
-    showResultsModal();
   });
 
   interface DataEntry {
@@ -120,6 +138,11 @@
     modal.show();
   }
 
+  function showErrorModal(){
+    const modal = new bootstrap.Modal('#error-modal');
+    modal.show();
+  }
+
   function calculateInducedTravel() {
     const year = parseInt(yearInput.value);
     const facilityType = facilityTypeInput.value;
@@ -132,8 +155,10 @@
       row.county === county
     ));
 
-    // XXX: Show error modal.
-    if (!resultRow) console.log("no data");
+    if (!resultRow) {
+      showErrorModal();
+      return;
+    }
 
     const { vmt, laneMiles, minElast, maxElast } = resultRow!;
 
@@ -159,6 +184,8 @@
     const maxMilesAddedSpan = document.getElementById("modal-max-miles-added")!;
     maxMilesAddedSpan.innerText = String(
       (newLaneMiles / laneMiles * vmt * maxElast).toFixed());
+
+    showResultsModal();
   }
 
   const invalidClass = "is-invalid";
