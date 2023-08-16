@@ -53,7 +53,8 @@
         <p>
           <!-- XXX: Add elasticities. -->
           In <span id="modal-year"></span>, <span id="modal-county"></span> county had
-          <span id="modal-lane-miles"></span> lane miles. A project adding
+          <span id="modal-lane-miles"></span> lane miles of
+          <span id="modal-facility-type"></span>. A project adding
           <span id="modal-new-lane-miles"></span> lane miles would add between
           <span id="modal-min-miles-added"></span> and <span id="modal-max-miles-added"></span>
           vehicle miles travelled.
@@ -147,6 +148,9 @@
 
     const newLaneMilesSpan = document.getElementById("modal-new-lane-miles")!;
     newLaneMilesSpan.innerText = String(newLaneMiles);
+
+    const facilityTypeSpan = document.getElementById("modal-facility-type")!;
+    facilityTypeSpan.innerText = facilityType;
 
     const minMilesAddedSpan = document.getElementById("modal-min-miles-added")!;
     minMilesAddedSpan.innerText = String(
