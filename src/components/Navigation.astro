@@ -3,7 +3,6 @@ const currentPath = Astro.url.pathname;
 const navItems = [
   { name: "Home", path: "/" },
   { name: "Calculator", path: "/calculator/" },
-  { name: "FAQ", path: "/faq/" },
   { name: "About", path: "/about/" },
 ].map((item) => ({ ...item, currentPage: item.path === currentPath }));
 ---
