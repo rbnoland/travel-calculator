@@ -51,12 +51,12 @@
       </div>
       <div class="modal-body">
         <p>
-          Minimum miles added:
-          <span id="min-miles-added"></span>
-        </p>
-        <p>
-          Maximum miles added:
-          <span id="max-miles-added"></span>
+          <!-- XXX: Add elasticities. -->
+          In <span id="modal-year"></span>, <span id="modal-county"></span> county had
+          <span id="modal-lane-miles"></span> lane miles. A project adding
+          <span id="modal-new-lane-miles"></span> lane miles would add between
+          <span id="modal-min-miles-added"></span> and <span id="modal-max-miles-added"></span>
+          vehicle miles travelled.
         </p>
       </div>
       <div class="modal-footer">
@@ -136,12 +136,24 @@
 
     const { vmt, laneMiles, minElast, maxElast } = resultRow!;
 
-    const minMilesAdded = document.getElementById("min-miles-added")!;
-    minMilesAdded.innerText = String(
+    const yearSpan = document.getElementById("modal-year")!;
+    yearSpan.innerText = String(year);
+
+    const countySpan = document.getElementById("modal-county")!;
+    countySpan.innerText = county;
+
+    const laneMilesSpan = document.getElementById("modal-lane-miles")!;
+    laneMilesSpan.innerText = String(laneMiles);
+
+    const newLaneMilesSpan = document.getElementById("modal-new-lane-miles")!;
+    newLaneMilesSpan.innerText = String(newLaneMiles);
+
+    const minMilesAddedSpan = document.getElementById("modal-min-miles-added")!;
+    minMilesAddedSpan.innerText = String(
       (newLaneMiles / laneMiles * vmt * minElast).toFixed());
 
-    const maxMilesAdded = document.getElementById("max-miles-added")!;
-    maxMilesAdded.innerText = String(
+    const maxMilesAddedSpan = document.getElementById("modal-max-miles-added")!;
+    maxMilesAddedSpan.innerText = String(
       (newLaneMiles / laneMiles * vmt * maxElast).toFixed());
   }
 
