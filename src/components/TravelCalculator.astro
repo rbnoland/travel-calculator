@@ -49,15 +49,15 @@
         <h1 class="modal-title fs-5" id="results-modal-label">Results</h1>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
-      <div class="modal-body">
+      <div class="modal-body fs-5">
         <p>
-          <!-- XXX: Add elasticities. -->
-          In <span id="modal-year" class="fw-bold"></span>, <span id="modal-county" class="fw-bold"></span> county had
-          <span id="modal-lane-miles" class="fw-bold"></span> lane miles of
-          <span id="modal-facility-type" class="fw-bold"></span>. A project adding
-          <span id="modal-new-lane-miles" class="fw-bold"></span> lane miles would add between
-          <span id="modal-min-miles-added" class="fw-bold"></span> and <span id="modal-max-miles-added" class="fw-bold"></span>
-          vehicle miles travelled.
+          In <span id="modal-year" class="fw-bold text-warning"></span>, <span id="modal-county" class="fw-bold text-warning"></span> county had
+          <span id="modal-lane-miles" class="fw-bold text-warning"></span> lane miles of
+          <span id="modal-facility-type" class="fw-bold text-warning"></span>. A project adding
+          <span id="modal-new-lane-miles" class="fw-bold text-warning"></span> lane miles would add between
+          <span id="modal-min-miles-added" class="fw-bold text-warning"></span> and <span id="modal-max-miles-added" class="fw-bold text-warning"></span>
+          vehicle miles travelled. This calculation used a minimum elasticity of <span id="modal-min-elasticity" class="fw-bold text-warning"></span>
+          and a maximum elasticity of <span id="modal-max-elasticity" class="fw-bold text-warning"></span>.
         </p>
       </div>
       <div class="modal-footer">
@@ -184,6 +184,12 @@
     const maxMilesAddedSpan = document.getElementById("modal-max-miles-added")!;
     maxMilesAddedSpan.innerText = String(
       (newLaneMiles / laneMiles * vmt * maxElast).toFixed());
+
+    const minElastSpan = document.getElementById("modal-min-elasticity")!;
+    minElastSpan.innerText = String(minElast);
+
+    const maxElastSpan = document.getElementById("modal-max-elasticity")!;
+    maxElastSpan.innerText = String(maxElast);
 
     showResultsModal();
   }
