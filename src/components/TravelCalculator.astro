@@ -74,7 +74,7 @@
         <h1 class="modal-title fs-5" id="error-modal-label">No results found!</h1>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
-      <div class="modal-body">
+      <div class="modal-body fs-5">
         <p>
           There are no results for this combination of year, county, and facility type. Try some different inputs.
         </p>
@@ -161,6 +161,11 @@
     }
 
     const { vmt, laneMiles, minElast, maxElast } = resultRow!;
+
+    if (laneMiles === 0){
+      showErrorModal();
+      return;
+    }
 
     const yearSpan = document.getElementById("modal-year")!;
     yearSpan.innerText = String(year);
