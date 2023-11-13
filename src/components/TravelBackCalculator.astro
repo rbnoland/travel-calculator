@@ -1,0 +1,288 @@
+
+<form id="travel-back-calculator" novalidate>
+  <div class="row mb-3">
+    <label for="year" class="col-lg-4 col-form-label">Select year:</label>
+    <div class="col-lg-8">
+      <select id="year" class="form-select">
+        <option value="">Select year</option>
+      </select>
+      <div class="invalid-feedback">Please select a year.</div>
+    </div>
+  </div>
+  <div class="row mb-3">
+    <label for="county" class="col-lg-4 col-form-label">Select county:</label>
+    <div class="col-lg-8">
+      <select id="county" class="form-select">
+        <option value="">Select county</option>
+      </select>
+      <div class="invalid-feedback">Please select a county.</div>
+    </div>
+  </div>
+  <div class="row mb-3">
+    <label for="facility-type" class="col-lg-4 col-form-label">Select facility type:</label>
+    <div class="col-lg-8">
+      <select id="facility-type" class="form-select">
+        <option value="">Select facility type</option>
+      </select>
+      <div class="invalid-feedback">Please select a facility type.</div>
+    </div>
+  </div>
+  <div class="row mb-3">
+    <label for="lane-miles-increase" class="col-lg-4 col-form-label">Input increase in lane miles:</label>
+    <div class="col-lg-8">
+      <div class="input-group">
+        <input id="lane-miles-increase" type="text" class="form-control" />
+        <span class="input-group-text">miles</span>
+        <div class="invalid-feedback">Please provide a positive value for increase in lane miles.</div>
+      </div>
+    </div>
+  </div>
+  <div class="row mb-3">
+    <label for="vmt-increase" class="col-lg-4 col-form-label">Input forecasted increase in VMT:</label>
+    <div class="col-lg-8">
+      <div class="input-group">
+        <input id="vmt-increase" type="text" class="form-control" />
+        <span class="input-group-text">miles</span>
+        <div class="invalid-feedback">Please provide a non-negative value for increase in VMT.</div>
+      </div>
+    </div>
+  </div>
+  <div class="d-flex justify-content-center mt-4">
+    <button type="submit" class="btn btn-primary">Calculate Implied Elasticity</button>
+  </div>
+</form>
+
+<div class="modal fade" id="results-modal" tabindex="-1" aria-labelledby="results-modal-label" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="results-modal-label">Results</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body fs-5">
+        <p>
+          In <span id="modal-year" class="fw-bold text-warning"></span>, <span id="modal-county" class="fw-bold text-warning"></span> county had
+          <span id="modal-lane-miles" class="fw-bold text-warning"></span> lane miles of
+          <span id="modal-facility-type" class="fw-bold text-warning"></span>. An increase in lane miles of
+          <span id="modal-lane-miles-increase" class="fw-bold text-warning"></span> and a forecasted increase in VMT of
+          <span id="modal-vmt-increase" class="fw-bold text-warning"></span> yields an implied elasticity of
+          <span id="modal-implied-elasticity" class="fw-bold text-warning"></span>.
+        </p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="error-modal" tabindex="-1" aria-labelledby="error-modal-label" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="error-modal-label">No results found!</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body fs-5">
+        <p>
+          There are no results for this combination of year, county, and facility type. Try some different inputs.
+        </p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  // See: https://stackoverflow.com/questions/68216663/bootstrap-5-popover-error-cannot-find-name-bootstrap
+  declare var bootstrap: any;
+
+  import Papa from "papaparse";
+
+  const data = await loadData();
+
+  const yearInput = document.getElementById("year") as HTMLInputElement;
+  const facilityTypeInput = document.getElementById("facility-type") as HTMLInputElement;
+  const countyInput = document.getElementById("county") as HTMLInputElement;
+  const laneMilesIncreaseInput = document.getElementById("lane-miles-increase") as HTMLInputElement;
+  const vmtIncreaseInput = document.getElementById("vmt-increase") as HTMLInputElement;
+  const travelBackCalc = document.getElementById("travel-back-calculator") as HTMLFormElement;
+
+  setupForm();
+
+  travelBackCalc.addEventListener("submit", (event) => {
+    event.preventDefault();
+
+    if (!validateInputs()) return;
+    
+    calculateImpliedElasticity();
+  });
+
+  interface DataEntry {
+    county: string;
+    year: number;
+    facilityType: string;
+    vmt: number;
+    laneMiles: number;
+    minElast: number;
+    maxElast: number;
+  }
+
+  function loadData() {
+    return new Promise<DataEntry[]>((resolve) => {
+      Papa.parse("/data/data.csv", {
+        download: true,
+        header: true,
+        dynamicTyping: true,
+        complete: function (results) {
+          resolve(results.data as DataEntry[]);
+        },
+      });
+    });
+  }
+
+  function showResultsModal() {
+    const modal = new bootstrap.Modal('#results-modal');
+    modal.show();
+  }
+
+  function showErrorModal(){
+    const modal = new bootstrap.Modal('#error-modal');
+    modal.show();
+  }
+
+  function calculateImpliedElasticity() {
+    const year = parseInt(yearInput.value);
+    const facilityType = facilityTypeInput.value;
+    const county = countyInput.value;
+    const laneMilesIncrease = parseFloat(laneMilesIncreaseInput.value);
+    const vmtIncrease = parseFloat(vmtIncreaseInput.value);
+
+    const resultRow = data.find((row) => (
+      row.year === year &&
+      row.facilityType === facilityType &&
+      row.county === county
+    ));
+
+    if (!resultRow) {
+      showErrorModal();
+      return;
+    }
+
+    const { vmt, laneMiles } = resultRow!;
+
+    if (laneMiles == 0 || vmt == 0) {
+      showErrorModal();
+      return;
+    }
+
+    const yearSpan = document.getElementById("modal-year")!;
+    yearSpan.innerText = String(year);
+
+    const countySpan = document.getElementById("modal-county")!;
+    countySpan.innerText = county;
+
+    const laneMilesSpan = document.getElementById("modal-lane-miles")!;
+    laneMilesSpan.innerText = String(laneMiles);
+
+    const facilityTypeSpan = document.getElementById("modal-facility-type")!;
+    facilityTypeSpan.innerText = facilityType;
+
+    const laneMilesIncreaseSpan = document.getElementById("modal-lane-miles-increase")!;
+    laneMilesIncreaseSpan.innerText = String(laneMilesIncrease);
+
+    const vmtIncreaseSpan = document.getElementById("modal-vmt-increase")!;
+    vmtIncreaseSpan.innerText = String(vmtIncrease);
+
+    const impliedElasticity = (vmtIncrease / vmt) / (laneMilesIncrease / laneMiles);
+    const impliedElasticitySpan = document.getElementById("modal-implied-elasticity")!;
+    impliedElasticitySpan.innerText = String(impliedElasticity.toFixed(3));
+
+    showResultsModal();
+  }
+
+  const invalidClass = "is-invalid";
+
+  function validateInputs() {
+    markInputsAsValid();
+
+    const invalidInputs = getInvalidInputs();
+    for (const input of invalidInputs)
+      input.classList.add(invalidClass);
+
+    return invalidInputs.length === 0;
+  }
+
+  function getInvalidInputs() {
+    const elements = [];
+
+    if (!yearInput.value) elements.push(yearInput);
+    if (!facilityTypeInput.value) elements.push(facilityTypeInput);
+    if (!countyInput.value) elements.push(countyInput);
+
+    const laneMilesIncrease = parseFloat(laneMilesIncreaseInput.value);
+    if (isNaN(laneMilesIncrease) || laneMilesIncrease <= 0)
+      elements.push(laneMilesIncreaseInput);
+
+    const vmtIncrease = parseFloat(vmtIncreaseInput.value);
+    if (isNaN(vmtIncrease) || vmtIncrease < 0)
+      elements.push(vmtIncreaseInput);
+
+    return elements;
+  }
+
+  function markInputsAsValid() {
+    yearInput.classList.remove(invalidClass);
+    facilityTypeInput.classList.remove(invalidClass);
+    countyInput.classList.remove(invalidClass);
+    laneMilesIncreaseInput.classList.remove(invalidClass);
+    vmtIncreaseInput.classList.remove(invalidClass);
+  }
+
+  function setupForm() {
+    populateYearOptions();
+    populateCountyOptions();
+    populateFacilityTypeOptions();
+  }
+
+  function populateYearOptions() {
+    const years = data.map((row) => row.year);
+
+    const uniqueYears = [...new Set(years)];
+    uniqueYears.sort();
+    
+    for (const year of uniqueYears) {
+      const option = document.createElement("option");
+      option.innerText = String(year);
+      yearInput.appendChild(option);
+    }
+  }
+
+  function populateCountyOptions() {
+    const counties = data.map((row) => row.county);
+
+    const uniqueCounties = [...new Set(counties)];
+    uniqueCounties.sort();
+    
+    for (const county of uniqueCounties) {
+      const option = document.createElement("option");
+      option.innerText = String(county);
+      countyInput.appendChild(option);
+    }
+  }
+
+  function populateFacilityTypeOptions() {
+    const types = data.map((row) => row.facilityType);
+
+    const uniqueTypes = [...new Set(types)];
+    uniqueTypes.sort();
+    
+    for (const type of uniqueTypes) {
+      const option = document.createElement("option");
+      option.innerText = String(type);
+      facilityTypeInput.appendChild(option);
+    }
+  }
+</script>
