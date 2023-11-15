@@ -63,7 +63,8 @@
         <p>
           In <span id="modal-year" class="fw-bold text-warning"></span>, <span id="modal-county" class="fw-bold text-warning"></span> county had
           <span id="modal-lane-miles" class="fw-bold text-warning"></span> lane miles of
-          <span id="modal-facility-type" class="fw-bold text-warning"></span>. An increase in lane miles of
+          <span id="modal-facility-type" class="fw-bold text-warning"></span> and an initial VMT of
+          <span id="modal-vmt" class="fw-bold text-warning"></span>. An increase in lane miles of
           <span id="modal-lane-miles-increase" class="fw-bold text-warning"></span> and a forecasted increase in VMT of
           <span id="modal-vmt-increase" class="fw-bold text-warning"></span> yields an implied elasticity of
           <span id="modal-implied-elasticity" class="fw-bold text-warning"></span>.
@@ -192,6 +193,9 @@
 
     const laneMilesIncreaseSpan = document.getElementById("modal-lane-miles-increase")!;
     laneMilesIncreaseSpan.innerText = String(laneMilesIncrease);
+
+    const vmtSpan = document.getElementById("modal-vmt")!;
+    vmtSpan.innerText = String(vmt);
 
     const vmtIncreaseSpan = document.getElementById("modal-vmt-increase")!;
     vmtIncreaseSpan.innerText = String(vmtIncrease);
