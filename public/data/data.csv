@@ -44,6 +44,15 @@ year,county,facilityType,vmt,laneMiles,minElast,maxElast
 2021,Atlantic,Rural Minor Arterial,265645,34,0.5,0.7
 2021,Atlantic,Rural Collector (Major and Minor),258656,105,0.5,0.7
 2021,Atlantic,Rural Local,215860,358,0.3,0.5
+2022,Atlantic,Urban Interstate/Freeway/Expressway,1449014,114,0.7,1
+2022,Atlantic,Urban Primary Arterial,1557077,250,0.7,1
+2022,Atlantic,Urban Minor Arterial,1564556,170,0.5,0.7
+2022,Atlantic,Urban Collector (Major and Minor),498459,170,0.5,0.7
+2022,Atlantic,Urban Local,790275,984,0.3,0.5
+2022,Atlantic,Rural Interstate/Primary Arterial,680011,81,0.7,1
+2022,Atlantic,Rural Minor Arterial,254840,34,0.5,0.7
+2022,Atlantic,Rural Collector (Major and Minor),268388,105,0.5,0.7
+2022,Atlantic,Rural Local,220393,358,0.3,0.5
 2017,Bergen,Urban Interstate/Freeway/Expressway,10038661,294,0.7,1
 2017,Bergen,Urban Primary Arterial,3659429,488,0.7,1
 2017,Bergen,Urban Minor Arterial,3261799,339,0.5,0.7
@@ -89,6 +98,15 @@ year,county,facilityType,vmt,laneMiles,minElast,maxElast
 2021,Bergen,Rural Minor Arterial,0,0,0.5,0.7
 2021,Bergen,Rural Collector (Major and Minor),0,0,0.5,0.7
 2021,Bergen,Rural Local,0,0,0.3,0.5
+2022,Bergen,Urban Interstate/Freeway/Expressway,9300031,294,0.7,1
+2022,Bergen,Urban Primary Arterial,3594007,482.5,0.7,1
+2022,Bergen,Urban Minor Arterial,3278068,339,0.5,0.7
+2022,Bergen,Urban Collector (Major and Minor),856482,246,0.5,0.7
+2022,Bergen,Urban Local,3155815,2141,0.3,0.5
+2022,Bergen,Rural Interstate/Primary Arterial,0,0,0.7,1
+2022,Bergen,Rural Minor Arterial,0,0,0.5,0.7
+2022,Bergen,Rural Collector (Major and Minor),0,0,0.5,0.7
+2022,Bergen,Rural Local,0,0,0.3,0.5
 2017,Burlington,Urban Interstate/Freeway/Expressway,4738217,156,0.7,1
 2017,Burlington,Urban Primary Arterial,3427616,345,0.7,1
 2017,Burlington,Urban Minor Arterial,1855778,218,0.5,0.7
@@ -134,6 +152,15 @@ year,county,facilityType,vmt,laneMiles,minElast,maxElast
 2021,Burlington,Rural Minor Arterial,136371,20,0.5,0.7
 2021,Burlington,Rural Collector (Major and Minor),199390,94,0.5,0.7
 2021,Burlington,Rural Local,187695,311,0.3,0.5
+2022,Burlington,Urban Interstate/Freeway/Expressway,4742021,156,0.7,1
+2022,Burlington,Urban Primary Arterial,3239142,345,0.7,1
+2022,Burlington,Urban Minor Arterial,1773167,218,0.5,0.7
+2022,Burlington,Urban Collector (Major and Minor),899913,215,0.5,0.7
+2022,Burlington,Urban Local,1626480,1631,0.3,0.5
+2022,Burlington,Rural Interstate/Primary Arterial,477380,84,0.7,1
+2022,Burlington,Rural Minor Arterial,145824,20,0.5,0.7
+2022,Burlington,Rural Collector (Major and Minor),193983,94,0.5,0.7
+2022,Burlington,Rural Local,191635,311,0.3,0.5
 2017,Camden,Urban Interstate/Freeway/Expressway,3778453,144,0.7,1
 2017,Camden,Urban Primary Arterial,3331349,305,0.7,1
 2017,Camden,Urban Minor Arterial,2056393,237,0.5,0.7
@@ -179,6 +206,15 @@ year,county,facilityType,vmt,laneMiles,minElast,maxElast
 2021,Camden,Rural Minor Arterial,18506,3,0.5,0.7
 2021,Camden,Rural Collector (Major and Minor),9261,5,0.5,0.7
 2021,Camden,Rural Local,10792,18,0.3,0.5
+2022,Camden,Urban Interstate/Freeway/Expressway,3792511,144,0.7,1
+2022,Camden,Urban Primary Arterial,3164822,305,0.7,1
+2022,Camden,Urban Minor Arterial,1862588,237,0.5,0.7
+2022,Camden,Urban Collector (Major and Minor),641117,181,0.5,0.7
+2022,Camden,Urban Local,1436796,1441,0.3,0.5
+2022,Camden,Rural Interstate/Primary Arterial,80648,6,0.7,1
+2022,Camden,Rural Minor Arterial,18012,3,0.5,0.7
+2022,Camden,Rural Collector (Major and Minor),8827,5,0.5,0.7
+2022,Camden,Rural Local,11019,18,0.3,0.5
 2017,Cape May,Urban Interstate/Freeway/Expressway,596541,69,0.7,1
 2017,Cape May,Urban Primary Arterial,251559,60,0.7,1
 2017,Cape May,Urban Minor Arterial,703148,88,0.5,0.7
@@ -224,6 +260,15 @@ year,county,facilityType,vmt,laneMiles,minElast,maxElast
 2021,Cape May,Rural Minor Arterial,163633,25,0.5,0.7
 2021,Cape May,Rural Collector (Major and Minor),114428,39,0.5,0.7
 2021,Cape May,Rural Local,64250,107,0.3,0.5
+2022,Cape May,Urban Interstate/Freeway/Expressway,602520,69,0.7,1
+2022,Cape May,Urban Primary Arterial,251793,60,0.7,1
+2022,Cape May,Urban Minor Arterial,684550,88,0.5,0.7
+2022,Cape May,Urban Collector (Major and Minor),339768,90,0.5,0.7
+2022,Cape May,Urban Local,605484,638,0.3,0.5
+2022,Cape May,Rural Interstate/Primary Arterial,244313,39,0.7,1
+2022,Cape May,Rural Minor Arterial,163267,25,0.5,0.7
+2022,Cape May,Rural Collector (Major and Minor),118368,39,0.5,0.7
+2022,Cape May,Rural Local,65599,107,0.3,0.5
 2017,Cumberland,Urban Interstate/Freeway/Expressway,484520,51,0.7,1
 2017,Cumberland,Urban Primary Arterial,179226,43,0.7,1
 2017,Cumberland,Urban Minor Arterial,1187529,156,0.5,0.7
@@ -269,6 +314,15 @@ year,county,facilityType,vmt,laneMiles,minElast,maxElast
 2021,Cumberland,Rural Minor Arterial,172085,47,0.5,0.7
 2021,Cumberland,Rural Collector (Major and Minor),129126,98,0.5,0.7
 2021,Cumberland,Rural Local,200535,333,0.3,0.5
+2022,Cumberland,Urban Interstate/Freeway/Expressway,513728,51,0.7,1
+2022,Cumberland,Urban Primary Arterial,170537,42.5,0.7,1
+2022,Cumberland,Urban Minor Arterial,1145573,156,0.5,0.7
+2022,Cumberland,Urban Collector (Major and Minor),343967,91,0.5,0.7
+2022,Cumberland,Urban Local,501643,546,0.3,0.5
+2022,Cumberland,Rural Interstate/Primary Arterial,146749,39,0.7,1
+2022,Cumberland,Rural Minor Arterial,155945,47,0.5,0.7
+2022,Cumberland,Rural Collector (Major and Minor),136171,98,0.5,0.7
+2022,Cumberland,Rural Local,204746,333,0.3,0.5
 2017,Essex,Urban Interstate/Freeway/Expressway,6679024,153,0.7,1
 2017,Essex,Urban Primary Arterial,2293961,268,0.7,1
 2017,Essex,Urban Minor Arterial,1859650,198,0.5,0.7
@@ -314,6 +368,15 @@ year,county,facilityType,vmt,laneMiles,minElast,maxElast
 2021,Essex,Rural Minor Arterial,0,0,0.5,0.7
 2021,Essex,Rural Collector (Major and Minor),0,0,0.5,0.7
 2021,Essex,Rural Local,0,0,0.3,0.5
+2022,Essex,Urban Interstate/Freeway/Expressway,6229599,153,0.7,1
+2022,Essex,Urban Primary Arterial,2384232,267.5,0.7,1
+2022,Essex,Urban Minor Arterial,1945417,198,0.5,0.7
+2022,Essex,Urban Collector (Major and Minor),882810,179,0.5,0.7
+2022,Essex,Urban Local,1698794,1152,0.3,0.5
+2022,Essex,Rural Interstate/Primary Arterial,0,0,0.7,1
+2022,Essex,Rural Minor Arterial,0,0,0.5,0.7
+2022,Essex,Rural Collector (Major and Minor),0,0,0.5,0.7
+2022,Essex,Rural Local,0,0,0.3,0.5
 2017,Gloucester,Urban Interstate/Freeway/Expressway,3526725,177,0.7,1
 2017,Gloucester,Urban Primary Arterial,1490530,195,0.7,1
 2017,Gloucester,Urban Minor Arterial,1545592,207,0.5,0.7
@@ -351,14 +414,41 @@ year,county,facilityType,vmt,laneMiles,minElast,maxElast
 2020,Gloucester,Rural Collector (Major and Minor),79071,21,0.5,0.7
 2020,Gloucester,Rural Local,32040,59,0.3,0.5
 2021,Gloucester,Urban Interstate/Freeway/Expressway,3451437,177,0.7,1
+2021,Gloucester,Urban Interstate/Freeway/Expressway,3451437,177,0.7,1
+2021,Gloucester,Urban Primary Arterial,1381694,195,0.7,1
 2021,Gloucester,Urban Primary Arterial,1381694,195,0.7,1
 2021,Gloucester,Urban Minor Arterial,1527895,207,0.5,0.7
+2021,Gloucester,Urban Minor Arterial,1527895,207,0.5,0.7
+2021,Gloucester,Urban Collector (Major and Minor),660353,176,0.5,0.7
 2021,Gloucester,Urban Collector (Major and Minor),660353,176,0.5,0.7
 2021,Gloucester,Urban Local,1092172,1120,0.3,0.5
+2021,Gloucester,Urban Local,1092172,1120,0.3,0.5
+2021,Gloucester,Rural Interstate/Primary Arterial,0,0,0.7,1
 2021,Gloucester,Rural Interstate/Primary Arterial,0,0,0.7,1
 2021,Gloucester,Rural Minor Arterial,21531,7,0.5,0.7
+2021,Gloucester,Rural Minor Arterial,21531,7,0.5,0.7
+2021,Gloucester,Rural Collector (Major and Minor),77498,21,0.5,0.7
 2021,Gloucester,Rural Collector (Major and Minor),77498,21,0.5,0.7
 2021,Gloucester,Rural Local,35862,59,0.3,0.5
+2021,Gloucester,Rural Local,35862,59,0.3,0.5
+2021,Gloucester,Urban Interstate/Freeway/Expressway,3535138,177,0.7,1
+2021,Gloucester,Urban Interstate/Freeway/Expressway,3535138,177,0.7,1
+2021,Gloucester,Urban Primary Arterial,1410430,195,0.7,1
+2021,Gloucester,Urban Primary Arterial,1410430,195,0.7,1
+2021,Gloucester,Urban Minor Arterial,1607313,207,0.5,0.7
+2021,Gloucester,Urban Minor Arterial,1607313,207,0.5,0.7
+2021,Gloucester,Urban Collector (Major and Minor),692049,176,0.5,0.7
+2021,Gloucester,Urban Collector (Major and Minor),692049,176,0.5,0.7
+2021,Gloucester,Urban Local,1116322,1120,0.3,0.5
+2021,Gloucester,Urban Local,1116322,1120,0.3,0.5
+2021,Gloucester,Rural Interstate/Primary Arterial,0,0,0.7,1
+2021,Gloucester,Rural Interstate/Primary Arterial,0,0,0.7,1
+2021,Gloucester,Rural Minor Arterial,22573,7,0.5,0.7
+2021,Gloucester,Rural Minor Arterial,22573,7,0.5,0.7
+2021,Gloucester,Rural Collector (Major and Minor),81964,21,0.5,0.7
+2021,Gloucester,Rural Collector (Major and Minor),81964,21,0.5,0.7
+2021,Gloucester,Rural Local,36615,59,0.3,0.5
+2021,Gloucester,Rural Local,36615,59,0.3,0.5
 2017,Hudson,Urban Interstate/Freeway/Expressway,2762379,87,0.7,1
 2017,Hudson,Urban Primary Arterial,1316320,95,0.7,1
 2017,Hudson,Urban Minor Arterial,922391,97,0.5,0.7
@@ -404,6 +494,15 @@ year,county,facilityType,vmt,laneMiles,minElast,maxElast
 2021,Hudson,Rural Minor Arterial,0,0,0.5,0.7
 2021,Hudson,Rural Collector (Major and Minor),0,0,0.5,0.7
 2021,Hudson,Rural Local,0,0,0.3,0.5
+2022,Hudson,Urban Interstate/Freeway/Expressway,2553836,87,0.7,1
+2022,Hudson,Urban Primary Arterial,1320512,95,0.7,1
+2022,Hudson,Urban Minor Arterial,1042465,97,0.5,0.7
+2022,Hudson,Urban Collector (Major and Minor),428398,80,0.5,0.7
+2022,Hudson,Urban Local,582422,395,0.3,0.5
+2022,Hudson,Rural Interstate/Primary Arterial,0,0,0.7,1
+2022,Hudson,Rural Minor Arterial,0,0,0.5,0.7
+2022,Hudson,Rural Collector (Major and Minor),0,0,0.5,0.7
+2022,Hudson,Rural Local,0,0,0.3,0.5
 2017,Hunterdon,Urban Interstate/Freeway/Expressway,1300114,39,0.7,1
 2017,Hunterdon,Urban Primary Arterial,1177084,108,0.7,1
 2017,Hunterdon,Urban Minor Arterial,326423,46,0.5,0.7
@@ -449,6 +548,15 @@ year,county,facilityType,vmt,laneMiles,minElast,maxElast
 2021,Hunterdon,Rural Minor Arterial,261847,58,0.5,0.7
 2021,Hunterdon,Rural Collector (Major and Minor),356058,169,0.5,0.7
 2021,Hunterdon,Rural Local,386094,640,0.3,0.5
+2022,Hunterdon,Urban Interstate/Freeway/Expressway,1096001,39,0.7,1
+2022,Hunterdon,Urban Primary Arterial,1074950,107.5,0.7,1
+2022,Hunterdon,Urban Minor Arterial,274319,46,0.5,0.7
+2022,Hunterdon,Urban Collector (Major and Minor),208076,60,0.5,0.7
+2022,Hunterdon,Urban Local,485392,419,0.3,0.5
+2022,Hunterdon,Rural Interstate/Primary Arterial,789552,48,0.7,1
+2022,Hunterdon,Rural Minor Arterial,260974,58,0.5,0.7
+2022,Hunterdon,Rural Collector (Major and Minor),372436,169,0.5,0.7
+2022,Hunterdon,Rural Local,394201,640,0.3,0.5
 2017,Mercer,Urban Interstate/Freeway/Expressway,3921663,165,0.7,1
 2017,Mercer,Urban Primary Arterial,2004498,213,0.7,1
 2017,Mercer,Urban Minor Arterial,1741601,185,0.5,0.7
@@ -494,6 +602,15 @@ year,county,facilityType,vmt,laneMiles,minElast,maxElast
 2021,Mercer,Rural Minor Arterial,73241,9,0.5,0.7
 2021,Mercer,Rural Collector (Major and Minor),58438,25,0.5,0.7
 2021,Mercer,Rural Local,34041,56,0.3,0.5
+2022,Mercer,Urban Interstate/Freeway/Expressway,3851820,165,0.7,1
+2022,Mercer,Urban Primary Arterial,1987552,212.5,0.7,1
+2022,Mercer,Urban Minor Arterial,1589707,185,0.5,0.7
+2022,Mercer,Urban Collector (Major and Minor),647145,181,0.5,0.7
+2022,Mercer,Urban Local,800989,938,0.3,0.5
+2022,Mercer,Rural Interstate/Primary Arterial,520918,24,0.7,1
+2022,Mercer,Rural Minor Arterial,66083,9,0.5,0.7
+2022,Mercer,Rural Collector (Major and Minor),56931,25,0.5,0.7
+2022,Mercer,Rural Local,34756,56,0.3,0.5
 2017,Middlesex,Urban Interstate/Freeway/Expressway,10103706,186,0.7,1
 2017,Middlesex,Urban Primary Arterial,6114822,410,0.7,1
 2017,Middlesex,Urban Minor Arterial,2497787,286,0.5,0.7
@@ -539,6 +656,15 @@ year,county,facilityType,vmt,laneMiles,minElast,maxElast
 2021,Middlesex,Rural Minor Arterial,20154,3,0.5,0.7
 2021,Middlesex,Rural Collector (Major and Minor),12082,6,0.5,0.7
 2021,Middlesex,Rural Local,9773,16,0.3,0.5
+2022,Middlesex,Urban Interstate/Freeway/Expressway,9717348,186,0.7,1
+2022,Middlesex,Urban Primary Arterial,6108832,410,0.7,1
+2022,Middlesex,Urban Minor Arterial,2633673,286,0.5,0.7
+2022,Middlesex,Urban Collector (Major and Minor),1342874,276,0.5,0.7
+2022,Middlesex,Urban Local,2638819,1790,0.3,0.5
+2022,Middlesex,Rural Interstate/Primary Arterial,217380,6,0.7,1
+2022,Middlesex,Rural Minor Arterial,17944,3,0.5,0.7
+2022,Middlesex,Rural Collector (Major and Minor),11533,6,0.5,0.7
+2022,Middlesex,Rural Local,9979,16,0.3,0.5
 2017,Monmouth,Urban Interstate/Freeway/Expressway,6205122,213,0.7,1
 2017,Monmouth,Urban Primary Arterial,3887946,360,0.7,1
 2017,Monmouth,Urban Minor Arterial,2199593,262,0.5,0.7
@@ -584,6 +710,15 @@ year,county,facilityType,vmt,laneMiles,minElast,maxElast
 2021,Monmouth,Rural Minor Arterial,41808,4,0.5,0.7
 2021,Monmouth,Rural Collector (Major and Minor),172178,53,0.5,0.7
 2021,Monmouth,Rural Local,100728,167,0.3,0.5
+2022,Monmouth,Urban Interstate/Freeway/Expressway,5725461,213,0.7,1
+2022,Monmouth,Urban Primary Arterial,3797870,360,0.7,1
+2022,Monmouth,Urban Minor Arterial,2039725,263,0.5,0.7
+2022,Monmouth,Urban Collector (Major and Minor),1514219,318,0.5,0.7
+2022,Monmouth,Urban Local,3511907,2382,0.3,0.5
+2022,Monmouth,Rural Interstate/Primary Arterial,427312,24,0.7,1
+2022,Monmouth,Rural Minor Arterial,41494,4,0.5,0.7
+2022,Monmouth,Rural Collector (Major and Minor),166564,53,0.5,0.7
+2022,Monmouth,Rural Local,103022,167,0.3,0.5
 2017,Morris,Urban Interstate/Freeway/Expressway,6330056,186,0.7,1
 2017,Morris,Urban Primary Arterial,2863385,253,0.7,1
 2017,Morris,Urban Minor Arterial,1642955,279,0.5,0.7
@@ -629,6 +764,15 @@ year,county,facilityType,vmt,laneMiles,minElast,maxElast
 2021,Morris,Rural Minor Arterial,6628,1,0.5,0.7
 2021,Morris,Rural Collector (Major and Minor),59945,27,0.5,0.7
 2021,Morris,Rural Local,58354,97,0.3,0.5
+2022,Morris,Urban Interstate/Freeway/Expressway,6456679,186,0.7,1
+2022,Morris,Urban Primary Arterial,2689691,250,0.7,1
+2022,Morris,Urban Minor Arterial,1676353,279,0.5,0.7
+2022,Morris,Urban Collector (Major and Minor),845386,260,0.5,0.7
+2022,Morris,Urban Local,2604838,1767,0.3,0.5
+2022,Morris,Rural Interstate/Primary Arterial,54123,6,0.7,1
+2022,Morris,Rural Minor Arterial,6614,1,0.5,0.7
+2022,Morris,Rural Collector (Major and Minor),60605,27,0.5,0.7
+2022,Morris,Rural Local,59580,97,0.3,0.5
 2017,Ocean,Urban Interstate/Freeway/Expressway,3589588,144,0.7,1
 2017,Ocean,Urban Primary Arterial,2998617,353,0.7,1
 2017,Ocean,Urban Minor Arterial,2117975,199,0.5,0.7
@@ -674,6 +818,15 @@ year,county,facilityType,vmt,laneMiles,minElast,maxElast
 2021,Ocean,Rural Minor Arterial,38556,3,0.5,0.7
 2021,Ocean,Rural Collector (Major and Minor),258685,47,0.5,0.7
 2021,Ocean,Rural Local,56211,93,0.3,0.5
+2022,Ocean,Urban Interstate/Freeway/Expressway,3453420,144,0.7,1
+2022,Ocean,Urban Primary Arterial,2954575,352.5,0.7,1
+2022,Ocean,Urban Minor Arterial,2251500,199,0.5,0.7
+2022,Ocean,Urban Collector (Major and Minor),954677,199,0.5,0.7
+2022,Ocean,Urban Local,3321879,2253,0.3,0.5
+2022,Ocean,Rural Interstate/Primary Arterial,169998,36,0.7,1
+2022,Ocean,Rural Minor Arterial,44393,3,0.5,0.7
+2022,Ocean,Rural Collector (Major and Minor),245435,47,0.5,0.7
+2022,Ocean,Rural Local,57391,93,0.3,0.5
 2017,Passaic,Urban Interstate/Freeway/Expressway,2905277,90,0.7,1
 2017,Passaic,Urban Primary Arterial,2302804,223,0.7,1
 2017,Passaic,Urban Minor Arterial,885868,186,0.5,0.7
@@ -719,6 +872,15 @@ year,county,facilityType,vmt,laneMiles,minElast,maxElast
 2021,Passaic,Rural Minor Arterial,0,0,0.5,0.7
 2021,Passaic,Rural Collector (Major and Minor),0,0,0.5,0.7
 2021,Passaic,Rural Local,0,0,0.3,0.5
+2022,Passaic,Urban Interstate/Freeway/Expressway,2951298,90,0.7,1
+2022,Passaic,Urban Primary Arterial,2257490,222.5,0.7,1
+2022,Passaic,Urban Minor Arterial,962581,186,0.5,0.7
+2022,Passaic,Urban Collector (Major and Minor),422137,113,0.5,0.7
+2022,Passaic,Urban Local,1357924,921,0.3,0.5
+2022,Passaic,Rural Interstate/Primary Arterial,0,0,0.7,1
+2022,Passaic,Rural Minor Arterial,0,0,0.5,0.7
+2022,Passaic,Rural Collector (Major and Minor),0,0,0.5,0.7
+2022,Passaic,Rural Local,0,0,0.3,0.5
 2017,Salem,Urban Interstate/Freeway/Expressway,258345,21,0.7,1
 2017,Salem,Urban Primary Arterial,215600,45,0.7,1
 2017,Salem,Urban Minor Arterial,182429,23,0.5,0.7
@@ -764,6 +926,15 @@ year,county,facilityType,vmt,laneMiles,minElast,maxElast
 2021,Salem,Rural Minor Arterial,105476,19,0.5,0.7
 2021,Salem,Rural Collector (Major and Minor),237684,133,0.5,0.7
 2021,Salem,Rural Local,227569,377,0.3,0.5
+2022,Salem,Urban Interstate/Freeway/Expressway,305250,21,0.7,1
+2022,Salem,Urban Primary Arterial,204809,45,0.7,1
+2022,Salem,Urban Minor Arterial,195087,23,0.5,0.7
+2022,Salem,Urban Collector (Major and Minor),134234,56,0.5,0.7
+2022,Salem,Urban Local,220126,221,0.3,0.5
+2022,Salem,Rural Interstate/Primary Arterial,640214,99,0.7,1
+2022,Salem,Rural Minor Arterial,105656,19,0.5,0.7
+2022,Salem,Rural Collector (Major and Minor),246184,133,0.5,0.7
+2022,Salem,Rural Local,232347,377,0.3,0.5
 2017,Somerset,Urban Interstate/Freeway/Expressway,2956373,96,0.7,1
 2017,Somerset,Urban Primary Arterial,2360734,168,0.7,1
 2017,Somerset,Urban Minor Arterial,1251822,162,0.5,0.7
@@ -809,6 +980,15 @@ year,county,facilityType,vmt,laneMiles,minElast,maxElast
 2021,Somerset,Rural Minor Arterial,19336,2,0.5,0.7
 2021,Somerset,Rural Collector (Major and Minor),71872,21,0.5,0.7
 2021,Somerset,Rural Local,43935,73,0.3,0.5
+2022,Somerset,Urban Interstate/Freeway/Expressway,2828658,96,0.7,1
+2022,Somerset,Urban Primary Arterial,2182867,167.5,0.7,1
+2022,Somerset,Urban Minor Arterial,1154708,162,0.5,0.7
+2022,Somerset,Urban Collector (Major and Minor),799417,169,0.5,0.7
+2022,Somerset,Urban Local,1839693,1248,0.3,0.5
+2022,Somerset,Rural Interstate/Primary Arterial,411207,15,0.7,1
+2022,Somerset,Rural Minor Arterial,14563,2,0.5,0.7
+2022,Somerset,Rural Collector (Major and Minor),71916,21,0.5,0.7
+2022,Somerset,Rural Local,44858,73,0.3,0.5
 2017,Sussex,Urban Interstate/Freeway/Expressway,874,0,0.7,1
 2017,Sussex,Urban Primary Arterial,598919,80,0.7,1
 2017,Sussex,Urban Minor Arterial,587456,68,0.5,0.7
@@ -854,6 +1034,15 @@ year,county,facilityType,vmt,laneMiles,minElast,maxElast
 2021,Sussex,Rural Minor Arterial,212511,31,0.5,0.7
 2021,Sussex,Rural Collector (Major and Minor),284749,159,0.5,0.7
 2021,Sussex,Rural Local,313372,520,0.3,0.5
+2022,Sussex,Urban Interstate/Freeway/Expressway,814,0,0.7,1
+2022,Sussex,Urban Primary Arterial,538700,80,0.7,1
+2022,Sussex,Urban Minor Arterial,562729,68,0.5,0.7
+2022,Sussex,Urban Collector (Major and Minor),291078,94,0.5,0.7
+2022,Sussex,Urban Local,550666,475,0.3,0.5
+2022,Sussex,Rural Interstate/Primary Arterial,471445,117,0.7,1
+2022,Sussex,Rural Minor Arterial,213239,31,0.5,0.7
+2022,Sussex,Rural Collector (Major and Minor),275763,159,0.5,0.7
+2022,Sussex,Rural Local,319952,520,0.3,0.5
 2017,Union,Urban Interstate/Freeway/Expressway,5727114,102,0.7,1
 2017,Union,Urban Primary Arterial,1836608,155,0.7,1
 2017,Union,Urban Minor Arterial,1539359,173,0.5,0.7
@@ -899,6 +1088,15 @@ year,county,facilityType,vmt,laneMiles,minElast,maxElast
 2021,Union,Rural Minor Arterial,0,0,0.5,0.7
 2021,Union,Rural Collector (Major and Minor),0,0,0.5,0.7
 2021,Union,Rural Local,0,0,0.3,0.5
+2022,Union,Urban Interstate/Freeway/Expressway,5535206,102,0.7,1
+2022,Union,Urban Primary Arterial,1829979,155,0.7,1
+2022,Union,Urban Minor Arterial,1570256,174,0.5,0.7
+2022,Union,Urban Collector (Major and Minor),793028,132,0.5,0.7
+2022,Union,Urban Local,1534058,1041,0.3,0.5
+2022,Union,Rural Interstate/Primary Arterial,0,0,0.7,1
+2022,Union,Rural Minor Arterial,0,0,0.5,0.7
+2022,Union,Rural Collector (Major and Minor),0,0,0.5,0.7
+2022,Union,Rural Local,0,0,0.3,0.5
 2017,Warren,Urban Interstate/Freeway/Expressway,990960,42,0.7,1
 2017,Warren,Urban Primary Arterial,547696,93,0.7,1
 2017,Warren,Urban Minor Arterial,331629,49,0.5,0.7
@@ -944,3 +1142,12 @@ year,county,facilityType,vmt,laneMiles,minElast,maxElast
 2021,Warren,Rural Minor Arterial,247002,43,0.5,0.7
 2021,Warren,Rural Collector (Major and Minor),250770,111,0.5,0.7
 2021,Warren,Rural Local,284926,473,0.3,0.5
+2022,Warren,Urban Interstate/Freeway/Expressway,953246,42,0.7,1
+2022,Warren,Urban Primary Arterial,532748,92.5,0.7,1
+2022,Warren,Urban Minor Arterial,359173,49,0.5,0.7
+2022,Warren,Urban Collector (Major and Minor),85940,41,0.5,0.7
+2022,Warren,Urban Local,217278,328,0.3,0.5
+2022,Warren,Rural Interstate/Primary Arterial,1098176,90,0.7,1
+2022,Warren,Rural Minor Arterial,295855,43,0.5,0.7
+2022,Warren,Rural Collector (Major and Minor),254240,111,0.5,0.7
+2022,Warren,Rural Local,290908,473,0.3,0.5
