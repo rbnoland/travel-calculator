@@ -6,22 +6,15 @@ import TravelBackCalculator from "../components/TravelBackCalculator.astro";
 
 <BaseLayout pageTitle="Calculator">
   <Section>
-    <h2>Overview</h2>
+    <h2>Instructions</h2>
     <p>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est nostrum
-      consequatur nisi, natus itaque sapiente!
+      The back-calculator provides a way to estimate an “implied elasticity” that is based on any forecast that has been provided for the project being evaluated. To use the back-calculator, enter the year, county, facility type, total lanes miles of additional capacity, and the forecast of annual increase in VMT.  That is, how much VMT the project sponsors predict based on their modeling procedures.  This should be an annual estimate of VMT since the data in the calculator are annualized values of current VMT. The output will be an estimate of the “implied elasticity” and this provides a way to assess whether the VMT forecast is reasonable based on the local context of the project. Common elasticities estimated in the literatue are detailed in the “About” menu.
     </p>
-  </Section>
+    </Section>
 
-  <Section>
-    <h2>Overview</h2>
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est nostrum
-      consequatur nisi, natus itaque sapiente!
-    </p>
-  </Section>
-
-  <Section>
-    <TravelBackCalculator />
+    <Section>
+      <h2>Back-Calculator</h2>
+      <TravelBackCalculator />
+    </Section>
   </Section>
 </BaseLayout>
