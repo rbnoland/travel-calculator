@@ -543,6 +543,7 @@ import Section from "../components/Section.astro";
       associated with a capacity expansion.
     </p>
     <table>
+      <caption>Elasticity estimates used in the calculator</caption>
       <colgroup>
         <col style="width: 26%" />
         <col style="width: 34%" />
@@ -637,26 +638,98 @@ import Section from "../components/Section.astro";
   <Section>
     <h2>Calculations</h2>
     <p>
-      The elasticities shown above are used to determine how a change in lane
-      miles will lead to a change in VMT. The formula for estimating the induced
-      VMT is:
+      The elasticities shown above are used to determine how a change in lane miles will lead to a change in VMT. The formula for estimating the induced VMT is:
     </p>
     <p>
-      Induced VMT = (New lane miles / existing lane miles) x existing VMT x
-      Elasticity
+      <math display="block">
+        <semantics>
+          <mrow>
+          <mrow>
+            <msub>
+            <mi mathvariant="italic">Induced</mi>
+            <mi mathvariant="italic">VMT</mi>
+            </msub>
+            <mo stretchy="false">=</mo>
+            <mi>ε</mi>
+          </mrow>
+          <mi>∙</mi>
+          <mfrac>
+            <mi mathvariant="italic">NewLM</mi>
+            <mi mathvariant="italic">LM</mi>
+          </mfrac>
+          <mi>∙</mi>
+          <mi mathvariant="italic">VMT</mi>
+          </mrow>
+        </semantics>
+      </math>
     </p>
-    <p>The user inputs “new lane miles” and the output is “induced VMT”.</p>
     <p>
-      The back-calculation simply reverses this equation but requires the user
-      to input both “new lane miles” and the “forecasted increase in VMT”. The
-      output is an implicit elasticity, that is, the elasticity that is implied
-      by the forecast increase in VMT.
+      Where:
+      <ul>
+        <li>ε = elasticity</li>
+        <li>NewLM = the newly added lane mileage for the county</li>
+        <li>LM = the current lane mileage in the county</li>
+        <li>VMT = the current vehicle-miles of travel in the county</li>
+        <li>Induced<sub>VMT</sub> = the vehicle miles of travel induced by the increase in lane miles</li>
+      </ul>
     </p>
-    <p>The formula is as follows:</p>
     <p>
-      Implied elasticity = (Forecast increase in VMT x Existing lane miles) /
-      (Existing VMT) x (New lane miles)
+      The back-calculation simply reverses this equation but requires the user to input both “new lane miles” and the “forecasted increase in VMT”. The output is an implicit elasticity, that is, the elasticity that is implied by the forecast increase in VMT.
     </p>
+    <p>
+      The formula is as follows:
+    </p>
+    <p>
+      <math display="block">
+        <semantics>
+          <mrow>
+          <mrow>
+            <mover accent="true">
+            <mi>ε</mi>
+            <mo>¯
+            </mo>
+            </mover>
+            <mo stretchy="false">=</mo>
+            <mfrac>
+            <msub>
+              <mi mathvariant="italic">VMT</mi>
+              <mi mathvariant="italic">forecast</mi>
+            </msub>
+            <mi mathvariant="italic">VMT</mi>
+            </mfrac>
+          </mrow>
+          <mi>∙</mi>
+          <mfrac>
+            <mi mathvariant="italic">LM</mi>
+            <mi mathvariant="italic">NewLM</mi>
+          </mfrac>
+          </mrow>
+        </semantics>
+      </math>
+    </p>
+    <p>
+      Where:
+      <ul>
+        <li>
+          <math display="inline">
+            <semantics>
+              <mover accent="true">
+              <mi>ε</mi>
+              <mo>¯
+              </mo>
+              </mover>
+            </semantics>
+          </math>
+          = implied elasticity
+        </li>
+        <li>VMT<sub>forecast</sub> = forecast of VMT provided by others</li>
+        <li>VMT = the current vehicle-miles of travel in the county</li>
+        <li>NewLM = the newly added lane mileage for the county</li>
+        <li>LM = the current lane mileage in the county</li>
+      </ul>
+    </p>
+  </Section>
+  <Section>
     <h2>Interpretation of output</h2>
     <p>
       Empirical research on induced travel has shown that there is a positive
