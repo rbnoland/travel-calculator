@@ -180,6 +180,8 @@
       return;
     }
 
+    const nf = new Intl.NumberFormat("en-US");
+
     const yearSpan = document.getElementById("modal-year")!;
     yearSpan.innerText = String(year);
 
@@ -187,23 +189,23 @@
     countySpan.innerText = county;
 
     const laneMilesSpan = document.getElementById("modal-lane-miles")!;
-    laneMilesSpan.innerText = String(laneMiles);
+    laneMilesSpan.innerText = nf.format(laneMiles);
 
     const facilityTypeSpan = document.getElementById("modal-facility-type")!;
     facilityTypeSpan.innerText = facilityType;
 
     const laneMilesIncreaseSpan = document.getElementById("modal-lane-miles-increase")!;
-    laneMilesIncreaseSpan.innerText = String(laneMilesIncrease);
+    laneMilesIncreaseSpan.innerText = nf.format(laneMilesIncrease);
 
     const vmtSpan = document.getElementById("modal-vmt")!;
-    vmtSpan.innerText = String(vmt);
+    vmtSpan.innerText = nf.format(vmt);
 
     const vmtIncreaseSpan = document.getElementById("modal-vmt-increase")!;
-    vmtIncreaseSpan.innerText = String(vmtIncrease);
+    vmtIncreaseSpan.innerText = nf.format(vmtIncrease);
 
     const impliedElasticity = (vmtIncrease / vmt) / (laneMilesIncrease / laneMiles);
     const impliedElasticitySpan = document.getElementById("modal-implied-elasticity")!;
-    impliedElasticitySpan.innerText = String(impliedElasticity.toFixed(3));
+    impliedElasticitySpan.innerText = nf.format(parseFloat(impliedElasticity.toFixed(3)));
 
     showResultsModal();
   }

@@ -169,6 +169,8 @@
       return;
     }
 
+    const nf = new Intl.NumberFormat("en-US");
+
     const yearSpan = document.getElementById("modal-year")!;
     yearSpan.innerText = String(year);
 
@@ -176,30 +178,30 @@
     countySpan.innerText = county;
 
     const laneMilesSpan = document.getElementById("modal-lane-miles")!;
-    laneMilesSpan.innerText = String(laneMiles);
+    laneMilesSpan.innerText = nf.format(laneMiles);
 
     const newLaneMilesSpan = document.getElementById("modal-new-lane-miles")!;
-    newLaneMilesSpan.innerText = String(newLaneMiles);
+    newLaneMilesSpan.innerText = nf.format(newLaneMiles);
 
     const facilityTypeSpan = document.getElementById("modal-facility-type")!;
     facilityTypeSpan.innerText = facilityType;
 
     const vmtSpan = document.getElementById("modal-vmt")!;
-    vmtSpan.innerText = String(vmt);
+    vmtSpan.innerText = nf.format(vmt);
 
     const minMilesAddedSpan = document.getElementById("modal-min-miles-added")!;
-    minMilesAddedSpan.innerText = String(
-      (newLaneMiles / laneMiles * vmt * minElast).toFixed());
+    minMilesAddedSpan.innerText = 
+      nf.format(Math.round(newLaneMiles / laneMiles * vmt * minElast));
 
     const maxMilesAddedSpan = document.getElementById("modal-max-miles-added")!;
-    maxMilesAddedSpan.innerText = String(
-      (newLaneMiles / laneMiles * vmt * maxElast).toFixed());
+    maxMilesAddedSpan.innerText = 
+      nf.format(Math.round(newLaneMiles / laneMiles * vmt * maxElast));
 
     const minElastSpan = document.getElementById("modal-min-elasticity")!;
-    minElastSpan.innerText = String(minElast);
+    minElastSpan.innerText = nf.format(minElast);
 
     const maxElastSpan = document.getElementById("modal-max-elasticity")!;
-    maxElastSpan.innerText = String(maxElast);
+    maxElastSpan.innerText = nf.format(maxElast);
 
     showResultsModal();
   }
