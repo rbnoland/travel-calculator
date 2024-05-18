@@ -1,0 +1,300 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Section from "../components/Section.astro";
+---
+
+<style>
+  table {
+    border: 1px solid black;
+  }
+  table caption {
+    font-weight: bold;
+    margin-bottom: 0.75em;
+    caption-side: top;
+    text-align: center;
+  }
+  img {
+    display: block;
+    width: 70%;
+    max-width: 500px;
+    margin: 1.5rem auto;
+  }
+</style>
+
+<BaseLayout pageTitle="Research Evidence">
+  <Section>
+    <h2>Research Evidence</h2>
+
+    <p>
+      Previous studies have sought to estimate how changes in lane miles have
+      affected vehicle-travel. These studies result in estimates of elasticities
+      of vehicle-miles of travel with respect to lane miles of road capacity.
+      The majority of these studies use aggregate data on vehicle-miles of
+      travel (VMT) and lane miles and typically use yearly data, that is all the
+      VMT over the course of a year and all the existing lane miles in a given
+      year summed over an entire state, county or metropolitan statistical area
+      (MSA), i.e., a city or region. Much of this work extended the seminal
+      studies of
+      <a target="_blank" href="https://escholarship.org/uc/item/6zz3k76c"
+        >Hansen et al. (1993)</a
+      >
+      and
+      <a target="_blank" href="https://doi.org/10.1016/S0965-8564(96)00019-5"
+        >Hansen &amp; Huang (1997)</a
+      >
+      who analyzed data for California and showed a statistical association between
+      lane-miles and VMT. Critics claimed that the results of these early studies
+      did not demonstrate a causal effect, that is, that growth in lane miles led
+      to growth in travel, but merely showed contemporaneous growth in VMT and lane
+      miles.
+    </p>
+    <p>
+      Since 2000, a variety of different studies have all estimated empirical
+      models that account for some degree of “causal impact”, and have led to
+      more reliable estimates of the induced travel effect.
+      <a target="_blank" href="https://doi.org/10.1016/S0965-8564(99)00047-6"
+        >Noland (2001)</a
+      >
+      estimated state-level elasticities for multiple road types (controlling for
+      cqapacity in prior periods) while
+      <a target="_blank" href="https://doi.org/10.1023/A:1005288826997"
+        >Noland &amp; Cowart (2000)</a
+      >
+      estimated MSA-level elasticities and attempted an instrumental variable model,
+      one of the main techniques to control for causality in statistics.
+      <a target="_blank" href="https://doi.org/10.21949/1506078"
+        >Fulton et al. (2000)</a
+      >
+      estimated a sequential model that demonstrated a causal impact of increasing
+      lane miles using county-level data for three states.
+      <a target="_blank" href="https://www.jstor.org/stable/20053915"
+        >Cervero and Hansen (2002)</a
+      >
+      and
+      <a target="_blank" href="https://www.jstor.org/stable/23045653"
+        >Duranton and Turner (2011)</a
+      >
+      estimated models using instrumental variables.
+      <a target="_blank" href="https://doi.org/10.1016/j.trb.2010.02.007"
+        >Hymel, Small, and Van Dender (2010)</a
+      >
+      use state-level data and control for simultaneous effects, that is, how vehicle
+      travel itself may affect the building of new capacity.
+      <a target="_blank" href="https://doi.org/10.1016/j.tra.2011.11.009"
+        >Rentziou, Gkritza &amp; Souleyrette (2012)</a
+      >
+      use a different modeling approach and find similar effects. <a
+        target="_blank"
+        href="https://doi.org/10.1080/01621459.2014.956871"
+        >Graham et al. (2014)</a
+      > use data on urbanized areas to estimate a mixed model propensity score estimator
+      that is sensitive to the “dose”, or amount of lane mileage. <a
+        target="_blank"
+        href=" https://doi.org/10.1016/j.tranpol.2018.12.006">Hymel (2019)</a
+      > also estimates a model with instrumental variables and comes to the conclusion
+      that “capacity expansion is not a viable long-term solution to urban traffic
+      congestion” (p65). The modeling in these studies control for causal effects
+      and demonstrate a linkage between road expansion and increases in VMT. All
+      have found statistically significant impacts, but the elasticities generated
+      are quite different.
+
+      <p>
+        <a target="_blank" href="https://doi.org/10.1080/01944360308976303"
+          >Cervero (2003)</a
+        >
+        also estimated a model using facility-specific data, in this case measuring
+        road capacity for selected projects rather than aggregate changes in lane
+        miles. Again, he found statistically significant results in this case using
+        a structured equation model, also known as a “path” model.
+        <a target="_blank" href="https://doi.org/10.1080/01944360308976303"
+          >Cervero (2003)</a
+        >
+        found that 40% of VMT growth can be attributed to capacity improvements (the
+        remainder being due to other effects). This was substantially more than
+        <a target="_blank" href="https://doi.org/10.1016/S0965-8564(99)00047-6"
+          >Noland’s (2001)</a
+        >
+        estimate that attributed 28% to capacity improvements. Surprisingly,
+        <a target="_blank" href="https://doi.org/10.1080/01944360308976303"
+          >Cervero (2003)</a
+        >
+        interpreted this as not being a large contributor to VMT growth, while Noland’s
+        study was interpreted as showing capacity expansion was the major influence.
+        If anything, this shows how modeling results can easily be misinterpreted
+        and in all cases, these models controlled for other factors that affect VMT
+        growth.
+      </p>
+      <p>
+        At least three reviews of the induced travel literature have been done
+        over the last 25 years.
+        <a target="_blank" href="https://doi.org/10.1016/S1361-9209(01)00009-8"
+          >Noland &amp; Lem (2002)</a
+        >
+        summarized existing work up through about 2002.
+        <a target="_blank" href="https://doi.org/10.5822/978-1-59726-242-2_5"
+          >Noland &amp; Hanson (2013)</a
+        >
+        also produced a review that included work conducted in the 2010’s including
+        some simulation and modeling studies and the influential work of
+        <a target="_blank" href="https://www.jstor.org/stable/23045653"
+          >Duranton &amp; Turner (2011)</a
+        >. These, and more recent work, are summarized in the table below. More
+        recently,
+        <a target="_blank" href="https://escholarship.org/uc/item/1hh9b9mf"
+          >Volker &amp; Handy (2022)</a
+        >
+        published a review as part of their development of the
+        <a target="_blank" href="https://travelcalculator.ncst.ucdavis.edu/"
+          >California Induced Travel Calculator</a
+        >. These elasticities in the table below show a range of short-term and
+        long-term elasticities and some variation between studies. Most research
+        suggests that larger and generally more congested roads (for example,
+        interstate highways in urban areas) will have larger elasticity values.
+        These results are used in the calculator as specified in the data
+        section.
+      </p>
+
+      <table>
+        <caption>
+          Parameter estimates from induced-travel regression models. <br>Elasticities measure the change in vehicle-miles of travel associated
+          with changes in lane-miles of road capacity.
+        </caption>
+          <colgroup>
+          <col style="width: 27%" />
+          <col style="width: 11%" />
+          <col style="width: 10%" />
+          <col style="width: 10%" />
+        </colgroup>
+          <thead>
+              <tr>
+                  <th rowspan="2">Reference</th>
+                  <th rowspan="2">Scale</th>
+                  <th colspan="2">Lane-mile elasticities</th>
+              </tr>
+              <tr>
+                  <th>Short Term</th>
+                  <th>Long Term</th>
+              </tr>
+            </thead>
+                <tbody>
+                    <tr>
+                        <td><a href="https://escholarship.org/uc/item/6zz3k76c">Hansen et al. 1993</a></td>
+                        <td>Facility</td>
+                        <td>0.2 – 0.3</td>
+                        <td>0.3 – 0.4</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://doi.org/10.1016/S0965-8564(96)00019-5">Hansen, Huang 1997</a></td>
+                        <td>County</td>
+                        <td>0.21</td>
+                        <td>0.6 – 0.7</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://doi.org/10.1016/S0965-8564(96)00019-5">Hansen, Huang 1997</a></td>
+                        <td>Metro</td>
+                        <td>0.19</td>
+                        <td>0.9</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://doi.org/10.21949/1506078">Fulton et al. 2000</a></td>
+                        <td>County</td>
+                        <td>0.2 – 0.6</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://doi.org/10.1023/A:1005288826997">Noland, Cowart 2000</a></td>
+                        <td>Metro</td>
+                        <td>0.28</td>
+                        <td>0.90</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://doi.org/10.1016/S0965-8564(99)00047-6">Noland 2001</a></td>
+                        <td>States</td>
+                        <td>0.2 – 0.5</td>
+                        <td>0.7 – 1.0</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.jstor.org/stable/20053915">Cervero, Hansen 2002</a></td>
+                        <td>County</td>
+                        <td>0.59</td>
+                        <td>0.79</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://doi.org/10.1080/01944360308976303">Cervero 2003</a> - Direct measure</td>
+                        <td>Facility</td>
+                        <td>0.24</td>
+                        <td>0.81</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://doi.org/10.1080/01944360308976303">Cervero 2003 </a> - Indirect measure</td>
+                        <td>Facility</td>
+                        <td>0.10</td>
+                        <td>0.39</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.jstor.org/stable/23045653">Duranton, Turner 2011</a></td>
+                        <td>States</td>
+                        <td>0.92 - 1.32</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://doi.org/10.1016/j.trb.2010.02.007">Hymel, Small & Van Dender 2010</a></td>
+                        <td>States</td>
+                        <td>0.037</td>
+                        <td>0.186</td>
+                    </tr>
+                    <tr>
+                      <td><a href="https://doi.org/10.1016/j.tra.2011.11.009">Rentziou, Gkritza & Souleyrette 2012</a> - Urban</td>
+                      <td>States</td>
+                      <td>0.256</td>
+                    </tr>
+                  <tr>
+                      <td><a href="https://doi.org/10.1016/j.tra.2011.11.009">Rentziou, Gkritza & Souleyrette 2012</a> - Rural</td>
+                      <td>States</td>
+                      <td>0.068</td>
+                  </tr>
+                    <tr>
+                        <td><a href="https://doi.org/10.1080/01621459.2014.956871">Graham et al. (2014)</a></td>
+                        <td>Metro</td>
+                        <td>0.435-1.393</td>
+                        <td>Average is 0.772</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.sciencedirect.com/science/article/pii/S0967070X18301720">Hymel 2019</a></td>
+                        <td>States</td>
+                        <td>0.892-1.063</td>
+                        <td></td>
+                    </tr>
+                </tbody>
+            </table>
+    
+ 
+  </Section>
+  <Section>
+    <h2>Interpretation of output</h2>
+    <p>
+      Empirical research on induced travel has shown that there is a positive
+      effect, that is, when lane miles are increased, there is an increase in
+      VMT. As most of these studies are based on aggregate data (e.g.
+      state-level or county-level totals) one needs to consider how an
+      individual project may affect VMT. Specifically, what is the local context
+      and how might that lead to either smaller or larger actual increases in
+      VMT? For example, what type of land use is proximate to the project
+      location? What type of transit network exists? What alternate routes are
+      available for drivers? The outputs provided give a range of estimates
+      based on the best available information, however, the localized details of
+      any specific project should be considered as well.
+    </p>
+    <p>
+      The back-calculator provides a different way to think about the impacts of
+      a project. Local transportation planners may have conducted various
+      studies and come up with a forecast of what they think the growth in VMT,
+      due to the project, will be. In some cases, they may assert that it will
+      have no effect on inducing VMT. The back-calculator will allow users to
+      estimate an “implied elasticity”, or in other words, the elasticity
+      implied by the VMT forecast. The user can then assess whether this
+      estimate is reasonable based on the empirical research and local knowledge
+      of the project.
+    </p>
+  </Section>
+  

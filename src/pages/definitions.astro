@@ -1,0 +1,17 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Section from "../components/Section.astro";
+---
+
+<BaseLayout pageTitle="Home">
+  
+  <Section>
+    <h2>Definitions</h2>
+    <p>This induced travel calculator, developed with New Jersey data, allows the user to obtain an estimate of how many vehicle-miles of travel (VMT) will be associated with any new road capacity. Estimates are available for different road categories and for both urban and rural roads for each county in the state. As no estimate is precise, the calculator provides a range of estimates of increased VMT. Users can also select the year associated with the estimate. This calculator also provides a way to assess any forecast of future VMT and provides an estimate of the implicit elasticity from the forecast. This allows the user to determine whether the implied elasticity is within the expected range for that road category. Please see the “about” menu for more details on the source of the data and the calculation techniques.</p>
+  </Section>
+
+  <Section>
+    <h2>How to Use</h2>
+    <p>To use the calculator, please select either the “Calculator” option (to obtain a VMT estimate) or the “Back-calculation” option (to obtain an implicit elasticity estimate). Both options will allow you to select the year, facility type, county and the lane miles to be added.  For the “Back-calculation”, you will also need to input the forecast of new VMT.</p>
+  </Section>
+</BaseLayout>

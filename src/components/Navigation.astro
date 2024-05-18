@@ -4,8 +4,12 @@ const navItems = [
   { name: "Home", path: "/" },
   { name: "Calculator", path: "/calculator/" },
   { name: "Back-Calculator", path: "/back-calculator/" },
-  { name: "About", path: "/about/" },
-  { name: "Acknowledgements", path: "/acknowledgements" }
+  { name: "Definitions", path: "/definitions/" },
+  { name: "Theory", path: "/theory/" },
+  { name: "Research Evidence", path: "/evidence/" },
+  { name: "Data/Calculations", path: "/data" },
+  { name: "References", path: "/references" },
+  { name: "Acknowledgements", path: "/acknowledgements" },
 ].map((item) => ({ ...item, currentPage: item.path === currentPath }));
 ---
 
