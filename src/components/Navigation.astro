@@ -1,24 +1,63 @@
 ---
 const currentPath = Astro.url.pathname;
+
 const navItems = [
   { name: "Home", path: "/" },
   { name: "Calculator", path: "/calculator/" },
   { name: "Back-Calculator", path: "/back-calculator/" },
-  { name: "Definitions", path: "/definitions/" },
+  { name: "Acknowledgements", path: "/acknowledgements" },
+].map((item) => ({ ...item, currentPage: item.path === currentPath }));
+
+const menuItems = [
   { name: "Theory", path: "/theory/" },
   { name: "Research Evidence", path: "/evidence/" },
-  { name: "Data/Calculations", path: "/data" },
-  { name: "References", path: "/references" },
-  { name: "Acknowledgements", path: "/acknowledgements" },
+  { name: "Data and Calculations", path: "/data/" },
+  { name: "Definitions", path: "/definitions/" },
+  { name: "References", path: "/references/" },
 ].map((item) => ({ ...item, currentPage: item.path === currentPath }));
 ---
 
 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
   {
-    navItems.map((item) => (
+    navItems.slice(0, 3).map((item) => (
       <li class="nav-item">
         <a
-          class={"nav-link" + (item.currentPage ? " active" : "")}
+          class={"nav-link " + (item.currentPage ? "active" : "")}
+          aria-page={item.currentPage ? "page" : "false"}
+          href={item.path}
+        >
+          {item.name}
+        </a>
+      </li>
+    ))
+  }
+  <li class="nav-item dropdown">
+    <a
+      class={"nav-link dropdown-toggle " + (menuItems.some((item) => item.currentPage) ? "active" : "")}
+      href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+      Background
+    </a>
+    <ul class="dropdown-menu">
+      {
+        menuItems.map((item) => (
+          <li>
+            <a
+              class={"dropdown-item " + (item.currentPage ? "active" : "")}
+              aria-page={item.currentPage ? "page" : "false"}
+              href={item.path}
+            >
+              {item.name}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </li>
+  {
+    navItems.slice(3).map((item) => (
+      <li class="nav-item">
+        <a
+          class={"nav-link " + (item.currentPage ? "active" : "")}
           aria-page={item.currentPage ? "page" : "false"}
           href={item.path}
         >
