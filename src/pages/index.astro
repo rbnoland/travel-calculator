@@ -9,11 +9,80 @@ import HomeBanner from "../components/HomeBanner.astro";
 
   <Section>
     <h2>Overview</h2>
-    <p>This induced travel calculator, developed with New Jersey data, allows the user to obtain an estimate of how many vehicle-miles of travel (VMT) will be associated with any new road capacity. Estimates are available for different road categories and for both urban and rural roads for each county in the state. As no estimate is precise, the calculator provides a range of estimates of increased VMT. Users can also select the year associated with the estimate. This calculator also provides a way to assess any forecast of future VMT and provides an estimate of the implicit elasticity from the forecast. This allows the user to determine whether the implied elasticity is within the expected range for that road category. Please see the “about” menu for more details on the source of the data and the calculation techniques.</p>
-  </Section>
+    <p>
+      This induced travel calculator, developed with New Jersey data, allows the
+      user to obtain an estimate of how many vehicle-miles of travel (VMT) will
+      be associated with any new road capacity. Estimates are available for
+      different road categories and for both urban and rural roads for each
+      county in the state. This calculator can be used to assess the accuracy of
+      any forecasts of VMT produced for specific road projects. Any cost-benefit
+      analysis of a project must consider the various trade-offs between
+      providing additional road capacity, how much (if any) congestion is
+      reduced and the environmental impacts of the project. Many existing travel
+      demand modeling procedures may underestimate the forecast of VMT, not
+      accounting for induced travel and how this affects congestion, and
+      emissions of greenhouse gases and other pollutants.
+    </p>
+    <p>
+      As no estimate is precise, the calculator provides a range of estimates of
+      increased VMT. Users can also select the year associated with the
+      estimate. This calculator also provides a way to assess any forecast of
+      future VMT and provides an estimate of the implicit elasticity from the
+      forecast. This allows the user to determine whether the implied elasticity
+      is within the expected range for that road category. Please see the
+      “about” menu for more details on definitions, theory behind the
+      calculator, the source of the data and the calculation techniques.
+    </p>
+    <p>
+      To use the calculator, please select either the “Calculator” option (to
+      obtain a VMT estimate) or the “Back-calculation” option (to obtain an
+      implicit elasticity estimate). Both options will allow you to select the
+      year, facility type, county and the lane miles to be added. For the
+      “Back-calculation”, you will also need to input the forecast of new VMT.
+    </p>
 
-  <Section>
-    <h2>How to Use</h2>
-    <p>To use the calculator, please select either the “Calculator” option (to obtain a VMT estimate) or the “Back-calculation” option (to obtain an implicit elasticity estimate). Both options will allow you to select the year, facility type, county and the lane miles to be added.  For the “Back-calculation”, you will also need to input the forecast of new VMT.</p>
+    <h2>Interpretation of Output</h2>
+    <p>
+      Empirical research on induced travel has shown that there is a positive
+      effect, that is, when lane miles are increased, there is an increase in
+      VMT. The elasticities in the calculator are based on aggregate data (i.e.
+      state-level or county-level totals), and therefore the estimates of
+      increased VMT represent an increase for all the similar roads for the
+      entire area. For example, if one specifies an Urban Primary Arterial in
+      Middlesex County, the change in VMT from adding additional capacity for an
+      Urban Primary Arterial will be spread across all Urban Primary Arterials.
+      These results, therefore, should not be interpreted as affecting the
+      specific project that has the capacity increase, but instead represents
+      VMT on the entire network.
+      <p>
+        It is important to consider the local context and how there may be
+        variations that lead to either smaller or larger actual increases in
+        VMT. For example, what type of land use is proximate to the project
+        location? What type of transit network exists? What alternate routes are
+        available for drivers? The outputs provided give a range of estimates
+        based on the best available information, however, the localized details
+        of any specific project should be considered as well.
+      </p>
+      <p>
+        The back-calculator provides a different way to think about the impacts
+        of a project. Local transportation planners may have conducted various
+        studies and come up with a forecast of what they think the growth in
+        VMT, due to the project, will be. In some cases, they may assert that it
+        will have no effect on inducing VMT. The back-calculator will allow
+        users to estimate an “implied elasticity”, or in other words, the
+        elasticity implied by the VMT forecast. The user can then assess whether
+        this estimate is reasonable based on the empirical research and local
+        knowledge of the project.
+      </p>
+      <p>
+        The argument is often made that induced travel will lead to an even more
+        congested road. This may be true in some instances and may happen over
+        time and the research evidence for this is strong. However, increases in
+        VMT also have negative effects beyond just congestion. There are good
+        arguments to reduce VMT and car-dependency in order to meet greenhouse
+        gas reduction goals, reduce tailpipe emissions of toxic pollutants, and
+        to improve safety and public health.
+      </p>
+    </p>
   </Section>
 </BaseLayout>

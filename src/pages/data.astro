@@ -1,0 +1,320 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Section from "../components/Section.astro";
+---
+
+<style>
+  table {
+    border: 1px solid black;
+  }
+  table caption {
+    font-weight: bold;
+    margin-bottom: 0.75em;
+    caption-side: top;
+    text-align: center;
+  }
+  img {
+    display: block;
+    width: 70%;
+    max-width: 500px;
+    margin: 1.5rem auto;
+  }
+</style>
+
+<BaseLayout pageTitle="Data">
+  <Section>
+    <h2>Data</h2>
+    <p>
+      The calculator relies on data collected by the New Jersey Department of
+      Transportation (NJDOT) and publicly available at:
+      <a
+        target="_blank"
+        href="https://www.nj.gov/transportation/refdata/roadway/vmt.shtm"
+        >https://www.nj.gov/transportation/refdata/roadway/vmt.shtm</a
+      >. We use the files listed under “VMT by Functional Classification
+      Distributed by County” for each year in the calculator. These data are
+      in pdf files and were transferred to an Excel file for further
+      processing.
+    </p>
+    <p>
+      The data provide estimates of road mileage and VMT by county for seven
+      functional classifications of roads in urban areas and an additional
+      seven for rural areas. Functional classifications define the type of
+      service provided by a road, for example a freeway, turnpike, or
+      expressway allows for higher speeds and will accommodate more vehicles
+      per hour compared to an arterial road, which will have traffic signals
+      and lower speeds. At the far extreme are local roads with low speed
+      limits that serve final destinations, such as residential and local
+      commercial areas.
+    </p>
+    <p>
+      We combined some of the road classifications to minimize those
+      instances in which there were zero road miles (for example, many of
+      the more urbanized counties had no roads classified as rural or had
+      minimal miles of roads under that category). A shortcoming of New
+      Jersey’s data is that we do not have lane mileage data, only road
+      mileage (center-line miles). Based on a
+      <a
+        target="_blank"
+        href="https://rutgers.app.box.com/file/1365361429302">pdf file</a
+      >
+      provided by NJDOT, we applied conversion factors to the road mile data
+      as to approximate the lane miles for each functional class. These are shown
+      in the table below and represent average state-level one-directional measures
+      of the number of lanes for each functional classification.
+    </p>
+    <p>
+      Road classifications available in the data are listed in the table and
+      those that were combined are shown. For urban roads we combined
+      interstates with freeways/expressways as these both largely have
+      identical road designs, including being largely controlled access
+      highways. For urban roads we combined interstates with two additional
+      road types encompassing freeways and principal arterials. For both
+      urban and rural collector roads we combined major and minor
+      collectors. In total we have five urban road categories and four rural
+      road categories in the calculator. This was done for all
+      <a target="_blank" href="https://njac.org/new-jersey-counties/"
+        >21 counties in New Jersey</a
+      >.
+    </p>
+    <p>
+      Our first year of data is 2017 and we will update to the latest year
+      available. Caution should be used when analyzing data and interpreting
+      results for 2020 and 2021 due to changes in travel patterns due to the
+      COVID pandemic.
+    </p>
+    <p>
+      Elasticity assumptions in the calculator are shown in the table for
+      each road classification. In general, the empirical evidence suggests
+      that larger higher speed roads have a larger elasticity. We have
+      included a range and the calculator output provides a range of
+      estimates for induced VMT. Given the potential range of estimates and
+      variation in how VMT may be affected, we have included a
+      “back-calculator” which allows the estimation of an “implied
+      elasticity” based on forecast growth in VMT associated with a capacity
+      expansion. This can be thought of as the elasticity implied by any
+      forecasts of travel done by NJDOT or a local agency promoting the
+      capacity expansion. The assumption often made, is that there is no
+      change in VMT attributable to the expansion, despite the evidence for
+      induced travel. The user of the calculator is thus able to assess
+      whether estimates made in forecasts are reasonable.
+    </p>
+    <table>
+      <caption>Elasticity estimates used in the calculator</caption>
+      <colgroup>
+        <col style="width: 26%" />
+        <col style="width: 34%" />
+        <col style="width: 17%" />
+        <col style="width: 21%" />
+      </colgroup>
+      <thead>
+        <tr class="header">
+          <th colspan="2"><strong>Urban areas</strong></th>
+          <th><strong>Factor to convert to lane miles</strong></th>
+          <th><strong>Elasticity range</strong></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="odd">
+          <td>Interstates</td>
+          <td rowspan="2">Interstate/Freeways/Expressways</td>
+          <td rowspan="2">3</td>
+          <td rowspan="2">0.7 - 1.0</td>
+        </tr>
+        <tr class="even">
+          <td>Freeways/Expressways</td>
+        </tr>
+        <tr class="odd">
+          <td>Principal arterials</td>
+          <td>Principal arterials</td>
+          <td>2.5</td>
+          <td>0.7 - 1.0</td>
+        </tr>
+        <tr class="even">
+          <td>Minor arterials</td>
+          <td>Minor arterials</td>
+          <td>1</td>
+          <td>0.5 - 0.7</td>
+        </tr>
+        <tr class="odd">
+          <td>Major collectors</td>
+          <td rowspan="2">Major and Minor collectors</td>
+          <td rowspan="2">1</td>
+          <td rowspan="2">0.5 - 0.7</td>
+        </tr>
+        <tr class="even">
+          <td>Minor collectors</td>
+        </tr>
+        <tr class="odd">
+          <td>Local</td>
+          <td>Local</td>
+          <td>1</td>
+          <td>0.3 - 0.5</td>
+        </tr>
+        <tr class="even">
+          <td colspan="2"><strong>Rural areas</strong></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr class="odd">
+          <td>Interstates</td>
+          <td rowspan="3">Interstate/Principal arterial/freeways</td>
+          <td rowspan="3">3</td>
+          <td rowspan="3">0.7 - 1.0</td>
+        </tr>
+        <tr class="even">
+          <td>Principal arterials/freeways</td>
+        </tr>
+        <tr class="odd">
+          <td>Principal arterial - other</td>
+        </tr>
+        <tr class="even">
+          <td>Minor arterials</td>
+          <td>Minor arterials</td>
+          <td>1</td>
+          <td>0.5 - 0.7</td>
+        </tr>
+        <tr class="odd">
+          <td>Major collectors</td>
+          <td rowspan="2">Major and Minor collectors</td>
+          <td rowspan="2">1</td>
+          <td rowspan="2">0.5 - 0.7</td>
+        </tr>
+        <tr class="even">
+          <td>Minor collectors</td>
+        </tr>
+        <tr class="odd">
+          <td>Local</td>
+          <td>Local</td>
+          <td>1</td>
+          <td>0.3 - 0.5</td>
+        </tr>
+      </tbody>
+    </table>
+  </Section>
+  <Section>
+    <h2>Calculations</h2>
+    <p>
+      The elasticities shown above are used to determine how a change in
+      lane miles will lead to a change in VMT. The formula for estimating
+      the induced VMT is:
+    </p>
+    <p>
+      <math display="block">
+        <semantics>
+          <mrow>
+            <mrow>
+              <msub>
+                <mi mathvariant="italic">Induced</mi>
+                <mi mathvariant="italic">VMT</mi>
+              </msub>
+              <mo stretchy="false">=</mo>
+              <mi>ε</mi>
+            </mrow>
+            <mi>∙</mi>
+            <mfrac>
+              <mi mathvariant="italic">NewLM</mi>
+              <mi mathvariant="italic">LM</mi>
+            </mfrac>
+            <mi>∙</mi>
+            <mi mathvariant="italic">VMT</mi>
+          </mrow>
+        </semantics>
+      </math>
+    </p>
+    <p>
+      Where:
+      <ul>
+        <li>ε = elasticity</li>
+        <li>NewLM = the newly added lane mileage for the county</li>
+        <li>LM = the current lane mileage in the county</li>
+        <li>VMT = the current vehicle-miles of travel in the county</li>
+        <li>
+          Induced<sub>VMT</sub> = the vehicle miles of travel induced by the
+          increase in lane miles
+        </li>
+      </ul>
+    </p>
+    <p>
+      The back-calculation simply reverses this equation but requires the
+      user to input both “new lane miles” and the “forecasted increase in
+      VMT”. The output is an implicit elasticity, that is, the elasticity
+      that is implied by the forecast increase in VMT.
+    </p>
+    <p>The formula is as follows:</p>
+    <p>
+      <math display="block">
+        <semantics>
+          <mrow>
+            <mrow>
+              <mover accent="true">
+                <mi>ε</mi>
+                <mo>¯ </mo>
+              </mover>
+              <mo stretchy="false">=</mo>
+              <mfrac>
+                <msub>
+                  <mi mathvariant="italic">VMT</mi>
+                  <mi mathvariant="italic">forecast</mi>
+                </msub>
+                <mi mathvariant="italic">VMT</mi>
+              </mfrac>
+            </mrow>
+            <mi>∙</mi>
+            <mfrac>
+              <mi mathvariant="italic">LM</mi>
+              <mi mathvariant="italic">NewLM</mi>
+            </mfrac>
+          </mrow>
+        </semantics>
+      </math>
+    </p>
+    <p>
+      Where:
+      <ul>
+        <li>
+          <math display="inline">
+            <semantics>
+              <mover accent="true">
+                <mi>ε</mi>
+                <mo>¯ </mo>
+              </mover>
+            </semantics>
+          </math>
+          = implied elasticity
+        </li>
+        <li>VMT<sub>forecast</sub> = forecast of VMT provided by others</li>
+        <li>VMT = the current vehicle-miles of travel in the county</li>
+        <li>NewLM = the newly added lane mileage for the county</li>
+        <li>LM = the current lane mileage in the county</li>
+      </ul>
+    </p>
+  </Section>
+  <Section>
+    <h2>Interpretation of output</h2>
+    <p>
+      Empirical research on induced travel has shown that there is a
+      positive effect, that is, when lane miles are increased, there is an
+      increase in VMT. As most of these studies are based on aggregate data
+      (e.g. state-level or county-level totals) one needs to consider how an
+      individual project may affect VMT. Specifically, what is the local
+      context and how might that lead to either smaller or larger actual
+      increases in VMT? For example, what type of land use is proximate to
+      the project location? What type of transit network exists? What
+      alternate routes are available for drivers? The outputs provided give
+      a range of estimates based on the best available information, however,
+      the localized details of any specific project should be considered as
+      well.
+    </p>
+    <p>
+      The back-calculator provides a different way to think about the
+      impacts of a project. Local transportation planners may have conducted
+      various studies and come up with a forecast of what they think the
+      growth in VMT, due to the project, will be. In some cases, they may
+      assert that it will have no effect on inducing VMT. The
+      back-calculator will allow users to estimate an “implied elasticity”,
+      or in other words, the elasticity implied by the VMT forecast. The
+      user can then assess whether this estimate is reasonable based on the
+      empirical research and local knowledge of the project.
+    </p>
+  </Section>

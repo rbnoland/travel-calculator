@@ -1,0 +1,66 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Section from "../components/Section.astro";
+---
+
+<BaseLayout pageTitle="Definitions">
+  <Section>
+    <h2>Definitions</h2>
+
+    <p>
+      <b>Vehicle-miles of travel or VMT:</b> This is a measure of the number of miles
+      traveled by every motor-vehicle on a network of roads. For example, if one
+      vehicle travels 100 miles on the network, this represents 100 vehicle-miles
+      of travel; if 10 vehicles travel 10 miles each, this would also be 100 vehicle-miles
+      of travel. In the calculator, we use VMT for nine different types of roads
+      and sum this up across all the mileage driven in a county for an entire year.
+      Thus, the VMT represents the total vehicle-mileage for an entire year.
+    </p>
+    <p>
+      <b>Lane-miles:</b> This is a measure of the capacity of a road. It is calculated
+      based on the total length of a road and how many lanes it has. In the calculator,
+      we use data provided by NJDOT for road miles (i.e., the total length of roads)
+      and multiply this by the number of lanes for each road category (based on estimates
+      provided by NJDOT). The more lanes a road has, the more capacity it has, or
+      ability to carry more vehicles per hour.
+    </p>
+    <p>
+      <b>Road categories or functional classifications:</b> Roads are defined by
+      how they are used and how they have been designed. These are known as “functional
+      classifications”, defining the function of each road category. For example,
+      freeways and turnpikes serve high-speed traffic on roads with controlled-access
+      (i.e., off and on-ramps) and no traffic signals or cross-streets. Arterials
+      also serve relatively high speed traffic, normally have more than one lane
+      in each direction, but have traffic signals, cross-streets, and often have
+      parallel sidewalks and may have bicycle lanes. Collector roads are smaller
+      in scale, with lower speed limits, and may have one or two lanes of traffic
+      in each direction. These tend to serve or “collect” traffic that is headed
+      towards arterials or freeways. Local roads are low speed roads, most with one-lane
+      in each direction that serve local destinations (e.g. residential areas). There
+      is overlap between these various road categories, but we use the data provided
+      by NJDOT that is based on each road category.
+    </p>
+    <p>
+      <b>Elasticities:</b> In economics, an elasticity of demand represents how the
+      demand for a product varies with changes in the price of the product. As the
+      price increases, one purchases less of it. We use elasticities to calculate
+      how the price of travel, which is primarily the travel time, changes the amount
+      of travel (VMT). The elasticities we use are based on estimates that have been
+      derived from a variety of studies. When demand is “inelastic” this means it
+      does not respond as much to a price change as when it is “elastic”. Induced
+      travel assumes an elastic response to travel time changes, while if there was
+      no response, the demand would be “inelastic”.
+    </p>
+    <p>
+      <b>Implicit Elasticity:</b> The calculator includes a “back-calculator” option.
+      This can be used if there is a forecast of how much VMT will be increased due
+      to a given road project. The elasticities used in the calculator are based
+      on empirical estimates, but these may not always apply for every specific project.
+      The back-calculator allows one to calculate an “implicit elasticity”, that
+      is, the elasticity implied by the forecast increase in VMT for a specific road
+      expansion project. This allows one to determine whether the forecast is reasonable
+      given the local context of the project and the elasticity one might expect
+      to be associated with the road expansion.
+    </p>
+  </Section>
+</BaseLayout>
