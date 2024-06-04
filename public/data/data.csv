@@ -414,41 +414,23 @@ year,county,facilityType,vmt,laneMiles,minElast,maxElast
 2020,Gloucester,Rural Collector (Major and Minor),79071,21,0.5,0.7
 2020,Gloucester,Rural Local,32040,59,0.3,0.5
 2021,Gloucester,Urban Interstate/Freeway/Expressway,3451437,177,0.7,1
-2021,Gloucester,Urban Interstate/Freeway/Expressway,3451437,177,0.7,1
-2021,Gloucester,Urban Primary Arterial,1381694,195,0.7,1
 2021,Gloucester,Urban Primary Arterial,1381694,195,0.7,1
 2021,Gloucester,Urban Minor Arterial,1527895,207,0.5,0.7
-2021,Gloucester,Urban Minor Arterial,1527895,207,0.5,0.7
-2021,Gloucester,Urban Collector (Major and Minor),660353,176,0.5,0.7
 2021,Gloucester,Urban Collector (Major and Minor),660353,176,0.5,0.7
 2021,Gloucester,Urban Local,1092172,1120,0.3,0.5
-2021,Gloucester,Urban Local,1092172,1120,0.3,0.5
-2021,Gloucester,Rural Interstate/Primary Arterial,0,0,0.7,1
 2021,Gloucester,Rural Interstate/Primary Arterial,0,0,0.7,1
 2021,Gloucester,Rural Minor Arterial,21531,7,0.5,0.7
-2021,Gloucester,Rural Minor Arterial,21531,7,0.5,0.7
-2021,Gloucester,Rural Collector (Major and Minor),77498,21,0.5,0.7
 2021,Gloucester,Rural Collector (Major and Minor),77498,21,0.5,0.7
 2021,Gloucester,Rural Local,35862,59,0.3,0.5
-2021,Gloucester,Rural Local,35862,59,0.3,0.5
-2021,Gloucester,Urban Interstate/Freeway/Expressway,3535138,177,0.7,1
-2021,Gloucester,Urban Interstate/Freeway/Expressway,3535138,177,0.7,1
-2021,Gloucester,Urban Primary Arterial,1410430,195,0.7,1
-2021,Gloucester,Urban Primary Arterial,1410430,195,0.7,1
-2021,Gloucester,Urban Minor Arterial,1607313,207,0.5,0.7
-2021,Gloucester,Urban Minor Arterial,1607313,207,0.5,0.7
-2021,Gloucester,Urban Collector (Major and Minor),692049,176,0.5,0.7
-2021,Gloucester,Urban Collector (Major and Minor),692049,176,0.5,0.7
-2021,Gloucester,Urban Local,1116322,1120,0.3,0.5
-2021,Gloucester,Urban Local,1116322,1120,0.3,0.5
-2021,Gloucester,Rural Interstate/Primary Arterial,0,0,0.7,1
-2021,Gloucester,Rural Interstate/Primary Arterial,0,0,0.7,1
-2021,Gloucester,Rural Minor Arterial,22573,7,0.5,0.7
-2021,Gloucester,Rural Minor Arterial,22573,7,0.5,0.7
-2021,Gloucester,Rural Collector (Major and Minor),81964,21,0.5,0.7
-2021,Gloucester,Rural Collector (Major and Minor),81964,21,0.5,0.7
-2021,Gloucester,Rural Local,36615,59,0.3,0.5
-2021,Gloucester,Rural Local,36615,59,0.3,0.5
+2022,Gloucester,Urban Interstate/Freeway/Expressway,3535138,177,0.7,1
+2022,Gloucester,Urban Primary Arterial,1410430,195,0.7,1
+2022,Gloucester,Urban Minor Arterial,1607313,207,0.5,0.7
+2022,Gloucester,Urban Collector (Major and Minor),692049,176,0.5,0.7
+2022,Gloucester,Urban Local,1116322,1120,0.3,0.5
+2022,Gloucester,Rural Interstate/Primary Arterial,0,0,0.7,1
+2022,Gloucester,Rural Minor Arterial,22573,7,0.5,0.7
+2022,Gloucester,Rural Collector (Major and Minor),81964,21,0.5,0.7
+2022,Gloucester,Rural Local,36615,59,0.3,0.5
 2017,Hudson,Urban Interstate/Freeway/Expressway,2762379,87,0.7,1
 2017,Hudson,Urban Primary Arterial,1316320,95,0.7,1
 2017,Hudson,Urban Minor Arterial,922391,97,0.5,0.7
