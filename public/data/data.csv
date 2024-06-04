@@ -1,1135 +1,1135 @@
-year,county,facilityType,vmt,laneMiles,minElast,maxElast
-2017,Atlantic,Urban Interstate/Freeway/Expressway,1590246,114,0.7,1
-2017,Atlantic,Urban Primary Arterial,1688987,250,0.7,1
-2017,Atlantic,Urban Minor Arterial,1552249,171,0.5,0.7
-2017,Atlantic,Urban Collector (Major and Minor),498790,169,0.5,0.7
-2017,Atlantic,Urban Local,755170,982,0.3,0.5
-2017,Atlantic,Rural Interstate/Primary Arterial,746468,81,0.7,1
-2017,Atlantic,Rural Minor Arterial,260070,34,0.5,0.7
-2017,Atlantic,Rural Collector (Major and Minor),266480,105,0.5,0.7
-2017,Atlantic,Rural Local,207357,357,0.3,0.5
-2018,Atlantic,Urban Interstate/Freeway/Expressway,1532359,114,0.7,1
-2018,Atlantic,Urban Primary Arterial,1631638,250,0.7,1
-2018,Atlantic,Urban Minor Arterial,1542451,170,0.5,0.7
-2018,Atlantic,Urban Collector (Major and Minor),487697,169,0.5,0.7
-2018,Atlantic,Urban Local,796931,981,0.3,0.5
-2018,Atlantic,Rural Interstate/Primary Arterial,717340,81,0.7,1
-2018,Atlantic,Rural Minor Arterial,256747,34,0.5,0.7
-2018,Atlantic,Rural Collector (Major and Minor),263584,105,0.5,0.7
-2018,Atlantic,Rural Local,222153,358,0.3,0.5
-2019,Atlantic,Urban Interstate/Freeway/Expressway,1525228,114,0.7,1
-2019,Atlantic,Urban Primary Arterial,1638290,250,0.7,1
-2019,Atlantic,Urban Minor Arterial,1565642,170,0.5,0.7
-2019,Atlantic,Urban Collector (Major and Minor),507156,170,0.5,0.7
-2019,Atlantic,Urban Local,780224,982,0.3,0.5
-2019,Atlantic,Rural Interstate/Primary Arterial,714080,81,0.7,1
-2019,Atlantic,Rural Minor Arterial,272027,34,0.5,0.7
-2019,Atlantic,Rural Collector (Major and Minor),270840,105,0.5,0.7
-2019,Atlantic,Rural Local,231409,358,0.3,0.5
-2020,Atlantic,Urban Interstate/Freeway/Expressway,1246900,114,0.7,1
-2020,Atlantic,Urban Primary Arterial,1439791,250,0.7,1
-2020,Atlantic,Urban Minor Arterial,1489213,170,0.5,0.7
-2020,Atlantic,Urban Collector (Major and Minor),437318,170,0.5,0.7
-2020,Atlantic,Urban Local,690877,984,0.3,0.5
-2020,Atlantic,Rural Interstate/Primary Arterial,598480,81,0.7,1
-2020,Atlantic,Rural Minor Arterial,246049,34,0.5,0.7
-2020,Atlantic,Rural Collector (Major and Minor),247576,105,0.5,0.7
-2020,Atlantic,Rural Local,192860,358,0.3,0.5
-2021,Atlantic,Urban Interstate/Freeway/Expressway,1448586,114,0.7,1
-2021,Atlantic,Urban Primary Arterial,1567883,250,0.7,1
-2021,Atlantic,Urban Minor Arterial,1568352,170,0.5,0.7
-2021,Atlantic,Urban Collector (Major and Minor),455852,170,0.5,0.7
-2021,Atlantic,Urban Local,759165,984,0.3,0.5
-2021,Atlantic,Rural Interstate/Primary Arterial,684642,81,0.7,1
-2021,Atlantic,Rural Minor Arterial,265645,34,0.5,0.7
-2021,Atlantic,Rural Collector (Major and Minor),258656,105,0.5,0.7
-2021,Atlantic,Rural Local,215860,358,0.3,0.5
-2022,Atlantic,Urban Interstate/Freeway/Expressway,1449014,114,0.7,1
-2022,Atlantic,Urban Primary Arterial,1557077,250,0.7,1
-2022,Atlantic,Urban Minor Arterial,1564556,170,0.5,0.7
-2022,Atlantic,Urban Collector (Major and Minor),498459,170,0.5,0.7
-2022,Atlantic,Urban Local,790275,984,0.3,0.5
-2022,Atlantic,Rural Interstate/Primary Arterial,680011,81,0.7,1
-2022,Atlantic,Rural Minor Arterial,254840,34,0.5,0.7
-2022,Atlantic,Rural Collector (Major and Minor),268388,105,0.5,0.7
-2022,Atlantic,Rural Local,220393,358,0.3,0.5
-2017,Bergen,Urban Interstate/Freeway/Expressway,10038661,294,0.7,1
-2017,Bergen,Urban Primary Arterial,3659429,488,0.7,1
-2017,Bergen,Urban Minor Arterial,3261799,339,0.5,0.7
-2017,Bergen,Urban Collector (Major and Minor),833318,246,0.5,0.7
-2017,Bergen,Urban Local,3221640,2138,0.3,0.5
-2017,Bergen,Rural Interstate/Primary Arterial,0,0,0.7,1
-2017,Bergen,Rural Minor Arterial,0,0,0.5,0.7
-2017,Bergen,Rural Collector (Major and Minor),0,0,0.5,0.7
-2017,Bergen,Rural Local,0,0,0.3,0.5
-2018,Bergen,Urban Interstate/Freeway/Expressway,9993315,294,0.7,1
-2018,Bergen,Urban Primary Arterial,3635092,483,0.7,1
-2018,Bergen,Urban Minor Arterial,3358077,339,0.5,0.7
-2018,Bergen,Urban Collector (Major and Minor),867220,246,0.5,0.7
-2018,Bergen,Urban Local,3256112,2138,0.3,0.5
-2018,Bergen,Rural Interstate/Primary Arterial,0,0,0.7,1
-2018,Bergen,Rural Minor Arterial,0,0,0.5,0.7
-2018,Bergen,Rural Collector (Major and Minor),0,0,0.5,0.7
-2018,Bergen,Rural Local,0,0,0.3,0.5
-2019,Bergen,Urban Interstate/Freeway/Expressway,10244915,294,0.7,1
-2019,Bergen,Urban Primary Arterial,3758176,483,0.7,1
-2019,Bergen,Urban Minor Arterial,3523214,339,0.5,0.7
-2019,Bergen,Urban Collector (Major and Minor),872833,246,0.5,0.7
-2019,Bergen,Urban Local,3134546,2141,0.3,0.5
-2019,Bergen,Rural Interstate/Primary Arterial,0,0,0.7,1
-2019,Bergen,Rural Minor Arterial,0,0,0.5,0.7
-2019,Bergen,Rural Collector (Major and Minor),0,0,0.5,0.7
-2019,Bergen,Rural Local,0,0,0.3,0.5
-2020,Bergen,Urban Interstate/Freeway/Expressway,7820226,294,0.7,1
-2020,Bergen,Urban Primary Arterial,3015091,483,0.7,1
-2020,Bergen,Urban Minor Arterial,2779785,339,0.5,0.7
-2020,Bergen,Urban Collector (Major and Minor),764151,246,0.5,0.7
-2020,Bergen,Urban Local,2650583,2141,0.3,0.5
-2020,Bergen,Rural Interstate/Primary Arterial,0,0,0.7,1
-2020,Bergen,Rural Minor Arterial,0,0,0.5,0.7
-2020,Bergen,Rural Collector (Major and Minor),0,0,0.5,0.7
-2020,Bergen,Rural Local,0,0,0.3,0.5
-2021,Bergen,Urban Interstate/Freeway/Expressway,9049274,294,0.7,1
-2021,Bergen,Urban Primary Arterial,3434112,483,0.7,1
-2021,Bergen,Urban Minor Arterial,3229122,339,0.5,0.7
-2021,Bergen,Urban Collector (Major and Minor),854496,246,0.5,0.7
-2021,Bergen,Urban Local,3053837,2141,0.3,0.5
-2021,Bergen,Rural Interstate/Primary Arterial,0,0,0.7,1
-2021,Bergen,Rural Minor Arterial,0,0,0.5,0.7
-2021,Bergen,Rural Collector (Major and Minor),0,0,0.5,0.7
-2021,Bergen,Rural Local,0,0,0.3,0.5
-2022,Bergen,Urban Interstate/Freeway/Expressway,9300031,294,0.7,1
-2022,Bergen,Urban Primary Arterial,3594007,482.5,0.7,1
-2022,Bergen,Urban Minor Arterial,3278068,339,0.5,0.7
-2022,Bergen,Urban Collector (Major and Minor),856482,246,0.5,0.7
-2022,Bergen,Urban Local,3155815,2141,0.3,0.5
-2022,Bergen,Rural Interstate/Primary Arterial,0,0,0.7,1
-2022,Bergen,Rural Minor Arterial,0,0,0.5,0.7
-2022,Bergen,Rural Collector (Major and Minor),0,0,0.5,0.7
-2022,Bergen,Rural Local,0,0,0.3,0.5
-2017,Burlington,Urban Interstate/Freeway/Expressway,4738217,156,0.7,1
-2017,Burlington,Urban Primary Arterial,3427616,345,0.7,1
-2017,Burlington,Urban Minor Arterial,1855778,218,0.5,0.7
-2017,Burlington,Urban Collector (Major and Minor),918261,215,0.5,0.7
-2017,Burlington,Urban Local,1626254,1620,0.3,0.5
-2017,Burlington,Rural Interstate/Primary Arterial,484793,84,0.7,1
-2017,Burlington,Rural Minor Arterial,142170,20,0.5,0.7
-2017,Burlington,Rural Collector (Major and Minor),204421,94,0.5,0.7
-2017,Burlington,Rural Local,216401,372,0.3,0.5
-2018,Burlington,Urban Interstate/Freeway/Expressway,4787036,156,0.7,1
-2018,Burlington,Urban Primary Arterial,3250269,345,0.7,1
-2018,Burlington,Urban Minor Arterial,1867376,218,0.5,0.7
-2018,Burlington,Urban Collector (Major and Minor),932236,215,0.5,0.7
-2018,Burlington,Urban Local,1632210,1620,0.3,0.5
-2018,Burlington,Rural Interstate/Primary Arterial,478541,84,0.7,1
-2018,Burlington,Rural Minor Arterial,141337,20,0.5,0.7
-2018,Burlington,Rural Collector (Major and Minor),204883,94,0.5,0.7
-2018,Burlington,Rural Local,230859,372,0.3,0.5
-2019,Burlington,Urban Interstate/Freeway/Expressway,4914125,156,0.7,1
-2019,Burlington,Urban Primary Arterial,3279667,345,0.7,1
-2019,Burlington,Urban Minor Arterial,1900066,218,0.5,0.7
-2019,Burlington,Urban Collector (Major and Minor),957489,215,0.5,0.7
-2019,Burlington,Urban Local,1669842,1629,0.3,0.5
-2019,Burlington,Rural Interstate/Primary Arterial,496660,84,0.7,1
-2019,Burlington,Rural Minor Arterial,141448,20,0.5,0.7
-2019,Burlington,Rural Collector (Major and Minor),206556,94,0.5,0.7
-2019,Burlington,Rural Local,240477,372,0.3,0.5
-2020,Burlington,Urban Interstate/Freeway/Expressway,3747373,156,0.7,1
-2020,Burlington,Urban Primary Arterial,2916033,345,0.7,1
-2020,Burlington,Urban Minor Arterial,1535665,218,0.5,0.7
-2020,Burlington,Urban Collector (Major and Minor),897622,215,0.5,0.7
-2020,Burlington,Urban Local,1424273,1632,0.3,0.5
-2020,Burlington,Rural Interstate/Primary Arterial,393731,84,0.7,1
-2020,Burlington,Rural Minor Arterial,129335,20,0.5,0.7
-2020,Burlington,Rural Collector (Major and Minor),198207,94,0.5,0.7
-2020,Burlington,Rural Local,200418,372,0.3,0.5
-2021,Burlington,Urban Interstate/Freeway/Expressway,4601072,156,0.7,1
-2021,Burlington,Urban Primary Arterial,3245248,345,0.7,1
-2021,Burlington,Urban Minor Arterial,1813030,218,0.5,0.7
-2021,Burlington,Urban Collector (Major and Minor),913635,215,0.5,0.7
-2021,Burlington,Urban Local,1591293,1631,0.3,0.5
-2021,Burlington,Rural Interstate/Primary Arterial,476790,84,0.7,1
-2021,Burlington,Rural Minor Arterial,136371,20,0.5,0.7
-2021,Burlington,Rural Collector (Major and Minor),199390,94,0.5,0.7
-2021,Burlington,Rural Local,187695,311,0.3,0.5
-2022,Burlington,Urban Interstate/Freeway/Expressway,4742021,156,0.7,1
-2022,Burlington,Urban Primary Arterial,3239142,345,0.7,1
-2022,Burlington,Urban Minor Arterial,1773167,218,0.5,0.7
-2022,Burlington,Urban Collector (Major and Minor),899913,215,0.5,0.7
-2022,Burlington,Urban Local,1626480,1631,0.3,0.5
-2022,Burlington,Rural Interstate/Primary Arterial,477380,84,0.7,1
-2022,Burlington,Rural Minor Arterial,145824,20,0.5,0.7
-2022,Burlington,Rural Collector (Major and Minor),193983,94,0.5,0.7
-2022,Burlington,Rural Local,191635,311,0.3,0.5
-2017,Camden,Urban Interstate/Freeway/Expressway,3778453,144,0.7,1
-2017,Camden,Urban Primary Arterial,3331349,305,0.7,1
-2017,Camden,Urban Minor Arterial,2056393,237,0.5,0.7
-2017,Camden,Urban Collector (Major and Minor),657438,181,0.5,0.7
-2017,Camden,Urban Local,1444965,1440,0.3,0.5
-2017,Camden,Rural Interstate/Primary Arterial,72981,6,0.7,1
-2017,Camden,Rural Minor Arterial,16861,3,0.5,0.7
-2017,Camden,Rural Collector (Major and Minor),9329,5,0.5,0.7
-2017,Camden,Rural Local,10411,18,0.3,0.5
-2018,Camden,Urban Interstate/Freeway/Expressway,3782668,144,0.7,1
-2018,Camden,Urban Primary Arterial,3307164,305,0.7,1
-2018,Camden,Urban Minor Arterial,2061831,237,0.5,0.7
-2018,Camden,Urban Collector (Major and Minor),629680,181,0.5,0.7
-2018,Camden,Urban Local,1450139,1440,0.3,0.5
-2018,Camden,Rural Interstate/Primary Arterial,72251,6,0.7,1
-2018,Camden,Rural Minor Arterial,17005,3,0.5,0.7
-2018,Camden,Rural Collector (Major and Minor),9414,5,0.5,0.7
-2018,Camden,Rural Local,11107,18,0.3,0.5
-2019,Camden,Urban Interstate/Freeway/Expressway,3835435,144,0.7,1
-2019,Camden,Urban Primary Arterial,3289597,305,0.7,1
-2019,Camden,Urban Minor Arterial,2065242,237,0.5,0.7
-2019,Camden,Urban Collector (Major and Minor),648283,181,0.5,0.7
-2019,Camden,Urban Local,1476246,1440,0.3,0.5
-2019,Camden,Rural Interstate/Primary Arterial,67340,6,0.7,1
-2019,Camden,Rural Minor Arterial,17702,3,0.5,0.7
-2019,Camden,Rural Collector (Major and Minor),9519,5,0.5,0.7
-2019,Camden,Rural Local,11569,18,0.3,0.5
-2020,Camden,Urban Interstate/Freeway/Expressway,3284810,144,0.7,1
-2020,Camden,Urban Primary Arterial,2822824,305,0.7,1
-2020,Camden,Urban Minor Arterial,1875454,237,0.5,0.7
-2020,Camden,Urban Collector (Major and Minor),590472,181,0.5,0.7
-2020,Camden,Urban Local,1258012,1441,0.3,0.5
-2020,Camden,Rural Interstate/Primary Arterial,73669,6,0.7,1
-2020,Camden,Rural Minor Arterial,18425,3,0.5,0.7
-2020,Camden,Rural Collector (Major and Minor),8795,5,0.5,0.7
-2020,Camden,Rural Local,9642,18,0.3,0.5
-2021,Camden,Urban Interstate/Freeway/Expressway,3768276,144,0.7,1
-2021,Camden,Urban Primary Arterial,3210970,305,0.7,1
-2021,Camden,Urban Minor Arterial,1878664,237,0.5,0.7
-2021,Camden,Urban Collector (Major and Minor),599243,181,0.5,0.7
-2021,Camden,Urban Local,1405713,1441,0.3,0.5
-2021,Camden,Rural Interstate/Primary Arterial,79620,6,0.7,1
-2021,Camden,Rural Minor Arterial,18506,3,0.5,0.7
-2021,Camden,Rural Collector (Major and Minor),9261,5,0.5,0.7
-2021,Camden,Rural Local,10792,18,0.3,0.5
-2022,Camden,Urban Interstate/Freeway/Expressway,3792511,144,0.7,1
-2022,Camden,Urban Primary Arterial,3164822,305,0.7,1
-2022,Camden,Urban Minor Arterial,1862588,237,0.5,0.7
-2022,Camden,Urban Collector (Major and Minor),641117,181,0.5,0.7
-2022,Camden,Urban Local,1436796,1441,0.3,0.5
-2022,Camden,Rural Interstate/Primary Arterial,80648,6,0.7,1
-2022,Camden,Rural Minor Arterial,18012,3,0.5,0.7
-2022,Camden,Rural Collector (Major and Minor),8827,5,0.5,0.7
-2022,Camden,Rural Local,11019,18,0.3,0.5
-2017,Cape May,Urban Interstate/Freeway/Expressway,596541,69,0.7,1
-2017,Cape May,Urban Primary Arterial,251559,60,0.7,1
-2017,Cape May,Urban Minor Arterial,703148,88,0.5,0.7
-2017,Cape May,Urban Collector (Major and Minor),321672,90,0.5,0.7
-2017,Cape May,Urban Local,587959,637,0.3,0.5
-2017,Cape May,Rural Interstate/Primary Arterial,220734,39,0.7,1
-2017,Cape May,Rural Minor Arterial,161615,25,0.5,0.7
-2017,Cape May,Rural Collector (Major and Minor),125126,39,0.5,0.7
-2017,Cape May,Rural Local,61979,107,0.3,0.5
-2018,Cape May,Urban Interstate/Freeway/Expressway,594899,69,0.7,1
-2018,Cape May,Urban Primary Arterial,247111,60,0.7,1
-2018,Cape May,Urban Minor Arterial,710363,88,0.5,0.7
-2018,Cape May,Urban Collector (Major and Minor),322305,90,0.5,0.7
-2018,Cape May,Urban Local,596308,638,0.3,0.5
-2018,Cape May,Rural Interstate/Primary Arterial,218521,39,0.7,1
-2018,Cape May,Rural Minor Arterial,168553,25,0.5,0.7
-2018,Cape May,Rural Collector (Major and Minor),123609,39,0.5,0.7
-2018,Cape May,Rural Local,66125,107,0.3,0.5
-2019,Cape May,Urban Interstate/Freeway/Expressway,590442,69,0.7,1
-2019,Cape May,Urban Primary Arterial,236900,60,0.7,1
-2019,Cape May,Urban Minor Arterial,707623,88,0.5,0.7
-2019,Cape May,Urban Collector (Major and Minor),322204,90,0.5,0.7
-2019,Cape May,Urban Local,612635,638,0.3,0.5
-2019,Cape May,Rural Interstate/Primary Arterial,229213,39,0.7,1
-2019,Cape May,Rural Minor Arterial,168893,25,0.5,0.7
-2019,Cape May,Rural Collector (Major and Minor),117647,39,0.5,0.7
-2019,Cape May,Rural Local,68880,107,0.3,0.5
-2020,Cape May,Urban Interstate/Freeway/Expressway,536067,69,0.7,1
-2020,Cape May,Urban Primary Arterial,245821,60,0.7,1
-2020,Cape May,Urban Minor Arterial,673950,88,0.5,0.7
-2020,Cape May,Urban Collector (Major and Minor),312669,90,0.5,0.7
-2020,Cape May,Urban Local,569002,638,0.3,0.5
-2020,Cape May,Rural Interstate/Primary Arterial,219561,39,0.7,1
-2020,Cape May,Rural Minor Arterial,156720,25,0.5,0.7
-2020,Cape May,Rural Collector (Major and Minor),115900,39,0.5,0.7
-2020,Cape May,Rural Local,57406,107,0.3,0.5
-2021,Cape May,Urban Interstate/Freeway/Expressway,616789,69,0.7,1
-2021,Cape May,Urban Primary Arterial,252357,60,0.7,1
-2021,Cape May,Urban Minor Arterial,730281,88,0.5,0.7
-2021,Cape May,Urban Collector (Major and Minor),333785,90,0.5,0.7
-2021,Cape May,Urban Local,618244,638,0.3,0.5
-2021,Cape May,Rural Interstate/Primary Arterial,246703,39,0.7,1
-2021,Cape May,Rural Minor Arterial,163633,25,0.5,0.7
-2021,Cape May,Rural Collector (Major and Minor),114428,39,0.5,0.7
-2021,Cape May,Rural Local,64250,107,0.3,0.5
-2022,Cape May,Urban Interstate/Freeway/Expressway,602520,69,0.7,1
-2022,Cape May,Urban Primary Arterial,251793,60,0.7,1
-2022,Cape May,Urban Minor Arterial,684550,88,0.5,0.7
-2022,Cape May,Urban Collector (Major and Minor),339768,90,0.5,0.7
-2022,Cape May,Urban Local,605484,638,0.3,0.5
-2022,Cape May,Rural Interstate/Primary Arterial,244313,39,0.7,1
-2022,Cape May,Rural Minor Arterial,163267,25,0.5,0.7
-2022,Cape May,Rural Collector (Major and Minor),118368,39,0.5,0.7
-2022,Cape May,Rural Local,65599,107,0.3,0.5
-2017,Cumberland,Urban Interstate/Freeway/Expressway,484520,51,0.7,1
-2017,Cumberland,Urban Primary Arterial,179226,43,0.7,1
-2017,Cumberland,Urban Minor Arterial,1187529,156,0.5,0.7
-2017,Cumberland,Urban Collector (Major and Minor),364489,91,0.5,0.7
-2017,Cumberland,Urban Local,429036,545,0.3,0.5
-2017,Cumberland,Rural Interstate/Primary Arterial,146378,39,0.7,1
-2017,Cumberland,Rural Minor Arterial,171617,47,0.5,0.7
-2017,Cumberland,Rural Collector (Major and Minor),130360,98,0.5,0.7
-2017,Cumberland,Rural Local,193444,333,0.3,0.5
-2018,Cumberland,Urban Interstate/Freeway/Expressway,499996,51,0.7,1
-2018,Cumberland,Urban Primary Arterial,173397,43,0.7,1
-2018,Cumberland,Urban Minor Arterial,1175987,156,0.5,0.7
-2018,Cumberland,Urban Collector (Major and Minor),363372,91,0.5,0.7
-2018,Cumberland,Urban Local,453432,545,0.3,0.5
-2018,Cumberland,Rural Interstate/Primary Arterial,140950,39,0.7,1
-2018,Cumberland,Rural Minor Arterial,170637,47,0.5,0.7
-2018,Cumberland,Rural Collector (Major and Minor),125917,98,0.5,0.7
-2018,Cumberland,Rural Local,206368,333,0.3,0.5
-2019,Cumberland,Urban Interstate/Freeway/Expressway,519764,51,0.7,1
-2019,Cumberland,Urban Primary Arterial,174827,43,0.7,1
-2019,Cumberland,Urban Minor Arterial,1206912,156,0.5,0.7
-2019,Cumberland,Urban Collector (Major and Minor),357406,91,0.5,0.7
-2019,Cumberland,Urban Local,463245,545,0.3,0.5
-2019,Cumberland,Rural Interstate/Primary Arterial,146460,39,0.7,1
-2019,Cumberland,Rural Minor Arterial,169150,47,0.5,0.7
-2019,Cumberland,Rural Collector (Major and Minor),130713,98,0.5,0.7
-2019,Cumberland,Rural Local,214966,333,0.3,0.5
-2020,Cumberland,Urban Interstate/Freeway/Expressway,434969,51,0.7,1
-2020,Cumberland,Urban Primary Arterial,158955,43,0.7,1
-2020,Cumberland,Urban Minor Arterial,1046839,156,0.5,0.7
-2020,Cumberland,Urban Collector (Major and Minor),351034,91,0.5,0.7
-2020,Cumberland,Urban Local,405988,546,0.3,0.5
-2020,Cumberland,Rural Interstate/Primary Arterial,134469,39,0.7,1
-2020,Cumberland,Rural Minor Arterial,143088,47,0.5,0.7
-2020,Cumberland,Rural Collector (Major and Minor),123572,98,0.5,0.7
-2020,Cumberland,Rural Local,179157,333,0.3,0.5
-2021,Cumberland,Urban Interstate/Freeway/Expressway,507646,51,0.7,1
-2021,Cumberland,Urban Primary Arterial,178473,43,0.7,1
-2021,Cumberland,Urban Minor Arterial,1147186,156,0.5,0.7
-2021,Cumberland,Urban Collector (Major and Minor),346570,91,0.5,0.7
-2021,Cumberland,Urban Local,446564,546,0.3,0.5
-2021,Cumberland,Rural Interstate/Primary Arterial,150390,39,0.7,1
-2021,Cumberland,Rural Minor Arterial,172085,47,0.5,0.7
-2021,Cumberland,Rural Collector (Major and Minor),129126,98,0.5,0.7
-2021,Cumberland,Rural Local,200535,333,0.3,0.5
-2022,Cumberland,Urban Interstate/Freeway/Expressway,513728,51,0.7,1
-2022,Cumberland,Urban Primary Arterial,170537,42.5,0.7,1
-2022,Cumberland,Urban Minor Arterial,1145573,156,0.5,0.7
-2022,Cumberland,Urban Collector (Major and Minor),343967,91,0.5,0.7
-2022,Cumberland,Urban Local,501643,546,0.3,0.5
-2022,Cumberland,Rural Interstate/Primary Arterial,146749,39,0.7,1
-2022,Cumberland,Rural Minor Arterial,155945,47,0.5,0.7
-2022,Cumberland,Rural Collector (Major and Minor),136171,98,0.5,0.7
-2022,Cumberland,Rural Local,204746,333,0.3,0.5
-2017,Essex,Urban Interstate/Freeway/Expressway,6679024,153,0.7,1
-2017,Essex,Urban Primary Arterial,2293961,268,0.7,1
-2017,Essex,Urban Minor Arterial,1859650,198,0.5,0.7
-2017,Essex,Urban Collector (Major and Minor),996838,179,0.5,0.7
-2017,Essex,Urban Local,1736392,1152,0.3,0.5
-2017,Essex,Rural Interstate/Primary Arterial,0,0,0.7,1
-2017,Essex,Rural Minor Arterial,0,0,0.5,0.7
-2017,Essex,Rural Collector (Major and Minor),0,0,0.5,0.7
-2017,Essex,Rural Local,0,0,0.3,0.5
-2018,Essex,Urban Interstate/Freeway/Expressway,6665030,153,0.7,1
-2018,Essex,Urban Primary Arterial,2266652,268,0.7,1
-2018,Essex,Urban Minor Arterial,1955214,198,0.5,0.7
-2018,Essex,Urban Collector (Major and Minor),1045522,179,0.5,0.7
-2018,Essex,Urban Local,1754972,1152,0.3,0.5
-2018,Essex,Rural Interstate/Primary Arterial,0,0,0.7,1
-2018,Essex,Rural Minor Arterial,0,0,0.5,0.7
-2018,Essex,Rural Collector (Major and Minor),0,0,0.5,0.7
-2018,Essex,Rural Local,0,0,0.3,0.5
-2019,Essex,Urban Interstate/Freeway/Expressway,6366127,153,0.7,1
-2019,Essex,Urban Primary Arterial,2283193,268,0.7,1
-2019,Essex,Urban Minor Arterial,1969126,198,0.5,0.7
-2019,Essex,Urban Collector (Major and Minor),1054895,179,0.5,0.7
-2019,Essex,Urban Local,1687322,1152,0.3,0.5
-2019,Essex,Rural Interstate/Primary Arterial,0,0,0.7,1
-2019,Essex,Rural Minor Arterial,0,0,0.5,0.7
-2019,Essex,Rural Collector (Major and Minor),0,0,0.5,0.7
-2019,Essex,Rural Local,0,0,0.3,0.5
-2020,Essex,Urban Interstate/Freeway/Expressway,5418060,153,0.7,1
-2020,Essex,Urban Primary Arterial,2203590,268,0.7,1
-2020,Essex,Urban Minor Arterial,1754507,198,0.5,0.7
-2020,Essex,Urban Collector (Major and Minor),920443,179,0.5,0.7
-2020,Essex,Urban Local,1426805,1152,0.3,0.5
-2020,Essex,Rural Interstate/Primary Arterial,0,0,0.7,1
-2020,Essex,Rural Minor Arterial,0,0,0.5,0.7
-2020,Essex,Rural Collector (Major and Minor),0,0,0.5,0.7
-2020,Essex,Rural Local,0,0,0.3,0.5
-2021,Essex,Urban Interstate/Freeway/Expressway,6107061,153,0.7,1
-2021,Essex,Urban Primary Arterial,2317690,268,0.7,1
-2021,Essex,Urban Minor Arterial,1907660,198,0.5,0.7
-2021,Essex,Urban Collector (Major and Minor),911381,179,0.5,0.7
-2021,Essex,Urban Local,1643899,1152,0.3,0.5
-2021,Essex,Rural Interstate/Primary Arterial,0,0,0.7,1
-2021,Essex,Rural Minor Arterial,0,0,0.5,0.7
-2021,Essex,Rural Collector (Major and Minor),0,0,0.5,0.7
-2021,Essex,Rural Local,0,0,0.3,0.5
-2022,Essex,Urban Interstate/Freeway/Expressway,6229599,153,0.7,1
-2022,Essex,Urban Primary Arterial,2384232,267.5,0.7,1
-2022,Essex,Urban Minor Arterial,1945417,198,0.5,0.7
-2022,Essex,Urban Collector (Major and Minor),882810,179,0.5,0.7
-2022,Essex,Urban Local,1698794,1152,0.3,0.5
-2022,Essex,Rural Interstate/Primary Arterial,0,0,0.7,1
-2022,Essex,Rural Minor Arterial,0,0,0.5,0.7
-2022,Essex,Rural Collector (Major and Minor),0,0,0.5,0.7
-2022,Essex,Rural Local,0,0,0.3,0.5
-2017,Gloucester,Urban Interstate/Freeway/Expressway,3526725,177,0.7,1
-2017,Gloucester,Urban Primary Arterial,1490530,195,0.7,1
-2017,Gloucester,Urban Minor Arterial,1545592,207,0.5,0.7
-2017,Gloucester,Urban Collector (Major and Minor),681507,176,0.5,0.7
-2017,Gloucester,Urban Local,1116192,1112,0.3,0.5
-2017,Gloucester,Rural Interstate/Primary Arterial,0,0,0.7,1
-2017,Gloucester,Rural Minor Arterial,20125,7,0.5,0.7
-2017,Gloucester,Rural Collector (Major and Minor),79097,21,0.5,0.7
-2017,Gloucester,Rural Local,34595,59,0.3,0.5
-2018,Gloucester,Urban Interstate/Freeway/Expressway,3481293,177,0.7,1
-2018,Gloucester,Urban Primary Arterial,1424837,195,0.7,1
-2018,Gloucester,Urban Minor Arterial,1546715,207,0.5,0.7
-2018,Gloucester,Urban Collector (Major and Minor),680669,176,0.5,0.7
-2018,Gloucester,Urban Local,1120214,1112,0.3,0.5
-2018,Gloucester,Rural Interstate/Primary Arterial,0,0,0.7,1
-2018,Gloucester,Rural Minor Arterial,19919,7,0.5,0.7
-2018,Gloucester,Rural Collector (Major and Minor),78777,21,0.5,0.7
-2018,Gloucester,Rural Local,36907,59,0.3,0.5
-2019,Gloucester,Urban Interstate/Freeway/Expressway,3590889,177,0.7,1
-2019,Gloucester,Urban Primary Arterial,1423875,195,0.7,1
-2019,Gloucester,Urban Minor Arterial,1580253,207,0.5,0.7
-2019,Gloucester,Urban Collector (Major and Minor),685307,176,0.5,0.7
-2019,Gloucester,Urban Local,1140064,1112,0.3,0.5
-2019,Gloucester,Rural Interstate/Primary Arterial,0,0,0.7,1
-2019,Gloucester,Rural Minor Arterial,21024,7,0.5,0.7
-2019,Gloucester,Rural Collector (Major and Minor),80417,21,0.5,0.7
-2019,Gloucester,Rural Local,38444,59,0.3,0.5
-2020,Gloucester,Urban Interstate/Freeway/Expressway,2950967,177,0.7,1
-2020,Gloucester,Urban Primary Arterial,1254597,195,0.7,1
-2020,Gloucester,Urban Minor Arterial,1460758,207,0.5,0.7
-2020,Gloucester,Urban Collector (Major and Minor),647739,176,0.5,0.7
-2020,Gloucester,Urban Local,977506,1120,0.3,0.5
-2020,Gloucester,Rural Interstate/Primary Arterial,0,0,0.7,1
-2020,Gloucester,Rural Minor Arterial,20247,7,0.5,0.7
-2020,Gloucester,Rural Collector (Major and Minor),79071,21,0.5,0.7
-2020,Gloucester,Rural Local,32040,59,0.3,0.5
-2021,Gloucester,Urban Interstate/Freeway/Expressway,3451437,177,0.7,1
-2021,Gloucester,Urban Primary Arterial,1381694,195,0.7,1
-2021,Gloucester,Urban Minor Arterial,1527895,207,0.5,0.7
-2021,Gloucester,Urban Collector (Major and Minor),660353,176,0.5,0.7
-2021,Gloucester,Urban Local,1092172,1120,0.3,0.5
-2021,Gloucester,Rural Interstate/Primary Arterial,0,0,0.7,1
-2021,Gloucester,Rural Minor Arterial,21531,7,0.5,0.7
-2021,Gloucester,Rural Collector (Major and Minor),77498,21,0.5,0.7
-2021,Gloucester,Rural Local,35862,59,0.3,0.5
-2022,Gloucester,Urban Interstate/Freeway/Expressway,3535138,177,0.7,1
-2022,Gloucester,Urban Primary Arterial,1410430,195,0.7,1
-2022,Gloucester,Urban Minor Arterial,1607313,207,0.5,0.7
-2022,Gloucester,Urban Collector (Major and Minor),692049,176,0.5,0.7
-2022,Gloucester,Urban Local,1116322,1120,0.3,0.5
-2022,Gloucester,Rural Interstate/Primary Arterial,0,0,0.7,1
-2022,Gloucester,Rural Minor Arterial,22573,7,0.5,0.7
-2022,Gloucester,Rural Collector (Major and Minor),81964,21,0.5,0.7
-2022,Gloucester,Rural Local,36615,59,0.3,0.5
-2017,Hudson,Urban Interstate/Freeway/Expressway,2762379,87,0.7,1
-2017,Hudson,Urban Primary Arterial,1316320,95,0.7,1
-2017,Hudson,Urban Minor Arterial,922391,97,0.5,0.7
-2017,Hudson,Urban Collector (Major and Minor),525820,80,0.5,0.7
-2017,Hudson,Urban Local,586055,389,0.3,0.5
-2017,Hudson,Rural Interstate/Primary Arterial,0,0,0.7,1
-2017,Hudson,Rural Minor Arterial,0,0,0.5,0.7
-2017,Hudson,Rural Collector (Major and Minor),0,0,0.5,0.7
-2017,Hudson,Rural Local,0,0,0.3,0.5
-2018,Hudson,Urban Interstate/Freeway/Expressway,2785723,87,0.7,1
-2018,Hudson,Urban Primary Arterial,1179330,95,0.7,1
-2018,Hudson,Urban Minor Arterial,1041244,97,0.5,0.7
-2018,Hudson,Urban Collector (Major and Minor),521746,80,0.5,0.7
-2018,Hudson,Urban Local,601677,395,0.3,0.5
-2018,Hudson,Rural Interstate/Primary Arterial,0,0,0.7,1
-2018,Hudson,Rural Minor Arterial,0,0,0.5,0.7
-2018,Hudson,Rural Collector (Major and Minor),0,0,0.5,0.7
-2018,Hudson,Rural Local,0,0,0.3,0.5
-2019,Hudson,Urban Interstate/Freeway/Expressway,2954620,87,0.7,1
-2019,Hudson,Urban Primary Arterial,1239565,95,0.7,1
-2019,Hudson,Urban Minor Arterial,1067232,97,0.5,0.7
-2019,Hudson,Urban Collector (Major and Minor),536825,80,0.5,0.7
-2019,Hudson,Urban Local,578494,395,0.3,0.5
-2019,Hudson,Rural Interstate/Primary Arterial,0,0,0.7,1
-2019,Hudson,Rural Minor Arterial,0,0,0.5,0.7
-2019,Hudson,Rural Collector (Major and Minor),0,0,0.5,0.7
-2019,Hudson,Rural Local,0,0,0.3,0.5
-2020,Hudson,Urban Interstate/Freeway/Expressway,2168928,87,0.7,1
-2020,Hudson,Urban Primary Arterial,1190646,95,0.7,1
-2020,Hudson,Urban Minor Arterial,917744,97,0.5,0.7
-2020,Hudson,Urban Collector (Major and Minor),419768,80,0.5,0.7
-2020,Hudson,Urban Local,489177,395,0.3,0.5
-2020,Hudson,Rural Interstate/Primary Arterial,0,0,0.7,1
-2020,Hudson,Rural Minor Arterial,0,0,0.5,0.7
-2020,Hudson,Rural Collector (Major and Minor),0,0,0.5,0.7
-2020,Hudson,Rural Local,0,0,0.3,0.5
-2021,Hudson,Urban Interstate/Freeway/Expressway,2483845,87,0.7,1
-2021,Hudson,Urban Primary Arterial,1331117,95,0.7,1
-2021,Hudson,Urban Minor Arterial,987609,97,0.5,0.7
-2021,Hudson,Urban Collector (Major and Minor),442693,80,0.5,0.7
-2021,Hudson,Urban Local,563602,395,0.3,0.5
-2021,Hudson,Rural Interstate/Primary Arterial,0,0,0.7,1
-2021,Hudson,Rural Minor Arterial,0,0,0.5,0.7
-2021,Hudson,Rural Collector (Major and Minor),0,0,0.5,0.7
-2021,Hudson,Rural Local,0,0,0.3,0.5
-2022,Hudson,Urban Interstate/Freeway/Expressway,2553836,87,0.7,1
-2022,Hudson,Urban Primary Arterial,1320512,95,0.7,1
-2022,Hudson,Urban Minor Arterial,1042465,97,0.5,0.7
-2022,Hudson,Urban Collector (Major and Minor),428398,80,0.5,0.7
-2022,Hudson,Urban Local,582422,395,0.3,0.5
-2022,Hudson,Rural Interstate/Primary Arterial,0,0,0.7,1
-2022,Hudson,Rural Minor Arterial,0,0,0.5,0.7
-2022,Hudson,Rural Collector (Major and Minor),0,0,0.5,0.7
-2022,Hudson,Rural Local,0,0,0.3,0.5
-2017,Hunterdon,Urban Interstate/Freeway/Expressway,1300114,39,0.7,1
-2017,Hunterdon,Urban Primary Arterial,1177084,108,0.7,1
-2017,Hunterdon,Urban Minor Arterial,326423,46,0.5,0.7
-2017,Hunterdon,Urban Collector (Major and Minor),211566,60,0.5,0.7
-2017,Hunterdon,Urban Local,520754,417,0.3,0.5
-2017,Hunterdon,Rural Interstate/Primary Arterial,954246,48,0.7,1
-2017,Hunterdon,Rural Minor Arterial,274610,58,0.5,0.7
-2017,Hunterdon,Rural Collector (Major and Minor),395520,169,0.5,0.7
-2017,Hunterdon,Rural Local,372145,640,0.3,0.5
-2018,Hunterdon,Urban Interstate/Freeway/Expressway,1329272,39,0.7,1
-2018,Hunterdon,Urban Primary Arterial,1193432,108,0.7,1
-2018,Hunterdon,Urban Minor Arterial,317986,46,0.5,0.7
-2018,Hunterdon,Urban Collector (Major and Minor),217782,60,0.5,0.7
-2018,Hunterdon,Urban Local,502445,417,0.3,0.5
-2018,Hunterdon,Rural Interstate/Primary Arterial,897523,48,0.7,1
-2018,Hunterdon,Rural Minor Arterial,267958,58,0.5,0.7
-2018,Hunterdon,Rural Collector (Major and Minor),377939,169,0.5,0.7
-2018,Hunterdon,Rural Local,397007,640,0.3,0.5
-2019,Hunterdon,Urban Interstate/Freeway/Expressway,1348220,39,0.7,1
-2019,Hunterdon,Urban Primary Arterial,1176545,108,0.7,1
-2019,Hunterdon,Urban Minor Arterial,319495,46,0.5,0.7
-2019,Hunterdon,Urban Collector (Major and Minor),217843,60,0.5,0.7
-2019,Hunterdon,Urban Local,482552,419,0.3,0.5
-2019,Hunterdon,Rural Interstate/Primary Arterial,909844,48,0.7,1
-2019,Hunterdon,Rural Minor Arterial,271234,58,0.5,0.7
-2019,Hunterdon,Rural Collector (Major and Minor),390414,169,0.5,0.7
-2019,Hunterdon,Rural Local,413677,640,0.3,0.5
-2020,Hunterdon,Urban Interstate/Freeway/Expressway,1176358,39,0.7,1
-2020,Hunterdon,Urban Primary Arterial,974581,108,0.7,1
-2020,Hunterdon,Urban Minor Arterial,289270,46,0.5,0.7
-2020,Hunterdon,Urban Collector (Major and Minor),191306,60,0.5,0.7
-2020,Hunterdon,Urban Local,415012,419,0.3,0.5
-2020,Hunterdon,Rural Interstate/Primary Arterial,692583,48,0.7,1
-2020,Hunterdon,Rural Minor Arterial,234972,58,0.5,0.7
-2020,Hunterdon,Rural Collector (Major and Minor),329749,169,0.5,0.7
-2020,Hunterdon,Rural Local,344938,640,0.3,0.5
-2021,Hunterdon,Urban Interstate/Freeway/Expressway,1095831,39,0.7,1
-2021,Hunterdon,Urban Primary Arterial,986660,108,0.7,1
-2021,Hunterdon,Urban Minor Arterial,278456,46,0.5,0.7
-2021,Hunterdon,Urban Collector (Major and Minor),200207,60,0.5,0.7
-2021,Hunterdon,Urban Local,465978,419,0.3,0.5
-2021,Hunterdon,Rural Interstate/Primary Arterial,764170,48,0.7,1
-2021,Hunterdon,Rural Minor Arterial,261847,58,0.5,0.7
-2021,Hunterdon,Rural Collector (Major and Minor),356058,169,0.5,0.7
-2021,Hunterdon,Rural Local,386094,640,0.3,0.5
-2022,Hunterdon,Urban Interstate/Freeway/Expressway,1096001,39,0.7,1
-2022,Hunterdon,Urban Primary Arterial,1074950,107.5,0.7,1
-2022,Hunterdon,Urban Minor Arterial,274319,46,0.5,0.7
-2022,Hunterdon,Urban Collector (Major and Minor),208076,60,0.5,0.7
-2022,Hunterdon,Urban Local,485392,419,0.3,0.5
-2022,Hunterdon,Rural Interstate/Primary Arterial,789552,48,0.7,1
-2022,Hunterdon,Rural Minor Arterial,260974,58,0.5,0.7
-2022,Hunterdon,Rural Collector (Major and Minor),372436,169,0.5,0.7
-2022,Hunterdon,Rural Local,394201,640,0.3,0.5
-2017,Mercer,Urban Interstate/Freeway/Expressway,3921663,165,0.7,1
-2017,Mercer,Urban Primary Arterial,2004498,213,0.7,1
-2017,Mercer,Urban Minor Arterial,1741601,185,0.5,0.7
-2017,Mercer,Urban Collector (Major and Minor),726879,181,0.5,0.7
-2017,Mercer,Urban Local,990281,932,0.3,0.5
-2017,Mercer,Rural Interstate/Primary Arterial,519475,24,0.7,1
-2017,Mercer,Rural Minor Arterial,59208,9,0.5,0.7
-2017,Mercer,Rural Collector (Major and Minor),81330,26,0.5,0.7
-2017,Mercer,Rural Local,32839,56,0.3,0.5
-2018,Mercer,Urban Interstate/Freeway/Expressway,3972174,165,0.7,1
-2018,Mercer,Urban Primary Arterial,1916041,213,0.7,1
-2018,Mercer,Urban Minor Arterial,1765069,185,0.5,0.7
-2018,Mercer,Urban Collector (Major and Minor),733448,181,0.5,0.7
-2018,Mercer,Urban Local,831103,934,0.3,0.5
-2018,Mercer,Rural Interstate/Primary Arterial,522771,24,0.7,1
-2018,Mercer,Rural Minor Arterial,64175,9,0.5,0.7
-2018,Mercer,Rural Collector (Major and Minor),63882,25,0.5,0.7
-2018,Mercer,Rural Local,35033,56,0.3,0.5
-2019,Mercer,Urban Interstate/Freeway/Expressway,4149679,165,0.7,1
-2019,Mercer,Urban Primary Arterial,1948218,213,0.7,1
-2019,Mercer,Urban Minor Arterial,1838686,185,0.5,0.7
-2019,Mercer,Urban Collector (Major and Minor),728816,181,0.5,0.7
-2019,Mercer,Urban Local,821999,934,0.3,0.5
-2019,Mercer,Rural Interstate/Primary Arterial,542077,24,0.7,1
-2019,Mercer,Rural Minor Arterial,67575,9,0.5,0.7
-2019,Mercer,Rural Collector (Major and Minor),63638,25,0.5,0.7
-2019,Mercer,Rural Local,36492,56,0.3,0.5
-2020,Mercer,Urban Interstate/Freeway/Expressway,3125506,165,0.7,1
-2020,Mercer,Urban Primary Arterial,1829486,213,0.7,1
-2020,Mercer,Urban Minor Arterial,1594676,185,0.5,0.7
-2020,Mercer,Urban Collector (Major and Minor),685246,181,0.5,0.7
-2020,Mercer,Urban Local,722067,939,0.3,0.5
-2020,Mercer,Rural Interstate/Primary Arterial,414330,24,0.7,1
-2020,Mercer,Rural Minor Arterial,67475,9,0.5,0.7
-2020,Mercer,Rural Collector (Major and Minor),57378,25,0.5,0.7
-2020,Mercer,Rural Local,30413,56,0.3,0.5
-2021,Mercer,Urban Interstate/Freeway/Expressway,3728066,165,0.7,1
-2021,Mercer,Urban Primary Arterial,2079628,213,0.7,1
-2021,Mercer,Urban Minor Arterial,1606807,185,0.5,0.7
-2021,Mercer,Urban Collector (Major and Minor),657228,181,0.5,0.7
-2021,Mercer,Urban Local,815344,938,0.3,0.5
-2021,Mercer,Rural Interstate/Primary Arterial,510732,24,0.7,1
-2021,Mercer,Rural Minor Arterial,73241,9,0.5,0.7
-2021,Mercer,Rural Collector (Major and Minor),58438,25,0.5,0.7
-2021,Mercer,Rural Local,34041,56,0.3,0.5
-2022,Mercer,Urban Interstate/Freeway/Expressway,3851820,165,0.7,1
-2022,Mercer,Urban Primary Arterial,1987552,212.5,0.7,1
-2022,Mercer,Urban Minor Arterial,1589707,185,0.5,0.7
-2022,Mercer,Urban Collector (Major and Minor),647145,181,0.5,0.7
-2022,Mercer,Urban Local,800989,938,0.3,0.5
-2022,Mercer,Rural Interstate/Primary Arterial,520918,24,0.7,1
-2022,Mercer,Rural Minor Arterial,66083,9,0.5,0.7
-2022,Mercer,Rural Collector (Major and Minor),56931,25,0.5,0.7
-2022,Mercer,Rural Local,34756,56,0.3,0.5
-2017,Middlesex,Urban Interstate/Freeway/Expressway,10103706,186,0.7,1
-2017,Middlesex,Urban Primary Arterial,6114822,410,0.7,1
-2017,Middlesex,Urban Minor Arterial,2497787,286,0.5,0.7
-2017,Middlesex,Urban Collector (Major and Minor),1675019,276,0.5,0.7
-2017,Middlesex,Urban Local,2667017,1770,0.3,0.5
-2017,Middlesex,Rural Interstate/Primary Arterial,207609,6,0.7,1
-2017,Middlesex,Rural Minor Arterial,13423,3,0.5,0.7
-2017,Middlesex,Rural Collector (Major and Minor),43114,6,0.5,0.7
-2017,Middlesex,Rural Local,6916,12,0.3,0.5
-2018,Middlesex,Urban Interstate/Freeway/Expressway,9977124,186,0.7,1
-2018,Middlesex,Urban Primary Arterial,6256799,410,0.7,1
-2018,Middlesex,Urban Minor Arterial,2515252,286,0.5,0.7
-2018,Middlesex,Urban Collector (Major and Minor),1551243,276,0.5,0.7
-2018,Middlesex,Urban Local,2702149,1774,0.3,0.5
-2018,Middlesex,Rural Interstate/Primary Arterial,217797,6,0.7,1
-2018,Middlesex,Rural Minor Arterial,17890,3,0.5,0.7
-2018,Middlesex,Rural Collector (Major and Minor),12927,6,0.5,0.7
-2018,Middlesex,Rural Local,7378,12,0.3,0.5
-2019,Middlesex,Urban Interstate/Freeway/Expressway,10241706,186,0.7,1
-2019,Middlesex,Urban Primary Arterial,6307028,410,0.7,1
-2019,Middlesex,Urban Minor Arterial,2562558,286,0.5,0.7
-2019,Middlesex,Urban Collector (Major and Minor),1592069,276,0.5,0.7
-2019,Middlesex,Urban Local,2606247,1780,0.3,0.5
-2019,Middlesex,Rural Interstate/Primary Arterial,223902,6,0.7,1
-2019,Middlesex,Rural Minor Arterial,18545,3,0.5,0.7
-2019,Middlesex,Rural Collector (Major and Minor),13206,6,0.5,0.7
-2019,Middlesex,Rural Local,7685,12,0.3,0.5
-2020,Middlesex,Urban Interstate/Freeway/Expressway,7798116,186,0.7,1
-2020,Middlesex,Urban Primary Arterial,5225256,410,0.7,1
-2020,Middlesex,Urban Minor Arterial,2144934,286,0.5,0.7
-2020,Middlesex,Urban Collector (Major and Minor),1494967,276,0.5,0.7
-2020,Middlesex,Urban Local,2215701,1789,0.3,0.5
-2020,Middlesex,Rural Interstate/Primary Arterial,174148,6,0.7,1
-2020,Middlesex,Rural Minor Arterial,18705,3,0.5,0.7
-2020,Middlesex,Rural Collector (Major and Minor),12147,6,0.5,0.7
-2020,Middlesex,Rural Local,8732,16,0.3,0.5
-2021,Middlesex,Urban Interstate/Freeway/Expressway,9279779,186,0.7,1
-2021,Middlesex,Urban Primary Arterial,5993527,410,0.7,1
-2021,Middlesex,Urban Minor Arterial,2441486,286,0.5,0.7
-2021,Middlesex,Urban Collector (Major and Minor),1429669,276,0.5,0.7
-2021,Middlesex,Urban Local,2553405,1790,0.3,0.5
-2021,Middlesex,Rural Interstate/Primary Arterial,212192,6,0.7,1
-2021,Middlesex,Rural Minor Arterial,20154,3,0.5,0.7
-2021,Middlesex,Rural Collector (Major and Minor),12082,6,0.5,0.7
-2021,Middlesex,Rural Local,9773,16,0.3,0.5
-2022,Middlesex,Urban Interstate/Freeway/Expressway,9717348,186,0.7,1
-2022,Middlesex,Urban Primary Arterial,6108832,410,0.7,1
-2022,Middlesex,Urban Minor Arterial,2633673,286,0.5,0.7
-2022,Middlesex,Urban Collector (Major and Minor),1342874,276,0.5,0.7
-2022,Middlesex,Urban Local,2638819,1790,0.3,0.5
-2022,Middlesex,Rural Interstate/Primary Arterial,217380,6,0.7,1
-2022,Middlesex,Rural Minor Arterial,17944,3,0.5,0.7
-2022,Middlesex,Rural Collector (Major and Minor),11533,6,0.5,0.7
-2022,Middlesex,Rural Local,9979,16,0.3,0.5
-2017,Monmouth,Urban Interstate/Freeway/Expressway,6205122,213,0.7,1
-2017,Monmouth,Urban Primary Arterial,3887946,360,0.7,1
-2017,Monmouth,Urban Minor Arterial,2199593,262,0.5,0.7
-2017,Monmouth,Urban Collector (Major and Minor),1622340,318,0.5,0.7
-2017,Monmouth,Urban Local,3753162,2491,0.3,0.5
-2017,Monmouth,Rural Interstate/Primary Arterial,391125,24,0.7,1
-2017,Monmouth,Rural Minor Arterial,42570,4,0.5,0.7
-2017,Monmouth,Rural Collector (Major and Minor),184483,53,0.5,0.7
-2017,Monmouth,Rural Local,96033,165,0.3,0.5
-2018,Monmouth,Urban Interstate/Freeway/Expressway,6116865,213,0.7,1
-2018,Monmouth,Urban Primary Arterial,3875210,360,0.7,1
-2018,Monmouth,Urban Minor Arterial,2268073,262,0.5,0.7
-2018,Monmouth,Urban Collector (Major and Minor),1703547,318,0.5,0.7
-2018,Monmouth,Urban Local,3797053,2493,0.3,0.5
-2018,Monmouth,Rural Interstate/Primary Arterial,441524,24,0.7,1
-2018,Monmouth,Rural Minor Arterial,41765,4,0.5,0.7
-2018,Monmouth,Rural Collector (Major and Minor),174626,53,0.5,0.7
-2018,Monmouth,Rural Local,102449,165,0.3,0.5
-2019,Monmouth,Urban Interstate/Freeway/Expressway,6130052,213,0.7,1
-2019,Monmouth,Urban Primary Arterial,3897051,360,0.7,1
-2019,Monmouth,Urban Minor Arterial,2262944,262,0.5,0.7
-2019,Monmouth,Urban Collector (Major and Minor),1789181,318,0.5,0.7
-2019,Monmouth,Urban Local,3650427,2493,0.3,0.5
-2019,Monmouth,Rural Interstate/Primary Arterial,465898,24,0.7,1
-2019,Monmouth,Rural Minor Arterial,42050,4,0.5,0.7
-2019,Monmouth,Rural Collector (Major and Minor),179907,53,0.5,0.7
-2019,Monmouth,Rural Local,106717,165,0.3,0.5
-2020,Monmouth,Urban Interstate/Freeway/Expressway,5027420,213,0.7,1
-2020,Monmouth,Urban Primary Arterial,3383604,360,0.7,1
-2020,Monmouth,Urban Minor Arterial,2127152,262,0.5,0.7
-2020,Monmouth,Urban Collector (Major and Minor),1381491,318,0.5,0.7
-2020,Monmouth,Urban Local,3087408,2493,0.3,0.5
-2020,Monmouth,Rural Interstate/Primary Arterial,364714,24,0.7,1
-2020,Monmouth,Rural Minor Arterial,37937,4,0.5,0.7
-2020,Monmouth,Rural Collector (Major and Minor),155494,53,0.5,0.7
-2020,Monmouth,Rural Local,89990,167,0.3,0.5
-2021,Monmouth,Urban Interstate/Freeway/Expressway,5626514,213,0.7,1
-2021,Monmouth,Urban Primary Arterial,3697427,360,0.7,1
-2021,Monmouth,Urban Minor Arterial,2047537,262,0.5,0.7
-2021,Monmouth,Urban Collector (Major and Minor),1536659,318,0.5,0.7
-2021,Monmouth,Urban Local,3397595,2382,0.3,0.5
-2021,Monmouth,Rural Interstate/Primary Arterial,415271,24,0.7,1
-2021,Monmouth,Rural Minor Arterial,41808,4,0.5,0.7
-2021,Monmouth,Rural Collector (Major and Minor),172178,53,0.5,0.7
-2021,Monmouth,Rural Local,100728,167,0.3,0.5
-2022,Monmouth,Urban Interstate/Freeway/Expressway,5725461,213,0.7,1
-2022,Monmouth,Urban Primary Arterial,3797870,360,0.7,1
-2022,Monmouth,Urban Minor Arterial,2039725,263,0.5,0.7
-2022,Monmouth,Urban Collector (Major and Minor),1514219,318,0.5,0.7
-2022,Monmouth,Urban Local,3511907,2382,0.3,0.5
-2022,Monmouth,Rural Interstate/Primary Arterial,427312,24,0.7,1
-2022,Monmouth,Rural Minor Arterial,41494,4,0.5,0.7
-2022,Monmouth,Rural Collector (Major and Minor),166564,53,0.5,0.7
-2022,Monmouth,Rural Local,103022,167,0.3,0.5
-2017,Morris,Urban Interstate/Freeway/Expressway,6330056,186,0.7,1
-2017,Morris,Urban Primary Arterial,2863385,253,0.7,1
-2017,Morris,Urban Minor Arterial,1642955,279,0.5,0.7
-2017,Morris,Urban Collector (Major and Minor),961508,260,0.5,0.7
-2017,Morris,Urban Local,2662376,1767,0.3,0.5
-2017,Morris,Rural Interstate/Primary Arterial,54684,6,0.7,1
-2017,Morris,Rural Minor Arterial,7097,1,0.5,0.7
-2017,Morris,Rural Collector (Major and Minor),65769,27,0.5,0.7
-2017,Morris,Rural Local,56302,97,0.3,0.5
-2018,Morris,Urban Interstate/Freeway/Expressway,6271946,186,0.7,1
-2018,Morris,Urban Primary Arterial,2818220,253,0.7,1
-2018,Morris,Urban Minor Arterial,1775495,279,0.5,0.7
-2018,Morris,Urban Collector (Major and Minor),1020157,260,0.5,0.7
-2018,Morris,Urban Local,2690849,1767,0.3,0.5
-2018,Morris,Rural Interstate/Primary Arterial,55081,6,0.7,1
-2018,Morris,Rural Minor Arterial,7088,1,0.5,0.7
-2018,Morris,Rural Collector (Major and Minor),66650,27,0.5,0.7
-2018,Morris,Rural Local,60063,97,0.3,0.5
-2019,Morris,Urban Interstate/Freeway/Expressway,6282806,186,0.7,1
-2019,Morris,Urban Primary Arterial,2838376,253,0.7,1
-2019,Morris,Urban Minor Arterial,1828586,279,0.5,0.7
-2019,Morris,Urban Collector (Major and Minor),1015143,260,0.5,0.7
-2019,Morris,Urban Local,2587182,1767,0.3,0.5
-2019,Morris,Rural Interstate/Primary Arterial,57347,6,0.7,1
-2019,Morris,Rural Minor Arterial,6938,1,0.5,0.7
-2019,Morris,Rural Collector (Major and Minor),69003,27,0.5,0.7
-2019,Morris,Rural Local,62566,97,0.3,0.5
-2020,Morris,Urban Interstate/Freeway/Expressway,5443553,186,0.7,1
-2020,Morris,Urban Primary Arterial,2378135,253,0.7,1
-2020,Morris,Urban Minor Arterial,1504028,279,0.5,0.7
-2020,Morris,Urban Collector (Major and Minor),917719,260,0.5,0.7
-2020,Morris,Urban Local,2187730,1767,0.3,0.5
-2020,Morris,Rural Interstate/Primary Arterial,52344,6,0.7,1
-2020,Morris,Rural Minor Arterial,6349,1,0.5,0.7
-2020,Morris,Rural Collector (Major and Minor),54678,27,0.5,0.7
-2020,Morris,Rural Local,52143,97,0.3,0.5
-2021,Morris,Urban Interstate/Freeway/Expressway,6166357,186,0.7,1
-2021,Morris,Urban Primary Arterial,2616109,250,0.7,1
-2021,Morris,Urban Minor Arterial,1707649,279,0.5,0.7
-2021,Morris,Urban Collector (Major and Minor),899115,260,0.5,0.7
-2021,Morris,Urban Local,2520579,1767,0.3,0.5
-2021,Morris,Rural Interstate/Primary Arterial,52100,6,0.7,1
-2021,Morris,Rural Minor Arterial,6628,1,0.5,0.7
-2021,Morris,Rural Collector (Major and Minor),59945,27,0.5,0.7
-2021,Morris,Rural Local,58354,97,0.3,0.5
-2022,Morris,Urban Interstate/Freeway/Expressway,6456679,186,0.7,1
-2022,Morris,Urban Primary Arterial,2689691,250,0.7,1
-2022,Morris,Urban Minor Arterial,1676353,279,0.5,0.7
-2022,Morris,Urban Collector (Major and Minor),845386,260,0.5,0.7
-2022,Morris,Urban Local,2604838,1767,0.3,0.5
-2022,Morris,Rural Interstate/Primary Arterial,54123,6,0.7,1
-2022,Morris,Rural Minor Arterial,6614,1,0.5,0.7
-2022,Morris,Rural Collector (Major and Minor),60605,27,0.5,0.7
-2022,Morris,Rural Local,59580,97,0.3,0.5
-2017,Ocean,Urban Interstate/Freeway/Expressway,3589588,144,0.7,1
-2017,Ocean,Urban Primary Arterial,2998617,353,0.7,1
-2017,Ocean,Urban Minor Arterial,2117975,199,0.5,0.7
-2017,Ocean,Urban Collector (Major and Minor),848296,198,0.5,0.7
-2017,Ocean,Urban Local,3392530,2251,0.3,0.5
-2017,Ocean,Rural Interstate/Primary Arterial,175372,36,0.7,1
-2017,Ocean,Rural Minor Arterial,39400,3,0.5,0.7
-2017,Ocean,Rural Collector (Major and Minor),260028,47,0.5,0.7
-2017,Ocean,Rural Local,75746,130,0.3,0.5
-2018,Ocean,Urban Interstate/Freeway/Expressway,3574937,144,0.7,1
-2018,Ocean,Urban Primary Arterial,2967972,353,0.7,1
-2018,Ocean,Urban Minor Arterial,2125070,199,0.5,0.7
-2018,Ocean,Urban Collector (Major and Minor),980223,198,0.5,0.7
-2018,Ocean,Urban Local,3429105,2252,0.3,0.5
-2018,Ocean,Rural Interstate/Primary Arterial,176146,36,0.7,1
-2018,Ocean,Rural Minor Arterial,38841,3,0.5,0.7
-2018,Ocean,Rural Collector (Major and Minor),249407,47,0.5,0.7
-2018,Ocean,Rural Local,80806,130,0.3,0.5
-2019,Ocean,Urban Interstate/Freeway/Expressway,3598369,144,0.7,1
-2019,Ocean,Urban Primary Arterial,3051622,353,0.7,1
-2019,Ocean,Urban Minor Arterial,2135812,199,0.5,0.7
-2019,Ocean,Urban Collector (Major and Minor),996153,198,0.5,0.7
-2019,Ocean,Urban Local,3297213,2252,0.3,0.5
-2019,Ocean,Rural Interstate/Primary Arterial,176407,36,0.7,1
-2019,Ocean,Rural Minor Arterial,39462,3,0.5,0.7
-2019,Ocean,Rural Collector (Major and Minor),260189,47,0.5,0.7
-2019,Ocean,Rural Local,84173,130,0.3,0.5
-2020,Ocean,Urban Interstate/Freeway/Expressway,2953487,144,0.7,1
-2020,Ocean,Urban Primary Arterial,2832407,353,0.7,1
-2020,Ocean,Urban Minor Arterial,1970354,199,0.5,0.7
-2020,Ocean,Urban Collector (Major and Minor),971823,198,0.5,0.7
-2020,Ocean,Urban Local,2789620,2253,0.3,0.5
-2020,Ocean,Rural Interstate/Primary Arterial,167980,36,0.7,1
-2020,Ocean,Rural Minor Arterial,36031,3,0.5,0.7
-2020,Ocean,Rural Collector (Major and Minor),240418,47,0.5,0.7
-2020,Ocean,Rural Local,70151,130,0.3,0.5
-2021,Ocean,Urban Interstate/Freeway/Expressway,3409672,144,0.7,1
-2021,Ocean,Urban Primary Arterial,3118616,353,0.7,1
-2021,Ocean,Urban Minor Arterial,2157586,199,0.5,0.7
-2021,Ocean,Urban Collector (Major and Minor),944023,199,0.5,0.7
-2021,Ocean,Urban Local,3214535,2253,0.3,0.5
-2021,Ocean,Rural Interstate/Primary Arterial,193246,36,0.7,1
-2021,Ocean,Rural Minor Arterial,38556,3,0.5,0.7
-2021,Ocean,Rural Collector (Major and Minor),258685,47,0.5,0.7
-2021,Ocean,Rural Local,56211,93,0.3,0.5
-2022,Ocean,Urban Interstate/Freeway/Expressway,3453420,144,0.7,1
-2022,Ocean,Urban Primary Arterial,2954575,352.5,0.7,1
-2022,Ocean,Urban Minor Arterial,2251500,199,0.5,0.7
-2022,Ocean,Urban Collector (Major and Minor),954677,199,0.5,0.7
-2022,Ocean,Urban Local,3321879,2253,0.3,0.5
-2022,Ocean,Rural Interstate/Primary Arterial,169998,36,0.7,1
-2022,Ocean,Rural Minor Arterial,44393,3,0.5,0.7
-2022,Ocean,Rural Collector (Major and Minor),245435,47,0.5,0.7
-2022,Ocean,Rural Local,57391,93,0.3,0.5
-2017,Passaic,Urban Interstate/Freeway/Expressway,2905277,90,0.7,1
-2017,Passaic,Urban Primary Arterial,2302804,223,0.7,1
-2017,Passaic,Urban Minor Arterial,885868,186,0.5,0.7
-2017,Passaic,Urban Collector (Major and Minor),419176,113,0.5,0.7
-2017,Passaic,Urban Local,1388177,921,0.3,0.5
-2017,Passaic,Rural Interstate/Primary Arterial,0,0,0.7,1
-2017,Passaic,Rural Minor Arterial,0,0,0.5,0.7
-2017,Passaic,Rural Collector (Major and Minor),0,0,0.5,0.7
-2017,Passaic,Rural Local,0,0,0.3,0.5
-2018,Passaic,Urban Interstate/Freeway/Expressway,2861002,90,0.7,1
-2018,Passaic,Urban Primary Arterial,2287180,223,0.7,1
-2018,Passaic,Urban Minor Arterial,955656,186,0.5,0.7
-2018,Passaic,Urban Collector (Major and Minor),441540,113,0.5,0.7
-2018,Passaic,Urban Local,1403030,921,0.3,0.5
-2018,Passaic,Rural Interstate/Primary Arterial,0,0,0.7,1
-2018,Passaic,Rural Minor Arterial,0,0,0.5,0.7
-2018,Passaic,Rural Collector (Major and Minor),0,0,0.5,0.7
-2018,Passaic,Rural Local,0,0,0.3,0.5
-2019,Passaic,Urban Interstate/Freeway/Expressway,2937334,90,0.7,1
-2019,Passaic,Urban Primary Arterial,2301944,223,0.7,1
-2019,Passaic,Urban Minor Arterial,977645,186,0.5,0.7
-2019,Passaic,Urban Collector (Major and Minor),440709,113,0.5,0.7
-2019,Passaic,Urban Local,1348765,921,0.3,0.5
-2019,Passaic,Rural Interstate/Primary Arterial,0,0,0.7,1
-2019,Passaic,Rural Minor Arterial,0,0,0.5,0.7
-2019,Passaic,Rural Collector (Major and Minor),0,0,0.5,0.7
-2019,Passaic,Rural Local,0,0,0.3,0.5
-2020,Passaic,Urban Interstate/Freeway/Expressway,2674514,90,0.7,1
-2020,Passaic,Urban Primary Arterial,2065910,223,0.7,1
-2020,Passaic,Urban Minor Arterial,966930,186,0.5,0.7
-2020,Passaic,Urban Collector (Major and Minor),419431,113,0.5,0.7
-2020,Passaic,Urban Local,1140521,921,0.3,0.5
-2020,Passaic,Rural Interstate/Primary Arterial,0,0,0.7,1
-2020,Passaic,Rural Minor Arterial,0,0,0.5,0.7
-2020,Passaic,Rural Collector (Major and Minor),0,0,0.5,0.7
-2020,Passaic,Rural Local,0,0,0.3,0.5
-2021,Passaic,Urban Interstate/Freeway/Expressway,2851597,90,0.7,1
-2021,Passaic,Urban Primary Arterial,2205903,223,0.7,1
-2021,Passaic,Urban Minor Arterial,963376,186,0.5,0.7
-2021,Passaic,Urban Collector (Major and Minor),424542,113,0.5,0.7
-2021,Passaic,Urban Local,1314043,921,0.3,0.5
-2021,Passaic,Rural Interstate/Primary Arterial,0,0,0.7,1
-2021,Passaic,Rural Minor Arterial,0,0,0.5,0.7
-2021,Passaic,Rural Collector (Major and Minor),0,0,0.5,0.7
-2021,Passaic,Rural Local,0,0,0.3,0.5
-2022,Passaic,Urban Interstate/Freeway/Expressway,2951298,90,0.7,1
-2022,Passaic,Urban Primary Arterial,2257490,222.5,0.7,1
-2022,Passaic,Urban Minor Arterial,962581,186,0.5,0.7
-2022,Passaic,Urban Collector (Major and Minor),422137,113,0.5,0.7
-2022,Passaic,Urban Local,1357924,921,0.3,0.5
-2022,Passaic,Rural Interstate/Primary Arterial,0,0,0.7,1
-2022,Passaic,Rural Minor Arterial,0,0,0.5,0.7
-2022,Passaic,Rural Collector (Major and Minor),0,0,0.5,0.7
-2022,Passaic,Rural Local,0,0,0.3,0.5
-2017,Salem,Urban Interstate/Freeway/Expressway,258345,21,0.7,1
-2017,Salem,Urban Primary Arterial,215600,45,0.7,1
-2017,Salem,Urban Minor Arterial,182429,23,0.5,0.7
-2017,Salem,Urban Collector (Major and Minor),140968,56,0.5,0.7
-2017,Salem,Urban Local,221604,221,0.3,0.5
-2017,Salem,Rural Interstate/Primary Arterial,656053,99,0.7,1
-2017,Salem,Rural Minor Arterial,93279,19,0.5,0.7
-2017,Salem,Rural Collector (Major and Minor),256353,133,0.5,0.7
-2017,Salem,Rural Local,219013,377,0.3,0.5
-2018,Salem,Urban Interstate/Freeway/Expressway,266310,21,0.7,1
-2018,Salem,Urban Primary Arterial,214927,45,0.7,1
-2018,Salem,Urban Minor Arterial,182284,23,0.5,0.7
-2018,Salem,Urban Collector (Major and Minor),142230,56,0.5,0.7
-2018,Salem,Urban Local,222401,221,0.3,0.5
-2018,Salem,Rural Interstate/Primary Arterial,645859,99,0.7,1
-2018,Salem,Rural Minor Arterial,91167,19,0.5,0.7
-2018,Salem,Rural Collector (Major and Minor),251070,133,0.5,0.7
-2018,Salem,Rural Local,234197,377,0.3,0.5
-2019,Salem,Urban Interstate/Freeway/Expressway,261249,21,0.7,1
-2019,Salem,Urban Primary Arterial,212626,45,0.7,1
-2019,Salem,Urban Minor Arterial,186218,23,0.5,0.7
-2019,Salem,Urban Collector (Major and Minor),142443,56,0.5,0.7
-2019,Salem,Urban Local,226301,221,0.3,0.5
-2019,Salem,Rural Interstate/Primary Arterial,659024,99,0.7,1
-2019,Salem,Rural Minor Arterial,91479,19,0.5,0.7
-2019,Salem,Rural Collector (Major and Minor),260746,133,0.5,0.7
-2019,Salem,Rural Local,243955,377,0.3,0.5
-2020,Salem,Urban Interstate/Freeway/Expressway,248091,21,0.7,1
-2020,Salem,Urban Primary Arterial,195197,45,0.7,1
-2020,Salem,Urban Minor Arterial,182271,23,0.5,0.7
-2020,Salem,Urban Collector (Major and Minor),135177,56,0.5,0.7
-2020,Salem,Urban Local,192736,221,0.3,0.5
-2020,Salem,Rural Interstate/Primary Arterial,509460,99,0.7,1
-2020,Salem,Rural Minor Arterial,94201,19,0.5,0.7
-2020,Salem,Rural Collector (Major and Minor),227133,133,0.5,0.7
-2020,Salem,Rural Local,203316,377,0.3,0.5
-2021,Salem,Urban Interstate/Freeway/Expressway,297975,21,0.7,1
-2021,Salem,Urban Primary Arterial,194352,45,0.7,1
-2021,Salem,Urban Minor Arterial,191945,23,0.5,0.7
-2021,Salem,Urban Collector (Major and Minor),134093,56,0.5,0.7
-2021,Salem,Urban Local,215364,221,0.3,0.5
-2021,Salem,Rural Interstate/Primary Arterial,611298,99,0.7,1
-2021,Salem,Rural Minor Arterial,105476,19,0.5,0.7
-2021,Salem,Rural Collector (Major and Minor),237684,133,0.5,0.7
-2021,Salem,Rural Local,227569,377,0.3,0.5
-2022,Salem,Urban Interstate/Freeway/Expressway,305250,21,0.7,1
-2022,Salem,Urban Primary Arterial,204809,45,0.7,1
-2022,Salem,Urban Minor Arterial,195087,23,0.5,0.7
-2022,Salem,Urban Collector (Major and Minor),134234,56,0.5,0.7
-2022,Salem,Urban Local,220126,221,0.3,0.5
-2022,Salem,Rural Interstate/Primary Arterial,640214,99,0.7,1
-2022,Salem,Rural Minor Arterial,105656,19,0.5,0.7
-2022,Salem,Rural Collector (Major and Minor),246184,133,0.5,0.7
-2022,Salem,Rural Local,232347,377,0.3,0.5
-2017,Somerset,Urban Interstate/Freeway/Expressway,2956373,96,0.7,1
-2017,Somerset,Urban Primary Arterial,2360734,168,0.7,1
-2017,Somerset,Urban Minor Arterial,1251822,162,0.5,0.7
-2017,Somerset,Urban Collector (Major and Minor),682570,169,0.5,0.7
-2017,Somerset,Urban Local,1860149,1234,0.3,0.5
-2017,Somerset,Rural Interstate/Primary Arterial,461046,15,0.7,1
-2017,Somerset,Rural Minor Arterial,17344,2,0.5,0.7
-2017,Somerset,Rural Collector (Major and Minor),84584,21,0.5,0.7
-2017,Somerset,Rural Local,41749,72,0.3,0.5
-2018,Somerset,Urban Interstate/Freeway/Expressway,2923884,96,0.7,1
-2018,Somerset,Urban Primary Arterial,2355865,168,0.7,1
-2018,Somerset,Urban Minor Arterial,1215444,162,0.5,0.7
-2018,Somerset,Urban Collector (Major and Minor),686063,169,0.5,0.7
-2018,Somerset,Urban Local,1880541,1235,0.3,0.5
-2018,Somerset,Rural Interstate/Primary Arterial,455084,15,0.7,1
-2018,Somerset,Rural Minor Arterial,17435,2,0.5,0.7
-2018,Somerset,Rural Collector (Major and Minor),83332,21,0.5,0.7
-2018,Somerset,Rural Local,44539,72,0.3,0.5
-2019,Somerset,Urban Interstate/Freeway/Expressway,3009414,96,0.7,1
-2019,Somerset,Urban Primary Arterial,2356560,168,0.7,1
-2019,Somerset,Urban Minor Arterial,1289884,162,0.5,0.7
-2019,Somerset,Urban Collector (Major and Minor),683612,169,0.5,0.7
-2019,Somerset,Urban Local,1823222,1245,0.3,0.5
-2019,Somerset,Rural Interstate/Primary Arterial,450774,15,0.7,1
-2019,Somerset,Rural Minor Arterial,17891,2,0.5,0.7
-2019,Somerset,Rural Collector (Major and Minor),87544,21,0.5,0.7
-2019,Somerset,Rural Local,46356,72,0.3,0.5
-2020,Somerset,Urban Interstate/Freeway/Expressway,2958735,96,0.7,1
-2020,Somerset,Urban Primary Arterial,1761111,168,0.7,1
-2020,Somerset,Urban Minor Arterial,1184967,162,0.5,0.7
-2020,Somerset,Urban Collector (Major and Minor),598716,169,0.5,0.7
-2020,Somerset,Urban Local,1543989,1247,0.3,0.5
-2020,Somerset,Rural Interstate/Primary Arterial,340517,15,0.7,1
-2020,Somerset,Rural Minor Arterial,18114,2,0.5,0.7
-2020,Somerset,Rural Collector (Major and Minor),74847,21,0.5,0.7
-2020,Somerset,Rural Local,39253,73,0.3,0.5
-2021,Somerset,Urban Interstate/Freeway/Expressway,2834692,96,0.7,1
-2021,Somerset,Urban Primary Arterial,1947167,168,0.7,1
-2021,Somerset,Urban Minor Arterial,1143930,162,0.5,0.7
-2021,Somerset,Urban Collector (Major and Minor),704587,169,0.5,0.7
-2021,Somerset,Urban Local,1780245,1248,0.3,0.5
-2021,Somerset,Rural Interstate/Primary Arterial,389447,15,0.7,1
-2021,Somerset,Rural Minor Arterial,19336,2,0.5,0.7
-2021,Somerset,Rural Collector (Major and Minor),71872,21,0.5,0.7
-2021,Somerset,Rural Local,43935,73,0.3,0.5
-2022,Somerset,Urban Interstate/Freeway/Expressway,2828658,96,0.7,1
-2022,Somerset,Urban Primary Arterial,2182867,167.5,0.7,1
-2022,Somerset,Urban Minor Arterial,1154708,162,0.5,0.7
-2022,Somerset,Urban Collector (Major and Minor),799417,169,0.5,0.7
-2022,Somerset,Urban Local,1839693,1248,0.3,0.5
-2022,Somerset,Rural Interstate/Primary Arterial,411207,15,0.7,1
-2022,Somerset,Rural Minor Arterial,14563,2,0.5,0.7
-2022,Somerset,Rural Collector (Major and Minor),71916,21,0.5,0.7
-2022,Somerset,Rural Local,44858,73,0.3,0.5
-2017,Sussex,Urban Interstate/Freeway/Expressway,874,0,0.7,1
-2017,Sussex,Urban Primary Arterial,598919,80,0.7,1
-2017,Sussex,Urban Minor Arterial,587456,68,0.5,0.7
-2017,Sussex,Urban Collector (Major and Minor),287278,94,0.5,0.7
-2017,Sussex,Urban Local,592463,475,0.3,0.5
-2017,Sussex,Rural Interstate/Primary Arterial,500474,117,0.7,1
-2017,Sussex,Rural Minor Arterial,227157,31,0.5,0.7
-2017,Sussex,Rural Collector (Major and Minor),301294,159,0.5,0.7
-2017,Sussex,Rural Local,301634,519,0.3,0.5
-2018,Sussex,Urban Interstate/Freeway/Expressway,861,0,0.7,1
-2018,Sussex,Urban Primary Arterial,589338,80,0.7,1
-2018,Sussex,Urban Minor Arterial,587258,68,0.5,0.7
-2018,Sussex,Urban Collector (Major and Minor),291842,94,0.5,0.7
-2018,Sussex,Urban Local,571704,475,0.3,0.5
-2018,Sussex,Rural Interstate/Primary Arterial,486962,117,0.7,1
-2018,Sussex,Rural Minor Arterial,232621,31,0.5,0.7
-2018,Sussex,Rural Collector (Major and Minor),291996,159,0.5,0.7
-2018,Sussex,Rural Local,321785,519,0.3,0.5
-2019,Sussex,Urban Interstate/Freeway/Expressway,862,0,0.7,1
-2019,Sussex,Urban Primary Arterial,589661,80,0.7,1
-2019,Sussex,Urban Minor Arterial,609783,68,0.5,0.7
-2019,Sussex,Urban Collector (Major and Minor),292101,94,0.5,0.7
-2019,Sussex,Urban Local,547456,475,0.3,0.5
-2019,Sussex,Rural Interstate/Primary Arterial,491156,117,0.7,1
-2019,Sussex,Rural Minor Arterial,229140,31,0.5,0.7
-2019,Sussex,Rural Collector (Major and Minor),305348,159,0.5,0.7
-2019,Sussex,Rural Local,335192,519,0.3,0.5
-2020,Sussex,Urban Interstate/Freeway/Expressway,718,0,0.7,1
-2020,Sussex,Urban Primary Arterial,549177,80,0.7,1
-2020,Sussex,Urban Minor Arterial,509294,68,0.5,0.7
-2020,Sussex,Urban Collector (Major and Minor),249080,94,0.5,0.7
-2020,Sussex,Urban Local,470831,475,0.3,0.5
-2020,Sussex,Rural Interstate/Primary Arterial,403921,117,0.7,1
-2020,Sussex,Rural Minor Arterial,208811,31,0.5,0.7
-2020,Sussex,Rural Collector (Major and Minor),280983,159,0.5,0.7
-2020,Sussex,Rural Local,279980,520,0.3,0.5
-2021,Sussex,Urban Interstate/Freeway/Expressway,817,0,0.7,1
-2021,Sussex,Urban Primary Arterial,550448,80,0.7,1
-2021,Sussex,Urban Minor Arterial,543504,68,0.5,0.7
-2021,Sussex,Urban Collector (Major and Minor),282368,94,0.5,0.7
-2021,Sussex,Urban Local,528641,475,0.3,0.5
-2021,Sussex,Rural Interstate/Primary Arterial,475756,117,0.7,1
-2021,Sussex,Rural Minor Arterial,212511,31,0.5,0.7
-2021,Sussex,Rural Collector (Major and Minor),284749,159,0.5,0.7
-2021,Sussex,Rural Local,313372,520,0.3,0.5
-2022,Sussex,Urban Interstate/Freeway/Expressway,814,0,0.7,1
-2022,Sussex,Urban Primary Arterial,538700,80,0.7,1
-2022,Sussex,Urban Minor Arterial,562729,68,0.5,0.7
-2022,Sussex,Urban Collector (Major and Minor),291078,94,0.5,0.7
-2022,Sussex,Urban Local,550666,475,0.3,0.5
-2022,Sussex,Rural Interstate/Primary Arterial,471445,117,0.7,1
-2022,Sussex,Rural Minor Arterial,213239,31,0.5,0.7
-2022,Sussex,Rural Collector (Major and Minor),275763,159,0.5,0.7
-2022,Sussex,Rural Local,319952,520,0.3,0.5
-2017,Union,Urban Interstate/Freeway/Expressway,5727114,102,0.7,1
-2017,Union,Urban Primary Arterial,1836608,155,0.7,1
-2017,Union,Urban Minor Arterial,1539359,173,0.5,0.7
-2017,Union,Urban Collector (Major and Minor),865059,131,0.5,0.7
-2017,Union,Urban Local,1556476,1033,0.3,0.5
-2017,Union,Rural Interstate/Primary Arterial,0,0,0.7,1
-2017,Union,Rural Minor Arterial,0,0,0.5,0.7
-2017,Union,Rural Collector (Major and Minor),0,0,0.5,0.7
-2017,Union,Rural Local,0,0,0.3,0.5
-2018,Union,Urban Interstate/Freeway/Expressway,5733691,102,0.7,1
-2018,Union,Urban Primary Arterial,1788063,155,0.7,1
-2018,Union,Urban Minor Arterial,1628209,174,0.5,0.7
-2018,Union,Urban Collector (Major and Minor),847593,132,0.5,0.7
-2018,Union,Urban Local,1584781,1041,0.3,0.5
-2018,Union,Rural Interstate/Primary Arterial,0,0,0.7,1
-2018,Union,Rural Minor Arterial,0,0,0.5,0.7
-2018,Union,Rural Collector (Major and Minor),0,0,0.5,0.7
-2018,Union,Rural Local,0,0,0.3,0.5
-2019,Union,Urban Interstate/Freeway/Expressway,5732953,102,0.7,1
-2019,Union,Urban Primary Arterial,1813380,155,0.7,1
-2019,Union,Urban Minor Arterial,1612833,174,0.5,0.7
-2019,Union,Urban Collector (Major and Minor),854581,132,0.5,0.7
-2019,Union,Urban Local,1523703,1041,0.3,0.5
-2019,Union,Rural Interstate/Primary Arterial,0,0,0.7,1
-2019,Union,Rural Minor Arterial,0,0,0.5,0.7
-2019,Union,Rural Collector (Major and Minor),0,0,0.5,0.7
-2019,Union,Rural Local,0,0,0.3,0.5
-2020,Union,Urban Interstate/Freeway/Expressway,4441122,102,0.7,1
-2020,Union,Urban Primary Arterial,1480000,155,0.7,1
-2020,Union,Urban Minor Arterial,1336542,174,0.5,0.7
-2020,Union,Urban Collector (Major and Minor),623940,132,0.5,0.7
-2020,Union,Urban Local,1288449,1041,0.3,0.5
-2020,Union,Rural Interstate/Primary Arterial,0,0,0.7,1
-2020,Union,Rural Minor Arterial,0,0,0.5,0.7
-2020,Union,Rural Collector (Major and Minor),0,0,0.5,0.7
-2020,Union,Rural Local,0,0,0.3,0.5
-2021,Union,Urban Interstate/Freeway/Expressway,5168139,102,0.7,1
-2021,Union,Urban Primary Arterial,1705875,155,0.7,1
-2021,Union,Urban Minor Arterial,1531840,174,0.5,0.7
-2021,Union,Urban Collector (Major and Minor),745639,132,0.5,0.7
-2021,Union,Urban Local,1484486,1041,0.3,0.5
-2021,Union,Rural Interstate/Primary Arterial,0,0,0.7,1
-2021,Union,Rural Minor Arterial,0,0,0.5,0.7
-2021,Union,Rural Collector (Major and Minor),0,0,0.5,0.7
-2021,Union,Rural Local,0,0,0.3,0.5
-2022,Union,Urban Interstate/Freeway/Expressway,5535206,102,0.7,1
-2022,Union,Urban Primary Arterial,1829979,155,0.7,1
-2022,Union,Urban Minor Arterial,1570256,174,0.5,0.7
-2022,Union,Urban Collector (Major and Minor),793028,132,0.5,0.7
-2022,Union,Urban Local,1534058,1041,0.3,0.5
-2022,Union,Rural Interstate/Primary Arterial,0,0,0.7,1
-2022,Union,Rural Minor Arterial,0,0,0.5,0.7
-2022,Union,Rural Collector (Major and Minor),0,0,0.5,0.7
-2022,Union,Rural Local,0,0,0.3,0.5
-2017,Warren,Urban Interstate/Freeway/Expressway,990960,42,0.7,1
-2017,Warren,Urban Primary Arterial,547696,93,0.7,1
-2017,Warren,Urban Minor Arterial,331629,49,0.5,0.7
-2017,Warren,Urban Collector (Major and Minor),89927,41,0.5,0.7
-2017,Warren,Urban Local,262844,328,0.3,0.5
-2017,Warren,Rural Interstate/Primary Arterial,1036297,90,0.7,1
-2017,Warren,Rural Minor Arterial,254506,43,0.5,0.7
-2017,Warren,Rural Collector (Major and Minor),253970,111,0.5,0.7
-2017,Warren,Rural Local,274436,472,0.3,0.5
-2018,Warren,Urban Interstate/Freeway/Expressway,994169,42,0.7,1
-2018,Warren,Urban Primary Arterial,556414,93,0.7,1
-2018,Warren,Urban Minor Arterial,339904,49,0.5,0.7
-2018,Warren,Urban Collector (Major and Minor),91217,41,0.5,0.7
-2018,Warren,Urban Local,249439,328,0.3,0.5
-2018,Warren,Rural Interstate/Primary Arterial,1008474,90,0.7,1
-2018,Warren,Rural Minor Arterial,272310,43,0.5,0.7
-2018,Warren,Rural Collector (Major and Minor),248702,111,0.5,0.7
-2018,Warren,Rural Local,293224,473,0.3,0.5
-2019,Warren,Urban Interstate/Freeway/Expressway,1016255,42,0.7,1
-2019,Warren,Urban Primary Arterial,553647,93,0.7,1
-2019,Warren,Urban Minor Arterial,339153,49,0.5,0.7
-2019,Warren,Urban Collector (Major and Minor),91076,41,0.5,0.7
-2019,Warren,Urban Local,237913,328,0.3,0.5
-2019,Warren,Rural Interstate/Primary Arterial,976888,90,0.7,1
-2019,Warren,Rural Minor Arterial,280016,43,0.5,0.7
-2019,Warren,Rural Collector (Major and Minor),253932,111,0.5,0.7
-2019,Warren,Rural Local,305441,473,0.3,0.5
-2020,Warren,Urban Interstate/Freeway/Expressway,858874,42,0.7,1
-2020,Warren,Urban Primary Arterial,481191,93,0.7,1
-2020,Warren,Urban Minor Arterial,330491,49,0.5,0.7
-2020,Warren,Urban Collector (Major and Minor),88063,41,0.5,0.7
-2020,Warren,Urban Local,208314,328,0.3,0.5
-2020,Warren,Rural Interstate/Primary Arterial,911601,90,0.7,1
-2020,Warren,Rural Minor Arterial,241654,43,0.5,0.7
-2020,Warren,Rural Collector (Major and Minor),233613,111,0.5,0.7
-2020,Warren,Rural Local,254560,473,0.3,0.5
-2021,Warren,Urban Interstate/Freeway/Expressway,944899,42,0.7,1
-2021,Warren,Urban Primary Arterial,517658,93,0.7,1
-2021,Warren,Urban Minor Arterial,363839,49,0.5,0.7
-2021,Warren,Urban Collector (Major and Minor),85982,41,0.5,0.7
-2021,Warren,Urban Local,211901,328,0.3,0.5
-2021,Warren,Rural Interstate/Primary Arterial,1017959,90,0.7,1
-2021,Warren,Rural Minor Arterial,247002,43,0.5,0.7
-2021,Warren,Rural Collector (Major and Minor),250770,111,0.5,0.7
-2021,Warren,Rural Local,284926,473,0.3,0.5
-2022,Warren,Urban Interstate/Freeway/Expressway,953246,42,0.7,1
-2022,Warren,Urban Primary Arterial,532748,92.5,0.7,1
-2022,Warren,Urban Minor Arterial,359173,49,0.5,0.7
-2022,Warren,Urban Collector (Major and Minor),85940,41,0.5,0.7
-2022,Warren,Urban Local,217278,328,0.3,0.5
-2022,Warren,Rural Interstate/Primary Arterial,1098176,90,0.7,1
-2022,Warren,Rural Minor Arterial,295855,43,0.5,0.7
-2022,Warren,Rural Collector (Major and Minor),254240,111,0.5,0.7
-2022,Warren,Rural Local,290908,473,0.3,0.5
+year	county	facilityType	vmt	laneMiles	minElast	maxElast
+2017	Atlantic	Urban Interstate/Freeway/Expressway	1590246	114	0.7	1
+2017	Atlantic	Urban Primary Arterial	1688987	250	0.7	1
+2017	Atlantic	Urban Minor Arterial	1552249	171	0.5	0.7
+2017	Atlantic	Urban Collector (Major and Minor)	498790	169	0.5	0.7
+2017	Atlantic	Urban Local	755170	982	0.3	0.5
+2017	Atlantic	Rural Interstate/Primary Arterial	746468	81	0.7	1
+2017	Atlantic	Rural Minor Arterial	260070	34	0.5	0.7
+2017	Atlantic	Rural Collector (Major and Minor)	266480	105	0.5	0.7
+2017	Atlantic	Rural Local	207357	357	0.3	0.5
+2018	Atlantic	Urban Interstate/Freeway/Expressway	1532359	114	0.7	1
+2018	Atlantic	Urban Primary Arterial	1631638	250	0.7	1
+2018	Atlantic	Urban Minor Arterial	1542451	170	0.5	0.7
+2018	Atlantic	Urban Collector (Major and Minor)	487697	169	0.5	0.7
+2018	Atlantic	Urban Local	796931	981	0.3	0.5
+2018	Atlantic	Rural Interstate/Primary Arterial	717340	81	0.7	1
+2018	Atlantic	Rural Minor Arterial	256747	34	0.5	0.7
+2018	Atlantic	Rural Collector (Major and Minor)	263584	105	0.5	0.7
+2018	Atlantic	Rural Local	222153	358	0.3	0.5
+2019	Atlantic	Urban Interstate/Freeway/Expressway	1525228	114	0.7	1
+2019	Atlantic	Urban Primary Arterial	1638290	250	0.7	1
+2019	Atlantic	Urban Minor Arterial	1565642	170	0.5	0.7
+2019	Atlantic	Urban Collector (Major and Minor)	507156	170	0.5	0.7
+2019	Atlantic	Urban Local	780224	982	0.3	0.5
+2019	Atlantic	Rural Interstate/Primary Arterial	714080	81	0.7	1
+2019	Atlantic	Rural Minor Arterial	272027	34	0.5	0.7
+2019	Atlantic	Rural Collector (Major and Minor)	270840	105	0.5	0.7
+2019	Atlantic	Rural Local	231409	358	0.3	0.5
+2020	Atlantic	Urban Interstate/Freeway/Expressway	1246900	114	0.7	1
+2020	Atlantic	Urban Primary Arterial	1439791	250	0.7	1
+2020	Atlantic	Urban Minor Arterial	1489213	170	0.5	0.7
+2020	Atlantic	Urban Collector (Major and Minor)	437318	170	0.5	0.7
+2020	Atlantic	Urban Local	690877	984	0.3	0.5
+2020	Atlantic	Rural Interstate/Primary Arterial	598480	81	0.7	1
+2020	Atlantic	Rural Minor Arterial	246049	34	0.5	0.7
+2020	Atlantic	Rural Collector (Major and Minor)	247576	105	0.5	0.7
+2020	Atlantic	Rural Local	192860	358	0.3	0.5
+2021	Atlantic	Urban Interstate/Freeway/Expressway	1448586	114	0.7	1
+2021	Atlantic	Urban Primary Arterial	1567883	250	0.7	1
+2021	Atlantic	Urban Minor Arterial	1568352	170	0.5	0.7
+2021	Atlantic	Urban Collector (Major and Minor)	455852	170	0.5	0.7
+2021	Atlantic	Urban Local	759165	984	0.3	0.5
+2021	Atlantic	Rural Interstate/Primary Arterial	684642	81	0.7	1
+2021	Atlantic	Rural Minor Arterial	265645	34	0.5	0.7
+2021	Atlantic	Rural Collector (Major and Minor)	258656	105	0.5	0.7
+2021	Atlantic	Rural Local	215860	358	0.3	0.5
+2022	Atlantic	Urban Interstate/Freeway/Expressway	1449014	114	0.7	1
+2022	Atlantic	Urban Primary Arterial	1557077	250	0.7	1
+2022	Atlantic	Urban Minor Arterial	1564556	170	0.5	0.7
+2022	Atlantic	Urban Collector (Major and Minor)	498459	170	0.5	0.7
+2022	Atlantic	Urban Local	790275	984	0.3	0.5
+2022	Atlantic	Rural Interstate/Primary Arterial	680011	81	0.7	1
+2022	Atlantic	Rural Minor Arterial	254840	34	0.5	0.7
+2022	Atlantic	Rural Collector (Major and Minor)	268388	105	0.5	0.7
+2022	Atlantic	Rural Local	220393	358	0.3	0.5
+2017	Bergen	Urban Interstate/Freeway/Expressway	10038661	294	0.7	1
+2017	Bergen	Urban Primary Arterial	3659429	488	0.7	1
+2017	Bergen	Urban Minor Arterial	3261799	339	0.5	0.7
+2017	Bergen	Urban Collector (Major and Minor)	833318	246	0.5	0.7
+2017	Bergen	Urban Local	3221640	2138	0.3	0.5
+2017	Bergen	Rural Interstate/Primary Arterial	0	0	0.7	1
+2017	Bergen	Rural Minor Arterial	0	0	0.5	0.7
+2017	Bergen	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2017	Bergen	Rural Local	0	0	0.3	0.5
+2018	Bergen	Urban Interstate/Freeway/Expressway	9993315	294	0.7	1
+2018	Bergen	Urban Primary Arterial	3635092	483	0.7	1
+2018	Bergen	Urban Minor Arterial	3358077	339	0.5	0.7
+2018	Bergen	Urban Collector (Major and Minor)	867220	246	0.5	0.7
+2018	Bergen	Urban Local	3256112	2138	0.3	0.5
+2018	Bergen	Rural Interstate/Primary Arterial	0	0	0.7	1
+2018	Bergen	Rural Minor Arterial	0	0	0.5	0.7
+2018	Bergen	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2018	Bergen	Rural Local	0	0	0.3	0.5
+2019	Bergen	Urban Interstate/Freeway/Expressway	10244915	294	0.7	1
+2019	Bergen	Urban Primary Arterial	3758176	483	0.7	1
+2019	Bergen	Urban Minor Arterial	3523214	339	0.5	0.7
+2019	Bergen	Urban Collector (Major and Minor)	872833	246	0.5	0.7
+2019	Bergen	Urban Local	3134546	2141	0.3	0.5
+2019	Bergen	Rural Interstate/Primary Arterial	0	0	0.7	1
+2019	Bergen	Rural Minor Arterial	0	0	0.5	0.7
+2019	Bergen	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2019	Bergen	Rural Local	0	0	0.3	0.5
+2020	Bergen	Urban Interstate/Freeway/Expressway	7820226	294	0.7	1
+2020	Bergen	Urban Primary Arterial	3015091	483	0.7	1
+2020	Bergen	Urban Minor Arterial	2779785	339	0.5	0.7
+2020	Bergen	Urban Collector (Major and Minor)	764151	246	0.5	0.7
+2020	Bergen	Urban Local	2650583	2141	0.3	0.5
+2020	Bergen	Rural Interstate/Primary Arterial	0	0	0.7	1
+2020	Bergen	Rural Minor Arterial	0	0	0.5	0.7
+2020	Bergen	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2020	Bergen	Rural Local	0	0	0.3	0.5
+2021	Bergen	Urban Interstate/Freeway/Expressway	9049274	294	0.7	1
+2021	Bergen	Urban Primary Arterial	3434112	483	0.7	1
+2021	Bergen	Urban Minor Arterial	3229122	339	0.5	0.7
+2021	Bergen	Urban Collector (Major and Minor)	854496	246	0.5	0.7
+2021	Bergen	Urban Local	3053837	2141	0.3	0.5
+2021	Bergen	Rural Interstate/Primary Arterial	0	0	0.7	1
+2021	Bergen	Rural Minor Arterial	0	0	0.5	0.7
+2021	Bergen	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2021	Bergen	Rural Local	0	0	0.3	0.5
+2022	Bergen	Urban Interstate/Freeway/Expressway	9300031	294	0.7	1
+2022	Bergen	Urban Primary Arterial	3594007	482.5	0.7	1
+2022	Bergen	Urban Minor Arterial	3278068	339	0.5	0.7
+2022	Bergen	Urban Collector (Major and Minor)	856482	246	0.5	0.7
+2022	Bergen	Urban Local	3155815	2141	0.3	0.5
+2022	Bergen	Rural Interstate/Primary Arterial	0	0	0.7	1
+2022	Bergen	Rural Minor Arterial	0	0	0.5	0.7
+2022	Bergen	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2022	Bergen	Rural Local	0	0	0.3	0.5
+2017	Burlington	Urban Interstate/Freeway/Expressway	4738217	156	0.7	1
+2017	Burlington	Urban Primary Arterial	3427616	345	0.7	1
+2017	Burlington	Urban Minor Arterial	1855778	218	0.5	0.7
+2017	Burlington	Urban Collector (Major and Minor)	918261	215	0.5	0.7
+2017	Burlington	Urban Local	1626254	1620	0.3	0.5
+2017	Burlington	Rural Interstate/Primary Arterial	484793	84	0.7	1
+2017	Burlington	Rural Minor Arterial	142170	20	0.5	0.7
+2017	Burlington	Rural Collector (Major and Minor)	204421	94	0.5	0.7
+2017	Burlington	Rural Local	216401	372	0.3	0.5
+2018	Burlington	Urban Interstate/Freeway/Expressway	4787036	156	0.7	1
+2018	Burlington	Urban Primary Arterial	3250269	345	0.7	1
+2018	Burlington	Urban Minor Arterial	1867376	218	0.5	0.7
+2018	Burlington	Urban Collector (Major and Minor)	932236	215	0.5	0.7
+2018	Burlington	Urban Local	1632210	1620	0.3	0.5
+2018	Burlington	Rural Interstate/Primary Arterial	478541	84	0.7	1
+2018	Burlington	Rural Minor Arterial	141337	20	0.5	0.7
+2018	Burlington	Rural Collector (Major and Minor)	204883	94	0.5	0.7
+2018	Burlington	Rural Local	230859	372	0.3	0.5
+2019	Burlington	Urban Interstate/Freeway/Expressway	4914125	156	0.7	1
+2019	Burlington	Urban Primary Arterial	3279667	345	0.7	1
+2019	Burlington	Urban Minor Arterial	1900066	218	0.5	0.7
+2019	Burlington	Urban Collector (Major and Minor)	957489	215	0.5	0.7
+2019	Burlington	Urban Local	1669842	1629	0.3	0.5
+2019	Burlington	Rural Interstate/Primary Arterial	496660	84	0.7	1
+2019	Burlington	Rural Minor Arterial	141448	20	0.5	0.7
+2019	Burlington	Rural Collector (Major and Minor)	206556	94	0.5	0.7
+2019	Burlington	Rural Local	240477	372	0.3	0.5
+2020	Burlington	Urban Interstate/Freeway/Expressway	3747373	156	0.7	1
+2020	Burlington	Urban Primary Arterial	2916033	345	0.7	1
+2020	Burlington	Urban Minor Arterial	1535665	218	0.5	0.7
+2020	Burlington	Urban Collector (Major and Minor)	897622	215	0.5	0.7
+2020	Burlington	Urban Local	1424273	1632	0.3	0.5
+2020	Burlington	Rural Interstate/Primary Arterial	393731	84	0.7	1
+2020	Burlington	Rural Minor Arterial	129335	20	0.5	0.7
+2020	Burlington	Rural Collector (Major and Minor)	198207	94	0.5	0.7
+2020	Burlington	Rural Local	200418	372	0.3	0.5
+2021	Burlington	Urban Interstate/Freeway/Expressway	4601072	156	0.7	1
+2021	Burlington	Urban Primary Arterial	3245248	345	0.7	1
+2021	Burlington	Urban Minor Arterial	1813030	218	0.5	0.7
+2021	Burlington	Urban Collector (Major and Minor)	913635	215	0.5	0.7
+2021	Burlington	Urban Local	1591293	1631	0.3	0.5
+2021	Burlington	Rural Interstate/Primary Arterial	476790	84	0.7	1
+2021	Burlington	Rural Minor Arterial	136371	20	0.5	0.7
+2021	Burlington	Rural Collector (Major and Minor)	199390	94	0.5	0.7
+2021	Burlington	Rural Local	187695	311	0.3	0.5
+2022	Burlington	Urban Interstate/Freeway/Expressway	4742021	156	0.7	1
+2022	Burlington	Urban Primary Arterial	3239142	345	0.7	1
+2022	Burlington	Urban Minor Arterial	1773167	218	0.5	0.7
+2022	Burlington	Urban Collector (Major and Minor)	899913	215	0.5	0.7
+2022	Burlington	Urban Local	1626480	1631	0.3	0.5
+2022	Burlington	Rural Interstate/Primary Arterial	477380	84	0.7	1
+2022	Burlington	Rural Minor Arterial	145824	20	0.5	0.7
+2022	Burlington	Rural Collector (Major and Minor)	193983	94	0.5	0.7
+2022	Burlington	Rural Local	191635	311	0.3	0.5
+2017	Camden	Urban Interstate/Freeway/Expressway	3778453	144	0.7	1
+2017	Camden	Urban Primary Arterial	3331349	305	0.7	1
+2017	Camden	Urban Minor Arterial	2056393	237	0.5	0.7
+2017	Camden	Urban Collector (Major and Minor)	657438	181	0.5	0.7
+2017	Camden	Urban Local	1444965	1440	0.3	0.5
+2017	Camden	Rural Interstate/Primary Arterial	72981	6	0.7	1
+2017	Camden	Rural Minor Arterial	16861	3	0.5	0.7
+2017	Camden	Rural Collector (Major and Minor)	9329	5	0.5	0.7
+2017	Camden	Rural Local	10411	18	0.3	0.5
+2018	Camden	Urban Interstate/Freeway/Expressway	3782668	144	0.7	1
+2018	Camden	Urban Primary Arterial	3307164	305	0.7	1
+2018	Camden	Urban Minor Arterial	2061831	237	0.5	0.7
+2018	Camden	Urban Collector (Major and Minor)	629680	181	0.5	0.7
+2018	Camden	Urban Local	1450139	1440	0.3	0.5
+2018	Camden	Rural Interstate/Primary Arterial	72251	6	0.7	1
+2018	Camden	Rural Minor Arterial	17005	3	0.5	0.7
+2018	Camden	Rural Collector (Major and Minor)	9414	5	0.5	0.7
+2018	Camden	Rural Local	11107	18	0.3	0.5
+2019	Camden	Urban Interstate/Freeway/Expressway	3835435	144	0.7	1
+2019	Camden	Urban Primary Arterial	3289597	305	0.7	1
+2019	Camden	Urban Minor Arterial	2065242	237	0.5	0.7
+2019	Camden	Urban Collector (Major and Minor)	648283	181	0.5	0.7
+2019	Camden	Urban Local	1476246	1440	0.3	0.5
+2019	Camden	Rural Interstate/Primary Arterial	67340	6	0.7	1
+2019	Camden	Rural Minor Arterial	17702	3	0.5	0.7
+2019	Camden	Rural Collector (Major and Minor)	9519	5	0.5	0.7
+2019	Camden	Rural Local	11569	18	0.3	0.5
+2020	Camden	Urban Interstate/Freeway/Expressway	3284810	144	0.7	1
+2020	Camden	Urban Primary Arterial	2822824	305	0.7	1
+2020	Camden	Urban Minor Arterial	1875454	237	0.5	0.7
+2020	Camden	Urban Collector (Major and Minor)	590472	181	0.5	0.7
+2020	Camden	Urban Local	1258012	1441	0.3	0.5
+2020	Camden	Rural Interstate/Primary Arterial	73669	6	0.7	1
+2020	Camden	Rural Minor Arterial	18425	3	0.5	0.7
+2020	Camden	Rural Collector (Major and Minor)	8795	5	0.5	0.7
+2020	Camden	Rural Local	9642	18	0.3	0.5
+2021	Camden	Urban Interstate/Freeway/Expressway	3768276	144	0.7	1
+2021	Camden	Urban Primary Arterial	3210970	305	0.7	1
+2021	Camden	Urban Minor Arterial	1878664	237	0.5	0.7
+2021	Camden	Urban Collector (Major and Minor)	599243	181	0.5	0.7
+2021	Camden	Urban Local	1405713	1441	0.3	0.5
+2021	Camden	Rural Interstate/Primary Arterial	79620	6	0.7	1
+2021	Camden	Rural Minor Arterial	18506	3	0.5	0.7
+2021	Camden	Rural Collector (Major and Minor)	9261	5	0.5	0.7
+2021	Camden	Rural Local	10792	18	0.3	0.5
+2022	Camden	Urban Interstate/Freeway/Expressway	3792511	144	0.7	1
+2022	Camden	Urban Primary Arterial	3164822	305	0.7	1
+2022	Camden	Urban Minor Arterial	1862588	237	0.5	0.7
+2022	Camden	Urban Collector (Major and Minor)	641117	181	0.5	0.7
+2022	Camden	Urban Local	1436796	1441	0.3	0.5
+2022	Camden	Rural Interstate/Primary Arterial	80648	6	0.7	1
+2022	Camden	Rural Minor Arterial	18012	3	0.5	0.7
+2022	Camden	Rural Collector (Major and Minor)	8827	5	0.5	0.7
+2022	Camden	Rural Local	11019	18	0.3	0.5
+2017	Cape May	Urban Interstate/Freeway/Expressway	596541	69	0.7	1
+2017	Cape May	Urban Primary Arterial	251559	60	0.7	1
+2017	Cape May	Urban Minor Arterial	703148	88	0.5	0.7
+2017	Cape May	Urban Collector (Major and Minor)	321672	90	0.5	0.7
+2017	Cape May	Urban Local	587959	637	0.3	0.5
+2017	Cape May	Rural Interstate/Primary Arterial	220734	39	0.7	1
+2017	Cape May	Rural Minor Arterial	161615	25	0.5	0.7
+2017	Cape May	Rural Collector (Major and Minor)	125126	39	0.5	0.7
+2017	Cape May	Rural Local	61979	107	0.3	0.5
+2018	Cape May	Urban Interstate/Freeway/Expressway	594899	69	0.7	1
+2018	Cape May	Urban Primary Arterial	247111	60	0.7	1
+2018	Cape May	Urban Minor Arterial	710363	88	0.5	0.7
+2018	Cape May	Urban Collector (Major and Minor)	322305	90	0.5	0.7
+2018	Cape May	Urban Local	596308	638	0.3	0.5
+2018	Cape May	Rural Interstate/Primary Arterial	218521	39	0.7	1
+2018	Cape May	Rural Minor Arterial	168553	25	0.5	0.7
+2018	Cape May	Rural Collector (Major and Minor)	123609	39	0.5	0.7
+2018	Cape May	Rural Local	66125	107	0.3	0.5
+2019	Cape May	Urban Interstate/Freeway/Expressway	590442	69	0.7	1
+2019	Cape May	Urban Primary Arterial	236900	60	0.7	1
+2019	Cape May	Urban Minor Arterial	707623	88	0.5	0.7
+2019	Cape May	Urban Collector (Major and Minor)	322204	90	0.5	0.7
+2019	Cape May	Urban Local	612635	638	0.3	0.5
+2019	Cape May	Rural Interstate/Primary Arterial	229213	39	0.7	1
+2019	Cape May	Rural Minor Arterial	168893	25	0.5	0.7
+2019	Cape May	Rural Collector (Major and Minor)	117647	39	0.5	0.7
+2019	Cape May	Rural Local	68880	107	0.3	0.5
+2020	Cape May	Urban Interstate/Freeway/Expressway	536067	69	0.7	1
+2020	Cape May	Urban Primary Arterial	245821	60	0.7	1
+2020	Cape May	Urban Minor Arterial	673950	88	0.5	0.7
+2020	Cape May	Urban Collector (Major and Minor)	312669	90	0.5	0.7
+2020	Cape May	Urban Local	569002	638	0.3	0.5
+2020	Cape May	Rural Interstate/Primary Arterial	219561	39	0.7	1
+2020	Cape May	Rural Minor Arterial	156720	25	0.5	0.7
+2020	Cape May	Rural Collector (Major and Minor)	115900	39	0.5	0.7
+2020	Cape May	Rural Local	57406	107	0.3	0.5
+2021	Cape May	Urban Interstate/Freeway/Expressway	616789	69	0.7	1
+2021	Cape May	Urban Primary Arterial	252357	60	0.7	1
+2021	Cape May	Urban Minor Arterial	730281	88	0.5	0.7
+2021	Cape May	Urban Collector (Major and Minor)	333785	90	0.5	0.7
+2021	Cape May	Urban Local	618244	638	0.3	0.5
+2021	Cape May	Rural Interstate/Primary Arterial	246703	39	0.7	1
+2021	Cape May	Rural Minor Arterial	163633	25	0.5	0.7
+2021	Cape May	Rural Collector (Major and Minor)	114428	39	0.5	0.7
+2021	Cape May	Rural Local	64250	107	0.3	0.5
+2022	Cape May	Urban Interstate/Freeway/Expressway	602520	69	0.7	1
+2022	Cape May	Urban Primary Arterial	251793	60	0.7	1
+2022	Cape May	Urban Minor Arterial	684550	88	0.5	0.7
+2022	Cape May	Urban Collector (Major and Minor)	339768	90	0.5	0.7
+2022	Cape May	Urban Local	605484	638	0.3	0.5
+2022	Cape May	Rural Interstate/Primary Arterial	244313	39	0.7	1
+2022	Cape May	Rural Minor Arterial	163267	25	0.5	0.7
+2022	Cape May	Rural Collector (Major and Minor)	118368	39	0.5	0.7
+2022	Cape May	Rural Local	65599	107	0.3	0.5
+2017	Cumberland	Urban Interstate/Freeway/Expressway	484520	51	0.7	1
+2017	Cumberland	Urban Primary Arterial	179226	43	0.7	1
+2017	Cumberland	Urban Minor Arterial	1187529	156	0.5	0.7
+2017	Cumberland	Urban Collector (Major and Minor)	364489	91	0.5	0.7
+2017	Cumberland	Urban Local	429036	545	0.3	0.5
+2017	Cumberland	Rural Interstate/Primary Arterial	146378	39	0.7	1
+2017	Cumberland	Rural Minor Arterial	171617	47	0.5	0.7
+2017	Cumberland	Rural Collector (Major and Minor)	130360	98	0.5	0.7
+2017	Cumberland	Rural Local	193444	333	0.3	0.5
+2018	Cumberland	Urban Interstate/Freeway/Expressway	499996	51	0.7	1
+2018	Cumberland	Urban Primary Arterial	173397	43	0.7	1
+2018	Cumberland	Urban Minor Arterial	1175987	156	0.5	0.7
+2018	Cumberland	Urban Collector (Major and Minor)	363372	91	0.5	0.7
+2018	Cumberland	Urban Local	453432	545	0.3	0.5
+2018	Cumberland	Rural Interstate/Primary Arterial	140950	39	0.7	1
+2018	Cumberland	Rural Minor Arterial	170637	47	0.5	0.7
+2018	Cumberland	Rural Collector (Major and Minor)	125917	98	0.5	0.7
+2018	Cumberland	Rural Local	206368	333	0.3	0.5
+2019	Cumberland	Urban Interstate/Freeway/Expressway	519764	51	0.7	1
+2019	Cumberland	Urban Primary Arterial	174827	43	0.7	1
+2019	Cumberland	Urban Minor Arterial	1206912	156	0.5	0.7
+2019	Cumberland	Urban Collector (Major and Minor)	357406	91	0.5	0.7
+2019	Cumberland	Urban Local	463245	545	0.3	0.5
+2019	Cumberland	Rural Interstate/Primary Arterial	146460	39	0.7	1
+2019	Cumberland	Rural Minor Arterial	169150	47	0.5	0.7
+2019	Cumberland	Rural Collector (Major and Minor)	130713	98	0.5	0.7
+2019	Cumberland	Rural Local	214966	333	0.3	0.5
+2020	Cumberland	Urban Interstate/Freeway/Expressway	434969	51	0.7	1
+2020	Cumberland	Urban Primary Arterial	158955	43	0.7	1
+2020	Cumberland	Urban Minor Arterial	1046839	156	0.5	0.7
+2020	Cumberland	Urban Collector (Major and Minor)	351034	91	0.5	0.7
+2020	Cumberland	Urban Local	405988	546	0.3	0.5
+2020	Cumberland	Rural Interstate/Primary Arterial	134469	39	0.7	1
+2020	Cumberland	Rural Minor Arterial	143088	47	0.5	0.7
+2020	Cumberland	Rural Collector (Major and Minor)	123572	98	0.5	0.7
+2020	Cumberland	Rural Local	179157	333	0.3	0.5
+2021	Cumberland	Urban Interstate/Freeway/Expressway	507646	51	0.7	1
+2021	Cumberland	Urban Primary Arterial	178473	43	0.7	1
+2021	Cumberland	Urban Minor Arterial	1147186	156	0.5	0.7
+2021	Cumberland	Urban Collector (Major and Minor)	346570	91	0.5	0.7
+2021	Cumberland	Urban Local	446564	546	0.3	0.5
+2021	Cumberland	Rural Interstate/Primary Arterial	150390	39	0.7	1
+2021	Cumberland	Rural Minor Arterial	172085	47	0.5	0.7
+2021	Cumberland	Rural Collector (Major and Minor)	129126	98	0.5	0.7
+2021	Cumberland	Rural Local	200535	333	0.3	0.5
+2022	Cumberland	Urban Interstate/Freeway/Expressway	513728	51	0.7	1
+2022	Cumberland	Urban Primary Arterial	170537	42.5	0.7	1
+2022	Cumberland	Urban Minor Arterial	1145573	156	0.5	0.7
+2022	Cumberland	Urban Collector (Major and Minor)	343967	91	0.5	0.7
+2022	Cumberland	Urban Local	501643	546	0.3	0.5
+2022	Cumberland	Rural Interstate/Primary Arterial	146749	39	0.7	1
+2022	Cumberland	Rural Minor Arterial	155945	47	0.5	0.7
+2022	Cumberland	Rural Collector (Major and Minor)	136171	98	0.5	0.7
+2022	Cumberland	Rural Local	204746	333	0.3	0.5
+2017	Essex	Urban Interstate/Freeway/Expressway	6679024	153	0.7	1
+2017	Essex	Urban Primary Arterial	2293961	268	0.7	1
+2017	Essex	Urban Minor Arterial	1859650	198	0.5	0.7
+2017	Essex	Urban Collector (Major and Minor)	996838	179	0.5	0.7
+2017	Essex	Urban Local	1736392	1152	0.3	0.5
+2017	Essex	Rural Interstate/Primary Arterial	0	0	0.7	1
+2017	Essex	Rural Minor Arterial	0	0	0.5	0.7
+2017	Essex	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2017	Essex	Rural Local	0	0	0.3	0.5
+2018	Essex	Urban Interstate/Freeway/Expressway	6665030	153	0.7	1
+2018	Essex	Urban Primary Arterial	2266652	268	0.7	1
+2018	Essex	Urban Minor Arterial	1955214	198	0.5	0.7
+2018	Essex	Urban Collector (Major and Minor)	1045522	179	0.5	0.7
+2018	Essex	Urban Local	1754972	1152	0.3	0.5
+2018	Essex	Rural Interstate/Primary Arterial	0	0	0.7	1
+2018	Essex	Rural Minor Arterial	0	0	0.5	0.7
+2018	Essex	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2018	Essex	Rural Local	0	0	0.3	0.5
+2019	Essex	Urban Interstate/Freeway/Expressway	6366127	153	0.7	1
+2019	Essex	Urban Primary Arterial	2283193	268	0.7	1
+2019	Essex	Urban Minor Arterial	1969126	198	0.5	0.7
+2019	Essex	Urban Collector (Major and Minor)	1054895	179	0.5	0.7
+2019	Essex	Urban Local	1687322	1152	0.3	0.5
+2019	Essex	Rural Interstate/Primary Arterial	0	0	0.7	1
+2019	Essex	Rural Minor Arterial	0	0	0.5	0.7
+2019	Essex	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2019	Essex	Rural Local	0	0	0.3	0.5
+2020	Essex	Urban Interstate/Freeway/Expressway	5418060	153	0.7	1
+2020	Essex	Urban Primary Arterial	2203590	268	0.7	1
+2020	Essex	Urban Minor Arterial	1754507	198	0.5	0.7
+2020	Essex	Urban Collector (Major and Minor)	920443	179	0.5	0.7
+2020	Essex	Urban Local	1426805	1152	0.3	0.5
+2020	Essex	Rural Interstate/Primary Arterial	0	0	0.7	1
+2020	Essex	Rural Minor Arterial	0	0	0.5	0.7
+2020	Essex	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2020	Essex	Rural Local	0	0	0.3	0.5
+2021	Essex	Urban Interstate/Freeway/Expressway	6107061	153	0.7	1
+2021	Essex	Urban Primary Arterial	2317690	268	0.7	1
+2021	Essex	Urban Minor Arterial	1907660	198	0.5	0.7
+2021	Essex	Urban Collector (Major and Minor)	911381	179	0.5	0.7
+2021	Essex	Urban Local	1643899	1152	0.3	0.5
+2021	Essex	Rural Interstate/Primary Arterial	0	0	0.7	1
+2021	Essex	Rural Minor Arterial	0	0	0.5	0.7
+2021	Essex	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2021	Essex	Rural Local	0	0	0.3	0.5
+2022	Essex	Urban Interstate/Freeway/Expressway	6229599	153	0.7	1
+2022	Essex	Urban Primary Arterial	2384232	267.5	0.7	1
+2022	Essex	Urban Minor Arterial	1945417	198	0.5	0.7
+2022	Essex	Urban Collector (Major and Minor)	882810	179	0.5	0.7
+2022	Essex	Urban Local	1698794	1152	0.3	0.5
+2022	Essex	Rural Interstate/Primary Arterial	0	0	0.7	1
+2022	Essex	Rural Minor Arterial	0	0	0.5	0.7
+2022	Essex	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2022	Essex	Rural Local	0	0	0.3	0.5
+2017	Gloucester	Urban Interstate/Freeway/Expressway	3526725	177	0.7	1
+2017	Gloucester	Urban Primary Arterial	1490530	195	0.7	1
+2017	Gloucester	Urban Minor Arterial	1545592	207	0.5	0.7
+2017	Gloucester	Urban Collector (Major and Minor)	681507	176	0.5	0.7
+2017	Gloucester	Urban Local	1116192	1112	0.3	0.5
+2017	Gloucester	Rural Interstate/Primary Arterial	0	0	0.7	1
+2017	Gloucester	Rural Minor Arterial	20125	7	0.5	0.7
+2017	Gloucester	Rural Collector (Major and Minor)	79097	21	0.5	0.7
+2017	Gloucester	Rural Local	34595	59	0.3	0.5
+2018	Gloucester	Urban Interstate/Freeway/Expressway	3481293	177	0.7	1
+2018	Gloucester	Urban Primary Arterial	1424837	195	0.7	1
+2018	Gloucester	Urban Minor Arterial	1546715	207	0.5	0.7
+2018	Gloucester	Urban Collector (Major and Minor)	680669	176	0.5	0.7
+2018	Gloucester	Urban Local	1120214	1112	0.3	0.5
+2018	Gloucester	Rural Interstate/Primary Arterial	0	0	0.7	1
+2018	Gloucester	Rural Minor Arterial	19919	7	0.5	0.7
+2018	Gloucester	Rural Collector (Major and Minor)	78777	21	0.5	0.7
+2018	Gloucester	Rural Local	36907	59	0.3	0.5
+2019	Gloucester	Urban Interstate/Freeway/Expressway	3590889	177	0.7	1
+2019	Gloucester	Urban Primary Arterial	1423875	195	0.7	1
+2019	Gloucester	Urban Minor Arterial	1580253	207	0.5	0.7
+2019	Gloucester	Urban Collector (Major and Minor)	685307	176	0.5	0.7
+2019	Gloucester	Urban Local	1140064	1112	0.3	0.5
+2019	Gloucester	Rural Interstate/Primary Arterial	0	0	0.7	1
+2019	Gloucester	Rural Minor Arterial	21024	7	0.5	0.7
+2019	Gloucester	Rural Collector (Major and Minor)	80417	21	0.5	0.7
+2019	Gloucester	Rural Local	38444	59	0.3	0.5
+2020	Gloucester	Urban Interstate/Freeway/Expressway	2950967	177	0.7	1
+2020	Gloucester	Urban Primary Arterial	1254597	195	0.7	1
+2020	Gloucester	Urban Minor Arterial	1460758	207	0.5	0.7
+2020	Gloucester	Urban Collector (Major and Minor)	647739	176	0.5	0.7
+2020	Gloucester	Urban Local	977506	1120	0.3	0.5
+2020	Gloucester	Rural Interstate/Primary Arterial	0	0	0.7	1
+2020	Gloucester	Rural Minor Arterial	20247	7	0.5	0.7
+2020	Gloucester	Rural Collector (Major and Minor)	79071	21	0.5	0.7
+2020	Gloucester	Rural Local	32040	59	0.3	0.5
+2021	Gloucester	Urban Interstate/Freeway/Expressway	3451437	177	0.7	1
+2021	Gloucester	Urban Primary Arterial	1381694	195	0.7	1
+2021	Gloucester	Urban Minor Arterial	1527895	207	0.5	0.7
+2021	Gloucester	Urban Collector (Major and Minor)	660353	176	0.5	0.7
+2021	Gloucester	Urban Local	1092172	1120	0.3	0.5
+2021	Gloucester	Rural Interstate/Primary Arterial	0	0	0.7	1
+2021	Gloucester	Rural Minor Arterial	21531	7	0.5	0.7
+2021	Gloucester	Rural Collector (Major and Minor)	77498	21	0.5	0.7
+2021	Gloucester	Rural Local	35862	59	0.3	0.5
+2022	Gloucester	Urban Interstate/Freeway/Expressway	3535138	177	0.7	1
+2022	Gloucester	Urban Primary Arterial	1410430	195	0.7	1
+2022	Gloucester	Urban Minor Arterial	1607313	207	0.5	0.7
+2022	Gloucester	Urban Collector (Major and Minor)	692049	176	0.5	0.7
+2022	Gloucester	Urban Local	1116322	1120	0.3	0.5
+2022	Gloucester	Rural Interstate/Primary Arterial	0	0	0.7	1
+2022	Gloucester	Rural Minor Arterial	22573	7	0.5	0.7
+2022	Gloucester	Rural Collector (Major and Minor)	81964	21	0.5	0.7
+2022	Gloucester	Rural Local	36615	59	0.3	0.5
+2017	Hudson	Urban Interstate/Freeway/Expressway	2762379	87	0.7	1
+2017	Hudson	Urban Primary Arterial	1316320	95	0.7	1
+2017	Hudson	Urban Minor Arterial	922391	97	0.5	0.7
+2017	Hudson	Urban Collector (Major and Minor)	525820	80	0.5	0.7
+2017	Hudson	Urban Local	586055	389	0.3	0.5
+2017	Hudson	Rural Interstate/Primary Arterial	0	0	0.7	1
+2017	Hudson	Rural Minor Arterial	0	0	0.5	0.7
+2017	Hudson	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2017	Hudson	Rural Local	0	0	0.3	0.5
+2018	Hudson	Urban Interstate/Freeway/Expressway	2785723	87	0.7	1
+2018	Hudson	Urban Primary Arterial	1179330	95	0.7	1
+2018	Hudson	Urban Minor Arterial	1041244	97	0.5	0.7
+2018	Hudson	Urban Collector (Major and Minor)	521746	80	0.5	0.7
+2018	Hudson	Urban Local	601677	395	0.3	0.5
+2018	Hudson	Rural Interstate/Primary Arterial	0	0	0.7	1
+2018	Hudson	Rural Minor Arterial	0	0	0.5	0.7
+2018	Hudson	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2018	Hudson	Rural Local	0	0	0.3	0.5
+2019	Hudson	Urban Interstate/Freeway/Expressway	2954620	87	0.7	1
+2019	Hudson	Urban Primary Arterial	1239565	95	0.7	1
+2019	Hudson	Urban Minor Arterial	1067232	97	0.5	0.7
+2019	Hudson	Urban Collector (Major and Minor)	536825	80	0.5	0.7
+2019	Hudson	Urban Local	578494	395	0.3	0.5
+2019	Hudson	Rural Interstate/Primary Arterial	0	0	0.7	1
+2019	Hudson	Rural Minor Arterial	0	0	0.5	0.7
+2019	Hudson	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2019	Hudson	Rural Local	0	0	0.3	0.5
+2020	Hudson	Urban Interstate/Freeway/Expressway	2168928	87	0.7	1
+2020	Hudson	Urban Primary Arterial	1190646	95	0.7	1
+2020	Hudson	Urban Minor Arterial	917744	97	0.5	0.7
+2020	Hudson	Urban Collector (Major and Minor)	419768	80	0.5	0.7
+2020	Hudson	Urban Local	489177	395	0.3	0.5
+2020	Hudson	Rural Interstate/Primary Arterial	0	0	0.7	1
+2020	Hudson	Rural Minor Arterial	0	0	0.5	0.7
+2020	Hudson	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2020	Hudson	Rural Local	0	0	0.3	0.5
+2021	Hudson	Urban Interstate/Freeway/Expressway	2483845	87	0.7	1
+2021	Hudson	Urban Primary Arterial	1331117	95	0.7	1
+2021	Hudson	Urban Minor Arterial	987609	97	0.5	0.7
+2021	Hudson	Urban Collector (Major and Minor)	442693	80	0.5	0.7
+2021	Hudson	Urban Local	563602	395	0.3	0.5
+2021	Hudson	Rural Interstate/Primary Arterial	0	0	0.7	1
+2021	Hudson	Rural Minor Arterial	0	0	0.5	0.7
+2021	Hudson	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2021	Hudson	Rural Local	0	0	0.3	0.5
+2022	Hudson	Urban Interstate/Freeway/Expressway	2553836	87	0.7	1
+2022	Hudson	Urban Primary Arterial	1320512	95	0.7	1
+2022	Hudson	Urban Minor Arterial	1042465	97	0.5	0.7
+2022	Hudson	Urban Collector (Major and Minor)	428398	80	0.5	0.7
+2022	Hudson	Urban Local	582422	395	0.3	0.5
+2022	Hudson	Rural Interstate/Primary Arterial	0	0	0.7	1
+2022	Hudson	Rural Minor Arterial	0	0	0.5	0.7
+2022	Hudson	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2022	Hudson	Rural Local	0	0	0.3	0.5
+2017	Hunterdon	Urban Interstate/Freeway/Expressway	1300114	39	0.7	1
+2017	Hunterdon	Urban Primary Arterial	1177084	108	0.7	1
+2017	Hunterdon	Urban Minor Arterial	326423	46	0.5	0.7
+2017	Hunterdon	Urban Collector (Major and Minor)	211566	60	0.5	0.7
+2017	Hunterdon	Urban Local	520754	417	0.3	0.5
+2017	Hunterdon	Rural Interstate/Primary Arterial	954246	48	0.7	1
+2017	Hunterdon	Rural Minor Arterial	274610	58	0.5	0.7
+2017	Hunterdon	Rural Collector (Major and Minor)	395520	169	0.5	0.7
+2017	Hunterdon	Rural Local	372145	640	0.3	0.5
+2018	Hunterdon	Urban Interstate/Freeway/Expressway	1329272	39	0.7	1
+2018	Hunterdon	Urban Primary Arterial	1193432	108	0.7	1
+2018	Hunterdon	Urban Minor Arterial	317986	46	0.5	0.7
+2018	Hunterdon	Urban Collector (Major and Minor)	217782	60	0.5	0.7
+2018	Hunterdon	Urban Local	502445	417	0.3	0.5
+2018	Hunterdon	Rural Interstate/Primary Arterial	897523	48	0.7	1
+2018	Hunterdon	Rural Minor Arterial	267958	58	0.5	0.7
+2018	Hunterdon	Rural Collector (Major and Minor)	377939	169	0.5	0.7
+2018	Hunterdon	Rural Local	397007	640	0.3	0.5
+2019	Hunterdon	Urban Interstate/Freeway/Expressway	1348220	39	0.7	1
+2019	Hunterdon	Urban Primary Arterial	1176545	108	0.7	1
+2019	Hunterdon	Urban Minor Arterial	319495	46	0.5	0.7
+2019	Hunterdon	Urban Collector (Major and Minor)	217843	60	0.5	0.7
+2019	Hunterdon	Urban Local	482552	419	0.3	0.5
+2019	Hunterdon	Rural Interstate/Primary Arterial	909844	48	0.7	1
+2019	Hunterdon	Rural Minor Arterial	271234	58	0.5	0.7
+2019	Hunterdon	Rural Collector (Major and Minor)	390414	169	0.5	0.7
+2019	Hunterdon	Rural Local	413677	640	0.3	0.5
+2020	Hunterdon	Urban Interstate/Freeway/Expressway	1176358	39	0.7	1
+2020	Hunterdon	Urban Primary Arterial	974581	108	0.7	1
+2020	Hunterdon	Urban Minor Arterial	289270	46	0.5	0.7
+2020	Hunterdon	Urban Collector (Major and Minor)	191306	60	0.5	0.7
+2020	Hunterdon	Urban Local	415012	419	0.3	0.5
+2020	Hunterdon	Rural Interstate/Primary Arterial	692583	48	0.7	1
+2020	Hunterdon	Rural Minor Arterial	234972	58	0.5	0.7
+2020	Hunterdon	Rural Collector (Major and Minor)	329749	169	0.5	0.7
+2020	Hunterdon	Rural Local	344938	640	0.3	0.5
+2021	Hunterdon	Urban Interstate/Freeway/Expressway	1095831	39	0.7	1
+2021	Hunterdon	Urban Primary Arterial	986660	108	0.7	1
+2021	Hunterdon	Urban Minor Arterial	278456	46	0.5	0.7
+2021	Hunterdon	Urban Collector (Major and Minor)	200207	60	0.5	0.7
+2021	Hunterdon	Urban Local	465978	419	0.3	0.5
+2021	Hunterdon	Rural Interstate/Primary Arterial	764170	48	0.7	1
+2021	Hunterdon	Rural Minor Arterial	261847	58	0.5	0.7
+2021	Hunterdon	Rural Collector (Major and Minor)	356058	169	0.5	0.7
+2021	Hunterdon	Rural Local	386094	640	0.3	0.5
+2022	Hunterdon	Urban Interstate/Freeway/Expressway	1096001	39	0.7	1
+2022	Hunterdon	Urban Primary Arterial	1074950	107.5	0.7	1
+2022	Hunterdon	Urban Minor Arterial	274319	46	0.5	0.7
+2022	Hunterdon	Urban Collector (Major and Minor)	208076	60	0.5	0.7
+2022	Hunterdon	Urban Local	485392	419	0.3	0.5
+2022	Hunterdon	Rural Interstate/Primary Arterial	789552	48	0.7	1
+2022	Hunterdon	Rural Minor Arterial	260974	58	0.5	0.7
+2022	Hunterdon	Rural Collector (Major and Minor)	372436	169	0.5	0.7
+2022	Hunterdon	Rural Local	394201	640	0.3	0.5
+2017	Mercer	Urban Interstate/Freeway/Expressway	3921663	165	0.7	1
+2017	Mercer	Urban Primary Arterial	2004498	213	0.7	1
+2017	Mercer	Urban Minor Arterial	1741601	185	0.5	0.7
+2017	Mercer	Urban Collector (Major and Minor)	726879	181	0.5	0.7
+2017	Mercer	Urban Local	990281	932	0.3	0.5
+2017	Mercer	Rural Interstate/Primary Arterial	519475	24	0.7	1
+2017	Mercer	Rural Minor Arterial	59208	9	0.5	0.7
+2017	Mercer	Rural Collector (Major and Minor)	81330	26	0.5	0.7
+2017	Mercer	Rural Local	32839	56	0.3	0.5
+2018	Mercer	Urban Interstate/Freeway/Expressway	3972174	165	0.7	1
+2018	Mercer	Urban Primary Arterial	1916041	213	0.7	1
+2018	Mercer	Urban Minor Arterial	1765069	185	0.5	0.7
+2018	Mercer	Urban Collector (Major and Minor)	733448	181	0.5	0.7
+2018	Mercer	Urban Local	831103	934	0.3	0.5
+2018	Mercer	Rural Interstate/Primary Arterial	522771	24	0.7	1
+2018	Mercer	Rural Minor Arterial	64175	9	0.5	0.7
+2018	Mercer	Rural Collector (Major and Minor)	63882	25	0.5	0.7
+2018	Mercer	Rural Local	35033	56	0.3	0.5
+2019	Mercer	Urban Interstate/Freeway/Expressway	4149679	165	0.7	1
+2019	Mercer	Urban Primary Arterial	1948218	213	0.7	1
+2019	Mercer	Urban Minor Arterial	1838686	185	0.5	0.7
+2019	Mercer	Urban Collector (Major and Minor)	728816	181	0.5	0.7
+2019	Mercer	Urban Local	821999	934	0.3	0.5
+2019	Mercer	Rural Interstate/Primary Arterial	542077	24	0.7	1
+2019	Mercer	Rural Minor Arterial	67575	9	0.5	0.7
+2019	Mercer	Rural Collector (Major and Minor)	63638	25	0.5	0.7
+2019	Mercer	Rural Local	36492	56	0.3	0.5
+2020	Mercer	Urban Interstate/Freeway/Expressway	3125506	165	0.7	1
+2020	Mercer	Urban Primary Arterial	1829486	213	0.7	1
+2020	Mercer	Urban Minor Arterial	1594676	185	0.5	0.7
+2020	Mercer	Urban Collector (Major and Minor)	685246	181	0.5	0.7
+2020	Mercer	Urban Local	722067	939	0.3	0.5
+2020	Mercer	Rural Interstate/Primary Arterial	414330	24	0.7	1
+2020	Mercer	Rural Minor Arterial	67475	9	0.5	0.7
+2020	Mercer	Rural Collector (Major and Minor)	57378	25	0.5	0.7
+2020	Mercer	Rural Local	30413	56	0.3	0.5
+2021	Mercer	Urban Interstate/Freeway/Expressway	3728066	165	0.7	1
+2021	Mercer	Urban Primary Arterial	2079628	213	0.7	1
+2021	Mercer	Urban Minor Arterial	1606807	185	0.5	0.7
+2021	Mercer	Urban Collector (Major and Minor)	657228	181	0.5	0.7
+2021	Mercer	Urban Local	815344	938	0.3	0.5
+2021	Mercer	Rural Interstate/Primary Arterial	510732	24	0.7	1
+2021	Mercer	Rural Minor Arterial	73241	9	0.5	0.7
+2021	Mercer	Rural Collector (Major and Minor)	58438	25	0.5	0.7
+2021	Mercer	Rural Local	34041	56	0.3	0.5
+2022	Mercer	Urban Interstate/Freeway/Expressway	3851820	165	0.7	1
+2022	Mercer	Urban Primary Arterial	1987552	212.5	0.7	1
+2022	Mercer	Urban Minor Arterial	1589707	185	0.5	0.7
+2022	Mercer	Urban Collector (Major and Minor)	647145	181	0.5	0.7
+2022	Mercer	Urban Local	800989	938	0.3	0.5
+2022	Mercer	Rural Interstate/Primary Arterial	520918	24	0.7	1
+2022	Mercer	Rural Minor Arterial	66083	9	0.5	0.7
+2022	Mercer	Rural Collector (Major and Minor)	56931	25	0.5	0.7
+2022	Mercer	Rural Local	34756	56	0.3	0.5
+2017	Middlesex	Urban Interstate/Freeway/Expressway	10103706	186	0.7	1
+2017	Middlesex	Urban Primary Arterial	6114822	410	0.7	1
+2017	Middlesex	Urban Minor Arterial	2497787	286	0.5	0.7
+2017	Middlesex	Urban Collector (Major and Minor)	1675019	276	0.5	0.7
+2017	Middlesex	Urban Local	2667017	1770	0.3	0.5
+2017	Middlesex	Rural Interstate/Primary Arterial	207609	6	0.7	1
+2017	Middlesex	Rural Minor Arterial	13423	3	0.5	0.7
+2017	Middlesex	Rural Collector (Major and Minor)	43114	6	0.5	0.7
+2017	Middlesex	Rural Local	6916	12	0.3	0.5
+2018	Middlesex	Urban Interstate/Freeway/Expressway	9977124	186	0.7	1
+2018	Middlesex	Urban Primary Arterial	6256799	410	0.7	1
+2018	Middlesex	Urban Minor Arterial	2515252	286	0.5	0.7
+2018	Middlesex	Urban Collector (Major and Minor)	1551243	276	0.5	0.7
+2018	Middlesex	Urban Local	2702149	1774	0.3	0.5
+2018	Middlesex	Rural Interstate/Primary Arterial	217797	6	0.7	1
+2018	Middlesex	Rural Minor Arterial	17890	3	0.5	0.7
+2018	Middlesex	Rural Collector (Major and Minor)	12927	6	0.5	0.7
+2018	Middlesex	Rural Local	7378	12	0.3	0.5
+2019	Middlesex	Urban Interstate/Freeway/Expressway	10241706	186	0.7	1
+2019	Middlesex	Urban Primary Arterial	6307028	410	0.7	1
+2019	Middlesex	Urban Minor Arterial	2562558	286	0.5	0.7
+2019	Middlesex	Urban Collector (Major and Minor)	1592069	276	0.5	0.7
+2019	Middlesex	Urban Local	2606247	1780	0.3	0.5
+2019	Middlesex	Rural Interstate/Primary Arterial	223902	6	0.7	1
+2019	Middlesex	Rural Minor Arterial	18545	3	0.5	0.7
+2019	Middlesex	Rural Collector (Major and Minor)	13206	6	0.5	0.7
+2019	Middlesex	Rural Local	7685	12	0.3	0.5
+2020	Middlesex	Urban Interstate/Freeway/Expressway	7798116	186	0.7	1
+2020	Middlesex	Urban Primary Arterial	5225256	410	0.7	1
+2020	Middlesex	Urban Minor Arterial	2144934	286	0.5	0.7
+2020	Middlesex	Urban Collector (Major and Minor)	1494967	276	0.5	0.7
+2020	Middlesex	Urban Local	2215701	1789	0.3	0.5
+2020	Middlesex	Rural Interstate/Primary Arterial	174148	6	0.7	1
+2020	Middlesex	Rural Minor Arterial	18705	3	0.5	0.7
+2020	Middlesex	Rural Collector (Major and Minor)	12147	6	0.5	0.7
+2020	Middlesex	Rural Local	8732	16	0.3	0.5
+2021	Middlesex	Urban Interstate/Freeway/Expressway	9279779	186	0.7	1
+2021	Middlesex	Urban Primary Arterial	5993527	410	0.7	1
+2021	Middlesex	Urban Minor Arterial	2441486	286	0.5	0.7
+2021	Middlesex	Urban Collector (Major and Minor)	1429669	276	0.5	0.7
+2021	Middlesex	Urban Local	2553405	1790	0.3	0.5
+2021	Middlesex	Rural Interstate/Primary Arterial	212192	6	0.7	1
+2021	Middlesex	Rural Minor Arterial	20154	3	0.5	0.7
+2021	Middlesex	Rural Collector (Major and Minor)	12082	6	0.5	0.7
+2021	Middlesex	Rural Local	9773	16	0.3	0.5
+2022	Middlesex	Urban Interstate/Freeway/Expressway	9717348	186	0.7	1
+2022	Middlesex	Urban Primary Arterial	6108832	410	0.7	1
+2022	Middlesex	Urban Minor Arterial	2633673	286	0.5	0.7
+2022	Middlesex	Urban Collector (Major and Minor)	1342874	276	0.5	0.7
+2022	Middlesex	Urban Local	2638819	1790	0.3	0.5
+2022	Middlesex	Rural Interstate/Primary Arterial	217380	6	0.7	1
+2022	Middlesex	Rural Minor Arterial	17944	3	0.5	0.7
+2022	Middlesex	Rural Collector (Major and Minor)	11533	6	0.5	0.7
+2022	Middlesex	Rural Local	9979	16	0.3	0.5
+2017	Monmouth	Urban Interstate/Freeway/Expressway	6205122	213	0.7	1
+2017	Monmouth	Urban Primary Arterial	3887946	360	0.7	1
+2017	Monmouth	Urban Minor Arterial	2199593	262	0.5	0.7
+2017	Monmouth	Urban Collector (Major and Minor)	1622340	318	0.5	0.7
+2017	Monmouth	Urban Local	3753162	2491	0.3	0.5
+2017	Monmouth	Rural Interstate/Primary Arterial	391125	24	0.7	1
+2017	Monmouth	Rural Minor Arterial	42570	4	0.5	0.7
+2017	Monmouth	Rural Collector (Major and Minor)	184483	53	0.5	0.7
+2017	Monmouth	Rural Local	96033	165	0.3	0.5
+2018	Monmouth	Urban Interstate/Freeway/Expressway	6116865	213	0.7	1
+2018	Monmouth	Urban Primary Arterial	3875210	360	0.7	1
+2018	Monmouth	Urban Minor Arterial	2268073	262	0.5	0.7
+2018	Monmouth	Urban Collector (Major and Minor)	1703547	318	0.5	0.7
+2018	Monmouth	Urban Local	3797053	2493	0.3	0.5
+2018	Monmouth	Rural Interstate/Primary Arterial	441524	24	0.7	1
+2018	Monmouth	Rural Minor Arterial	41765	4	0.5	0.7
+2018	Monmouth	Rural Collector (Major and Minor)	174626	53	0.5	0.7
+2018	Monmouth	Rural Local	102449	165	0.3	0.5
+2019	Monmouth	Urban Interstate/Freeway/Expressway	6130052	213	0.7	1
+2019	Monmouth	Urban Primary Arterial	3897051	360	0.7	1
+2019	Monmouth	Urban Minor Arterial	2262944	262	0.5	0.7
+2019	Monmouth	Urban Collector (Major and Minor)	1789181	318	0.5	0.7
+2019	Monmouth	Urban Local	3650427	2493	0.3	0.5
+2019	Monmouth	Rural Interstate/Primary Arterial	465898	24	0.7	1
+2019	Monmouth	Rural Minor Arterial	42050	4	0.5	0.7
+2019	Monmouth	Rural Collector (Major and Minor)	179907	53	0.5	0.7
+2019	Monmouth	Rural Local	106717	165	0.3	0.5
+2020	Monmouth	Urban Interstate/Freeway/Expressway	5027420	213	0.7	1
+2020	Monmouth	Urban Primary Arterial	3383604	360	0.7	1
+2020	Monmouth	Urban Minor Arterial	2127152	262	0.5	0.7
+2020	Monmouth	Urban Collector (Major and Minor)	1381491	318	0.5	0.7
+2020	Monmouth	Urban Local	3087408	2493	0.3	0.5
+2020	Monmouth	Rural Interstate/Primary Arterial	364714	24	0.7	1
+2020	Monmouth	Rural Minor Arterial	37937	4	0.5	0.7
+2020	Monmouth	Rural Collector (Major and Minor)	155494	53	0.5	0.7
+2020	Monmouth	Rural Local	89990	167	0.3	0.5
+2021	Monmouth	Urban Interstate/Freeway/Expressway	5626514	213	0.7	1
+2021	Monmouth	Urban Primary Arterial	3697427	360	0.7	1
+2021	Monmouth	Urban Minor Arterial	2047537	262	0.5	0.7
+2021	Monmouth	Urban Collector (Major and Minor)	1536659	318	0.5	0.7
+2021	Monmouth	Urban Local	3397595	2382	0.3	0.5
+2021	Monmouth	Rural Interstate/Primary Arterial	415271	24	0.7	1
+2021	Monmouth	Rural Minor Arterial	41808	4	0.5	0.7
+2021	Monmouth	Rural Collector (Major and Minor)	172178	53	0.5	0.7
+2021	Monmouth	Rural Local	100728	167	0.3	0.5
+2022	Monmouth	Urban Interstate/Freeway/Expressway	5725461	213	0.7	1
+2022	Monmouth	Urban Primary Arterial	3797870	360	0.7	1
+2022	Monmouth	Urban Minor Arterial	2039725	263	0.5	0.7
+2022	Monmouth	Urban Collector (Major and Minor)	1514219	318	0.5	0.7
+2022	Monmouth	Urban Local	3511907	2382	0.3	0.5
+2022	Monmouth	Rural Interstate/Primary Arterial	427312	24	0.7	1
+2022	Monmouth	Rural Minor Arterial	41494	4	0.5	0.7
+2022	Monmouth	Rural Collector (Major and Minor)	166564	53	0.5	0.7
+2022	Monmouth	Rural Local	103022	167	0.3	0.5
+2017	Morris	Urban Interstate/Freeway/Expressway	6330056	186	0.7	1
+2017	Morris	Urban Primary Arterial	2863385	253	0.7	1
+2017	Morris	Urban Minor Arterial	1642955	279	0.5	0.7
+2017	Morris	Urban Collector (Major and Minor)	961508	260	0.5	0.7
+2017	Morris	Urban Local	2662376	1767	0.3	0.5
+2017	Morris	Rural Interstate/Primary Arterial	54684	6	0.7	1
+2017	Morris	Rural Minor Arterial	7097	1	0.5	0.7
+2017	Morris	Rural Collector (Major and Minor)	65769	27	0.5	0.7
+2017	Morris	Rural Local	56302	97	0.3	0.5
+2018	Morris	Urban Interstate/Freeway/Expressway	6271946	186	0.7	1
+2018	Morris	Urban Primary Arterial	2818220	253	0.7	1
+2018	Morris	Urban Minor Arterial	1775495	279	0.5	0.7
+2018	Morris	Urban Collector (Major and Minor)	1020157	260	0.5	0.7
+2018	Morris	Urban Local	2690849	1767	0.3	0.5
+2018	Morris	Rural Interstate/Primary Arterial	55081	6	0.7	1
+2018	Morris	Rural Minor Arterial	7088	1	0.5	0.7
+2018	Morris	Rural Collector (Major and Minor)	66650	27	0.5	0.7
+2018	Morris	Rural Local	60063	97	0.3	0.5
+2019	Morris	Urban Interstate/Freeway/Expressway	6282806	186	0.7	1
+2019	Morris	Urban Primary Arterial	2838376	253	0.7	1
+2019	Morris	Urban Minor Arterial	1828586	279	0.5	0.7
+2019	Morris	Urban Collector (Major and Minor)	1015143	260	0.5	0.7
+2019	Morris	Urban Local	2587182	1767	0.3	0.5
+2019	Morris	Rural Interstate/Primary Arterial	57347	6	0.7	1
+2019	Morris	Rural Minor Arterial	6938	1	0.5	0.7
+2019	Morris	Rural Collector (Major and Minor)	69003	27	0.5	0.7
+2019	Morris	Rural Local	62566	97	0.3	0.5
+2020	Morris	Urban Interstate/Freeway/Expressway	5443553	186	0.7	1
+2020	Morris	Urban Primary Arterial	2378135	253	0.7	1
+2020	Morris	Urban Minor Arterial	1504028	279	0.5	0.7
+2020	Morris	Urban Collector (Major and Minor)	917719	260	0.5	0.7
+2020	Morris	Urban Local	2187730	1767	0.3	0.5
+2020	Morris	Rural Interstate/Primary Arterial	52344	6	0.7	1
+2020	Morris	Rural Minor Arterial	6349	1	0.5	0.7
+2020	Morris	Rural Collector (Major and Minor)	54678	27	0.5	0.7
+2020	Morris	Rural Local	52143	97	0.3	0.5
+2021	Morris	Urban Interstate/Freeway/Expressway	6166357	186	0.7	1
+2021	Morris	Urban Primary Arterial	2616109	250	0.7	1
+2021	Morris	Urban Minor Arterial	1707649	279	0.5	0.7
+2021	Morris	Urban Collector (Major and Minor)	899115	260	0.5	0.7
+2021	Morris	Urban Local	2520579	1767	0.3	0.5
+2021	Morris	Rural Interstate/Primary Arterial	52100	6	0.7	1
+2021	Morris	Rural Minor Arterial	6628	1	0.5	0.7
+2021	Morris	Rural Collector (Major and Minor)	59945	27	0.5	0.7
+2021	Morris	Rural Local	58354	97	0.3	0.5
+2022	Morris	Urban Interstate/Freeway/Expressway	6456679	186	0.7	1
+2022	Morris	Urban Primary Arterial	2689691	250	0.7	1
+2022	Morris	Urban Minor Arterial	1676353	279	0.5	0.7
+2022	Morris	Urban Collector (Major and Minor)	845386	260	0.5	0.7
+2022	Morris	Urban Local	2604838	1767	0.3	0.5
+2022	Morris	Rural Interstate/Primary Arterial	54123	6	0.7	1
+2022	Morris	Rural Minor Arterial	6614	1	0.5	0.7
+2022	Morris	Rural Collector (Major and Minor)	60605	27	0.5	0.7
+2022	Morris	Rural Local	59580	97	0.3	0.5
+2017	Ocean	Urban Interstate/Freeway/Expressway	3589588	144	0.7	1
+2017	Ocean	Urban Primary Arterial	2998617	353	0.7	1
+2017	Ocean	Urban Minor Arterial	2117975	199	0.5	0.7
+2017	Ocean	Urban Collector (Major and Minor)	848296	198	0.5	0.7
+2017	Ocean	Urban Local	3392530	2251	0.3	0.5
+2017	Ocean	Rural Interstate/Primary Arterial	175372	36	0.7	1
+2017	Ocean	Rural Minor Arterial	39400	3	0.5	0.7
+2017	Ocean	Rural Collector (Major and Minor)	260028	47	0.5	0.7
+2017	Ocean	Rural Local	75746	130	0.3	0.5
+2018	Ocean	Urban Interstate/Freeway/Expressway	3574937	144	0.7	1
+2018	Ocean	Urban Primary Arterial	2967972	353	0.7	1
+2018	Ocean	Urban Minor Arterial	2125070	199	0.5	0.7
+2018	Ocean	Urban Collector (Major and Minor)	980223	198	0.5	0.7
+2018	Ocean	Urban Local	3429105	2252	0.3	0.5
+2018	Ocean	Rural Interstate/Primary Arterial	176146	36	0.7	1
+2018	Ocean	Rural Minor Arterial	38841	3	0.5	0.7
+2018	Ocean	Rural Collector (Major and Minor)	249407	47	0.5	0.7
+2018	Ocean	Rural Local	80806	130	0.3	0.5
+2019	Ocean	Urban Interstate/Freeway/Expressway	3598369	144	0.7	1
+2019	Ocean	Urban Primary Arterial	3051622	353	0.7	1
+2019	Ocean	Urban Minor Arterial	2135812	199	0.5	0.7
+2019	Ocean	Urban Collector (Major and Minor)	996153	198	0.5	0.7
+2019	Ocean	Urban Local	3297213	2252	0.3	0.5
+2019	Ocean	Rural Interstate/Primary Arterial	176407	36	0.7	1
+2019	Ocean	Rural Minor Arterial	39462	3	0.5	0.7
+2019	Ocean	Rural Collector (Major and Minor)	260189	47	0.5	0.7
+2019	Ocean	Rural Local	84173	130	0.3	0.5
+2020	Ocean	Urban Interstate/Freeway/Expressway	2953487	144	0.7	1
+2020	Ocean	Urban Primary Arterial	2832407	353	0.7	1
+2020	Ocean	Urban Minor Arterial	1970354	199	0.5	0.7
+2020	Ocean	Urban Collector (Major and Minor)	971823	198	0.5	0.7
+2020	Ocean	Urban Local	2789620	2253	0.3	0.5
+2020	Ocean	Rural Interstate/Primary Arterial	167980	36	0.7	1
+2020	Ocean	Rural Minor Arterial	36031	3	0.5	0.7
+2020	Ocean	Rural Collector (Major and Minor)	240418	47	0.5	0.7
+2020	Ocean	Rural Local	70151	130	0.3	0.5
+2021	Ocean	Urban Interstate/Freeway/Expressway	3409672	144	0.7	1
+2021	Ocean	Urban Primary Arterial	3118616	353	0.7	1
+2021	Ocean	Urban Minor Arterial	2157586	199	0.5	0.7
+2021	Ocean	Urban Collector (Major and Minor)	944023	199	0.5	0.7
+2021	Ocean	Urban Local	3214535	2253	0.3	0.5
+2021	Ocean	Rural Interstate/Primary Arterial	193246	36	0.7	1
+2021	Ocean	Rural Minor Arterial	38556	3	0.5	0.7
+2021	Ocean	Rural Collector (Major and Minor)	258685	47	0.5	0.7
+2021	Ocean	Rural Local	56211	93	0.3	0.5
+2022	Ocean	Urban Interstate/Freeway/Expressway	3453420	144	0.7	1
+2022	Ocean	Urban Primary Arterial	2954575	352.5	0.7	1
+2022	Ocean	Urban Minor Arterial	2251500	199	0.5	0.7
+2022	Ocean	Urban Collector (Major and Minor)	954677	199	0.5	0.7
+2022	Ocean	Urban Local	3321879	2253	0.3	0.5
+2022	Ocean	Rural Interstate/Primary Arterial	169998	36	0.7	1
+2022	Ocean	Rural Minor Arterial	44393	3	0.5	0.7
+2022	Ocean	Rural Collector (Major and Minor)	245435	47	0.5	0.7
+2022	Ocean	Rural Local	57391	93	0.3	0.5
+2017	Passaic	Urban Interstate/Freeway/Expressway	2905277	90	0.7	1
+2017	Passaic	Urban Primary Arterial	2302804	223	0.7	1
+2017	Passaic	Urban Minor Arterial	885868	186	0.5	0.7
+2017	Passaic	Urban Collector (Major and Minor)	419176	113	0.5	0.7
+2017	Passaic	Urban Local	1388177	921	0.3	0.5
+2017	Passaic	Rural Interstate/Primary Arterial	0	0	0.7	1
+2017	Passaic	Rural Minor Arterial	0	0	0.5	0.7
+2017	Passaic	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2017	Passaic	Rural Local	0	0	0.3	0.5
+2018	Passaic	Urban Interstate/Freeway/Expressway	2861002	90	0.7	1
+2018	Passaic	Urban Primary Arterial	2287180	223	0.7	1
+2018	Passaic	Urban Minor Arterial	955656	186	0.5	0.7
+2018	Passaic	Urban Collector (Major and Minor)	441540	113	0.5	0.7
+2018	Passaic	Urban Local	1403030	921	0.3	0.5
+2018	Passaic	Rural Interstate/Primary Arterial	0	0	0.7	1
+2018	Passaic	Rural Minor Arterial	0	0	0.5	0.7
+2018	Passaic	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2018	Passaic	Rural Local	0	0	0.3	0.5
+2019	Passaic	Urban Interstate/Freeway/Expressway	2937334	90	0.7	1
+2019	Passaic	Urban Primary Arterial	2301944	223	0.7	1
+2019	Passaic	Urban Minor Arterial	977645	186	0.5	0.7
+2019	Passaic	Urban Collector (Major and Minor)	440709	113	0.5	0.7
+2019	Passaic	Urban Local	1348765	921	0.3	0.5
+2019	Passaic	Rural Interstate/Primary Arterial	0	0	0.7	1
+2019	Passaic	Rural Minor Arterial	0	0	0.5	0.7
+2019	Passaic	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2019	Passaic	Rural Local	0	0	0.3	0.5
+2020	Passaic	Urban Interstate/Freeway/Expressway	2674514	90	0.7	1
+2020	Passaic	Urban Primary Arterial	2065910	223	0.7	1
+2020	Passaic	Urban Minor Arterial	966930	186	0.5	0.7
+2020	Passaic	Urban Collector (Major and Minor)	419431	113	0.5	0.7
+2020	Passaic	Urban Local	1140521	921	0.3	0.5
+2020	Passaic	Rural Interstate/Primary Arterial	0	0	0.7	1
+2020	Passaic	Rural Minor Arterial	0	0	0.5	0.7
+2020	Passaic	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2020	Passaic	Rural Local	0	0	0.3	0.5
+2021	Passaic	Urban Interstate/Freeway/Expressway	2851597	90	0.7	1
+2021	Passaic	Urban Primary Arterial	2205903	223	0.7	1
+2021	Passaic	Urban Minor Arterial	963376	186	0.5	0.7
+2021	Passaic	Urban Collector (Major and Minor)	424542	113	0.5	0.7
+2021	Passaic	Urban Local	1314043	921	0.3	0.5
+2021	Passaic	Rural Interstate/Primary Arterial	0	0	0.7	1
+2021	Passaic	Rural Minor Arterial	0	0	0.5	0.7
+2021	Passaic	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2021	Passaic	Rural Local	0	0	0.3	0.5
+2022	Passaic	Urban Interstate/Freeway/Expressway	2951298	90	0.7	1
+2022	Passaic	Urban Primary Arterial	2257490	222.5	0.7	1
+2022	Passaic	Urban Minor Arterial	962581	186	0.5	0.7
+2022	Passaic	Urban Collector (Major and Minor)	422137	113	0.5	0.7
+2022	Passaic	Urban Local	1357924	921	0.3	0.5
+2022	Passaic	Rural Interstate/Primary Arterial	0	0	0.7	1
+2022	Passaic	Rural Minor Arterial	0	0	0.5	0.7
+2022	Passaic	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2022	Passaic	Rural Local	0	0	0.3	0.5
+2017	Salem	Urban Interstate/Freeway/Expressway	258345	21	0.7	1
+2017	Salem	Urban Primary Arterial	215600	45	0.7	1
+2017	Salem	Urban Minor Arterial	182429	23	0.5	0.7
+2017	Salem	Urban Collector (Major and Minor)	140968	56	0.5	0.7
+2017	Salem	Urban Local	221604	221	0.3	0.5
+2017	Salem	Rural Interstate/Primary Arterial	656053	99	0.7	1
+2017	Salem	Rural Minor Arterial	93279	19	0.5	0.7
+2017	Salem	Rural Collector (Major and Minor)	256353	133	0.5	0.7
+2017	Salem	Rural Local	219013	377	0.3	0.5
+2018	Salem	Urban Interstate/Freeway/Expressway	266310	21	0.7	1
+2018	Salem	Urban Primary Arterial	214927	45	0.7	1
+2018	Salem	Urban Minor Arterial	182284	23	0.5	0.7
+2018	Salem	Urban Collector (Major and Minor)	142230	56	0.5	0.7
+2018	Salem	Urban Local	222401	221	0.3	0.5
+2018	Salem	Rural Interstate/Primary Arterial	645859	99	0.7	1
+2018	Salem	Rural Minor Arterial	91167	19	0.5	0.7
+2018	Salem	Rural Collector (Major and Minor)	251070	133	0.5	0.7
+2018	Salem	Rural Local	234197	377	0.3	0.5
+2019	Salem	Urban Interstate/Freeway/Expressway	261249	21	0.7	1
+2019	Salem	Urban Primary Arterial	212626	45	0.7	1
+2019	Salem	Urban Minor Arterial	186218	23	0.5	0.7
+2019	Salem	Urban Collector (Major and Minor)	142443	56	0.5	0.7
+2019	Salem	Urban Local	226301	221	0.3	0.5
+2019	Salem	Rural Interstate/Primary Arterial	659024	99	0.7	1
+2019	Salem	Rural Minor Arterial	91479	19	0.5	0.7
+2019	Salem	Rural Collector (Major and Minor)	260746	133	0.5	0.7
+2019	Salem	Rural Local	243955	377	0.3	0.5
+2020	Salem	Urban Interstate/Freeway/Expressway	248091	21	0.7	1
+2020	Salem	Urban Primary Arterial	195197	45	0.7	1
+2020	Salem	Urban Minor Arterial	182271	23	0.5	0.7
+2020	Salem	Urban Collector (Major and Minor)	135177	56	0.5	0.7
+2020	Salem	Urban Local	192736	221	0.3	0.5
+2020	Salem	Rural Interstate/Primary Arterial	509460	99	0.7	1
+2020	Salem	Rural Minor Arterial	94201	19	0.5	0.7
+2020	Salem	Rural Collector (Major and Minor)	227133	133	0.5	0.7
+2020	Salem	Rural Local	203316	377	0.3	0.5
+2021	Salem	Urban Interstate/Freeway/Expressway	297975	21	0.7	1
+2021	Salem	Urban Primary Arterial	194352	45	0.7	1
+2021	Salem	Urban Minor Arterial	191945	23	0.5	0.7
+2021	Salem	Urban Collector (Major and Minor)	134093	56	0.5	0.7
+2021	Salem	Urban Local	215364	221	0.3	0.5
+2021	Salem	Rural Interstate/Primary Arterial	611298	99	0.7	1
+2021	Salem	Rural Minor Arterial	105476	19	0.5	0.7
+2021	Salem	Rural Collector (Major and Minor)	237684	133	0.5	0.7
+2021	Salem	Rural Local	227569	377	0.3	0.5
+2022	Salem	Urban Interstate/Freeway/Expressway	305250	21	0.7	1
+2022	Salem	Urban Primary Arterial	204809	45	0.7	1
+2022	Salem	Urban Minor Arterial	195087	23	0.5	0.7
+2022	Salem	Urban Collector (Major and Minor)	134234	56	0.5	0.7
+2022	Salem	Urban Local	220126	221	0.3	0.5
+2022	Salem	Rural Interstate/Primary Arterial	640214	99	0.7	1
+2022	Salem	Rural Minor Arterial	105656	19	0.5	0.7
+2022	Salem	Rural Collector (Major and Minor)	246184	133	0.5	0.7
+2022	Salem	Rural Local	232347	377	0.3	0.5
+2017	Somerset	Urban Interstate/Freeway/Expressway	2956373	96	0.7	1
+2017	Somerset	Urban Primary Arterial	2360734	168	0.7	1
+2017	Somerset	Urban Minor Arterial	1251822	162	0.5	0.7
+2017	Somerset	Urban Collector (Major and Minor)	682570	169	0.5	0.7
+2017	Somerset	Urban Local	1860149	1234	0.3	0.5
+2017	Somerset	Rural Interstate/Primary Arterial	461046	15	0.7	1
+2017	Somerset	Rural Minor Arterial	17344	2	0.5	0.7
+2017	Somerset	Rural Collector (Major and Minor)	84584	21	0.5	0.7
+2017	Somerset	Rural Local	41749	72	0.3	0.5
+2018	Somerset	Urban Interstate/Freeway/Expressway	2923884	96	0.7	1
+2018	Somerset	Urban Primary Arterial	2355865	168	0.7	1
+2018	Somerset	Urban Minor Arterial	1215444	162	0.5	0.7
+2018	Somerset	Urban Collector (Major and Minor)	686063	169	0.5	0.7
+2018	Somerset	Urban Local	1880541	1235	0.3	0.5
+2018	Somerset	Rural Interstate/Primary Arterial	455084	15	0.7	1
+2018	Somerset	Rural Minor Arterial	17435	2	0.5	0.7
+2018	Somerset	Rural Collector (Major and Minor)	83332	21	0.5	0.7
+2018	Somerset	Rural Local	44539	72	0.3	0.5
+2019	Somerset	Urban Interstate/Freeway/Expressway	3009414	96	0.7	1
+2019	Somerset	Urban Primary Arterial	2356560	168	0.7	1
+2019	Somerset	Urban Minor Arterial	1289884	162	0.5	0.7
+2019	Somerset	Urban Collector (Major and Minor)	683612	169	0.5	0.7
+2019	Somerset	Urban Local	1823222	1245	0.3	0.5
+2019	Somerset	Rural Interstate/Primary Arterial	450774	15	0.7	1
+2019	Somerset	Rural Minor Arterial	17891	2	0.5	0.7
+2019	Somerset	Rural Collector (Major and Minor)	87544	21	0.5	0.7
+2019	Somerset	Rural Local	46356	72	0.3	0.5
+2020	Somerset	Urban Interstate/Freeway/Expressway	2958735	96	0.7	1
+2020	Somerset	Urban Primary Arterial	1761111	168	0.7	1
+2020	Somerset	Urban Minor Arterial	1184967	162	0.5	0.7
+2020	Somerset	Urban Collector (Major and Minor)	598716	169	0.5	0.7
+2020	Somerset	Urban Local	1543989	1247	0.3	0.5
+2020	Somerset	Rural Interstate/Primary Arterial	340517	15	0.7	1
+2020	Somerset	Rural Minor Arterial	18114	2	0.5	0.7
+2020	Somerset	Rural Collector (Major and Minor)	74847	21	0.5	0.7
+2020	Somerset	Rural Local	39253	73	0.3	0.5
+2021	Somerset	Urban Interstate/Freeway/Expressway	2834692	96	0.7	1
+2021	Somerset	Urban Primary Arterial	1947167	168	0.7	1
+2021	Somerset	Urban Minor Arterial	1143930	162	0.5	0.7
+2021	Somerset	Urban Collector (Major and Minor)	704587	169	0.5	0.7
+2021	Somerset	Urban Local	1780245	1248	0.3	0.5
+2021	Somerset	Rural Interstate/Primary Arterial	389447	15	0.7	1
+2021	Somerset	Rural Minor Arterial	19336	2	0.5	0.7
+2021	Somerset	Rural Collector (Major and Minor)	71872	21	0.5	0.7
+2021	Somerset	Rural Local	43935	73	0.3	0.5
+2022	Somerset	Urban Interstate/Freeway/Expressway	2828658	96	0.7	1
+2022	Somerset	Urban Primary Arterial	2182867	167.5	0.7	1
+2022	Somerset	Urban Minor Arterial	1154708	162	0.5	0.7
+2022	Somerset	Urban Collector (Major and Minor)	799417	169	0.5	0.7
+2022	Somerset	Urban Local	1839693	1248	0.3	0.5
+2022	Somerset	Rural Interstate/Primary Arterial	411207	15	0.7	1
+2022	Somerset	Rural Minor Arterial	14563	2	0.5	0.7
+2022	Somerset	Rural Collector (Major and Minor)	71916	21	0.5	0.7
+2022	Somerset	Rural Local	44858	73	0.3	0.5
+2017	Sussex	Urban Interstate/Freeway/Expressway	874	0	0.7	1
+2017	Sussex	Urban Primary Arterial	598919	80	0.7	1
+2017	Sussex	Urban Minor Arterial	587456	68	0.5	0.7
+2017	Sussex	Urban Collector (Major and Minor)	287278	94	0.5	0.7
+2017	Sussex	Urban Local	592463	475	0.3	0.5
+2017	Sussex	Rural Interstate/Primary Arterial	500474	117	0.7	1
+2017	Sussex	Rural Minor Arterial	227157	31	0.5	0.7
+2017	Sussex	Rural Collector (Major and Minor)	301294	159	0.5	0.7
+2017	Sussex	Rural Local	301634	519	0.3	0.5
+2018	Sussex	Urban Interstate/Freeway/Expressway	861	0	0.7	1
+2018	Sussex	Urban Primary Arterial	589338	80	0.7	1
+2018	Sussex	Urban Minor Arterial	587258	68	0.5	0.7
+2018	Sussex	Urban Collector (Major and Minor)	291842	94	0.5	0.7
+2018	Sussex	Urban Local	571704	475	0.3	0.5
+2018	Sussex	Rural Interstate/Primary Arterial	486962	117	0.7	1
+2018	Sussex	Rural Minor Arterial	232621	31	0.5	0.7
+2018	Sussex	Rural Collector (Major and Minor)	291996	159	0.5	0.7
+2018	Sussex	Rural Local	321785	519	0.3	0.5
+2019	Sussex	Urban Interstate/Freeway/Expressway	862	0	0.7	1
+2019	Sussex	Urban Primary Arterial	589661	80	0.7	1
+2019	Sussex	Urban Minor Arterial	609783	68	0.5	0.7
+2019	Sussex	Urban Collector (Major and Minor)	292101	94	0.5	0.7
+2019	Sussex	Urban Local	547456	475	0.3	0.5
+2019	Sussex	Rural Interstate/Primary Arterial	491156	117	0.7	1
+2019	Sussex	Rural Minor Arterial	229140	31	0.5	0.7
+2019	Sussex	Rural Collector (Major and Minor)	305348	159	0.5	0.7
+2019	Sussex	Rural Local	335192	519	0.3	0.5
+2020	Sussex	Urban Interstate/Freeway/Expressway	718	0	0.7	1
+2020	Sussex	Urban Primary Arterial	549177	80	0.7	1
+2020	Sussex	Urban Minor Arterial	509294	68	0.5	0.7
+2020	Sussex	Urban Collector (Major and Minor)	249080	94	0.5	0.7
+2020	Sussex	Urban Local	470831	475	0.3	0.5
+2020	Sussex	Rural Interstate/Primary Arterial	403921	117	0.7	1
+2020	Sussex	Rural Minor Arterial	208811	31	0.5	0.7
+2020	Sussex	Rural Collector (Major and Minor)	280983	159	0.5	0.7
+2020	Sussex	Rural Local	279980	520	0.3	0.5
+2021	Sussex	Urban Interstate/Freeway/Expressway	817	0	0.7	1
+2021	Sussex	Urban Primary Arterial	550448	80	0.7	1
+2021	Sussex	Urban Minor Arterial	543504	68	0.5	0.7
+2021	Sussex	Urban Collector (Major and Minor)	282368	94	0.5	0.7
+2021	Sussex	Urban Local	528641	475	0.3	0.5
+2021	Sussex	Rural Interstate/Primary Arterial	475756	117	0.7	1
+2021	Sussex	Rural Minor Arterial	212511	31	0.5	0.7
+2021	Sussex	Rural Collector (Major and Minor)	284749	159	0.5	0.7
+2021	Sussex	Rural Local	313372	520	0.3	0.5
+2022	Sussex	Urban Interstate/Freeway/Expressway	814	0	0.7	1
+2022	Sussex	Urban Primary Arterial	538700	80	0.7	1
+2022	Sussex	Urban Minor Arterial	562729	68	0.5	0.7
+2022	Sussex	Urban Collector (Major and Minor)	291078	94	0.5	0.7
+2022	Sussex	Urban Local	550666	475	0.3	0.5
+2022	Sussex	Rural Interstate/Primary Arterial	471445	117	0.7	1
+2022	Sussex	Rural Minor Arterial	213239	31	0.5	0.7
+2022	Sussex	Rural Collector (Major and Minor)	275763	159	0.5	0.7
+2022	Sussex	Rural Local	319952	520	0.3	0.5
+2017	Union	Urban Interstate/Freeway/Expressway	5727114	102	0.7	1
+2017	Union	Urban Primary Arterial	1836608	155	0.7	1
+2017	Union	Urban Minor Arterial	1539359	173	0.5	0.7
+2017	Union	Urban Collector (Major and Minor)	865059	131	0.5	0.7
+2017	Union	Urban Local	1556476	1033	0.3	0.5
+2017	Union	Rural Interstate/Primary Arterial	0	0	0.7	1
+2017	Union	Rural Minor Arterial	0	0	0.5	0.7
+2017	Union	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2017	Union	Rural Local	0	0	0.3	0.5
+2018	Union	Urban Interstate/Freeway/Expressway	5733691	102	0.7	1
+2018	Union	Urban Primary Arterial	1788063	155	0.7	1
+2018	Union	Urban Minor Arterial	1628209	174	0.5	0.7
+2018	Union	Urban Collector (Major and Minor)	847593	132	0.5	0.7
+2018	Union	Urban Local	1584781	1041	0.3	0.5
+2018	Union	Rural Interstate/Primary Arterial	0	0	0.7	1
+2018	Union	Rural Minor Arterial	0	0	0.5	0.7
+2018	Union	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2018	Union	Rural Local	0	0	0.3	0.5
+2019	Union	Urban Interstate/Freeway/Expressway	5732953	102	0.7	1
+2019	Union	Urban Primary Arterial	1813380	155	0.7	1
+2019	Union	Urban Minor Arterial	1612833	174	0.5	0.7
+2019	Union	Urban Collector (Major and Minor)	854581	132	0.5	0.7
+2019	Union	Urban Local	1523703	1041	0.3	0.5
+2019	Union	Rural Interstate/Primary Arterial	0	0	0.7	1
+2019	Union	Rural Minor Arterial	0	0	0.5	0.7
+2019	Union	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2019	Union	Rural Local	0	0	0.3	0.5
+2020	Union	Urban Interstate/Freeway/Expressway	4441122	102	0.7	1
+2020	Union	Urban Primary Arterial	1480000	155	0.7	1
+2020	Union	Urban Minor Arterial	1336542	174	0.5	0.7
+2020	Union	Urban Collector (Major and Minor)	623940	132	0.5	0.7
+2020	Union	Urban Local	1288449	1041	0.3	0.5
+2020	Union	Rural Interstate/Primary Arterial	0	0	0.7	1
+2020	Union	Rural Minor Arterial	0	0	0.5	0.7
+2020	Union	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2020	Union	Rural Local	0	0	0.3	0.5
+2021	Union	Urban Interstate/Freeway/Expressway	5168139	102	0.7	1
+2021	Union	Urban Primary Arterial	1705875	155	0.7	1
+2021	Union	Urban Minor Arterial	1531840	174	0.5	0.7
+2021	Union	Urban Collector (Major and Minor)	745639	132	0.5	0.7
+2021	Union	Urban Local	1484486	1041	0.3	0.5
+2021	Union	Rural Interstate/Primary Arterial	0	0	0.7	1
+2021	Union	Rural Minor Arterial	0	0	0.5	0.7
+2021	Union	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2021	Union	Rural Local	0	0	0.3	0.5
+2022	Union	Urban Interstate/Freeway/Expressway	5535206	102	0.7	1
+2022	Union	Urban Primary Arterial	1829979	155	0.7	1
+2022	Union	Urban Minor Arterial	1570256	174	0.5	0.7
+2022	Union	Urban Collector (Major and Minor)	793028	132	0.5	0.7
+2022	Union	Urban Local	1534058	1041	0.3	0.5
+2022	Union	Rural Interstate/Primary Arterial	0	0	0.7	1
+2022	Union	Rural Minor Arterial	0	0	0.5	0.7
+2022	Union	Rural Collector (Major and Minor)	0	0	0.5	0.7
+2022	Union	Rural Local	0	0	0.3	0.5
+2017	Warren	Urban Interstate/Freeway/Expressway	990960	42	0.7	1
+2017	Warren	Urban Primary Arterial	547696	93	0.7	1
+2017	Warren	Urban Minor Arterial	331629	49	0.5	0.7
+2017	Warren	Urban Collector (Major and Minor)	89927	41	0.5	0.7
+2017	Warren	Urban Local	262844	328	0.3	0.5
+2017	Warren	Rural Interstate/Primary Arterial	1036297	90	0.7	1
+2017	Warren	Rural Minor Arterial	254506	43	0.5	0.7
+2017	Warren	Rural Collector (Major and Minor)	253970	111	0.5	0.7
+2017	Warren	Rural Local	274436	472	0.3	0.5
+2018	Warren	Urban Interstate/Freeway/Expressway	994169	42	0.7	1
+2018	Warren	Urban Primary Arterial	556414	93	0.7	1
+2018	Warren	Urban Minor Arterial	339904	49	0.5	0.7
+2018	Warren	Urban Collector (Major and Minor)	91217	41	0.5	0.7
+2018	Warren	Urban Local	249439	328	0.3	0.5
+2018	Warren	Rural Interstate/Primary Arterial	1008474	90	0.7	1
+2018	Warren	Rural Minor Arterial	272310	43	0.5	0.7
+2018	Warren	Rural Collector (Major and Minor)	248702	111	0.5	0.7
+2018	Warren	Rural Local	293224	473	0.3	0.5
+2019	Warren	Urban Interstate/Freeway/Expressway	1016255	42	0.7	1
+2019	Warren	Urban Primary Arterial	553647	93	0.7	1
+2019	Warren	Urban Minor Arterial	339153	49	0.5	0.7
+2019	Warren	Urban Collector (Major and Minor)	91076	41	0.5	0.7
+2019	Warren	Urban Local	237913	328	0.3	0.5
+2019	Warren	Rural Interstate/Primary Arterial	976888	90	0.7	1
+2019	Warren	Rural Minor Arterial	280016	43	0.5	0.7
+2019	Warren	Rural Collector (Major and Minor)	253932	111	0.5	0.7
+2019	Warren	Rural Local	305441	473	0.3	0.5
+2020	Warren	Urban Interstate/Freeway/Expressway	858874	42	0.7	1
+2020	Warren	Urban Primary Arterial	481191	93	0.7	1
+2020	Warren	Urban Minor Arterial	330491	49	0.5	0.7
+2020	Warren	Urban Collector (Major and Minor)	88063	41	0.5	0.7
+2020	Warren	Urban Local	208314	328	0.3	0.5
+2020	Warren	Rural Interstate/Primary Arterial	911601	90	0.7	1
+2020	Warren	Rural Minor Arterial	241654	43	0.5	0.7
+2020	Warren	Rural Collector (Major and Minor)	233613	111	0.5	0.7
+2020	Warren	Rural Local	254560	473	0.3	0.5
+2021	Warren	Urban Interstate/Freeway/Expressway	944899	42	0.7	1
+2021	Warren	Urban Primary Arterial	517658	93	0.7	1
+2021	Warren	Urban Minor Arterial	363839	49	0.5	0.7
+2021	Warren	Urban Collector (Major and Minor)	85982	41	0.5	0.7
+2021	Warren	Urban Local	211901	328	0.3	0.5
+2021	Warren	Rural Interstate/Primary Arterial	1017959	90	0.7	1
+2021	Warren	Rural Minor Arterial	247002	43	0.5	0.7
+2021	Warren	Rural Collector (Major and Minor)	250770	111	0.5	0.7
+2021	Warren	Rural Local	284926	473	0.3	0.5
+2022	Warren	Urban Interstate/Freeway/Expressway	953246	42	0.7	1
+2022	Warren	Urban Primary Arterial	532748	92.5	0.7	1
+2022	Warren	Urban Minor Arterial	359173	49	0.5	0.7
+2022	Warren	Urban Collector (Major and Minor)	85940	41	0.5	0.7
+2022	Warren	Urban Local	217278	328	0.3	0.5
+2022	Warren	Rural Interstate/Primary Arterial	1098176	90	0.7	1
+2022	Warren	Rural Minor Arterial	295855	43	0.5	0.7
+2022	Warren	Rural Collector (Major and Minor)	254240	111	0.5	0.7
+2022	Warren	Rural Local	290908	473	0.3	0.5
