@@ -61,7 +61,7 @@
           annual vehicle miles traveled. This calculation used a minimum elasticity of <span id="modal-min-elasticity" class="fw-bold text-warning"></span>
           and a maximum elasticity of <span id="modal-max-elasticity" class="fw-bold text-warning"></span>.
           This would result in <span id="modal-min-co2" class="fw-bold text-warning"></span> to
-          <span id="modal-max-co2" class="fw-bold text-warning"></span> grams of CO<sub>2</sub> emissions each year.
+          <span id="modal-max-co2" class="fw-bold text-warning"></span> metric tons of CO<sub>2</sub> emissions each year.
         </p>
       </div>
       <div class="modal-footer">
@@ -208,10 +208,10 @@
     maxElastSpan.innerText = nf.format(maxElast);
 
     const minCO2Span = document.getElementById("modal-min-co2")!;
-    minCO2Span.innerText = nf.format(483.2 * minMilesAdded / 1000000.0);
+    minCO2Span.innerText = nf.format(Math.round(483.2 * minMilesAdded / 1000000.0));
 
     const maxCO2Span = document.getElementById("modal-max-co2")!;
-    maxCO2Span.innerText = nf.format(483.2 * maxMilesAdded / 1000000.0);
+    maxCO2Span.innerText = nf.format(Math.round(483.2 * maxMilesAdded / 1000000.0));
 
     showResultsModal();
   }
