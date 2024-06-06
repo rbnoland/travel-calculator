@@ -59,7 +59,9 @@
           <span id="modal-new-lane-miles" class="fw-bold text-warning"></span> lane miles would add between
           <span id="modal-min-miles-added" class="fw-bold text-warning"></span> and <span id="modal-max-miles-added" class="fw-bold text-warning"></span>
           annual vehicle miles traveled. This calculation used a minimum elasticity of <span id="modal-min-elasticity" class="fw-bold text-warning"></span>
-          and a maximum elasticity of <span id="modal-max-elasticity" class="fw-bold text-warning"></span>. This would result in XX to YY grams of CO2 emissions each year.
+          and a maximum elasticity of <span id="modal-max-elasticity" class="fw-bold text-warning"></span>.
+          This would result in <span id="modal-min-co2" class="fw-bold text-warning"></span> to
+          <span id="modal-max-co2" class="fw-bold text-warning"></span> grams of CO<sub>2</sub> emissions each year.
         </p>
       </div>
       <div class="modal-footer">
@@ -189,19 +191,27 @@
     const vmtSpan = document.getElementById("modal-vmt")!;
     vmtSpan.innerText = nf.format(vmt);
 
+    const minMilesAdded = newLaneMiles / laneMiles * vmt * minElast;
     const minMilesAddedSpan = document.getElementById("modal-min-miles-added")!;
     minMilesAddedSpan.innerText = 
-      nf.format(Math.round(newLaneMiles / laneMiles * vmt * minElast));
+      nf.format(Math.round(minMilesAdded));
 
+    const maxMilesAdded = newLaneMiles / laneMiles * vmt * maxElast;
     const maxMilesAddedSpan = document.getElementById("modal-max-miles-added")!;
     maxMilesAddedSpan.innerText = 
-      nf.format(Math.round(newLaneMiles / laneMiles * vmt * maxElast));
+      nf.format(Math.round(maxMilesAdded));
 
     const minElastSpan = document.getElementById("modal-min-elasticity")!;
     minElastSpan.innerText = nf.format(minElast);
 
     const maxElastSpan = document.getElementById("modal-max-elasticity")!;
     maxElastSpan.innerText = nf.format(maxElast);
+
+    const minCO2Span = document.getElementById("modal-min-co2")!;
+    minCO2Span.innerText = nf.format(483.2 * minMilesAdded / 1000000.0);
+
+    const maxCO2Span = document.getElementById("modal-max-co2")!;
+    maxCO2Span.innerText = nf.format(483.2 * maxMilesAdded / 1000000.0);
 
     showResultsModal();
   }
