@@ -1,4 +1,6 @@
-
+<head>
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src https://*; child-src 'none';">
+</head>
 <form id="travel-calculator" novalidate>
   <div class="row mb-3">
     <label for="year" class="col-lg-4 col-form-label">Select year:</label>
@@ -19,7 +21,9 @@
     </div>
   </div>
   <div class="row mb-3">
-    <label for="facility-type" class="col-lg-4 col-form-label">Select facility type:</label>
+    <label for="facility-type" class="col-lg-4 col-form-label"
+      >Select facility type:</label
+    >
     <div class="col-lg-8">
       <select id="facility-type" class="form-select">
         <option value="">Select facility type</option>
@@ -28,63 +32,109 @@
     </div>
   </div>
   <div class="row mb-3">
-    <label for="lane-miles" class="col-lg-4 col-form-label">Input total lane miles added:</label>
+    <label for="lane-miles" class="col-lg-4 col-form-label"
+      >Input total lane miles added:</label
+    >
     <div class="col-lg-8">
       <div class="input-group">
         <input id="lane-miles" type="text" class="form-control" />
         <span class="input-group-text">miles</span>
-        <div class="invalid-feedback">Please provide a non-negative value for lane miles.</div>
+        <div class="invalid-feedback">
+          Please provide a non-negative value for lane miles.
+        </div>
       </div>
     </div>
   </div>
   <div class="d-flex justify-content-center mt-4">
-    <button type="submit" class="btn btn-primary">Calculate Induced Travel</button>
+    <button type="submit" class="btn btn-primary"
+      >Calculate Induced Travel</button
+    >
   </div>
 </form>
 
-<div class="modal fade" id="results-modal" tabindex="-1" aria-labelledby="results-modal-label" aria-hidden="true">
+<div
+  class="modal fade"
+  id="results-modal"
+  tabindex="-1"
+  aria-labelledby="results-modal-label"
+  aria-hidden="true"
+>
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
         <h1 class="modal-title fs-5" id="results-modal-label">Results</h1>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        <button
+          type="button"
+          class="btn-close"
+          data-bs-dismiss="modal"
+          aria-label="Close"></button>
       </div>
       <div class="modal-body fs-5">
         <p>
-          In <span id="modal-year" class="fw-bold text-warning"></span>, <span id="modal-county" class="fw-bold text-warning"></span>
+          In <span id="modal-year" class="fw-bold text-warning"></span>, <span
+            id="modal-county"
+            class="fw-bold text-warning"></span>
           <span class="fw-bold text-warning">County</span> had
-          <span id="modal-lane-miles" class="fw-bold text-warning"></span> lane miles of road type
-          <span id="modal-facility-type" class="fw-bold text-warning"></span> and an annual VMT of
-          <span id="modal-vmt" class="fw-bold text-warning"></span>. A project adding
-          <span id="modal-new-lane-miles" class="fw-bold text-warning"></span> lane miles would add between
-          <span id="modal-min-miles-added" class="fw-bold text-warning"></span> and <span id="modal-max-miles-added" class="fw-bold text-warning"></span>
-          annual vehicle miles traveled. This calculation used a minimum elasticity of <span id="modal-min-elasticity" class="fw-bold text-warning"></span>
-          and a maximum elasticity of <span id="modal-max-elasticity" class="fw-bold text-warning"></span>.
-          This would result in <span id="modal-min-co2" class="fw-bold text-warning"></span> to
-          <span id="modal-max-co2" class="fw-bold text-warning"></span> metric tons of CO<sub>2</sub> emissions each year.
+          <span id="modal-lane-miles" class="fw-bold text-warning"></span> lane miles
+          of road type
+          <span id="modal-facility-type" class="fw-bold text-warning"></span> and
+          an annual VMT of
+          <span id="modal-vmt" class="fw-bold text-warning"></span>. A project
+          adding
+          <span id="modal-new-lane-miles" class="fw-bold text-warning"></span> lane
+          miles would add between
+          <span id="modal-min-miles-added" class="fw-bold text-warning"></span> and
+          <span id="modal-max-miles-added" class="fw-bold text-warning"></span>
+          annual vehicle miles traveled. This calculation used a minimum elasticity
+          of <span id="modal-min-elasticity" class="fw-bold text-warning"
+          ></span>
+          and a maximum elasticity of <span
+            id="modal-max-elasticity"
+            class="fw-bold text-warning"></span>. This would result in <span
+            id="modal-min-co2"
+            class="fw-bold text-warning"></span> to
+          <span id="modal-max-co2" class="fw-bold text-warning"></span> metric tons
+          of CO<sub>2</sub> emissions each year.
         </p>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" data-bs-dismiss="modal"
+          >Close</button
+        >
       </div>
     </div>
   </div>
 </div>
 
-<div class="modal fade" id="error-modal" tabindex="-1" aria-labelledby="error-modal-label" aria-hidden="true">
+<div
+  class="modal fade"
+  id="error-modal"
+  tabindex="-1"
+  aria-labelledby="error-modal-label"
+  aria-hidden="true"
+>
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h1 class="modal-title fs-5" id="error-modal-label">No results found!</h1>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        <h1 class="modal-title fs-5" id="error-modal-label">
+          No results found!
+        </h1>
+        <button
+          type="button"
+          class="btn-close"
+          data-bs-dismiss="modal"
+          aria-label="Close"></button>
       </div>
       <div class="modal-body fs-5">
         <p>
-          There are no results for this combination of year, county, and facility type. Try some different inputs.
+          There are no results for this combination of year, county, and
+          facility type. Try some different inputs.
         </p>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" data-bs-dismiss="modal"
+          >Close</button
+        >
       </div>
     </div>
   </div>
@@ -99,10 +149,16 @@
   const data = await loadData();
 
   const yearInput = document.getElementById("year") as HTMLInputElement;
-  const facilityTypeInput = document.getElementById("facility-type") as HTMLInputElement;
+  const facilityTypeInput = document.getElementById(
+    "facility-type",
+  ) as HTMLInputElement;
   const countyInput = document.getElementById("county") as HTMLInputElement;
-  const laneMilesInput = document.getElementById("lane-miles") as HTMLInputElement;
-  const travelCalc = document.getElementById("travel-calculator") as HTMLFormElement;
+  const laneMilesInput = document.getElementById(
+    "lane-miles",
+  ) as HTMLInputElement;
+  const travelCalc = document.getElementById(
+    "travel-calculator",
+  ) as HTMLFormElement;
 
   setupForm();
 
@@ -110,7 +166,7 @@
     event.preventDefault();
 
     if (!validateInputs()) return;
-    
+
     calculateInducedTravel();
   });
 
@@ -138,12 +194,12 @@
   }
 
   function showResultsModal() {
-    const modal = new bootstrap.Modal('#results-modal');
+    const modal = new bootstrap.Modal("#results-modal");
     modal.show();
   }
 
-  function showErrorModal(){
-    const modal = new bootstrap.Modal('#error-modal');
+  function showErrorModal() {
+    const modal = new bootstrap.Modal("#error-modal");
     modal.show();
   }
 
@@ -153,11 +209,12 @@
     const county = countyInput.value;
     const newLaneMiles = parseFloat(laneMilesInput.value);
 
-    const resultRow = data.find((row) => (
-      row.year === year &&
-      row.facilityType === facilityType &&
-      row.county === county
-    ));
+    const resultRow = data.find(
+      (row) =>
+        row.year === year &&
+        row.facilityType === facilityType &&
+        row.county === county,
+    );
 
     if (!resultRow) {
       showErrorModal();
@@ -166,7 +223,7 @@
 
     const { vmt, laneMiles, minElast, maxElast } = resultRow!;
 
-    if (laneMiles === 0){
+    if (laneMiles === 0) {
       showErrorModal();
       return;
     }
@@ -191,15 +248,13 @@
     const vmtSpan = document.getElementById("modal-vmt")!;
     vmtSpan.innerText = nf.format(vmt);
 
-    const minMilesAdded = newLaneMiles / laneMiles * vmt * minElast;
+    const minMilesAdded = (newLaneMiles / laneMiles) * vmt * minElast;
     const minMilesAddedSpan = document.getElementById("modal-min-miles-added")!;
-    minMilesAddedSpan.innerText = 
-      nf.format(Math.round(minMilesAdded));
+    minMilesAddedSpan.innerText = nf.format(Math.round(minMilesAdded));
 
-    const maxMilesAdded = newLaneMiles / laneMiles * vmt * maxElast;
+    const maxMilesAdded = (newLaneMiles / laneMiles) * vmt * maxElast;
     const maxMilesAddedSpan = document.getElementById("modal-max-miles-added")!;
-    maxMilesAddedSpan.innerText = 
-      nf.format(Math.round(maxMilesAdded));
+    maxMilesAddedSpan.innerText = nf.format(Math.round(maxMilesAdded));
 
     const minElastSpan = document.getElementById("modal-min-elasticity")!;
     minElastSpan.innerText = nf.format(minElast);
@@ -208,10 +263,14 @@
     maxElastSpan.innerText = nf.format(maxElast);
 
     const minCO2Span = document.getElementById("modal-min-co2")!;
-    minCO2Span.innerText = nf.format(Math.round(483.2 * minMilesAdded / 1000000.0));
+    minCO2Span.innerText = nf.format(
+      Math.round((483.2 * minMilesAdded) / 1000000.0),
+    );
 
     const maxCO2Span = document.getElementById("modal-max-co2")!;
-    maxCO2Span.innerText = nf.format(Math.round(483.2 * maxMilesAdded / 1000000.0));
+    maxCO2Span.innerText = nf.format(
+      Math.round((483.2 * maxMilesAdded) / 1000000.0),
+    );
 
     showResultsModal();
   }
@@ -222,8 +281,7 @@
     markInputsAsValid();
 
     const invalidInputs = getInvalidInputs();
-    for (const input of invalidInputs)
-      input.classList.add(invalidClass);
+    for (const input of invalidInputs) input.classList.add(invalidClass);
 
     return invalidInputs.length === 0;
   }
@@ -259,7 +317,7 @@
 
     const uniqueYears = [...new Set(years)];
     uniqueYears.sort();
-    
+
     for (const year of uniqueYears) {
       const option = document.createElement("option");
       option.innerText = String(year);
@@ -272,7 +330,7 @@
 
     const uniqueCounties = [...new Set(counties)];
     uniqueCounties.sort();
-    
+
     for (const county of uniqueCounties) {
       const option = document.createElement("option");
       option.innerText = String(county);
@@ -285,7 +343,7 @@
 
     const uniqueTypes = [...new Set(types)];
     uniqueTypes.sort();
-    
+
     for (const type of uniqueTypes) {
       const option = document.createElement("option");
       option.innerText = String(type);
