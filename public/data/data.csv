@@ -1,1681 +1,1135 @@
 year,county,facilityType,vmt,laneMiles,minElast,maxElast
-2017,Allegany County,Rural Interstate/Freeway/Expressway,186000000,121.091,0.7,1
-2017,Allegany County,Rural Primary Arterial - Other,21000000,19.466,0.7,1
-2017,Allegany County,Rural Minor Arterial,18000000,16.564,0.5,0.7
-2017,Allegany County,Rural Collector (Major and Minor),33000000,208.937,0.5,0.7
-2017,Allegany County,Rural Local,53000000,678.24,0.3,0.5
-2017,Allegany County,Urban Interstate/Freeway/Expressway,175000000,67.512,0.7,1
-2017,Allegany County,Urban Primary Arterial - Other,100000000,57.206,0.7,1
-2017,Allegany County,Urban Minor Arterial,174000000,137.308,0.5,0.7
-2017,Allegany County,Urban Collector (Major and Minor),46000000,122.706,0.5,0.7
-2017,Allegany County,Urban Local,34000000,579.608,0.3,0.5
-2017,Anne Arundel County,Rural Interstate/Freeway/Expressway,109000000,20.04,0.7,1
-2017,Anne Arundel County,Rural Primary Arterial - Other,115000000,36.47,0.7,1
-2017,Anne Arundel County,Rural Minor Arterial,72000000,38.606,0.5,0.7
-2017,Anne Arundel County,Rural Collector (Major and Minor),56000000,107.494,0.5,0.7
-2017,Anne Arundel County,Rural Local,70000000,258.89,0.3,0.5
-2017,Anne Arundel County,Urban Interstate/Freeway/Expressway,3025000000,433.995,0.7,1
-2017,Anne Arundel County,Urban Primary Arterial - Other,874000000,258.589,0.7,1
-2017,Anne Arundel County,Urban Minor Arterial,940000000,421.882,0.5,0.7
-2017,Anne Arundel County,Urban Collector (Major and Minor),554000000,518.198,0.5,0.7
-2017,Anne Arundel County,Urban Local,376000000,2952.062,0.3,0.5
-2017,Baltimore County,Rural Interstate/Freeway/Expressway,300000000,58.18,0.7,1
-2017,Baltimore County,Rural Primary Arterial - Other,44000000,17.653,0.7,1
-2017,Baltimore County,Rural Minor Arterial,66000000,58.941,0.5,0.7
-2017,Baltimore County,Rural Collector (Major and Minor),227000000,324.172,0.5,0.7
-2017,Baltimore County,Rural Local,124000000,757.927,0.3,0.5
-2017,Baltimore County,Urban Interstate/Freeway/Expressway,4288000000,639.296,0.7,1
-2017,Baltimore County,Urban Primary Arterial - Other,1123000000,420.157,0.7,1
-2017,Baltimore County,Urban Minor Arterial,1330000000,691.59,0.5,0.7
-2017,Baltimore County,Urban Collector (Major and Minor),706000000,716.433,0.5,0.7
-2017,Baltimore County,Urban Local,519000000,3373.584,0.3,0.5
-2017,Calvert County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2017,Calvert County,Rural Primary Arterial - Other,22000000,7.992,0.7,1
-2017,Calvert County,Rural Minor Arterial,0,0,0.5,0.7
-2017,Calvert County,Rural Collector (Major and Minor),46000000,102.162,0.5,0.7
-2017,Calvert County,Rural Local,10000000,409.612,0.3,0.5
-2017,Calvert County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2017,Calvert County,Urban Primary Arterial - Other,468000000,158.45,0.7,1
-2017,Calvert County,Urban Minor Arterial,51000000,29.755,0.5,0.7
-2017,Calvert County,Urban Collector (Major and Minor),119000000,119.291,0.5,0.7
-2017,Calvert County,Urban Local,44000000,631.794,0.3,0.5
-2017,Caroline County,Rural Interstate/Freeway/Expressway,21000000,9.56,0.7,1
-2017,Caroline County,Rural Primary Arterial - Other,100000000,47.92,0.7,1
-2017,Caroline County,Rural Minor Arterial,116000000,113.24,0.5,0.7
-2017,Caroline County,Rural Collector (Major and Minor),107000000,335.532,0.5,0.7
-2017,Caroline County,Rural Local,66000000,901.846,0.3,0.5
-2017,Caroline County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2017,Caroline County,Urban Primary Arterial - Other,0,0,0.7,1
-2017,Caroline County,Urban Minor Arterial,0,0,0.5,0.7
-2017,Caroline County,Urban Collector (Major and Minor),0,0,0.5,0.7
-2017,Caroline County,Urban Local,0,0,0.3,0.5
-2017,Carroll County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2017,Carroll County,Rural Primary Arterial - Other,44000000,21,0.7,1
-2017,Carroll County,Rural Minor Arterial,201000000,106.392,0.5,0.7
-2017,Carroll County,Rural Collector (Major and Minor),145000000,332.628,0.5,0.7
-2017,Carroll County,Rural Local,73000000,1019.109,0.3,0.5
-2017,Carroll County,Urban Interstate/Freeway/Expressway,41000000,9.66,0.7,1
-2017,Carroll County,Urban Primary Arterial - Other,495000000,170.39,0.7,1
-2017,Carroll County,Urban Minor Arterial,141000000,82.172,0.5,0.7
-2017,Carroll County,Urban Collector (Major and Minor),136000000,192.563,0.5,0.7
-2017,Carroll County,Urban Local,57000000,906.089,0.3,0.5
-2017,Cecil County,Rural Interstate/Freeway/Expressway,219000000,55.322,0.7,1
-2017,Cecil County,Rural Primary Arterial - Other,36000000,19.426,0.7,1
-2017,Cecil County,Rural Minor Arterial,120000000,87.842,0.5,0.7
-2017,Cecil County,Rural Collector (Major and Minor),70000000,198.536,0.5,0.7
-2017,Cecil County,Rural Local,85000000,678.389,0.3,0.5
-2017,Cecil County,Urban Interstate/Freeway/Expressway,317000000,67.401,0.7,1
-2017,Cecil County,Urban Primary Arterial - Other,232000000,94.937,0.7,1
-2017,Cecil County,Urban Minor Arterial,131000000,96.934,0.5,0.7
-2017,Cecil County,Urban Collector (Major and Minor),69000000,123.354,0.5,0.7
-2017,Cecil County,Urban Local,52000000,505.278,0.3,0.5
-2017,Charles County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2017,Charles County,Rural Primary Arterial - Other,115000000,55.236,0.7,1
-2017,Charles County,Rural Minor Arterial,73000000,44.07,0.5,0.7
-2017,Charles County,Rural Collector (Major and Minor),125000000,247.476,0.5,0.7
-2017,Charles County,Rural Local,56000000,770.45,0.3,0.5
-2017,Charles County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2017,Charles County,Urban Primary Arterial - Other,542000000,176.944,0.7,1
-2017,Charles County,Urban Minor Arterial,176000000,112.617,0.5,0.7
-2017,Charles County,Urban Collector (Major and Minor),170000000,148.347,0.5,0.7
-2017,Charles County,Urban Local,62000000,668.799,0.3,0.5
-2017,Dorchester County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2017,Dorchester County,Rural Primary Arterial - Other,96000000,50.24,0.7,1
-2017,Dorchester County,Rural Minor Arterial,72000000,88.084,0.5,0.7
-2017,Dorchester County,Rural Collector (Major and Minor),71000000,371.622,0.5,0.7
-2017,Dorchester County,Rural Local,45000000,891.564,0.3,0.5
-2017,Dorchester County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2017,Dorchester County,Urban Primary Arterial - Other,51000000,20.99,0.7,1
-2017,Dorchester County,Urban Minor Arterial,16000000,13.224,0.5,0.7
-2017,Dorchester County,Urban Collector (Major and Minor),22000000,42.249,0.5,0.7
-2017,Dorchester County,Urban Local,6000000,131.098,0.3,0.5
-2017,Frederick County,Rural Interstate/Freeway/Expressway,498000000,109.588,0.7,1
-2017,Frederick County,Rural Primary Arterial - Other,48000000,35.968,0.7,1
-2017,Frederick County,Rural Minor Arterial,125000000,130.204,0.5,0.7
-2017,Frederick County,Rural Collector (Major and Minor),181000000,446.552,0.5,0.7
-2017,Frederick County,Rural Local,169000000,1359.287,0.3,0.5
-2017,Frederick County,Urban Interstate/Freeway/Expressway,1327000000,271.253,0.7,1
-2017,Frederick County,Urban Primary Arterial - Other,131000000,50.012,0.7,1
-2017,Frederick County,Urban Minor Arterial,293000000,187.554,0.5,0.7
-2017,Frederick County,Urban Collector (Major and Minor),342000000,350.736,0.5,0.7
-2017,Frederick County,Urban Local,146000000,1257.171,0.3,0.5
-2017,Garrett County,Rural Interstate/Freeway/Expressway,182000000,148.874,0.7,1
-2017,Garrett County,Rural Primary Arterial - Other,94000000,94.914,0.7,1
-2017,Garrett County,Rural Minor Arterial,64000000,117.914,0.5,0.7
-2017,Garrett County,Rural Collector (Major and Minor),88000000,434.23,0.5,0.7
-2017,Garrett County,Rural Local,84000000,1179.42,0.3,0.5
-2017,Garrett County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2017,Garrett County,Urban Primary Arterial - Other,0,0,0.7,1
-2017,Garrett County,Urban Minor Arterial,1000000,2.428,0.5,0.7
-2017,Garrett County,Urban Collector (Major and Minor),0,0.98,0.5,0.7
-2017,Garrett County,Urban Local,0,5.792,0.3,0.5
-2017,Harford County,Rural Interstate/Freeway/Expressway,71000000,13.38,0.7,1
-2017,Harford County,Rural Primary Arterial - Other,80000000,34.8,0.7,1
-2017,Harford County,Rural Minor Arterial,140000000,85.975,0.5,0.7
-2017,Harford County,Rural Collector (Major and Minor),149000000,293.65,0.5,0.7
-2017,Harford County,Rural Local,83000000,717.455,0.3,0.5
-2017,Harford County,Urban Interstate/Freeway/Expressway,862000000,145.627,0.7,1
-2017,Harford County,Urban Primary Arterial - Other,372000000,142.697,0.7,1
-2017,Harford County,Urban Minor Arterial,380000000,155.295,0.5,0.7
-2017,Harford County,Urban Collector (Major and Minor),329000000,314.65,0.5,0.7
-2017,Harford County,Urban Local,135000000,1253.18,0.3,0.5
-2017,Howard County,Rural Interstate/Freeway/Expressway,317000000,67.428,0.7,1
-2017,Howard County,Rural Primary Arterial - Other,107000000,26.644,0.7,1
-2017,Howard County,Rural Minor Arterial,33000000,15.702,0.5,0.7
-2017,Howard County,Rural Collector (Major and Minor),101000000,125.964,0.5,0.7
-2017,Howard County,Rural Local,112000000,426.454,0.3,0.5
-2017,Howard County,Urban Interstate/Freeway/Expressway,2302000000,320.339,0.7,1
-2017,Howard County,Urban Primary Arterial - Other,265000000,84.88,0.7,1
-2017,Howard County,Urban Minor Arterial,496000000,196.601,0.5,0.7
-2017,Howard County,Urban Collector (Major and Minor),345000000,248.081,0.5,0.7
-2017,Howard County,Urban Local,237000000,1316.68,0.3,0.5
-2017,Kent County,Rural Interstate/Freeway/Expressway,30000000,34.86,0.7,1
-2017,Kent County,Rural Primary Arterial - Other,0,0,0.7,1
-2017,Kent County,Rural Minor Arterial,26000000,35.68,0.5,0.7
-2017,Kent County,Rural Collector (Major and Minor),97000000,254.268,0.5,0.7
-2017,Kent County,Rural Local,27000000,572.472,0.3,0.5
-2017,Kent County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2017,Kent County,Urban Primary Arterial - Other,0,0,0.7,1
-2017,Kent County,Urban Minor Arterial,15000000,6.75,0.5,0.7
-2017,Kent County,Urban Collector (Major and Minor),12000000,13.272,0.5,0.7
-2017,Kent County,Urban Local,2000000,44.776,0.3,0.5
-2017,Montgomery County,Rural Interstate/Freeway/Expressway,69000000,9,0.7,1
-2017,Montgomery County,Rural Primary Arterial - Other,15000000,4.79,0.7,1
-2017,Montgomery County,Rural Minor Arterial,63000000,40.94,0.5,0.7
-2017,Montgomery County,Rural Collector (Major and Minor),116000000,181.196,0.5,0.7
-2017,Montgomery County,Rural Local,49000000,399.5,0.3,0.5
-2017,Montgomery County,Urban Interstate/Freeway/Expressway,3106000000,447.989,0.7,1
-2017,Montgomery County,Urban Primary Arterial - Other,2022000000,750.783,0.7,1
-2017,Montgomery County,Urban Minor Arterial,1261000000,590.801,0.5,0.7
-2017,Montgomery County,Urban Collector (Major and Minor),698000000,639.473,0.5,0.7
-2017,Montgomery County,Urban Local,494000000,4095.019,0.3,0.5
-2017,Prince George's County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2017,Prince George's County,Rural Primary Arterial - Other,41000000,10.564,0.7,1
-2017,Prince George's County,Rural Minor Arterial,31000000,11.175,0.5,0.7
-2017,Prince George's County,Rural Collector (Major and Minor),85000000,119.764,0.5,0.7
-2017,Prince George's County,Rural Local,29000000,227.14,0.3,0.5
-2017,Prince George's County,Urban Interstate/Freeway/Expressway,4814000000,584.148,0.7,1
-2017,Prince George's County,Urban Primary Arterial - Other,1876000000,600.593,0.7,1
-2017,Prince George's County,Urban Minor Arterial,1111000000,513.234,0.5,0.7
-2017,Prince George's County,Urban Collector (Major and Minor),814000000,645.454,0.5,0.7
-2017,Prince George's County,Urban Local,600000000,3918.182,0.3,0.5
-2017,Queen Anne's County,Rural Interstate/Freeway/Expressway,200000000,116.108,0.7,1
-2017,Queen Anne's County,Rural Primary Arterial - Other,115000000,33.72,0.7,1
-2017,Queen Anne's County,Rural Minor Arterial,83000000,71.367,0.5,0.7
-2017,Queen Anne's County,Rural Collector (Major and Minor),122000000,325.179,0.5,0.7
-2017,Queen Anne's County,Rural Local,101000000,877.454,0.3,0.5
-2017,Queen Anne's County,Urban Interstate/Freeway/Expressway,290000000,62.662,0.7,1
-2017,Queen Anne's County,Urban Primary Arterial - Other,0,0,0.7,1
-2017,Queen Anne's County,Urban Minor Arterial,15000000,14.539,0.5,0.7
-2017,Queen Anne's County,Urban Collector (Major and Minor),15000000,27.982,0.5,0.7
-2017,Queen Anne's County,Urban Local,22000000,162.212,0.3,0.5
-2017,St. Mary's County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2017,St. Mary's County,Rural Primary Arterial - Other,196000000,67.316,0.7,1
-2017,St. Mary's County,Rural Minor Arterial,180000000,97.452,0.5,0.7
-2017,St. Mary's County,Rural Collector (Major and Minor),157000000,271.972,0.5,0.7
-2017,St. Mary's County,Rural Local,101000000,944.007,0.3,0.5
-2017,St. Mary's County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2017,St. Mary's County,Urban Primary Arterial - Other,171000000,60.621,0.7,1
-2017,St. Mary's County,Urban Minor Arterial,73000000,33.414,0.5,0.7
-2017,St. Mary's County,Urban Collector (Major and Minor),58000000,55.3,0.5,0.7
-2017,St. Mary's County,Urban Local,21000000,251.905,0.3,0.5
-2017,Somerset County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2017,Somerset County,Rural Primary Arterial - Other,93000000,53,0.7,1
-2017,Somerset County,Rural Minor Arterial,30000000,26.36,0.5,0.7
-2017,Somerset County,Rural Collector (Major and Minor),47000000,245.438,0.5,0.7
-2017,Somerset County,Rural Local,33000000,571.562,0.3,0.5
-2017,Somerset County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2017,Somerset County,Urban Primary Arterial - Other,58000000,28.12,0.7,1
-2017,Somerset County,Urban Minor Arterial,0,0.02,0.5,0.7
-2017,Somerset County,Urban Collector (Major and Minor),15000000,25.692,0.5,0.7
-2017,Somerset County,Urban Local,5000000,54.224,0.3,0.5
-2017,Talbot County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2017,Talbot County,Rural Primary Arterial - Other,225000000,87.55,0.7,1
-2017,Talbot County,Rural Minor Arterial,94000000,50.594,0.5,0.7
-2017,Talbot County,Rural Collector (Major and Minor),60000000,188.026,0.5,0.7
-2017,Talbot County,Rural Local,77000000,657.05,0.3,0.5
-2017,Talbot County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2017,Talbot County,Urban Primary Arterial - Other,133000000,47.009,0.7,1
-2017,Talbot County,Urban Minor Arterial,22000000,15.826,0.5,0.7
-2017,Talbot County,Urban Collector (Major and Minor),29000000,29.324,0.5,0.7
-2017,Talbot County,Urban Local,13000000,176.832,0.3,0.5
-2017,Washington County,Rural Interstate/Freeway/Expressway,479000000,149.419,0.7,1
-2017,Washington County,Rural Primary Arterial - Other,26000000,9.779,0.7,1
-2017,Washington County,Rural Minor Arterial,105000000,106.514,0.5,0.7
-2017,Washington County,Rural Collector (Major and Minor),132000000,333.07,0.5,0.7
-2017,Washington County,Rural Local,146000000,971.58,0.3,0.5
-2017,Washington County,Urban Interstate/Freeway/Expressway,575000000,97.52,0.7,1
-2017,Washington County,Urban Primary Arterial - Other,144000000,61.869,0.7,1
-2017,Washington County,Urban Minor Arterial,262000000,163.379,0.5,0.7
-2017,Washington County,Urban Collector (Major and Minor),151000000,175.642,0.5,0.7
-2017,Washington County,Urban Local,79000000,779.195,0.3,0.5
-2017,Wicomico County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2017,Wicomico County,Rural Primary Arterial - Other,154000000,66.54,0.7,1
-2017,Wicomico County,Rural Minor Arterial,23000000,44.248,0.5,0.7
-2017,Wicomico County,Rural Collector (Major and Minor),80000000,244.418,0.5,0.7
-2017,Wicomico County,Rural Local,46000000,753.266,0.3,0.5
-2017,Wicomico County,Urban Interstate/Freeway/Expressway,136000000,56.284,0.7,1
-2017,Wicomico County,Urban Primary Arterial - Other,271000000,127.43,0.7,1
-2017,Wicomico County,Urban Minor Arterial,110000000,87.45,0.5,0.7
-2017,Wicomico County,Urban Collector (Major and Minor),144000000,206.916,0.5,0.7
-2017,Wicomico County,Urban Local,46000000,694.593,0.3,0.5
-2017,Worcester County,Rural Interstate/Freeway/Expressway,23000000,11.58,0.7,1
-2017,Worcester County,Rural Primary Arterial - Other,228000000,167.637,0.7,1
-2017,Worcester County,Rural Minor Arterial,35000000,34.88,0.5,0.7
-2017,Worcester County,Rural Collector (Major and Minor),85000000,294.646,0.5,0.7
-2017,Worcester County,Rural Local,74000000,876.046,0.3,0.5
-2017,Worcester County,Urban Interstate/Freeway/Expressway,47000000,12.33,0.7,1
-2017,Worcester County,Urban Primary Arterial - Other,225000000,97.45,0.7,1
-2017,Worcester County,Urban Minor Arterial,46000000,25.49,0.5,0.7
-2017,Worcester County,Urban Collector (Major and Minor),57000000,44.437,0.5,0.7
-2017,Worcester County,Urban Local,26000000,403.132,0.3,0.5
-2017,Baltimore City,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2017,Baltimore City,Rural Primary Arterial - Other,0,0,0.7,1
-2017,Baltimore City,Rural Minor Arterial,0,0,0.5,0.7
-2017,Baltimore City,Rural Collector (Major and Minor),2000000,9.38,0.5,0.7
-2017,Baltimore City,Rural Local,0,12.48,0.3,0.5
-2017,Baltimore City,Urban Interstate/Freeway/Expressway,1281000000,220.649,0.7,1
-2017,Baltimore City,Urban Primary Arterial - Other,1202000000,606.255,0.7,1
-2017,Baltimore City,Urban Minor Arterial,658000000,483.216,0.5,0.7
-2017,Baltimore City,Urban Collector (Major and Minor),224000000,312.258,0.5,0.7
-2017,Baltimore City,Urban Local,234000000,1677.346,0.3,0.5
-2018,Allegany County,Rural Interstate/Freeway/Expressway,181000000,121.091,0.7,1
-2018,Allegany County,Rural Primary Arterial - Other,21000000,19.46,0.7,1
-2018,Allegany County,Rural Minor Arterial,18000000,16.564,0.5,0.7
-2018,Allegany County,Rural Collector (Major and Minor),33000000,208.923,0.5,0.7
-2018,Allegany County,Rural Local,51000000,678.172,0.3,0.5
-2018,Allegany County,Urban Interstate/Freeway/Expressway,173000000,67.512,0.7,1
-2018,Allegany County,Urban Primary Arterial - Other,97000000,57.206,0.7,1
-2018,Allegany County,Urban Minor Arterial,172000000,137.308,0.5,0.7
-2018,Allegany County,Urban Collector (Major and Minor),45000000,122.706,0.5,0.7
-2018,Allegany County,Urban Local,34000000,579.588,0.3,0.5
-2018,Anne Arundel County,Rural Interstate/Freeway/Expressway,111000000,20.04,0.7,1
-2018,Anne Arundel County,Rural Primary Arterial - Other,114000000,36.47,0.7,1
-2018,Anne Arundel County,Rural Minor Arterial,75000000,41.084,0.5,0.7
-2018,Anne Arundel County,Rural Collector (Major and Minor),56000000,107.494,0.5,0.7
-2018,Anne Arundel County,Rural Local,70000000,259.692,0.3,0.5
-2018,Anne Arundel County,Urban Interstate/Freeway/Expressway,3031000000,433.355,0.7,1
-2018,Anne Arundel County,Urban Primary Arterial - Other,876000000,258.575,0.7,1
-2018,Anne Arundel County,Urban Minor Arterial,934000000,419.304,0.5,0.7
-2018,Anne Arundel County,Urban Collector (Major and Minor),545000000,518.22,0.5,0.7
-2018,Anne Arundel County,Urban Local,379000000,2966.184,0.3,0.5
-2018,Baltimore County,Rural Interstate/Freeway/Expressway,299000000,58.18,0.7,1
-2018,Baltimore County,Rural Primary Arterial - Other,44000000,17.705,0.7,1
-2018,Baltimore County,Rural Minor Arterial,66000000,58.941,0.5,0.7
-2018,Baltimore County,Rural Collector (Major and Minor),234000000,324.172,0.5,0.7
-2018,Baltimore County,Rural Local,123000000,757.028,0.3,0.5
-2018,Baltimore County,Urban Interstate/Freeway/Expressway,4251000000,638.663,0.7,1
-2018,Baltimore County,Urban Primary Arterial - Other,1118000000,418.725,0.7,1
-2018,Baltimore County,Urban Minor Arterial,1318000000,691.53,0.5,0.7
-2018,Baltimore County,Urban Collector (Major and Minor),698000000,716.133,0.5,0.7
-2018,Baltimore County,Urban Local,520000000,3381.722,0.3,0.5
-2018,Calvert County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2018,Calvert County,Rural Primary Arterial - Other,22000000,7.992,0.7,1
-2018,Calvert County,Rural Minor Arterial,0,0,0.5,0.7
-2018,Calvert County,Rural Collector (Major and Minor),46000000,102.162,0.5,0.7
-2018,Calvert County,Rural Local,9000000,413.05,0.3,0.5
-2018,Calvert County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2018,Calvert County,Urban Primary Arterial - Other,466000000,158.45,0.7,1
-2018,Calvert County,Urban Minor Arterial,50000000,29.784,0.5,0.7
-2018,Calvert County,Urban Collector (Major and Minor),118000000,119.272,0.5,0.7
-2018,Calvert County,Urban Local,45000000,634.952,0.3,0.5
-2018,Caroline County,Rural Interstate/Freeway/Expressway,21000000,9.56,0.7,1
-2018,Caroline County,Rural Primary Arterial - Other,97000000,47.92,0.7,1
-2018,Caroline County,Rural Minor Arterial,115000000,113.268,0.5,0.7
-2018,Caroline County,Rural Collector (Major and Minor),105000000,336.962,0.5,0.7
-2018,Caroline County,Rural Local,65000000,901.846,0.3,0.5
-2018,Caroline County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2018,Caroline County,Urban Primary Arterial - Other,0,0,0.7,1
-2018,Caroline County,Urban Minor Arterial,0,0,0.5,0.7
-2018,Caroline County,Urban Collector (Major and Minor),0,0,0.5,0.7
-2018,Caroline County,Urban Local,0,0,0.3,0.5
-2018,Carroll County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2018,Carroll County,Rural Primary Arterial - Other,43000000,21,0.7,1
-2018,Carroll County,Rural Minor Arterial,197000000,106.392,0.5,0.7
-2018,Carroll County,Rural Collector (Major and Minor),146000000,332.73,0.5,0.7
-2018,Carroll County,Rural Local,71000000,1019.681,0.3,0.5
-2018,Carroll County,Urban Interstate/Freeway/Expressway,41000000,9.66,0.7,1
-2018,Carroll County,Urban Primary Arterial - Other,485000000,171.06,0.7,1
-2018,Carroll County,Urban Minor Arterial,139000000,82.315,0.5,0.7
-2018,Carroll County,Urban Collector (Major and Minor),134000000,192.563,0.5,0.7
-2018,Carroll County,Urban Local,56000000,907.843,0.3,0.5
-2018,Cecil County,Rural Interstate/Freeway/Expressway,218000000,55.322,0.7,1
-2018,Cecil County,Rural Primary Arterial - Other,35000000,19.426,0.7,1
-2018,Cecil County,Rural Minor Arterial,122000000,88.745,0.5,0.7
-2018,Cecil County,Rural Collector (Major and Minor),64000000,198.536,0.5,0.7
-2018,Cecil County,Rural Local,84000000,678.701,0.3,0.5
-2018,Cecil County,Urban Interstate/Freeway/Expressway,315000000,67.401,0.7,1
-2018,Cecil County,Urban Primary Arterial - Other,224000000,94.937,0.7,1
-2018,Cecil County,Urban Minor Arterial,129000000,97.124,0.5,0.7
-2018,Cecil County,Urban Collector (Major and Minor),68000000,123.814,0.5,0.7
-2018,Cecil County,Urban Local,52000000,505.226,0.3,0.5
-2018,Charles County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2018,Charles County,Rural Primary Arterial - Other,114000000,55.131,0.7,1
-2018,Charles County,Rural Minor Arterial,72000000,44.07,0.5,0.7
-2018,Charles County,Rural Collector (Major and Minor),122000000,247.47,0.5,0.7
-2018,Charles County,Rural Local,55000000,772.314,0.3,0.5
-2018,Charles County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2018,Charles County,Urban Primary Arterial - Other,533000000,176.944,0.7,1
-2018,Charles County,Urban Minor Arterial,182000000,112.617,0.5,0.7
-2018,Charles County,Urban Collector (Major and Minor),168000000,145.743,0.5,0.7
-2018,Charles County,Urban Local,62000000,671.2,0.3,0.5
-2018,Dorchester County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2018,Dorchester County,Rural Primary Arterial - Other,91000000,50.24,0.7,1
-2018,Dorchester County,Rural Minor Arterial,73000000,88.084,0.5,0.7
-2018,Dorchester County,Rural Collector (Major and Minor),67000000,371.622,0.5,0.7
-2018,Dorchester County,Rural Local,44000000,892.22,0.3,0.5
-2018,Dorchester County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2018,Dorchester County,Urban Primary Arterial - Other,50000000,20.99,0.7,1
-2018,Dorchester County,Urban Minor Arterial,16000000,13.23,0.5,0.7
-2018,Dorchester County,Urban Collector (Major and Minor),22000000,42.249,0.5,0.7
-2018,Dorchester County,Urban Local,6000000,132.622,0.3,0.5
-2018,Frederick County,Rural Interstate/Freeway/Expressway,488000000,109.588,0.7,1
-2018,Frederick County,Rural Primary Arterial - Other,47000000,35.968,0.7,1
-2018,Frederick County,Rural Minor Arterial,125000000,130.204,0.5,0.7
-2018,Frederick County,Rural Collector (Major and Minor),176000000,446.552,0.5,0.7
-2018,Frederick County,Rural Local,165000000,1359.621,0.3,0.5
-2018,Frederick County,Urban Interstate/Freeway/Expressway,1331000000,271.253,0.7,1
-2018,Frederick County,Urban Primary Arterial - Other,127000000,50.012,0.7,1
-2018,Frederick County,Urban Minor Arterial,293000000,188.004,0.5,0.7
-2018,Frederick County,Urban Collector (Major and Minor),330000000,350.976,0.5,0.7
-2018,Frederick County,Urban Local,146000000,1267.836,0.3,0.5
-2018,Garrett County,Rural Interstate/Freeway/Expressway,193000000,148.874,0.7,1
-2018,Garrett County,Rural Primary Arterial - Other,98000000,94.938,0.7,1
-2018,Garrett County,Rural Minor Arterial,64000000,117.914,0.5,0.7
-2018,Garrett County,Rural Collector (Major and Minor),86000000,434.23,0.5,0.7
-2018,Garrett County,Rural Local,86000000,1179.16,0.3,0.5
-2018,Garrett County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2018,Garrett County,Urban Primary Arterial - Other,0,0,0.7,1
-2018,Garrett County,Urban Minor Arterial,1000000,2.428,0.5,0.7
-2018,Garrett County,Urban Collector (Major and Minor),0,0.98,0.5,0.7
-2018,Garrett County,Urban Local,0,5.792,0.3,0.5
-2018,Harford County,Rural Interstate/Freeway/Expressway,70000000,13.38,0.7,1
-2018,Harford County,Rural Primary Arterial - Other,79000000,34.8,0.7,1
-2018,Harford County,Rural Minor Arterial,139000000,85.975,0.5,0.7
-2018,Harford County,Rural Collector (Major and Minor),148000000,293.65,0.5,0.7
-2018,Harford County,Rural Local,81000000,717.395,0.3,0.5
-2018,Harford County,Urban Interstate/Freeway/Expressway,858000000,145.685,0.7,1
-2018,Harford County,Urban Primary Arterial - Other,367000000,143.677,0.7,1
-2018,Harford County,Urban Minor Arterial,377000000,156.91,0.5,0.7
-2018,Harford County,Urban Collector (Major and Minor),325000000,313.152,0.5,0.7
-2018,Harford County,Urban Local,136000000,1256.461,0.3,0.5
-2018,Howard County,Rural Interstate/Freeway/Expressway,328000000,67.428,0.7,1
-2018,Howard County,Rural Primary Arterial - Other,107000000,26.644,0.7,1
-2018,Howard County,Rural Minor Arterial,35000000,15.702,0.5,0.7
-2018,Howard County,Rural Collector (Major and Minor),103000000,125.961,0.5,0.7
-2018,Howard County,Rural Local,114000000,430.686,0.3,0.5
-2018,Howard County,Urban Interstate/Freeway/Expressway,2315000000,320.371,0.7,1
-2018,Howard County,Urban Primary Arterial - Other,276000000,85.826,0.7,1
-2018,Howard County,Urban Minor Arterial,493000000,196.572,0.5,0.7
-2018,Howard County,Urban Collector (Major and Minor),350000000,248.061,0.5,0.7
-2018,Howard County,Urban Local,242000000,1326.535,0.3,0.5
-2018,Kent County,Rural Interstate/Freeway/Expressway,32000000,34.86,0.7,1
-2018,Kent County,Rural Primary Arterial - Other,0,0,0.7,1
-2018,Kent County,Rural Minor Arterial,26000000,35.68,0.5,0.7
-2018,Kent County,Rural Collector (Major and Minor),95000000,254.268,0.5,0.7
-2018,Kent County,Rural Local,27000000,572.394,0.3,0.5
-2018,Kent County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2018,Kent County,Urban Primary Arterial - Other,0,0,0.7,1
-2018,Kent County,Urban Minor Arterial,15000000,6.75,0.5,0.7
-2018,Kent County,Urban Collector (Major and Minor),12000000,13.272,0.5,0.7
-2018,Kent County,Urban Local,2000000,44.776,0.3,0.5
-2018,Montgomery County,Rural Interstate/Freeway/Expressway,73000000,9,0.7,1
-2018,Montgomery County,Rural Primary Arterial - Other,16000000,4.79,0.7,1
-2018,Montgomery County,Rural Minor Arterial,62000000,40.94,0.5,0.7
-2018,Montgomery County,Rural Collector (Major and Minor),115000000,181.196,0.5,0.7
-2018,Montgomery County,Rural Local,50000000,400.2,0.3,0.5
-2018,Montgomery County,Urban Interstate/Freeway/Expressway,3113000000,450.039,0.7,1
-2018,Montgomery County,Urban Primary Arterial - Other,1959000000,752.315,0.7,1
-2018,Montgomery County,Urban Minor Arterial,1230000000,592.425,0.5,0.7
-2018,Montgomery County,Urban Collector (Major and Minor),678000000,639.873,0.5,0.7
-2018,Montgomery County,Urban Local,491000000,4095.261,0.3,0.5
-2018,Prince George's County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2018,Prince George's County,Rural Primary Arterial - Other,43000000,10.564,0.7,1
-2018,Prince George's County,Rural Minor Arterial,30000000,11.175,0.5,0.7
-2018,Prince George's County,Rural Collector (Major and Minor),85000000,119.744,0.5,0.7
-2018,Prince George's County,Rural Local,29000000,228.46,0.3,0.5
-2018,Prince George's County,Urban Interstate/Freeway/Expressway,4820000000,594.127,0.7,1
-2018,Prince George's County,Urban Primary Arterial - Other,1881000000,606.184,0.7,1
-2018,Prince George's County,Urban Minor Arterial,1133000000,513.249,0.5,0.7
-2018,Prince George's County,Urban Collector (Major and Minor),810000000,645.426,0.5,0.7
-2018,Prince George's County,Urban Local,608000000,3927.995,0.3,0.5
-2018,Queen Anne's County,Rural Interstate/Freeway/Expressway,207000000,116.108,0.7,1
-2018,Queen Anne's County,Rural Primary Arterial - Other,114000000,33.72,0.7,1
-2018,Queen Anne's County,Rural Minor Arterial,85000000,72.84,0.5,0.7
-2018,Queen Anne's County,Rural Collector (Major and Minor),120000000,325.179,0.5,0.7
-2018,Queen Anne's County,Rural Local,102000000,877.554,0.3,0.5
-2018,Queen Anne's County,Urban Interstate/Freeway/Expressway,289000000,62.662,0.7,1
-2018,Queen Anne's County,Urban Primary Arterial - Other,0,0,0.7,1
-2018,Queen Anne's County,Urban Minor Arterial,15000000,14.539,0.5,0.7
-2018,Queen Anne's County,Urban Collector (Major and Minor),15000000,27.982,0.5,0.7
-2018,Queen Anne's County,Urban Local,22000000,162.212,0.3,0.5
-2018,St. Mary's County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2018,St. Mary's County,Rural Primary Arterial - Other,191000000,67.316,0.7,1
-2018,St. Mary's County,Rural Minor Arterial,179000000,97.452,0.5,0.7
-2018,St. Mary's County,Rural Collector (Major and Minor),155000000,271.972,0.5,0.7
-2018,St. Mary's County,Rural Local,99000000,948.143,0.3,0.5
-2018,St. Mary's County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2018,St. Mary's County,Urban Primary Arterial - Other,170000000,60.621,0.7,1
-2018,St. Mary's County,Urban Minor Arterial,71000000,33.494,0.5,0.7
-2018,St. Mary's County,Urban Collector (Major and Minor),57000000,55.3,0.5,0.7
-2018,St. Mary's County,Urban Local,21000000,253.186,0.3,0.5
-2018,Somerset County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2018,Somerset County,Rural Primary Arterial - Other,92000000,53,0.7,1
-2018,Somerset County,Rural Minor Arterial,28000000,26.58,0.5,0.7
-2018,Somerset County,Rural Collector (Major and Minor),48000000,247.158,0.5,0.7
-2018,Somerset County,Rural Local,32000000,571.562,0.3,0.5
-2018,Somerset County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2018,Somerset County,Urban Primary Arterial - Other,56000000,28.12,0.7,1
-2018,Somerset County,Urban Minor Arterial,0,0.02,0.5,0.7
-2018,Somerset County,Urban Collector (Major and Minor),15000000,25.692,0.5,0.7
-2018,Somerset County,Urban Local,5000000,54.224,0.3,0.5
-2018,Talbot County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2018,Talbot County,Rural Primary Arterial - Other,222000000,87.55,0.7,1
-2018,Talbot County,Rural Minor Arterial,93000000,50.594,0.5,0.7
-2018,Talbot County,Rural Collector (Major and Minor),60000000,188.026,0.5,0.7
-2018,Talbot County,Rural Local,75000000,657.05,0.3,0.5
-2018,Talbot County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2018,Talbot County,Urban Primary Arterial - Other,135000000,47.012,0.7,1
-2018,Talbot County,Urban Minor Arterial,22000000,15.826,0.5,0.7
-2018,Talbot County,Urban Collector (Major and Minor),29000000,29.324,0.5,0.7
-2018,Talbot County,Urban Local,13000000,176.636,0.3,0.5
-2018,Washington County,Rural Interstate/Freeway/Expressway,465000000,149.419,0.7,1
-2018,Washington County,Rural Primary Arterial - Other,25000000,10.278,0.7,1
-2018,Washington County,Rural Minor Arterial,106000000,106.514,0.5,0.7
-2018,Washington County,Rural Collector (Major and Minor),135000000,333.07,0.5,0.7
-2018,Washington County,Rural Local,143000000,971.592,0.3,0.5
-2018,Washington County,Urban Interstate/Freeway/Expressway,562000000,97.52,0.7,1
-2018,Washington County,Urban Primary Arterial - Other,151000000,65.997,0.7,1
-2018,Washington County,Urban Minor Arterial,258000000,163.129,0.5,0.7
-2018,Washington County,Urban Collector (Major and Minor),150000000,175.262,0.5,0.7
-2018,Washington County,Urban Local,79000000,779.131,0.3,0.5
-2018,Wicomico County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2018,Wicomico County,Rural Primary Arterial - Other,153000000,66.54,0.7,1
-2018,Wicomico County,Rural Minor Arterial,23000000,44.248,0.5,0.7
-2018,Wicomico County,Rural Collector (Major and Minor),83000000,244.418,0.5,0.7
-2018,Wicomico County,Rural Local,46000000,753.254,0.3,0.5
-2018,Wicomico County,Urban Interstate/Freeway/Expressway,120000000,56.284,0.7,1
-2018,Wicomico County,Urban Primary Arterial - Other,268000000,127.43,0.7,1
-2018,Wicomico County,Urban Minor Arterial,110000000,87.456,0.5,0.7
-2018,Wicomico County,Urban Collector (Major and Minor),146000000,206.913,0.5,0.7
-2018,Wicomico County,Urban Local,45000000,694.015,0.3,0.5
-2018,Worcester County,Rural Interstate/Freeway/Expressway,21000000,11.58,0.7,1
-2018,Worcester County,Rural Primary Arterial - Other,228000000,167.637,0.7,1
-2018,Worcester County,Rural Minor Arterial,35000000,34.88,0.5,0.7
-2018,Worcester County,Rural Collector (Major and Minor),86000000,294.646,0.5,0.7
-2018,Worcester County,Rural Local,73000000,871.286,0.3,0.5
-2018,Worcester County,Urban Interstate/Freeway/Expressway,46000000,12.33,0.7,1
-2018,Worcester County,Urban Primary Arterial - Other,224000000,97.45,0.7,1
-2018,Worcester County,Urban Minor Arterial,46000000,25.49,0.5,0.7
-2018,Worcester County,Urban Collector (Major and Minor),57000000,44.437,0.5,0.7
-2018,Worcester County,Urban Local,26000000,403.132,0.3,0.5
-2018,Baltimore City,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2018,Baltimore City,Rural Primary Arterial - Other,0,0,0.7,1
-2018,Baltimore City,Rural Minor Arterial,0,0,0.5,0.7
-2018,Baltimore City,Rural Collector (Major and Minor),2000000,9.38,0.5,0.7
-2018,Baltimore City,Rural Local,0,12.48,0.3,0.5
-2018,Baltimore City,Urban Interstate/Freeway/Expressway,1273000000,215.368,0.7,1
-2018,Baltimore City,Urban Primary Arterial - Other,1238000000,624.108,0.7,1
-2018,Baltimore City,Urban Minor Arterial,640000000,481.487,0.5,0.7
-2018,Baltimore City,Urban Collector (Major and Minor),212000000,312.229,0.5,0.7
-2018,Baltimore City,Urban Local,237000000,1709.23,0.3,0.5
-2019,Allegany County,Rural Interstate/Freeway/Expressway,181000000,121.091,0.7,1
-2019,Allegany County,Rural Primary Arterial - Other,22000000,19.46,0.7,1
-2019,Allegany County,Rural Minor Arterial,18000000,16.564,0.5,0.7
-2019,Allegany County,Rural Collector (Major and Minor),33000000,208.923,0.5,0.7
-2019,Allegany County,Rural Local,51000000,678.172,0.3,0.5
-2019,Allegany County,Urban Interstate/Freeway/Expressway,178000000,67.512,0.7,1
-2019,Allegany County,Urban Primary Arterial - Other,98000000,57.206,0.7,1
-2019,Allegany County,Urban Minor Arterial,168000000,137.208,0.5,0.7
-2019,Allegany County,Urban Collector (Major and Minor),44000000,122.706,0.5,0.7
-2019,Allegany County,Urban Local,34000000,579.708,0.3,0.5
-2019,Anne Arundel County,Rural Interstate/Freeway/Expressway,113000000,20.04,0.7,1
-2019,Anne Arundel County,Rural Primary Arterial - Other,116000000,36.47,0.7,1
-2019,Anne Arundel County,Rural Minor Arterial,76000000,41.084,0.5,0.7
-2019,Anne Arundel County,Rural Collector (Major and Minor),56000000,107.494,0.5,0.7
-2019,Anne Arundel County,Rural Local,70000000,264.292,0.3,0.5
-2019,Anne Arundel County,Urban Interstate/Freeway/Expressway,3072000000,434.375,0.7,1
-2019,Anne Arundel County,Urban Primary Arterial - Other,885000000,258.575,0.7,1
-2019,Anne Arundel County,Urban Minor Arterial,936000000,418.452,0.5,0.7
-2019,Anne Arundel County,Urban Collector (Major and Minor),543000000,518.577,0.5,0.7
-2019,Anne Arundel County,Urban Local,381000000,2982.151,0.3,0.5
-2019,Baltimore County,Rural Interstate/Freeway/Expressway,295000000,58.18,0.7,1
-2019,Baltimore County,Rural Primary Arterial - Other,45000000,17.705,0.7,1
-2019,Baltimore County,Rural Minor Arterial,66000000,58.941,0.5,0.7
-2019,Baltimore County,Rural Collector (Major and Minor),235000000,324.142,0.5,0.7
-2019,Baltimore County,Rural Local,123000000,760.2,0.3,0.5
-2019,Baltimore County,Urban Interstate/Freeway/Expressway,4326000000,638.181,0.7,1
-2019,Baltimore County,Urban Primary Arterial - Other,1119000000,419.009,0.7,1
-2019,Baltimore County,Urban Minor Arterial,1323000000,691.535,0.5,0.7
-2019,Baltimore County,Urban Collector (Major and Minor),696000000,716.177,0.5,0.7
-2019,Baltimore County,Urban Local,523000000,3390.34,0.3,0.5
-2019,Calvert County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2019,Calvert County,Rural Primary Arterial - Other,22000000,7.992,0.7,1
-2019,Calvert County,Rural Minor Arterial,0,0,0.5,0.7
-2019,Calvert County,Rural Collector (Major and Minor),46000000,102.162,0.5,0.7
-2019,Calvert County,Rural Local,10000000,413.05,0.3,0.5
-2019,Calvert County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2019,Calvert County,Urban Primary Arterial - Other,471000000,158.449,0.7,1
-2019,Calvert County,Urban Minor Arterial,50000000,29.784,0.5,0.7
-2019,Calvert County,Urban Collector (Major and Minor),118000000,119.272,0.5,0.7
-2019,Calvert County,Urban Local,45000000,644.014,0.3,0.5
-2019,Caroline County,Rural Interstate/Freeway/Expressway,21000000,9.56,0.7,1
-2019,Caroline County,Rural Primary Arterial - Other,105000000,47.92,0.7,1
-2019,Caroline County,Rural Minor Arterial,116000000,113.268,0.5,0.7
-2019,Caroline County,Rural Collector (Major and Minor),107000000,337.062,0.5,0.7
-2019,Caroline County,Rural Local,67000000,904.874,0.3,0.5
-2019,Caroline County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2019,Caroline County,Urban Primary Arterial - Other,0,0,0.7,1
-2019,Caroline County,Urban Minor Arterial,0,0,0.5,0.7
-2019,Caroline County,Urban Collector (Major and Minor),0,0,0.5,0.7
-2019,Caroline County,Urban Local,0,0,0.3,0.5
-2019,Carroll County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2019,Carroll County,Rural Primary Arterial - Other,44000000,21.058,0.7,1
-2019,Carroll County,Rural Minor Arterial,197000000,106.392,0.5,0.7
-2019,Carroll County,Rural Collector (Major and Minor),145000000,332.73,0.5,0.7
-2019,Carroll County,Rural Local,71000000,1024.201,0.3,0.5
-2019,Carroll County,Urban Interstate/Freeway/Expressway,43000000,9.66,0.7,1
-2019,Carroll County,Urban Primary Arterial - Other,485000000,170.122,0.7,1
-2019,Carroll County,Urban Minor Arterial,140000000,81.488,0.5,0.7
-2019,Carroll County,Urban Collector (Major and Minor),133000000,192.624,0.5,0.7
-2019,Carroll County,Urban Local,56000000,914.035,0.3,0.5
-2019,Cecil County,Rural Interstate/Freeway/Expressway,220000000,55.322,0.7,1
-2019,Cecil County,Rural Primary Arterial - Other,37000000,19.426,0.7,1
-2019,Cecil County,Rural Minor Arterial,121000000,87.842,0.5,0.7
-2019,Cecil County,Rural Collector (Major and Minor),69000000,198.536,0.5,0.7
-2019,Cecil County,Rural Local,86000000,678.701,0.3,0.5
-2019,Cecil County,Urban Interstate/Freeway/Expressway,317000000,67.401,0.7,1
-2019,Cecil County,Urban Primary Arterial - Other,228000000,94.937,0.7,1
-2019,Cecil County,Urban Minor Arterial,130000000,97.131,0.5,0.7
-2019,Cecil County,Urban Collector (Major and Minor),70000000,123.934,0.5,0.7
-2019,Cecil County,Urban Local,52000000,513.493,0.3,0.5
-2019,Charles County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2019,Charles County,Rural Primary Arterial - Other,114000000,55.131,0.7,1
-2019,Charles County,Rural Minor Arterial,71000000,44.07,0.5,0.7
-2019,Charles County,Rural Collector (Major and Minor),123000000,247.47,0.5,0.7
-2019,Charles County,Rural Local,54000000,773.616,0.3,0.5
-2019,Charles County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2019,Charles County,Urban Primary Arterial - Other,531000000,176.944,0.7,1
-2019,Charles County,Urban Minor Arterial,182000000,112.617,0.5,0.7
-2019,Charles County,Urban Collector (Major and Minor),168000000,145.743,0.5,0.7
-2019,Charles County,Urban Local,62000000,687.914,0.3,0.5
-2019,Dorchester County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2019,Dorchester County,Rural Primary Arterial - Other,85000000,50.24,0.7,1
-2019,Dorchester County,Rural Minor Arterial,74000000,88.084,0.5,0.7
-2019,Dorchester County,Rural Collector (Major and Minor),66000000,371.622,0.5,0.7
-2019,Dorchester County,Rural Local,42000000,894.492,0.3,0.5
-2019,Dorchester County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2019,Dorchester County,Urban Primary Arterial - Other,51000000,20.99,0.7,1
-2019,Dorchester County,Urban Minor Arterial,16000000,13.23,0.5,0.7
-2019,Dorchester County,Urban Collector (Major and Minor),21000000,42.781,0.5,0.7
-2019,Dorchester County,Urban Local,6000000,132.812,0.3,0.5
-2019,Frederick County,Rural Interstate/Freeway/Expressway,492000000,109.599,0.7,1
-2019,Frederick County,Rural Primary Arterial - Other,48000000,35.968,0.7,1
-2019,Frederick County,Rural Minor Arterial,126000000,130.204,0.5,0.7
-2019,Frederick County,Rural Collector (Major and Minor),171000000,446.538,0.5,0.7
-2019,Frederick County,Rural Local,164000000,1361.605,0.3,0.5
-2019,Frederick County,Urban Interstate/Freeway/Expressway,1378000000,271.253,0.7,1
-2019,Frederick County,Urban Primary Arterial - Other,127000000,50.012,0.7,1
-2019,Frederick County,Urban Minor Arterial,294000000,187.506,0.5,0.7
-2019,Frederick County,Urban Collector (Major and Minor),341000000,355.314,0.5,0.7
-2019,Frederick County,Urban Local,150000000,1285.157,0.3,0.5
-2019,Garrett County,Rural Interstate/Freeway/Expressway,193000000,148.874,0.7,1
-2019,Garrett County,Rural Primary Arterial - Other,97000000,94.768,0.7,1
-2019,Garrett County,Rural Minor Arterial,62000000,117.914,0.5,0.7
-2019,Garrett County,Rural Collector (Major and Minor),86000000,434.23,0.5,0.7
-2019,Garrett County,Rural Local,85000000,1181.972,0.3,0.5
-2019,Garrett County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2019,Garrett County,Urban Primary Arterial - Other,0,0,0.7,1
-2019,Garrett County,Urban Minor Arterial,1000000,2.428,0.5,0.7
-2019,Garrett County,Urban Collector (Major and Minor),0,0.98,0.5,0.7
-2019,Garrett County,Urban Local,0,5.792,0.3,0.5
-2019,Harford County,Rural Interstate/Freeway/Expressway,69000000,13.38,0.7,1
-2019,Harford County,Rural Primary Arterial - Other,84000000,34.8,0.7,1
-2019,Harford County,Rural Minor Arterial,140000000,85.975,0.5,0.7
-2019,Harford County,Rural Collector (Major and Minor),151000000,293.65,0.5,0.7
-2019,Harford County,Rural Local,83000000,718.489,0.3,0.5
-2019,Harford County,Urban Interstate/Freeway/Expressway,870000000,145.685,0.7,1
-2019,Harford County,Urban Primary Arterial - Other,371000000,144.024,0.7,1
-2019,Harford County,Urban Minor Arterial,381000000,156.951,0.5,0.7
-2019,Harford County,Urban Collector (Major and Minor),328000000,313.275,0.5,0.7
-2019,Harford County,Urban Local,137000000,1263.493,0.3,0.5
-2019,Howard County,Rural Interstate/Freeway/Expressway,334000000,67.428,0.7,1
-2019,Howard County,Rural Primary Arterial - Other,107000000,26.644,0.7,1
-2019,Howard County,Rural Minor Arterial,35000000,15.702,0.5,0.7
-2019,Howard County,Rural Collector (Major and Minor),104000000,125.943,0.5,0.7
-2019,Howard County,Rural Local,115000000,439.57,0.3,0.5
-2019,Howard County,Urban Interstate/Freeway/Expressway,2307000000,320.371,0.7,1
-2019,Howard County,Urban Primary Arterial - Other,274000000,85.796,0.7,1
-2019,Howard County,Urban Minor Arterial,495000000,196.572,0.5,0.7
-2019,Howard County,Urban Collector (Major and Minor),351000000,248.045,0.5,0.7
-2019,Howard County,Urban Local,240000000,1340.26,0.3,0.5
-2019,Kent County,Rural Interstate/Freeway/Expressway,33000000,34.86,0.7,1
-2019,Kent County,Rural Primary Arterial - Other,0,0,0.7,1
-2019,Kent County,Rural Minor Arterial,27000000,35.68,0.5,0.7
-2019,Kent County,Rural Collector (Major and Minor),95000000,254.268,0.5,0.7
-2019,Kent County,Rural Local,27000000,572.394,0.3,0.5
-2019,Kent County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2019,Kent County,Urban Primary Arterial - Other,0,0,0.7,1
-2019,Kent County,Urban Minor Arterial,14000000,6.75,0.5,0.7
-2019,Kent County,Urban Collector (Major and Minor),12000000,13.272,0.5,0.7
-2019,Kent County,Urban Local,2000000,44.776,0.3,0.5
-2019,Montgomery County,Rural Interstate/Freeway/Expressway,73000000,9,0.7,1
-2019,Montgomery County,Rural Primary Arterial - Other,16000000,4.79,0.7,1
-2019,Montgomery County,Rural Minor Arterial,63000000,40.94,0.5,0.7
-2019,Montgomery County,Rural Collector (Major and Minor),117000000,181.436,0.5,0.7
-2019,Montgomery County,Rural Local,50000000,400.366,0.3,0.5
-2019,Montgomery County,Urban Interstate/Freeway/Expressway,3144000000,450.039,0.7,1
-2019,Montgomery County,Urban Primary Arterial - Other,1988000000,758.091,0.7,1
-2019,Montgomery County,Urban Minor Arterial,1246000000,598.407,0.5,0.7
-2019,Montgomery County,Urban Collector (Major and Minor),681000000,643.321,0.5,0.7
-2019,Montgomery County,Urban Local,495000000,4111.621,0.3,0.5
-2019,Prince George's County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2019,Prince George's County,Rural Primary Arterial - Other,44000000,10.564,0.7,1
-2019,Prince George's County,Rural Minor Arterial,32000000,11.167,0.5,0.7
-2019,Prince George's County,Rural Collector (Major and Minor),85000000,119.744,0.5,0.7
-2019,Prince George's County,Rural Local,29000000,228.876,0.3,0.5
-2019,Prince George's County,Urban Interstate/Freeway/Expressway,4879000000,594.127,0.7,1
-2019,Prince George's County,Urban Primary Arterial - Other,1904000000,606.264,0.7,1
-2019,Prince George's County,Urban Minor Arterial,1139000000,513.365,0.5,0.7
-2019,Prince George's County,Urban Collector (Major and Minor),816000000,645.951,0.5,0.7
-2019,Prince George's County,Urban Local,612000000,3963.899,0.3,0.5
-2019,Queen Anne's County,Rural Interstate/Freeway/Expressway,211000000,116.108,0.7,1
-2019,Queen Anne's County,Rural Primary Arterial - Other,122000000,33.72,0.7,1
-2019,Queen Anne's County,Rural Minor Arterial,86000000,72.84,0.5,0.7
-2019,Queen Anne's County,Rural Collector (Major and Minor),127000000,325.179,0.5,0.7
-2019,Queen Anne's County,Rural Local,105000000,878.596,0.3,0.5
-2019,Queen Anne's County,Urban Interstate/Freeway/Expressway,294000000,62.643,0.7,1
-2019,Queen Anne's County,Urban Primary Arterial - Other,0,0,0.7,1
-2019,Queen Anne's County,Urban Minor Arterial,16000000,14.56,0.5,0.7
-2019,Queen Anne's County,Urban Collector (Major and Minor),14000000,27.974,0.5,0.7
-2019,Queen Anne's County,Urban Local,23000000,161.47,0.3,0.5
-2019,St. Mary's County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2019,St. Mary's County,Rural Primary Arterial - Other,189000000,67.316,0.7,1
-2019,St. Mary's County,Rural Minor Arterial,181000000,97.452,0.5,0.7
-2019,St. Mary's County,Rural Collector (Major and Minor),155000000,271.972,0.5,0.7
-2019,St. Mary's County,Rural Local,98000000,949.081,0.3,0.5
-2019,St. Mary's County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2019,St. Mary's County,Urban Primary Arterial - Other,173000000,60.621,0.7,1
-2019,St. Mary's County,Urban Minor Arterial,71000000,33.494,0.5,0.7
-2019,St. Mary's County,Urban Collector (Major and Minor),58000000,55.3,0.5,0.7
-2019,St. Mary's County,Urban Local,21000000,257.772,0.3,0.5
-2019,Somerset County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2019,Somerset County,Rural Primary Arterial - Other,92000000,53,0.7,1
-2019,Somerset County,Rural Minor Arterial,28000000,26.58,0.5,0.7
-2019,Somerset County,Rural Collector (Major and Minor),49000000,247.158,0.5,0.7
-2019,Somerset County,Rural Local,32000000,578.322,0.3,0.5
-2019,Somerset County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2019,Somerset County,Urban Primary Arterial - Other,57000000,28.12,0.7,1
-2019,Somerset County,Urban Minor Arterial,0,0.02,0.5,0.7
-2019,Somerset County,Urban Collector (Major and Minor),15000000,25.692,0.5,0.7
-2019,Somerset County,Urban Local,5000000,57.004,0.3,0.5
-2019,Talbot County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2019,Talbot County,Rural Primary Arterial - Other,229000000,87.55,0.7,1
-2019,Talbot County,Rural Minor Arterial,94000000,50.594,0.5,0.7
-2019,Talbot County,Rural Collector (Major and Minor),61000000,188.026,0.5,0.7
-2019,Talbot County,Rural Local,77000000,657.38,0.3,0.5
-2019,Talbot County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2019,Talbot County,Urban Primary Arterial - Other,136000000,47.012,0.7,1
-2019,Talbot County,Urban Minor Arterial,22000000,15.826,0.5,0.7
-2019,Talbot County,Urban Collector (Major and Minor),29000000,29.324,0.5,0.7
-2019,Talbot County,Urban Local,13000000,176.916,0.3,0.5
-2019,Washington County,Rural Interstate/Freeway/Expressway,465000000,149.419,0.7,1
-2019,Washington County,Rural Primary Arterial - Other,26000000,9.878,0.7,1
-2019,Washington County,Rural Minor Arterial,109000000,106.514,0.5,0.7
-2019,Washington County,Rural Collector (Major and Minor),135000000,333.07,0.5,0.7
-2019,Washington County,Rural Local,143000000,972.566,0.3,0.5
-2019,Washington County,Urban Interstate/Freeway/Expressway,571000000,97.52,0.7,1
-2019,Washington County,Urban Primary Arterial - Other,151000000,65.997,0.7,1
-2019,Washington County,Urban Minor Arterial,265000000,163.127,0.5,0.7
-2019,Washington County,Urban Collector (Major and Minor),150000000,175.262,0.5,0.7
-2019,Washington County,Urban Local,80000000,779.513,0.3,0.5
-2019,Wicomico County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2019,Wicomico County,Rural Primary Arterial - Other,155000000,65.56,0.7,1
-2019,Wicomico County,Rural Minor Arterial,22000000,44.248,0.5,0.7
-2019,Wicomico County,Rural Collector (Major and Minor),82000000,244.418,0.5,0.7
-2019,Wicomico County,Rural Local,46000000,754.714,0.3,0.5
-2019,Wicomico County,Urban Interstate/Freeway/Expressway,121000000,56.284,0.7,1
-2019,Wicomico County,Urban Primary Arterial - Other,273000000,127.13,0.7,1
-2019,Wicomico County,Urban Minor Arterial,108000000,87.456,0.5,0.7
-2019,Wicomico County,Urban Collector (Major and Minor),141000000,207.037,0.5,0.7
-2019,Wicomico County,Urban Local,45000000,695.495,0.3,0.5
-2019,Worcester County,Rural Interstate/Freeway/Expressway,23000000,11.58,0.7,1
-2019,Worcester County,Rural Primary Arterial - Other,245000000,183,0.7,1
-2019,Worcester County,Rural Minor Arterial,34000000,34.88,0.5,0.7
-2019,Worcester County,Rural Collector (Major and Minor),88000000,294.656,0.5,0.7
-2019,Worcester County,Rural Local,77000000,874.77,0.3,0.5
-2019,Worcester County,Urban Interstate/Freeway/Expressway,54000000,12.33,0.7,1
-2019,Worcester County,Urban Primary Arterial - Other,229000000,97.606,0.7,1
-2019,Worcester County,Urban Minor Arterial,46000000,25.491,0.5,0.7
-2019,Worcester County,Urban Collector (Major and Minor),57000000,44.437,0.5,0.7
-2019,Worcester County,Urban Local,27000000,403.132,0.3,0.5
-2019,Baltimore City,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2019,Baltimore City,Rural Primary Arterial - Other,0,0,0.7,1
-2019,Baltimore City,Rural Minor Arterial,0,0,0.5,0.7
-2019,Baltimore City,Rural Collector (Major and Minor),2000000,9.38,0.5,0.7
-2019,Baltimore City,Rural Local,0,12.48,0.3,0.5
-2019,Baltimore City,Urban Interstate/Freeway/Expressway,1245000000,215.368,0.7,1
-2019,Baltimore City,Urban Primary Arterial - Other,1226000000,624.116,0.7,1
-2019,Baltimore City,Urban Minor Arterial,640000000,481.483,0.5,0.7
-2019,Baltimore City,Urban Collector (Major and Minor),211000000,312.261,0.5,0.7
-2019,Baltimore City,Urban Local,233000000,1709.463,0.3,0.5
-2020,Allegany County,Rural Interstate/Freeway/Expressway,156000000,121.091,0.7,1
-2020,Allegany County,Rural Primary Arterial - Other,18000000,19.46,0.7,1
-2020,Allegany County,Rural Minor Arterial,15000000,16.564,0.5,0.7
-2020,Allegany County,Rural Collector (Major and Minor),25000000,208.923,0.5,0.7
-2020,Allegany County,Rural Local,52000000,680.092,0.3,0.5
-2020,Allegany County,Urban Interstate/Freeway/Expressway,144000000,67.512,0.7,1
-2020,Allegany County,Urban Primary Arterial - Other,79000000,57.206,0.7,1
-2020,Allegany County,Urban Minor Arterial,142000000,137.208,0.5,0.7
-2020,Allegany County,Urban Collector (Major and Minor),37000000,122.706,0.5,0.7
-2020,Allegany County,Urban Local,34000000,580.986,0.3,0.5
-2020,Anne Arundel County,Rural Interstate/Freeway/Expressway,86000000,20.04,0.7,1
-2020,Anne Arundel County,Rural Primary Arterial - Other,98000000,36.47,0.7,1
-2020,Anne Arundel County,Rural Minor Arterial,62000000,41.084,0.5,0.7
-2020,Anne Arundel County,Rural Collector (Major and Minor),45000000,107.494,0.5,0.7
-2020,Anne Arundel County,Rural Local,68000000,265.606,0.3,0.5
-2020,Anne Arundel County,Urban Interstate/Freeway/Expressway,2522000000,434.375,0.7,1
-2020,Anne Arundel County,Urban Primary Arterial - Other,732000000,258.457,0.7,1
-2020,Anne Arundel County,Urban Minor Arterial,794000000,418.452,0.5,0.7
-2020,Anne Arundel County,Urban Collector (Major and Minor),453000000,518.815,0.5,0.7
-2020,Anne Arundel County,Urban Local,385000000,2985.119,0.3,0.5
-2020,Baltimore County,Rural Interstate/Freeway/Expressway,229000000,58.18,0.7,1
-2020,Baltimore County,Rural Primary Arterial - Other,38000000,17.705,0.7,1
-2020,Baltimore County,Rural Minor Arterial,56000000,58.935,0.5,0.7
-2020,Baltimore County,Rural Collector (Major and Minor),197000000,324.142,0.5,0.7
-2020,Baltimore County,Rural Local,118000000,761.698,0.3,0.5
-2020,Baltimore County,Urban Interstate/Freeway/Expressway,3468000000,631.031,0.7,1
-2020,Baltimore County,Urban Primary Arterial - Other,937000000,426.163,0.7,1
-2020,Baltimore County,Urban Minor Arterial,1090000000,694.456,0.5,0.7
-2020,Baltimore County,Urban Collector (Major and Minor),580000000,716.177,0.5,0.7
-2020,Baltimore County,Urban Local,520000000,3394.33,0.3,0.5
-2020,Calvert County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2020,Calvert County,Rural Primary Arterial - Other,18000000,7.992,0.7,1
-2020,Calvert County,Rural Minor Arterial,0,0,0.5,0.7
-2020,Calvert County,Rural Collector (Major and Minor),38000000,102.162,0.5,0.7
-2020,Calvert County,Rural Local,9000000,414.132,0.3,0.5
-2020,Calvert County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2020,Calvert County,Urban Primary Arterial - Other,401000000,157.629,0.7,1
-2020,Calvert County,Urban Minor Arterial,42000000,29.784,0.5,0.7
-2020,Calvert County,Urban Collector (Major and Minor),99000000,119.272,0.5,0.7
-2020,Calvert County,Urban Local,46000000,644.736,0.3,0.5
-2020,Caroline County,Rural Interstate/Freeway/Expressway,17000000,9.56,0.7,1
-2020,Caroline County,Rural Primary Arterial - Other,94000000,47.92,0.7,1
-2020,Caroline County,Rural Minor Arterial,96000000,113.268,0.5,0.7
-2020,Caroline County,Rural Collector (Major and Minor),87000000,337.062,0.5,0.7
-2020,Caroline County,Rural Local,68000000,906.686,0.3,0.5
-2020,Caroline County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2020,Caroline County,Urban Primary Arterial - Other,0,0,0.7,1
-2020,Caroline County,Urban Minor Arterial,0,0,0.5,0.7
-2020,Caroline County,Urban Collector (Major and Minor),0,0,0.5,0.7
-2020,Caroline County,Urban Local,0,0,0.3,0.5
-2020,Carroll County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2020,Carroll County,Rural Primary Arterial - Other,37000000,21.058,0.7,1
-2020,Carroll County,Rural Minor Arterial,166000000,106.392,0.5,0.7
-2020,Carroll County,Rural Collector (Major and Minor),123000000,332.73,0.5,0.7
-2020,Carroll County,Rural Local,71000000,1024.339,0.3,0.5
-2020,Carroll County,Urban Interstate/Freeway/Expressway,35000000,9.66,0.7,1
-2020,Carroll County,Urban Primary Arterial - Other,408000000,170.156,0.7,1
-2020,Carroll County,Urban Minor Arterial,116000000,81.488,0.5,0.7
-2020,Carroll County,Urban Collector (Major and Minor),113000000,193.776,0.5,0.7
-2020,Carroll County,Urban Local,57000000,921.141,0.3,0.5
-2020,Cecil County,Rural Interstate/Freeway/Expressway,181000000,55.322,0.7,1
-2020,Cecil County,Rural Primary Arterial - Other,32000000,19.426,0.7,1
-2020,Cecil County,Rural Minor Arterial,106000000,86.966,0.5,0.7
-2020,Cecil County,Rural Collector (Major and Minor),60000000,206.948,0.5,0.7
-2020,Cecil County,Rural Local,87000000,671.655,0.3,0.5
-2020,Cecil County,Urban Interstate/Freeway/Expressway,260000000,67.401,0.7,1
-2020,Cecil County,Urban Primary Arterial - Other,193000000,94.937,0.7,1
-2020,Cecil County,Urban Minor Arterial,110000000,98.911,0.5,0.7
-2020,Cecil County,Urban Collector (Major and Minor),59000000,124.562,0.5,0.7
-2020,Cecil County,Urban Local,53000000,518.471,0.3,0.5
-2020,Charles County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2020,Charles County,Rural Primary Arterial - Other,93000000,55.131,0.7,1
-2020,Charles County,Rural Minor Arterial,58000000,44.07,0.5,0.7
-2020,Charles County,Rural Collector (Major and Minor),102000000,247.47,0.5,0.7
-2020,Charles County,Rural Local,54000000,776.158,0.3,0.5
-2020,Charles County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2020,Charles County,Urban Primary Arterial - Other,440000000,176.944,0.7,1
-2020,Charles County,Urban Minor Arterial,152000000,112.617,0.5,0.7
-2020,Charles County,Urban Collector (Major and Minor),141000000,146.053,0.5,0.7
-2020,Charles County,Urban Local,63000000,694.913,0.3,0.5
-2020,Dorchester County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2020,Dorchester County,Rural Primary Arterial - Other,72000000,50.24,0.7,1
-2020,Dorchester County,Rural Minor Arterial,61000000,88.084,0.5,0.7
-2020,Dorchester County,Rural Collector (Major and Minor),57000000,371.622,0.5,0.7
-2020,Dorchester County,Rural Local,43000000,895.758,0.3,0.5
-2020,Dorchester County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2020,Dorchester County,Urban Primary Arterial - Other,41000000,20.99,0.7,1
-2020,Dorchester County,Urban Minor Arterial,14000000,13.23,0.5,0.7
-2020,Dorchester County,Urban Collector (Major and Minor),17000000,42.781,0.5,0.7
-2020,Dorchester County,Urban Local,6000000,133.16,0.3,0.5
-2020,Frederick County,Rural Interstate/Freeway/Expressway,410000000,109.599,0.7,1
-2020,Frederick County,Rural Primary Arterial - Other,40000000,35.968,0.7,1
-2020,Frederick County,Rural Minor Arterial,107000000,130.204,0.5,0.7
-2020,Frederick County,Rural Collector (Major and Minor),144000000,446.378,0.5,0.7
-2020,Frederick County,Rural Local,164000000,1362.981,0.3,0.5
-2020,Frederick County,Urban Interstate/Freeway/Expressway,1124000000,271.253,0.7,1
-2020,Frederick County,Urban Primary Arterial - Other,106000000,50.012,0.7,1
-2020,Frederick County,Urban Minor Arterial,241000000,188.066,0.5,0.7
-2020,Frederick County,Urban Collector (Major and Minor),294000000,356.891,0.5,0.7
-2020,Frederick County,Urban Local,151000000,1303.786,0.3,0.5
-2020,Garrett County,Rural Interstate/Freeway/Expressway,169000000,148.874,0.7,1
-2020,Garrett County,Rural Primary Arterial - Other,80000000,94.768,0.7,1
-2020,Garrett County,Rural Minor Arterial,54000000,117.914,0.5,0.7
-2020,Garrett County,Rural Collector (Major and Minor),72000000,434.23,0.5,0.7
-2020,Garrett County,Rural Local,87000000,1181.972,0.3,0.5
-2020,Garrett County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2020,Garrett County,Urban Primary Arterial - Other,0,0,0.7,1
-2020,Garrett County,Urban Minor Arterial,1000000,2.428,0.5,0.7
-2020,Garrett County,Urban Collector (Major and Minor),0,0.98,0.5,0.7
-2020,Garrett County,Urban Local,0,5.792,0.3,0.5
-2020,Harford County,Rural Interstate/Freeway/Expressway,55000000,13.38,0.7,1
-2020,Harford County,Rural Primary Arterial - Other,77000000,34.8,0.7,1
-2020,Harford County,Rural Minor Arterial,118000000,85.975,0.5,0.7
-2020,Harford County,Rural Collector (Major and Minor),127000000,293.65,0.5,0.7
-2020,Harford County,Rural Local,84000000,718.489,0.3,0.5
-2020,Harford County,Urban Interstate/Freeway/Expressway,716000000,145.685,0.7,1
-2020,Harford County,Urban Primary Arterial - Other,316000000,144.675,0.7,1
-2020,Harford County,Urban Minor Arterial,331000000,156.951,0.5,0.7
-2020,Harford County,Urban Collector (Major and Minor),274000000,313.259,0.5,0.7
-2020,Harford County,Urban Local,140000000,1272.561,0.3,0.5
-2020,Howard County,Rural Interstate/Freeway/Expressway,270000000,67.428,0.7,1
-2020,Howard County,Rural Primary Arterial - Other,89000000,26.644,0.7,1
-2020,Howard County,Rural Minor Arterial,29000000,15.702,0.5,0.7
-2020,Howard County,Rural Collector (Major and Minor),87000000,125.961,0.5,0.7
-2020,Howard County,Rural Local,112000000,441.686,0.3,0.5
-2020,Howard County,Urban Interstate/Freeway/Expressway,1871000000,320.371,0.7,1
-2020,Howard County,Urban Primary Arterial - Other,230000000,85.796,0.7,1
-2020,Howard County,Urban Minor Arterial,416000000,196.64,0.5,0.7
-2020,Howard County,Urban Collector (Major and Minor),295000000,248.727,0.5,0.7
-2020,Howard County,Urban Local,241000000,1349.204,0.3,0.5
-2020,Kent County,Rural Interstate/Freeway/Expressway,27000000,34.86,0.7,1
-2020,Kent County,Rural Primary Arterial - Other,0,0,0.7,1
-2020,Kent County,Rural Minor Arterial,22000000,35.68,0.5,0.7
-2020,Kent County,Rural Collector (Major and Minor),79000000,254.266,0.5,0.7
-2020,Kent County,Rural Local,27000000,572.394,0.3,0.5
-2020,Kent County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2020,Kent County,Urban Primary Arterial - Other,0,0,0.7,1
-2020,Kent County,Urban Minor Arterial,12000000,6.75,0.5,0.7
-2020,Kent County,Urban Collector (Major and Minor),10000000,13.274,0.5,0.7
-2020,Kent County,Urban Local,2000000,44.776,0.3,0.5
-2020,Montgomery County,Rural Interstate/Freeway/Expressway,60000000,9,0.7,1
-2020,Montgomery County,Rural Primary Arterial - Other,13000000,4.79,0.7,1
-2020,Montgomery County,Rural Minor Arterial,55000000,40.94,0.5,0.7
-2020,Montgomery County,Rural Collector (Major and Minor),101000000,181.436,0.5,0.7
-2020,Montgomery County,Rural Local,51000000,400.576,0.3,0.5
-2020,Montgomery County,Urban Interstate/Freeway/Expressway,2509000000,451.308,0.7,1
-2020,Montgomery County,Urban Primary Arterial - Other,1661000000,757.121,0.7,1
-2020,Montgomery County,Urban Minor Arterial,1040000000,598.026,0.5,0.7
-2020,Montgomery County,Urban Collector (Major and Minor),570000000,642.471,0.5,0.7
-2020,Montgomery County,Urban Local,495000000,4113.797,0.3,0.5
-2020,Prince George's County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2020,Prince George's County,Rural Primary Arterial - Other,36000000,10.564,0.7,1
-2020,Prince George's County,Rural Minor Arterial,28000000,11.167,0.5,0.7
-2020,Prince George's County,Rural Collector (Major and Minor),72000000,119.718,0.5,0.7
-2020,Prince George's County,Rural Local,30000000,230.008,0.3,0.5
-2020,Prince George's County,Urban Interstate/Freeway/Expressway,3976000000,594.127,0.7,1
-2020,Prince George's County,Urban Primary Arterial - Other,1600000000,606.264,0.7,1
-2020,Prince George's County,Urban Minor Arterial,950000000,513.329,0.5,0.7
-2020,Prince George's County,Urban Collector (Major and Minor),681000000,647.057,0.5,0.7
-2020,Prince George's County,Urban Local,617000000,3984.071,0.3,0.5
-2020,Queen Anne's County,Rural Interstate/Freeway/Expressway,176000000,116.108,0.7,1
-2020,Queen Anne's County,Rural Primary Arterial - Other,108000000,33.72,0.7,1
-2020,Queen Anne's County,Rural Minor Arterial,75000000,72.84,0.5,0.7
-2020,Queen Anne's County,Rural Collector (Major and Minor),109000000,325.179,0.5,0.7
-2020,Queen Anne's County,Rural Local,107000000,880.874,0.3,0.5
-2020,Queen Anne's County,Urban Interstate/Freeway/Expressway,242000000,62.643,0.7,1
-2020,Queen Anne's County,Urban Primary Arterial - Other,0,0,0.7,1
-2020,Queen Anne's County,Urban Minor Arterial,13000000,14.56,0.5,0.7
-2020,Queen Anne's County,Urban Collector (Major and Minor),12000000,27.974,0.5,0.7
-2020,Queen Anne's County,Urban Local,23000000,161.47,0.3,0.5
-2020,St. Mary's County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2020,St. Mary's County,Rural Primary Arterial - Other,156000000,67.316,0.7,1
-2020,St. Mary's County,Rural Minor Arterial,152000000,97.452,0.5,0.7
-2020,St. Mary's County,Rural Collector (Major and Minor),137000000,271.972,0.5,0.7
-2020,St. Mary's County,Rural Local,100000000,949.081,0.3,0.5
-2020,St. Mary's County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2020,St. Mary's County,Urban Primary Arterial - Other,141000000,60.666,0.7,1
-2020,St. Mary's County,Urban Minor Arterial,58000000,33.494,0.5,0.7
-2020,St. Mary's County,Urban Collector (Major and Minor),48000000,55.3,0.5,0.7
-2020,St. Mary's County,Urban Local,21000000,259.68,0.3,0.5
-2020,Somerset County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2020,Somerset County,Rural Primary Arterial - Other,79000000,53,0.7,1
-2020,Somerset County,Rural Minor Arterial,24000000,26.58,0.5,0.7
-2020,Somerset County,Rural Collector (Major and Minor),42000000,247.158,0.5,0.7
-2020,Somerset County,Rural Local,33000000,578.322,0.3,0.5
-2020,Somerset County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2020,Somerset County,Urban Primary Arterial - Other,48000000,28.12,0.7,1
-2020,Somerset County,Urban Minor Arterial,0,0.02,0.5,0.7
-2020,Somerset County,Urban Collector (Major and Minor),12000000,25.692,0.5,0.7
-2020,Somerset County,Urban Local,5000000,57.004,0.3,0.5
-2020,Talbot County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2020,Talbot County,Rural Primary Arterial - Other,193000000,87.55,0.7,1
-2020,Talbot County,Rural Minor Arterial,81000000,50.594,0.5,0.7
-2020,Talbot County,Rural Collector (Major and Minor),50000000,188.026,0.5,0.7
-2020,Talbot County,Rural Local,77000000,657.38,0.3,0.5
-2020,Talbot County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2020,Talbot County,Urban Primary Arterial - Other,116000000,46.872,0.7,1
-2020,Talbot County,Urban Minor Arterial,18000000,15.826,0.5,0.7
-2020,Talbot County,Urban Collector (Major and Minor),24000000,29.324,0.5,0.7
-2020,Talbot County,Urban Local,14000000,176.916,0.3,0.5
-2020,Washington County,Rural Interstate/Freeway/Expressway,403000000,149.419,0.7,1
-2020,Washington County,Rural Primary Arterial - Other,22000000,9.878,0.7,1
-2020,Washington County,Rural Minor Arterial,93000000,106.514,0.5,0.7
-2020,Washington County,Rural Collector (Major and Minor),112000000,333.07,0.5,0.7
-2020,Washington County,Rural Local,147000000,972.502,0.3,0.5
-2020,Washington County,Urban Interstate/Freeway/Expressway,469000000,97.52,0.7,1
-2020,Washington County,Urban Primary Arterial - Other,126000000,65.997,0.7,1
-2020,Washington County,Urban Minor Arterial,220000000,163.127,0.5,0.7
-2020,Washington County,Urban Collector (Major and Minor),125000000,175.262,0.5,0.7
-2020,Washington County,Urban Local,80000000,781.039,0.3,0.5
-2020,Wicomico County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2020,Wicomico County,Rural Primary Arterial - Other,132000000,65.56,0.7,1
-2020,Wicomico County,Rural Minor Arterial,19000000,44.248,0.5,0.7
-2020,Wicomico County,Rural Collector (Major and Minor),71000000,244.418,0.5,0.7
-2020,Wicomico County,Rural Local,47000000,754.714,0.3,0.5
-2020,Wicomico County,Urban Interstate/Freeway/Expressway,100000000,56.284,0.7,1
-2020,Wicomico County,Urban Primary Arterial - Other,222000000,127.13,0.7,1
-2020,Wicomico County,Urban Minor Arterial,89000000,87.616,0.5,0.7
-2020,Wicomico County,Urban Collector (Major and Minor),118000000,207.037,0.5,0.7
-2020,Wicomico County,Urban Local,45000000,695.495,0.3,0.5
-2020,Worcester County,Rural Interstate/Freeway/Expressway,20000000,11.58,0.7,1
-2020,Worcester County,Rural Primary Arterial - Other,208000000,183,0.7,1
-2020,Worcester County,Rural Minor Arterial,28000000,34.88,0.5,0.7
-2020,Worcester County,Rural Collector (Major and Minor),78000000,294.656,0.5,0.7
-2020,Worcester County,Rural Local,78000000,874.77,0.3,0.5
-2020,Worcester County,Urban Interstate/Freeway/Expressway,45000000,12.33,0.7,1
-2020,Worcester County,Urban Primary Arterial - Other,195000000,97.606,0.7,1
-2020,Worcester County,Urban Minor Arterial,38000000,25.491,0.5,0.7
-2020,Worcester County,Urban Collector (Major and Minor),47000000,44.437,0.5,0.7
-2020,Worcester County,Urban Local,28000000,402.858,0.3,0.5
-2020,Baltimore City,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2020,Baltimore City,Rural Primary Arterial - Other,0,0,0.7,1
-2020,Baltimore City,Rural Minor Arterial,0,0,0.5,0.7
-2020,Baltimore City,Rural Collector (Major and Minor),1000000,9.38,0.5,0.7
-2020,Baltimore City,Rural Local,0,12.48,0.3,0.5
-2020,Baltimore City,Urban Interstate/Freeway/Expressway,1002000000,215.088,0.7,1
-2020,Baltimore City,Urban Primary Arterial - Other,1023000000,624.396,0.7,1
-2020,Baltimore City,Urban Minor Arterial,534000000,481.487,0.5,0.7
-2020,Baltimore City,Urban Collector (Major and Minor),177000000,312.261,0.5,0.7
-2020,Baltimore City,Urban Local,234000000,1709.463,0.3,0.5
-2021,Allegany County,Rural Interstate/Freeway/Expressway,185000000,121.091,0.7,1
-2021,Allegany County,Rural Primary Arterial - Other,24000000,20.116,0.7,1
-2021,Allegany County,Rural Minor Arterial,15000000,16.564,0.5,0.7
-2021,Allegany County,Rural Collector (Major and Minor),29000000,208.923,0.5,0.7
-2021,Allegany County,Rural Local,53000000,680.092,0.3,0.5
-2021,Allegany County,Urban Interstate/Freeway/Expressway,168000000,67.512,0.7,1
-2021,Allegany County,Urban Primary Arterial - Other,90000000,56.561,0.7,1
-2021,Allegany County,Urban Minor Arterial,151000000,137.208,0.5,0.7
-2021,Allegany County,Urban Collector (Major and Minor),42000000,122.706,0.5,0.7
-2021,Allegany County,Urban Local,34000000,584.25,0.3,0.5
-2021,Anne Arundel County,Rural Interstate/Freeway/Expressway,102000000,20.04,0.7,1
-2021,Anne Arundel County,Rural Primary Arterial - Other,114000000,36.47,0.7,1
-2021,Anne Arundel County,Rural Minor Arterial,74000000,41.084,0.5,0.7
-2021,Anne Arundel County,Rural Collector (Major and Minor),54000000,107.494,0.5,0.7
-2021,Anne Arundel County,Rural Local,69000000,266.062,0.3,0.5
-2021,Anne Arundel County,Urban Interstate/Freeway/Expressway,2858000000,434.375,0.7,1
-2021,Anne Arundel County,Urban Primary Arterial - Other,822000000,258.434,0.7,1
-2021,Anne Arundel County,Urban Minor Arterial,877000000,421.017,0.5,0.7
-2021,Anne Arundel County,Urban Collector (Major and Minor),516000000,518.815,0.5,0.7
-2021,Anne Arundel County,Urban Local,388000000,3013.315,0.3,0.5
-2021,Baltimore County,Rural Interstate/Freeway/Expressway,258000000,58.18,0.7,1
-2021,Baltimore County,Rural Primary Arterial - Other,44000000,17.705,0.7,1
-2021,Baltimore County,Rural Minor Arterial,63000000,58.993,0.5,0.7
-2021,Baltimore County,Rural Collector (Major and Minor),229000000,324.142,0.5,0.7
-2021,Baltimore County,Rural Local,116000000,762.418,0.3,0.5
-2021,Baltimore County,Urban Interstate/Freeway/Expressway,3955000000,631.841,0.7,1
-2021,Baltimore County,Urban Primary Arterial - Other,1035000000,425.38,0.7,1
-2021,Baltimore County,Urban Minor Arterial,1218000000,694.464,0.5,0.7
-2021,Baltimore County,Urban Collector (Major and Minor),658000000,716.177,0.5,0.7
-2021,Baltimore County,Urban Local,525000000,3408.67,0.3,0.5
-2021,Calvert County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2021,Calvert County,Rural Primary Arterial - Other,22000000,7.992,0.7,1
-2021,Calvert County,Rural Minor Arterial,0,0,0.5,0.7
-2021,Calvert County,Rural Collector (Major and Minor),44000000,102.162,0.5,0.7
-2021,Calvert County,Rural Local,10000000,414.786,0.3,0.5
-2021,Calvert County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2021,Calvert County,Urban Primary Arterial - Other,500000000,160.879,0.7,1
-2021,Calvert County,Urban Minor Arterial,49000000,29.784,0.5,0.7
-2021,Calvert County,Urban Collector (Major and Minor),114000000,119.072,0.5,0.7
-2021,Calvert County,Urban Local,51000000,647.604,0.3,0.5
-2021,Caroline County,Rural Interstate/Freeway/Expressway,21000000,9.56,0.7,1
-2021,Caroline County,Rural Primary Arterial - Other,110000000,47.92,0.7,1
-2021,Caroline County,Rural Minor Arterial,116000000,113.268,0.5,0.7
-2021,Caroline County,Rural Collector (Major and Minor),103000000,337.062,0.5,0.7
-2021,Caroline County,Rural Local,70000000,906.686,0.3,0.5
-2021,Caroline County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2021,Caroline County,Urban Primary Arterial - Other,0,0,0.7,1
-2021,Caroline County,Urban Minor Arterial,0,0,0.5,0.7
-2021,Caroline County,Urban Collector (Major and Minor),0,0,0.5,0.7
-2021,Caroline County,Urban Local,0,0,0.3,0.5
-2021,Carroll County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2021,Carroll County,Rural Primary Arterial - Other,45000000,21.058,0.7,1
-2021,Carroll County,Rural Minor Arterial,196000000,106.392,0.5,0.7
-2021,Carroll County,Rural Collector (Major and Minor),141000000,327.85,0.5,0.7
-2021,Carroll County,Rural Local,72000000,1026.897,0.3,0.5
-2021,Carroll County,Urban Interstate/Freeway/Expressway,39000000,9.66,0.7,1
-2021,Carroll County,Urban Primary Arterial - Other,450000000,169.58,0.7,1
-2021,Carroll County,Urban Minor Arterial,121000000,77.982,0.5,0.7
-2021,Carroll County,Urban Collector (Major and Minor),131000000,198.656,0.5,0.7
-2021,Carroll County,Urban Local,57000000,925.927,0.3,0.5
-2021,Cecil County,Rural Interstate/Freeway/Expressway,216000000,55.322,0.7,1
-2021,Cecil County,Rural Primary Arterial - Other,38000000,19.426,0.7,1
-2021,Cecil County,Rural Minor Arterial,116000000,86.966,0.5,0.7
-2021,Cecil County,Rural Collector (Major and Minor),72000000,206.922,0.5,0.7
-2021,Cecil County,Rural Local,88000000,671.699,0.3,0.5
-2021,Cecil County,Urban Interstate/Freeway/Expressway,312000000,67.401,0.7,1
-2021,Cecil County,Urban Primary Arterial - Other,228000000,94.937,0.7,1
-2021,Cecil County,Urban Minor Arterial,126000000,98.771,0.5,0.7
-2021,Cecil County,Urban Collector (Major and Minor),66000000,124.562,0.5,0.7
-2021,Cecil County,Urban Local,56000000,520.365,0.3,0.5
-2021,Charles County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2021,Charles County,Rural Primary Arterial - Other,111000000,55.131,0.7,1
-2021,Charles County,Rural Minor Arterial,70000000,44.07,0.5,0.7
-2021,Charles County,Rural Collector (Major and Minor),118000000,247.47,0.5,0.7
-2021,Charles County,Rural Local,55000000,784.442,0.3,0.5
-2021,Charles County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2021,Charles County,Urban Primary Arterial - Other,507000000,176.944,0.7,1
-2021,Charles County,Urban Minor Arterial,178000000,112.617,0.5,0.7
-2021,Charles County,Urban Collector (Major and Minor),161000000,146.053,0.5,0.7
-2021,Charles County,Urban Local,65000000,708.898,0.3,0.5
-2021,Dorchester County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2021,Dorchester County,Rural Primary Arterial - Other,88000000,50.24,0.7,1
-2021,Dorchester County,Rural Minor Arterial,72000000,88.084,0.5,0.7
-2021,Dorchester County,Rural Collector (Major and Minor),66000000,371.622,0.5,0.7
-2021,Dorchester County,Rural Local,44000000,895.618,0.3,0.5
-2021,Dorchester County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2021,Dorchester County,Urban Primary Arterial - Other,49000000,20.99,0.7,1
-2021,Dorchester County,Urban Minor Arterial,16000000,13.23,0.5,0.7
-2021,Dorchester County,Urban Collector (Major and Minor),20000000,42.781,0.5,0.7
-2021,Dorchester County,Urban Local,6000000,133.846,0.3,0.5
-2021,Frederick County,Rural Interstate/Freeway/Expressway,465000000,109.599,0.7,1
-2021,Frederick County,Rural Primary Arterial - Other,48000000,35.968,0.7,1
-2021,Frederick County,Rural Minor Arterial,123000000,130.204,0.5,0.7
-2021,Frederick County,Rural Collector (Major and Minor),185000000,456.614,0.5,0.7
-2021,Frederick County,Rural Local,167000000,1363.525,0.3,0.5
-2021,Frederick County,Urban Interstate/Freeway/Expressway,1302000000,271.253,0.7,1
-2021,Frederick County,Urban Primary Arterial - Other,119000000,50.012,0.7,1
-2021,Frederick County,Urban Minor Arterial,279000000,188.066,0.5,0.7
-2021,Frederick County,Urban Collector (Major and Minor),307000000,349.823,0.5,0.7
-2021,Frederick County,Urban Local,154000000,1328.804,0.3,0.5
-2021,Garrett County,Rural Interstate/Freeway/Expressway,189000000,148.874,0.7,1
-2021,Garrett County,Rural Primary Arterial - Other,110000000,98.912,0.7,1
-2021,Garrett County,Rural Minor Arterial,64000000,117.914,0.5,0.7
-2021,Garrett County,Rural Collector (Major and Minor),85000000,434.23,0.5,0.7
-2021,Garrett County,Rural Local,90000000,1182.868,0.3,0.5
-2021,Garrett County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2021,Garrett County,Urban Primary Arterial - Other,0,0,0.7,1
-2021,Garrett County,Urban Minor Arterial,1000000,2.428,0.5,0.7
-2021,Garrett County,Urban Collector (Major and Minor),0,0.98,0.5,0.7
-2021,Garrett County,Urban Local,0,5.792,0.3,0.5
-2021,Harford County,Rural Interstate/Freeway/Expressway,68000000,13.38,0.7,1
-2021,Harford County,Rural Primary Arterial - Other,92000000,34.8,0.7,1
-2021,Harford County,Rural Minor Arterial,135000000,85.975,0.5,0.7
-2021,Harford County,Rural Collector (Major and Minor),147000000,293.65,0.5,0.7
-2021,Harford County,Rural Local,85000000,719.249,0.3,0.5
-2021,Harford County,Urban Interstate/Freeway/Expressway,834000000,145.685,0.7,1
-2021,Harford County,Urban Primary Arterial - Other,354000000,146.615,0.7,1
-2021,Harford County,Urban Minor Arterial,359000000,156.847,0.5,0.7
-2021,Harford County,Urban Collector (Major and Minor),312000000,313.313,0.5,0.7
-2021,Harford County,Urban Local,142000000,1293.601,0.3,0.5
-2021,Howard County,Rural Interstate/Freeway/Expressway,299000000,67.428,0.7,1
-2021,Howard County,Rural Primary Arterial - Other,107000000,26.644,0.7,1
-2021,Howard County,Rural Minor Arterial,35000000,15.702,0.5,0.7
-2021,Howard County,Rural Collector (Major and Minor),100000000,125.961,0.5,0.7
-2021,Howard County,Rural Local,110000000,444.986,0.3,0.5
-2021,Howard County,Urban Interstate/Freeway/Expressway,2101000000,320.371,0.7,1
-2021,Howard County,Urban Primary Arterial - Other,249000000,85.766,0.7,1
-2021,Howard County,Urban Minor Arterial,465000000,192.57,0.5,0.7
-2021,Howard County,Urban Collector (Major and Minor),337000000,248.722,0.5,0.7
-2021,Howard County,Urban Local,241000000,1367.632,0.3,0.5
-2021,Kent County,Rural Interstate/Freeway/Expressway,35000000,34.86,0.7,1
-2021,Kent County,Rural Primary Arterial - Other,0,0,0.7,1
-2021,Kent County,Rural Minor Arterial,25000000,35.68,0.5,0.7
-2021,Kent County,Rural Collector (Major and Minor),93000000,254.158,0.5,0.7
-2021,Kent County,Rural Local,28000000,572.272,0.3,0.5
-2021,Kent County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2021,Kent County,Urban Primary Arterial - Other,0,0,0.7,1
-2021,Kent County,Urban Minor Arterial,14000000,6.72,0.5,0.7
-2021,Kent County,Urban Collector (Major and Minor),12000000,13.374,0.5,0.7
-2021,Kent County,Urban Local,2000000,45.764,0.3,0.5
-2021,Montgomery County,Rural Interstate/Freeway/Expressway,67000000,9,0.7,1
-2021,Montgomery County,Rural Primary Arterial - Other,15000000,4.79,0.7,1
-2021,Montgomery County,Rural Minor Arterial,56000000,40.94,0.5,0.7
-2021,Montgomery County,Rural Collector (Major and Minor),113000000,181.436,0.5,0.7
-2021,Montgomery County,Rural Local,48000000,399.318,0.3,0.5
-2021,Montgomery County,Urban Interstate/Freeway/Expressway,2784000000,452.322,0.7,1
-2021,Montgomery County,Urban Primary Arterial - Other,1792000000,756.672,0.7,1
-2021,Montgomery County,Urban Minor Arterial,1145000000,597.923,0.5,0.7
-2021,Montgomery County,Urban Collector (Major and Minor),634000000,642.471,0.5,0.7
-2021,Montgomery County,Urban Local,486000000,4134.257,0.3,0.5
-2021,Prince George's County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2021,Prince George's County,Rural Primary Arterial - Other,35000000,10.564,0.7,1
-2021,Prince George's County,Rural Minor Arterial,34000000,11.167,0.5,0.7
-2021,Prince George's County,Rural Collector (Major and Minor),78000000,116.558,0.5,0.7
-2021,Prince George's County,Rural Local,28000000,230.008,0.3,0.5
-2021,Prince George's County,Urban Interstate/Freeway/Expressway,4468000000,593.587,0.7,1
-2021,Prince George's County,Urban Primary Arterial - Other,1787000000,606.511,0.7,1
-2021,Prince George's County,Urban Minor Arterial,1070000000,513.19,0.5,0.7
-2021,Prince George's County,Urban Collector (Major and Minor),784000000,651.926,0.5,0.7
-2021,Prince George's County,Urban Local,621000000,4002.536,0.3,0.5
-2021,Queen Anne's County,Rural Interstate/Freeway/Expressway,215000000,116.108,0.7,1
-2021,Queen Anne's County,Rural Primary Arterial - Other,128000000,33.72,0.7,1
-2021,Queen Anne's County,Rural Minor Arterial,87000000,72.84,0.5,0.7
-2021,Queen Anne's County,Rural Collector (Major and Minor),127000000,325.329,0.5,0.7
-2021,Queen Anne's County,Rural Local,111000000,889.184,0.3,0.5
-2021,Queen Anne's County,Urban Interstate/Freeway/Expressway,293000000,62.643,0.7,1
-2021,Queen Anne's County,Urban Primary Arterial - Other,0,0,0.7,1
-2021,Queen Anne's County,Urban Minor Arterial,15000000,14.56,0.5,0.7
-2021,Queen Anne's County,Urban Collector (Major and Minor),14000000,27.974,0.5,0.7
-2021,Queen Anne's County,Urban Local,25000000,163.114,0.3,0.5
-2021,St. Mary's County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2021,St. Mary's County,Rural Primary Arterial - Other,175000000,67.316,0.7,1
-2021,St. Mary's County,Rural Minor Arterial,175000000,97.452,0.5,0.7
-2021,St. Mary's County,Rural Collector (Major and Minor),156000000,271.972,0.5,0.7
-2021,St. Mary's County,Rural Local,98000000,961.631,0.3,0.5
-2021,St. Mary's County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2021,St. Mary's County,Urban Primary Arterial - Other,163000000,60.666,0.7,1
-2021,St. Mary's County,Urban Minor Arterial,66000000,33.494,0.5,0.7
-2021,St. Mary's County,Urban Collector (Major and Minor),53000000,55.3,0.5,0.7
-2021,St. Mary's County,Urban Local,22000000,263.006,0.3,0.5
-2021,Somerset County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2021,Somerset County,Rural Primary Arterial - Other,92000000,53,0.7,1
-2021,Somerset County,Rural Minor Arterial,28000000,26.58,0.5,0.7
-2021,Somerset County,Rural Collector (Major and Minor),47000000,247.158,0.5,0.7
-2021,Somerset County,Rural Local,33000000,578.322,0.3,0.5
-2021,Somerset County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2021,Somerset County,Urban Primary Arterial - Other,54000000,28.12,0.7,1
-2021,Somerset County,Urban Minor Arterial,0,0.02,0.5,0.7
-2021,Somerset County,Urban Collector (Major and Minor),14000000,25.692,0.5,0.7
-2021,Somerset County,Urban Local,5000000,57.004,0.3,0.5
-2021,Talbot County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2021,Talbot County,Rural Primary Arterial - Other,228000000,87.55,0.7,1
-2021,Talbot County,Rural Minor Arterial,93000000,50.594,0.5,0.7
-2021,Talbot County,Rural Collector (Major and Minor),56000000,188.026,0.5,0.7
-2021,Talbot County,Rural Local,78000000,657.978,0.3,0.5
-2021,Talbot County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2021,Talbot County,Urban Primary Arterial - Other,129000000,46.872,0.7,1
-2021,Talbot County,Urban Minor Arterial,21000000,15.826,0.5,0.7
-2021,Talbot County,Urban Collector (Major and Minor),28000000,29.324,0.5,0.7
-2021,Talbot County,Urban Local,14000000,180.948,0.3,0.5
-2021,Washington County,Rural Interstate/Freeway/Expressway,443000000,149.419,0.7,1
-2021,Washington County,Rural Primary Arterial - Other,23000000,9.878,0.7,1
-2021,Washington County,Rural Minor Arterial,109000000,106.514,0.5,0.7
-2021,Washington County,Rural Collector (Major and Minor),127000000,333.07,0.5,0.7
-2021,Washington County,Rural Local,141000000,975.182,0.3,0.5
-2021,Washington County,Urban Interstate/Freeway/Expressway,571000000,97.52,0.7,1
-2021,Washington County,Urban Primary Arterial - Other,144000000,65.997,0.7,1
-2021,Washington County,Urban Minor Arterial,250000000,163.127,0.5,0.7
-2021,Washington County,Urban Collector (Major and Minor),140000000,175.262,0.5,0.7
-2021,Washington County,Urban Local,85000000,789.761,0.3,0.5
-2021,Wicomico County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2021,Wicomico County,Rural Primary Arterial - Other,154000000,65.56,0.7,1
-2021,Wicomico County,Rural Minor Arterial,31000000,54.328,0.5,0.7
-2021,Wicomico County,Rural Collector (Major and Minor),85000000,245.338,0.5,0.7
-2021,Wicomico County,Rural Local,50000000,755.676,0.3,0.5
-2021,Wicomico County,Urban Interstate/Freeway/Expressway,128000000,56.284,0.7,1
-2021,Wicomico County,Urban Primary Arterial - Other,255000000,127.13,0.7,1
-2021,Wicomico County,Urban Minor Arterial,100000000,85.876,0.5,0.7
-2021,Wicomico County,Urban Collector (Major and Minor),130000000,206.117,0.5,0.7
-2021,Wicomico County,Urban Local,47000000,695.815,0.3,0.5
-2021,Worcester County,Rural Interstate/Freeway/Expressway,23000000,11.58,0.7,1
-2021,Worcester County,Rural Primary Arterial - Other,240000000,183,0.7,1
-2021,Worcester County,Rural Minor Arterial,34000000,34.88,0.5,0.7
-2021,Worcester County,Rural Collector (Major and Minor),88000000,294.656,0.5,0.7
-2021,Worcester County,Rural Local,78000000,877.509,0.3,0.5
-2021,Worcester County,Urban Interstate/Freeway/Expressway,53000000,12.33,0.7,1
-2021,Worcester County,Urban Primary Arterial - Other,230000000,97.606,0.7,1
-2021,Worcester County,Urban Minor Arterial,45000000,25.491,0.5,0.7
-2021,Worcester County,Urban Collector (Major and Minor),54000000,44.437,0.5,0.7
-2021,Worcester County,Urban Local,29000000,403.77,0.3,0.5
-2021,Baltimore City,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2021,Baltimore City,Rural Primary Arterial - Other,0,0,0.7,1
-2021,Baltimore City,Rural Minor Arterial,0,0,0.5,0.7
-2021,Baltimore City,Rural Collector (Major and Minor),2000000,9.38,0.5,0.7
-2021,Baltimore City,Rural Local,0,12.248,0.3,0.5
-2021,Baltimore City,Urban Interstate/Freeway/Expressway,1121000000,215.088,0.7,1
-2021,Baltimore City,Urban Primary Arterial - Other,1061000000,627.537,0.7,1
-2021,Baltimore City,Urban Minor Arterial,588000000,482.54,0.5,0.7
-2021,Baltimore City,Urban Collector (Major and Minor),201000000,312.261,0.5,0.7
-2021,Baltimore City,Urban Local,227000000,1709.076,0.3,0.5
-2022,Allegany County,Rural Interstate/Freeway/Expressway,186000000,120.892,0.7,1
-2022,Allegany County,Rural Primary Arterial - Other,23000000,20.116,0.7,1
-2022,Allegany County,Rural Minor Arterial,15000000,16.564,0.5,0.7
-2022,Allegany County,Rural Collector (Major and Minor),28000000,208.923,0.5,0.7
-2022,Allegany County,Rural Local,54000000,680.092,0.3,0.5
-2022,Allegany County,Urban Interstate/Freeway/Expressway,178000000,67.512,0.7,1
-2022,Allegany County,Urban Primary Arterial - Other,90000000,56.496,0.7,1
-2022,Allegany County,Urban Minor Arterial,149000000,137.208,0.5,0.7
-2022,Allegany County,Urban Collector (Major and Minor),41000000,122.706,0.5,0.7
-2022,Allegany County,Urban Local,35000000,584.248,0.3,0.5
-2022,Anne Arundel County,Rural Interstate/Freeway/Expressway,104000000,20.04,0.7,1
-2022,Anne Arundel County,Rural Primary Arterial - Other,111000000,36.47,0.7,1
-2022,Anne Arundel County,Rural Minor Arterial,72000000,41.084,0.5,0.7
-2022,Anne Arundel County,Rural Collector (Major and Minor),53000000,107.494,0.5,0.7
-2022,Anne Arundel County,Rural Local,70000000,265.762,0.3,0.5
-2022,Anne Arundel County,Urban Interstate/Freeway/Expressway,2875000000,434.573,0.7,1
-2022,Anne Arundel County,Urban Primary Arterial - Other,822000000,258.41,0.7,1
-2022,Anne Arundel County,Urban Minor Arterial,884000000,421.017,0.5,0.7
-2022,Anne Arundel County,Urban Collector (Major and Minor),518000000,519.675,0.5,0.7
-2022,Anne Arundel County,Urban Local,390000000,3027.465,0.3,0.5
-2022,Baltimore County,Rural Interstate/Freeway/Expressway,260000000,58.18,0.7,1
-2022,Baltimore County,Rural Primary Arterial - Other,44000000,17.705,0.7,1
-2022,Baltimore County,Rural Minor Arterial,62000000,58.993,0.5,0.7
-2022,Baltimore County,Rural Collector (Major and Minor),225000000,324.142,0.5,0.7
-2022,Baltimore County,Rural Local,118000000,762.822,0.3,0.5
-2022,Baltimore County,Urban Interstate/Freeway/Expressway,3990000000,632.04,0.7,1
-2022,Baltimore County,Urban Primary Arterial - Other,1044000000,425.306,0.7,1
-2022,Baltimore County,Urban Minor Arterial,1224000000,696.758,0.5,0.7
-2022,Baltimore County,Urban Collector (Major and Minor),661000000,716.061,0.5,0.7
-2022,Baltimore County,Urban Local,529000000,3418.834,0.3,0.5
-2022,Calvert County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2022,Calvert County,Rural Primary Arterial - Other,24000000,7.992,0.7,1
-2022,Calvert County,Rural Minor Arterial,0,0,0.5,0.7
-2022,Calvert County,Rural Collector (Major and Minor),39000000,102.162,0.5,0.7
-2022,Calvert County,Rural Local,10000000,416.524,0.3,0.5
-2022,Calvert County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2022,Calvert County,Urban Primary Arterial - Other,489000000,160.875,0.7,1
-2022,Calvert County,Urban Minor Arterial,48000000,29.784,0.5,0.7
-2022,Calvert County,Urban Collector (Major and Minor),113000000,119.072,0.5,0.7
-2022,Calvert County,Urban Local,50000000,649.983,0.3,0.5
-2022,Caroline County,Rural Interstate/Freeway/Expressway,20000000,9.56,0.7,1
-2022,Caroline County,Rural Primary Arterial - Other,104000000,47.92,0.7,1
-2022,Caroline County,Rural Minor Arterial,114000000,113.268,0.5,0.7
-2022,Caroline County,Rural Collector (Major and Minor),98000000,336.24,0.5,0.7
-2022,Caroline County,Rural Local,68000000,908.304,0.3,0.5
-2022,Caroline County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2022,Caroline County,Urban Primary Arterial - Other,0,0,0.7,1
-2022,Caroline County,Urban Minor Arterial,0,0,0.5,0.7
-2022,Caroline County,Urban Collector (Major and Minor),0,0,0.5,0.7
-2022,Caroline County,Urban Local,0,0,0.3,0.5
-2022,Carroll County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2022,Carroll County,Rural Primary Arterial - Other,44000000,21.058,0.7,1
-2022,Carroll County,Rural Minor Arterial,197000000,106.392,0.5,0.7
-2022,Carroll County,Rural Collector (Major and Minor),138000000,327.85,0.5,0.7
-2022,Carroll County,Rural Local,73000000,1026.899,0.3,0.5
-2022,Carroll County,Urban Interstate/Freeway/Expressway,40000000,9.66,0.7,1
-2022,Carroll County,Urban Primary Arterial - Other,454000000,171.014,0.7,1
-2022,Carroll County,Urban Minor Arterial,129000000,81.434,0.5,0.7
-2022,Carroll County,Urban Collector (Major and Minor),131000000,198.656,0.5,0.7
-2022,Carroll County,Urban Local,58000000,930.303,0.3,0.5
-2022,Cecil County,Rural Interstate/Freeway/Expressway,212000000,55.322,0.7,1
-2022,Cecil County,Rural Primary Arterial - Other,37000000,19.426,0.7,1
-2022,Cecil County,Rural Minor Arterial,112000000,86.966,0.5,0.7
-2022,Cecil County,Rural Collector (Major and Minor),69000000,206.948,0.5,0.7
-2022,Cecil County,Rural Local,87000000,675.285,0.3,0.5
-2022,Cecil County,Urban Interstate/Freeway/Expressway,308000000,67.176,0.7,1
-2022,Cecil County,Urban Primary Arterial - Other,228000000,94.937,0.7,1
-2022,Cecil County,Urban Minor Arterial,125000000,98.771,0.5,0.7
-2022,Cecil County,Urban Collector (Major and Minor),66000000,124.562,0.5,0.7
-2022,Cecil County,Urban Local,56000000,525.171,0.3,0.5
-2022,Charles County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2022,Charles County,Rural Primary Arterial - Other,114000000,59.246,0.7,1
-2022,Charles County,Rural Minor Arterial,69000000,44.07,0.5,0.7
-2022,Charles County,Rural Collector (Major and Minor),114000000,247.47,0.5,0.7
-2022,Charles County,Rural Local,55000000,785.102,0.3,0.5
-2022,Charles County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2022,Charles County,Urban Primary Arterial - Other,506000000,176.95,0.7,1
-2022,Charles County,Urban Minor Arterial,180000000,112.617,0.5,0.7
-2022,Charles County,Urban Collector (Major and Minor),161000000,146.053,0.5,0.7
-2022,Charles County,Urban Local,65000000,713.554,0.3,0.5
-2022,Dorchester County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2022,Dorchester County,Rural Primary Arterial - Other,90000000,50.24,0.7,1
-2022,Dorchester County,Rural Minor Arterial,71000000,88.084,0.5,0.7
-2022,Dorchester County,Rural Collector (Major and Minor),64000000,371.622,0.5,0.7
-2022,Dorchester County,Rural Local,45000000,895.618,0.3,0.5
-2022,Dorchester County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2022,Dorchester County,Urban Primary Arterial - Other,49000000,20.99,0.7,1
-2022,Dorchester County,Urban Minor Arterial,16000000,13.23,0.5,0.7
-2022,Dorchester County,Urban Collector (Major and Minor),20000000,42.781,0.5,0.7
-2022,Dorchester County,Urban Local,6000000,138.426,0.3,0.5
-2022,Frederick County,Rural Interstate/Freeway/Expressway,466000000,109.528,0.7,1
-2022,Frederick County,Rural Primary Arterial - Other,47000000,35.968,0.7,1
-2022,Frederick County,Rural Minor Arterial,120000000,130.204,0.5,0.7
-2022,Frederick County,Rural Collector (Major and Minor),182000000,456.614,0.5,0.7
-2022,Frederick County,Rural Local,169000000,1371.235,0.3,0.5
-2022,Frederick County,Urban Interstate/Freeway/Expressway,1309000000,271.253,0.7,1
-2022,Frederick County,Urban Primary Arterial - Other,119000000,49.936,0.7,1
-2022,Frederick County,Urban Minor Arterial,284000000,189.035,0.5,0.7
-2022,Frederick County,Urban Collector (Major and Minor),308000000,351.166,0.5,0.7
-2022,Frederick County,Urban Local,154000000,1355.722,0.3,0.5
-2022,Garrett County,Rural Interstate/Freeway/Expressway,191000000,148.874,0.7,1
-2022,Garrett County,Rural Primary Arterial - Other,97000000,98.912,0.7,1
-2022,Garrett County,Rural Minor Arterial,62000000,117.914,0.5,0.7
-2022,Garrett County,Rural Collector (Major and Minor),83000000,434.23,0.5,0.7
-2022,Garrett County,Rural Local,89000000,1182.768,0.3,0.5
-2022,Garrett County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2022,Garrett County,Urban Primary Arterial - Other,0,0,0.7,1
-2022,Garrett County,Urban Minor Arterial,1000000,2.428,0.5,0.7
-2022,Garrett County,Urban Collector (Major and Minor),0,0.98,0.5,0.7
-2022,Garrett County,Urban Local,0,5.792,0.3,0.5
-2022,Harford County,Rural Interstate/Freeway/Expressway,70000000,13.38,0.7,1
-2022,Harford County,Rural Primary Arterial - Other,91000000,34.8,0.7,1
-2022,Harford County,Rural Minor Arterial,132000000,85.975,0.5,0.7
-2022,Harford County,Rural Collector (Major and Minor),143000000,293.65,0.5,0.7
-2022,Harford County,Rural Local,86000000,719.249,0.3,0.5
-2022,Harford County,Urban Interstate/Freeway/Expressway,825000000,145.685,0.7,1
-2022,Harford County,Urban Primary Arterial - Other,354000000,146.611,0.7,1
-2022,Harford County,Urban Minor Arterial,360000000,156.707,0.5,0.7
-2022,Harford County,Urban Collector (Major and Minor),314000000,313.537,0.5,0.7
-2022,Harford County,Urban Local,142000000,1301.807,0.3,0.5
-2022,Howard County,Rural Interstate/Freeway/Expressway,301000000,67.428,0.7,1
-2022,Howard County,Rural Primary Arterial - Other,104000000,38.542,0.7,1
-2022,Howard County,Rural Minor Arterial,34000000,15.702,0.5,0.7
-2022,Howard County,Rural Collector (Major and Minor),98000000,125.971,0.5,0.7
-2022,Howard County,Rural Local,112000000,446.942,0.3,0.5
-2022,Howard County,Urban Interstate/Freeway/Expressway,2135000000,321.131,0.7,1
-2022,Howard County,Urban Primary Arterial - Other,250000000,90.528,0.7,1
-2022,Howard County,Urban Minor Arterial,468000000,192.57,0.5,0.7
-2022,Howard County,Urban Collector (Major and Minor),338000000,245.319,0.5,0.7
-2022,Howard County,Urban Local,244000000,1370.45,0.3,0.5
-2022,Kent County,Rural Interstate/Freeway/Expressway,34000000,34.86,0.7,1
-2022,Kent County,Rural Primary Arterial - Other,0,0,0.7,1
-2022,Kent County,Rural Minor Arterial,25000000,35.68,0.5,0.7
-2022,Kent County,Rural Collector (Major and Minor),87000000,254.158,0.5,0.7
-2022,Kent County,Rural Local,28000000,573.904,0.3,0.5
-2022,Kent County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2022,Kent County,Urban Primary Arterial - Other,0,0,0.7,1
-2022,Kent County,Urban Minor Arterial,14000000,6.72,0.5,0.7
-2022,Kent County,Urban Collector (Major and Minor),12000000,13.374,0.5,0.7
-2022,Kent County,Urban Local,2000000,45.764,0.3,0.5
-2022,Montgomery County,Rural Interstate/Freeway/Expressway,68000000,9,0.7,1
-2022,Montgomery County,Rural Primary Arterial - Other,15000000,4.79,0.7,1
-2022,Montgomery County,Rural Minor Arterial,58000000,43.82,0.5,0.7
-2022,Montgomery County,Rural Collector (Major and Minor),114000000,182.574,0.5,0.7
-2022,Montgomery County,Rural Local,50000000,393.094,0.3,0.5
-2022,Montgomery County,Urban Interstate/Freeway/Expressway,2835000000,452.322,0.7,1
-2022,Montgomery County,Urban Primary Arterial - Other,1653000000,695.869,0.7,1
-2022,Montgomery County,Urban Minor Arterial,1290000000,608.497,0.5,0.7
-2022,Montgomery County,Urban Collector (Major and Minor),633000000,650.515,0.5,0.7
-2022,Montgomery County,Urban Local,490000000,4144.171,0.3,0.5
-2022,Prince George's County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2022,Prince George's County,Rural Primary Arterial - Other,34000000,10.564,0.7,1
-2022,Prince George's County,Rural Minor Arterial,33000000,11.167,0.5,0.7
-2022,Prince George's County,Rural Collector (Major and Minor),77000000,116.558,0.5,0.7
-2022,Prince George's County,Rural Local,28000000,230.954,0.3,0.5
-2022,Prince George's County,Urban Interstate/Freeway/Expressway,4506000000,593.887,0.7,1
-2022,Prince George's County,Urban Primary Arterial - Other,1786000000,606.839,0.7,1
-2022,Prince George's County,Urban Minor Arterial,1076000000,513.318,0.5,0.7
-2022,Prince George's County,Urban Collector (Major and Minor),788000000,651.902,0.5,0.7
-2022,Prince George's County,Urban Local,624000000,4010.524,0.3,0.5
-2022,Queen Anne's County,Rural Interstate/Freeway/Expressway,211000000,116.108,0.7,1
-2022,Queen Anne's County,Rural Primary Arterial - Other,125000000,33.72,0.7,1
-2022,Queen Anne's County,Rural Minor Arterial,85000000,72.027,0.5,0.7
-2022,Queen Anne's County,Rural Collector (Major and Minor),121000000,325.329,0.5,0.7
-2022,Queen Anne's County,Rural Local,110000000,887.666,0.3,0.5
-2022,Queen Anne's County,Urban Interstate/Freeway/Expressway,289000000,62.643,0.7,1
-2022,Queen Anne's County,Urban Primary Arterial - Other,0,0,0.7,1
-2022,Queen Anne's County,Urban Minor Arterial,15000000,14.56,0.5,0.7
-2022,Queen Anne's County,Urban Collector (Major and Minor),14000000,27.974,0.5,0.7
-2022,Queen Anne's County,Urban Local,24000000,163.114,0.3,0.5
-2022,St. Mary's County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2022,St. Mary's County,Rural Primary Arterial - Other,170000000,67.316,0.7,1
-2022,St. Mary's County,Rural Minor Arterial,171000000,97.452,0.5,0.7
-2022,St. Mary's County,Rural Collector (Major and Minor),142000000,271.972,0.5,0.7
-2022,St. Mary's County,Rural Local,97000000,966.887,0.3,0.5
-2022,St. Mary's County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2022,St. Mary's County,Urban Primary Arterial - Other,163000000,60.666,0.7,1
-2022,St. Mary's County,Urban Minor Arterial,66000000,33.494,0.5,0.7
-2022,St. Mary's County,Urban Collector (Major and Minor),53000000,55.3,0.5,0.7
-2022,St. Mary's County,Urban Local,22000000,263.942,0.3,0.5
-2022,Somerset County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2022,Somerset County,Rural Primary Arterial - Other,92000000,53,0.7,1
-2022,Somerset County,Rural Minor Arterial,27000000,26.58,0.5,0.7
-2022,Somerset County,Rural Collector (Major and Minor),45000000,247.158,0.5,0.7
-2022,Somerset County,Rural Local,33000000,578.322,0.3,0.5
-2022,Somerset County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2022,Somerset County,Urban Primary Arterial - Other,56000000,28.12,0.7,1
-2022,Somerset County,Urban Minor Arterial,0,0.02,0.5,0.7
-2022,Somerset County,Urban Collector (Major and Minor),14000000,25.692,0.5,0.7
-2022,Somerset County,Urban Local,5000000,57.004,0.3,0.5
-2022,Talbot County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2022,Talbot County,Rural Primary Arterial - Other,221000000,87.55,0.7,1
-2022,Talbot County,Rural Minor Arterial,92000000,50.594,0.5,0.7
-2022,Talbot County,Rural Collector (Major and Minor),55000000,188.494,0.5,0.7
-2022,Talbot County,Rural Local,77000000,660.696,0.3,0.5
-2022,Talbot County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2022,Talbot County,Urban Primary Arterial - Other,127000000,46.872,0.7,1
-2022,Talbot County,Urban Minor Arterial,21000000,15.826,0.5,0.7
-2022,Talbot County,Urban Collector (Major and Minor),28000000,29.324,0.5,0.7
-2022,Talbot County,Urban Local,13000000,181.072,0.3,0.5
-2022,Washington County,Rural Interstate/Freeway/Expressway,467000000,149.419,0.7,1
-2022,Washington County,Rural Primary Arterial - Other,22000000,9.878,0.7,1
-2022,Washington County,Rural Minor Arterial,100000000,106.514,0.5,0.7
-2022,Washington County,Rural Collector (Major and Minor),110000000,333.07,0.5,0.7
-2022,Washington County,Rural Local,146000000,977.71,0.3,0.5
-2022,Washington County,Urban Interstate/Freeway/Expressway,592000000,97.52,0.7,1
-2022,Washington County,Urban Primary Arterial - Other,139000000,65.617,0.7,1
-2022,Washington County,Urban Minor Arterial,246000000,163.127,0.5,0.7
-2022,Washington County,Urban Collector (Major and Minor),140000000,175.262,0.5,0.7
-2022,Washington County,Urban Local,85000000,792.931,0.3,0.5
-2022,Wicomico County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2022,Wicomico County,Rural Primary Arterial - Other,152000000,65.56,0.7,1
-2022,Wicomico County,Rural Minor Arterial,31000000,54.328,0.5,0.7
-2022,Wicomico County,Rural Collector (Major and Minor),85000000,245.338,0.5,0.7
-2022,Wicomico County,Rural Local,50000000,755.676,0.3,0.5
-2022,Wicomico County,Urban Interstate/Freeway/Expressway,127000000,56.284,0.7,1
-2022,Wicomico County,Urban Primary Arterial - Other,253000000,127.13,0.7,1
-2022,Wicomico County,Urban Minor Arterial,102000000,85.876,0.5,0.7
-2022,Wicomico County,Urban Collector (Major and Minor),130000000,206.117,0.5,0.7
-2022,Wicomico County,Urban Local,47000000,700.355,0.3,0.5
-2022,Worcester County,Rural Interstate/Freeway/Expressway,22000000,11.58,0.7,1
-2022,Worcester County,Rural Primary Arterial - Other,245000000,183,0.7,1
-2022,Worcester County,Rural Minor Arterial,32000000,34.88,0.5,0.7
-2022,Worcester County,Rural Collector (Major and Minor),76000000,294.656,0.5,0.7
-2022,Worcester County,Rural Local,79000000,878.619,0.3,0.5
-2022,Worcester County,Urban Interstate/Freeway/Expressway,66000000,12.33,0.7,1
-2022,Worcester County,Urban Primary Arterial - Other,225000000,97.606,0.7,1
-2022,Worcester County,Urban Minor Arterial,44000000,25.491,0.5,0.7
-2022,Worcester County,Urban Collector (Major and Minor),52000000,44.437,0.5,0.7
-2022,Worcester County,Urban Local,30000000,403.77,0.3,0.5
-2022,Baltimore City,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2022,Baltimore City,Rural Primary Arterial - Other,0,0,0.7,1
-2022,Baltimore City,Rural Minor Arterial,0,0,0.5,0.7
-2022,Baltimore City,Rural Collector (Major and Minor),2000000,9.38,0.5,0.7
-2022,Baltimore City,Rural Local,0,12.282,0.3,0.5
-2022,Baltimore City,Urban Interstate/Freeway/Expressway,1147000000,215.088,0.7,1
-2022,Baltimore City,Urban Primary Arterial - Other,1068000000,619.304,0.7,1
-2022,Baltimore City,Urban Minor Arterial,593000000,482.184,0.5,0.7
-2022,Baltimore City,Urban Collector (Major and Minor),202000000,312.261,0.5,0.7
-2022,Baltimore City,Urban Local,230000000,1705.104,0.3,0.5
-2023,Allegany County,Rural Interstate/Freeway/Expressway,193000000,120.892,0.7,1
-2023,Allegany County,Rural Primary Arterial - Other,24000000,20.119,0.7,1
-2023,Allegany County,Rural Minor Arterial,15000000,16.564,0.5,0.7
-2023,Allegany County,Rural Collector (Major and Minor),29000000,208.923,0.5,0.7
-2023,Allegany County,Rural Local,54000000,680.1,0.3,0.5
-2023,Allegany County,Urban Interstate/Freeway/Expressway,183000000,67.512,0.7,1
-2023,Allegany County,Urban Primary Arterial - Other,92000000,56.493,0.7,1
-2023,Allegany County,Urban Minor Arterial,152000000,137.208,0.5,0.7
-2023,Allegany County,Urban Collector (Major and Minor),43000000,122.706,0.5,0.7
-2023,Allegany County,Urban Local,36000000,584.708,0.3,0.5
-2023,Anne Arundel County,Rural Interstate/Freeway/Expressway,108000000,20.04,0.7,1
-2023,Anne Arundel County,Rural Primary Arterial - Other,121000000,36.47,0.7,1
-2023,Anne Arundel County,Rural Minor Arterial,73000000,41.084,0.5,0.7
-2023,Anne Arundel County,Rural Collector (Major and Minor),56000000,107.494,0.5,0.7
-2023,Anne Arundel County,Rural Local,71000000,265.882,0.3,0.5
-2023,Anne Arundel County,Urban Interstate/Freeway/Expressway,2879000000,434.573,0.7,1
-2023,Anne Arundel County,Urban Primary Arterial - Other,834000000,258.41,0.7,1
-2023,Anne Arundel County,Urban Minor Arterial,890000000,421.001,0.5,0.7
-2023,Anne Arundel County,Urban Collector (Major and Minor),506000000,519.366,0.5,0.7
-2023,Anne Arundel County,Urban Local,389000000,3034.769,0.3,0.5
-2023,Baltimore County,Rural Interstate/Freeway/Expressway,259000000,58.18,0.7,1
-2023,Baltimore County,Rural Primary Arterial - Other,45000000,17.705,0.7,1
-2023,Baltimore County,Rural Minor Arterial,68000000,58.993,0.5,0.7
-2023,Baltimore County,Rural Collector (Major and Minor),225000000,324.142,0.5,0.7
-2023,Baltimore County,Rural Local,116000000,762.822,0.3,0.5
-2023,Baltimore County,Urban Interstate/Freeway/Expressway,4070000000,632.19,0.7,1
-2023,Baltimore County,Urban Primary Arterial - Other,1054000000,425.334,0.7,1
-2023,Baltimore County,Urban Minor Arterial,1236000000,697.371,0.5,0.7
-2023,Baltimore County,Urban Collector (Major and Minor),659000000,716.071,0.5,0.7
-2023,Baltimore County,Urban Local,535000000,3420.838,0.3,0.5
-2023,Calvert County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2023,Calvert County,Rural Primary Arterial - Other,25000000,7.992,0.7,1
-2023,Calvert County,Rural Minor Arterial,0,0,0.5,0.7
-2023,Calvert County,Rural Collector (Major and Minor),40000000,102.162,0.5,0.7
-2023,Calvert County,Rural Local,10000000,416.524,0.3,0.5
-2023,Calvert County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2023,Calvert County,Urban Primary Arterial - Other,495000000,160.875,0.7,1
-2023,Calvert County,Urban Minor Arterial,50000000,29.794,0.5,0.7
-2023,Calvert County,Urban Collector (Major and Minor),109000000,119.71,0.5,0.7
-2023,Calvert County,Urban Local,50000000,649.583,0.3,0.5
-2023,Caroline County,Rural Interstate/Freeway/Expressway,21000000,9.56,0.7,1
-2023,Caroline County,Rural Primary Arterial - Other,107000000,47.92,0.7,1
-2023,Caroline County,Rural Minor Arterial,116000000,113.268,0.5,0.7
-2023,Caroline County,Rural Collector (Major and Minor),93000000,336.24,0.5,0.7
-2023,Caroline County,Rural Local,67000000,908.644,0.3,0.5
-2023,Caroline County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2023,Caroline County,Urban Primary Arterial - Other,0,0,0.7,1
-2023,Caroline County,Urban Minor Arterial,0,0,0.5,0.7
-2023,Caroline County,Urban Collector (Major and Minor),0,0,0.5,0.7
-2023,Caroline County,Urban Local,0,0,0.3,0.5
-2023,Carroll County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2023,Carroll County,Rural Primary Arterial - Other,46000000,21.058,0.7,1
-2023,Carroll County,Rural Minor Arterial,210000000,106.392,0.5,0.7
-2023,Carroll County,Rural Collector (Major and Minor),140000000,327.85,0.5,0.7
-2023,Carroll County,Rural Local,75000000,1027.443,0.3,0.5
-2023,Carroll County,Urban Interstate/Freeway/Expressway,40000000,9.66,0.7,1
-2023,Carroll County,Urban Primary Arterial - Other,465000000,171.014,0.7,1
-2023,Carroll County,Urban Minor Arterial,132000000,81.434,0.5,0.7
-2023,Carroll County,Urban Collector (Major and Minor),129000000,198.656,0.5,0.7
-2023,Carroll County,Urban Local,58000000,931.451,0.3,0.5
-2023,Cecil County,Rural Interstate/Freeway/Expressway,228000000,55.322,0.7,1
-2023,Cecil County,Rural Primary Arterial - Other,35000000,19.426,0.7,1
-2023,Cecil County,Rural Minor Arterial,114000000,86.966,0.5,0.7
-2023,Cecil County,Rural Collector (Major and Minor),73000000,206.948,0.5,0.7
-2023,Cecil County,Rural Local,87000000,675.285,0.3,0.5
-2023,Cecil County,Urban Interstate/Freeway/Expressway,326000000,67.176,0.7,1
-2023,Cecil County,Urban Primary Arterial - Other,228000000,94.937,0.7,1
-2023,Cecil County,Urban Minor Arterial,125000000,98.771,0.5,0.7
-2023,Cecil County,Urban Collector (Major and Minor),66000000,124.562,0.5,0.7
-2023,Cecil County,Urban Local,57000000,528.873,0.3,0.5
-2023,Charles County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2023,Charles County,Rural Primary Arterial - Other,122000000,59.246,0.7,1
-2023,Charles County,Rural Minor Arterial,74000000,44.07,0.5,0.7
-2023,Charles County,Rural Collector (Major and Minor),118000000,247.47,0.5,0.7
-2023,Charles County,Rural Local,57000000,785.102,0.3,0.5
-2023,Charles County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2023,Charles County,Urban Primary Arterial - Other,521000000,176.97,0.7,1
-2023,Charles County,Urban Minor Arterial,190000000,112.617,0.5,0.7
-2023,Charles County,Urban Collector (Major and Minor),167000000,146.053,0.5,0.7
-2023,Charles County,Urban Local,67000000,725.509,0.3,0.5
-2023,Dorchester County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2023,Dorchester County,Rural Primary Arterial - Other,94000000,50.24,0.7,1
-2023,Dorchester County,Rural Minor Arterial,72000000,88.084,0.5,0.7
-2023,Dorchester County,Rural Collector (Major and Minor),64000000,371.622,0.5,0.7
-2023,Dorchester County,Rural Local,45000000,895.738,0.3,0.5
-2023,Dorchester County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2023,Dorchester County,Urban Primary Arterial - Other,50000000,20.99,0.7,1
-2023,Dorchester County,Urban Minor Arterial,17000000,13.23,0.5,0.7
-2023,Dorchester County,Urban Collector (Major and Minor),19000000,42.781,0.5,0.7
-2023,Dorchester County,Urban Local,7000000,141.798,0.3,0.5
-2023,Frederick County,Rural Interstate/Freeway/Expressway,479000000,109.528,0.7,1
-2023,Frederick County,Rural Primary Arterial - Other,49000000,35.968,0.7,1
-2023,Frederick County,Rural Minor Arterial,124000000,130.204,0.5,0.7
-2023,Frederick County,Rural Collector (Major and Minor),189000000,456.614,0.5,0.7
-2023,Frederick County,Rural Local,169000000,1372.307,0.3,0.5
-2023,Frederick County,Urban Interstate/Freeway/Expressway,1364000000,271.253,0.7,1
-2023,Frederick County,Urban Primary Arterial - Other,119000000,49.928,0.7,1
-2023,Frederick County,Urban Minor Arterial,273000000,189.101,0.5,0.7
-2023,Frederick County,Urban Collector (Major and Minor),310000000,351.462,0.5,0.7
-2023,Frederick County,Urban Local,157000000,1378.344,0.3,0.5
-2023,Garrett County,Rural Interstate/Freeway/Expressway,200000000,148.874,0.7,1
-2023,Garrett County,Rural Primary Arterial - Other,97000000,98.912,0.7,1
-2023,Garrett County,Rural Minor Arterial,64000000,117.914,0.5,0.7
-2023,Garrett County,Rural Collector (Major and Minor),86000000,434.23,0.5,0.7
-2023,Garrett County,Rural Local,89000000,1183.808,0.3,0.5
-2023,Garrett County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2023,Garrett County,Urban Primary Arterial - Other,0,0,0.7,1
-2023,Garrett County,Urban Minor Arterial,1000000,2.428,0.5,0.7
-2023,Garrett County,Urban Collector (Major and Minor),0,0.98,0.5,0.7
-2023,Garrett County,Urban Local,0,5.792,0.3,0.5
-2023,Harford County,Rural Interstate/Freeway/Expressway,70000000,13.38,0.7,1
-2023,Harford County,Rural Primary Arterial - Other,88000000,34.8,0.7,1
-2023,Harford County,Rural Minor Arterial,138000000,85.975,0.5,0.7
-2023,Harford County,Rural Collector (Major and Minor),146000000,293.65,0.5,0.7
-2023,Harford County,Rural Local,85000000,719.249,0.3,0.5
-2023,Harford County,Urban Interstate/Freeway/Expressway,812000000,145.685,0.7,1
-2023,Harford County,Urban Primary Arterial - Other,357000000,146.831,0.7,1
-2023,Harford County,Urban Minor Arterial,366000000,156.707,0.5,0.7
-2023,Harford County,Urban Collector (Major and Minor),314000000,313.537,0.5,0.7
-2023,Harford County,Urban Local,141000000,1303.788,0.3,0.5
-2023,Howard County,Rural Interstate/Freeway/Expressway,320000000,67.428,0.7,1
-2023,Howard County,Rural Primary Arterial - Other,122000000,38.542,0.7,1
-2023,Howard County,Rural Minor Arterial,35000000,15.702,0.5,0.7
-2023,Howard County,Rural Collector (Major and Minor),97000000,125.971,0.5,0.7
-2023,Howard County,Rural Local,116000000,447.61,0.3,0.5
-2023,Howard County,Urban Interstate/Freeway/Expressway,2133000000,321.131,0.7,1
-2023,Howard County,Urban Primary Arterial - Other,250000000,90.528,0.7,1
-2023,Howard County,Urban Minor Arterial,454000000,192.522,0.5,0.7
-2023,Howard County,Urban Collector (Major and Minor),332000000,245.291,0.5,0.7
-2023,Howard County,Urban Local,241000000,1374.641,0.3,0.5
-2023,Kent County,Rural Interstate/Freeway/Expressway,35000000,34.86,0.7,1
-2023,Kent County,Rural Primary Arterial - Other,0,0,0.7,1
-2023,Kent County,Rural Minor Arterial,23000000,35.68,0.5,0.7
-2023,Kent County,Rural Collector (Major and Minor),90000000,254.158,0.5,0.7
-2023,Kent County,Rural Local,28000000,574.114,0.3,0.5
-2023,Kent County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2023,Kent County,Urban Primary Arterial - Other,0,0,0.7,1
-2023,Kent County,Urban Minor Arterial,14000000,6.72,0.5,0.7
-2023,Kent County,Urban Collector (Major and Minor),12000000,13.374,0.5,0.7
-2023,Kent County,Urban Local,2000000,45.974,0.3,0.5
-2023,Montgomery County,Rural Interstate/Freeway/Expressway,70000000,9,0.7,1
-2023,Montgomery County,Rural Primary Arterial - Other,15000000,4.79,0.7,1
-2023,Montgomery County,Rural Minor Arterial,59000000,43.69,0.5,0.7
-2023,Montgomery County,Rural Collector (Major and Minor),115000000,182.574,0.5,0.7
-2023,Montgomery County,Rural Local,49000000,393.352,0.3,0.5
-2023,Montgomery County,Urban Interstate/Freeway/Expressway,2907000000,452.324,0.7,1
-2023,Montgomery County,Urban Primary Arterial - Other,1646000000,695.848,0.7,1
-2023,Montgomery County,Urban Minor Arterial,1307000000,652.83,0.5,0.7
-2023,Montgomery County,Urban Collector (Major and Minor),641000000,650.515,0.5,0.7
-2023,Montgomery County,Urban Local,495000000,4151.617,0.3,0.5
-2023,Prince George's County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2023,Prince George's County,Rural Primary Arterial - Other,35000000,10.564,0.7,1
-2023,Prince George's County,Rural Minor Arterial,33000000,11.167,0.5,0.7
-2023,Prince George's County,Rural Collector (Major and Minor),79000000,116.558,0.5,0.7
-2023,Prince George's County,Rural Local,28000000,231.174,0.3,0.5
-2023,Prince George's County,Urban Interstate/Freeway/Expressway,4548000000,593.887,0.7,1
-2023,Prince George's County,Urban Primary Arterial - Other,1761000000,606.845,0.7,1
-2023,Prince George's County,Urban Minor Arterial,1083000000,513.376,0.5,0.7
-2023,Prince George's County,Urban Collector (Major and Minor),796000000,651.929,0.5,0.7
-2023,Prince George's County,Urban Local,624000000,4024.731,0.3,0.5
-2023,Queen Anne's County,Rural Interstate/Freeway/Expressway,219000000,116.108,0.7,1
-2023,Queen Anne's County,Rural Primary Arterial - Other,129000000,33.72,0.7,1
-2023,Queen Anne's County,Rural Minor Arterial,86000000,72.027,0.5,0.7
-2023,Queen Anne's County,Rural Collector (Major and Minor),121000000,325.329,0.5,0.7
-2023,Queen Anne's County,Rural Local,110000000,893.206,0.3,0.5
-2023,Queen Anne's County,Urban Interstate/Freeway/Expressway,301000000,62.643,0.7,1
-2023,Queen Anne's County,Urban Primary Arterial - Other,0,0,0.7,1
-2023,Queen Anne's County,Urban Minor Arterial,15000000,14.56,0.5,0.7
-2023,Queen Anne's County,Urban Collector (Major and Minor),10000000,27.974,0.5,0.7
-2023,Queen Anne's County,Urban Local,25000000,168.302,0.3,0.5
-2023,St. Mary's County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2023,St. Mary's County,Rural Primary Arterial - Other,186000000,67.316,0.7,1
-2023,St. Mary's County,Rural Minor Arterial,178000000,97.452,0.5,0.7
-2023,St. Mary's County,Rural Collector (Major and Minor),141000000,271.972,0.5,0.7
-2023,St. Mary's County,Rural Local,100000000,966.998,0.3,0.5
-2023,St. Mary's County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2023,St. Mary's County,Urban Primary Arterial - Other,163000000,60.666,0.7,1
-2023,St. Mary's County,Urban Minor Arterial,67000000,33.494,0.5,0.7
-2023,St. Mary's County,Urban Collector (Major and Minor),54000000,55.324,0.5,0.7
-2023,St. Mary's County,Urban Local,22000000,265.958,0.3,0.5
-2023,Somerset County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2023,Somerset County,Rural Primary Arterial - Other,95000000,53,0.7,1
-2023,Somerset County,Rural Minor Arterial,30000000,26.58,0.5,0.7
-2023,Somerset County,Rural Collector (Major and Minor),44000000,247.158,0.5,0.7
-2023,Somerset County,Rural Local,33000000,578.618,0.3,0.5
-2023,Somerset County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2023,Somerset County,Urban Primary Arterial - Other,57000000,28.12,0.7,1
-2023,Somerset County,Urban Minor Arterial,0,0.02,0.5,0.7
-2023,Somerset County,Urban Collector (Major and Minor),14000000,25.692,0.5,0.7
-2023,Somerset County,Urban Local,5000000,57.074,0.3,0.5
-2023,Talbot County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2023,Talbot County,Rural Primary Arterial - Other,228000000,87.55,0.7,1
-2023,Talbot County,Rural Minor Arterial,93000000,50.594,0.5,0.7
-2023,Talbot County,Rural Collector (Major and Minor),53000000,188.494,0.5,0.7
-2023,Talbot County,Rural Local,77000000,660.696,0.3,0.5
-2023,Talbot County,Urban Interstate/Freeway/Expressway,0,0,0.7,1
-2023,Talbot County,Urban Primary Arterial - Other,130000000,46.872,0.7,1
-2023,Talbot County,Urban Minor Arterial,21000000,15.826,0.5,0.7
-2023,Talbot County,Urban Collector (Major and Minor),28000000,29.324,0.5,0.7
-2023,Talbot County,Urban Local,14000000,181.228,0.3,0.5
-2023,Washington County,Rural Interstate/Freeway/Expressway,486000000,149.419,0.7,1
-2023,Washington County,Rural Primary Arterial - Other,23000000,9.878,0.7,1
-2023,Washington County,Rural Minor Arterial,104000000,106.514,0.5,0.7
-2023,Washington County,Rural Collector (Major and Minor),117000000,333.07,0.5,0.7
-2023,Washington County,Rural Local,147000000,979.664,0.3,0.5
-2023,Washington County,Urban Interstate/Freeway/Expressway,607000000,97.52,0.7,1
-2023,Washington County,Urban Primary Arterial - Other,141000000,65.603,0.7,1
-2023,Washington County,Urban Minor Arterial,248000000,162.961,0.5,0.7
-2023,Washington County,Urban Collector (Major and Minor),144000000,175.262,0.5,0.7
-2023,Washington County,Urban Local,87000000,800.773,0.3,0.5
-2023,Wicomico County,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2023,Wicomico County,Rural Primary Arterial - Other,161000000,65.56,0.7,1
-2023,Wicomico County,Rural Minor Arterial,31000000,54.328,0.5,0.7
-2023,Wicomico County,Rural Collector (Major and Minor),86000000,245.338,0.5,0.7
-2023,Wicomico County,Rural Local,51000000,755.676,0.3,0.5
-2023,Wicomico County,Urban Interstate/Freeway/Expressway,130000000,56.284,0.7,1
-2023,Wicomico County,Urban Primary Arterial - Other,263000000,127.13,0.7,1
-2023,Wicomico County,Urban Minor Arterial,102000000,85.876,0.5,0.7
-2023,Wicomico County,Urban Collector (Major and Minor),131000000,206.117,0.5,0.7
-2023,Wicomico County,Urban Local,48000000,705.491,0.3,0.5
-2023,Worcester County,Rural Interstate/Freeway/Expressway,23000000,11.58,0.7,1
-2023,Worcester County,Rural Primary Arterial - Other,247000000,183,0.7,1
-2023,Worcester County,Rural Minor Arterial,33000000,34.88,0.5,0.7
-2023,Worcester County,Rural Collector (Major and Minor),80000000,294.636,0.5,0.7
-2023,Worcester County,Rural Local,79000000,878.563,0.3,0.5
-2023,Worcester County,Urban Interstate/Freeway/Expressway,68000000,12.33,0.7,1
-2023,Worcester County,Urban Primary Arterial - Other,232000000,97.606,0.7,1
-2023,Worcester County,Urban Minor Arterial,45000000,25.74,0.5,0.7
-2023,Worcester County,Urban Collector (Major and Minor),55000000,44.437,0.5,0.7
-2023,Worcester County,Urban Local,31000000,403.77,0.3,0.5
-2023,Baltimore City,Rural Interstate/Freeway/Expressway,0,0,0.7,1
-2023,Baltimore City,Rural Primary Arterial - Other,0,0,0.7,1
-2023,Baltimore City,Rural Minor Arterial,0,0,0.5,0.7
-2023,Baltimore City,Rural Collector (Major and Minor),2000000,9.38,0.5,0.7
-2023,Baltimore City,Rural Local,0,12.282,0.3,0.5
-2023,Baltimore City,Urban Interstate/Freeway/Expressway,1224000000,215.088,0.7,1
-2023,Baltimore City,Urban Primary Arterial - Other,1048000000,619.344,0.7,1
-2023,Baltimore City,Urban Minor Arterial,583000000,486.953,0.5,0.7
-2023,Baltimore City,Urban Collector (Major and Minor),200000000,310.542,0.5,0.7
-2023,Baltimore City,Urban Local,233000000,1705.082,0.3,0.5
+2017,Atlantic,Urban Interstate/Freeway/Expressway,580439790,114,0.7,1
+2017,Atlantic,Urban Primary Arterial,616480255,250,0.7,1
+2017,Atlantic,Urban Minor Arterial,566570885,171,0.5,0.7
+2017,Atlantic,Urban Collector (Major and Minor),182058350,169,0.5,0.7
+2017,Atlantic,Urban Local,275637050,982,0.3,0.5
+2017,Atlantic,Rural Interstate/Primary Arterial,272460820,81,0.7,1
+2017,Atlantic,Rural Minor Arterial,94925550,34,0.5,0.7
+2017,Atlantic,Rural Collector (Major and Minor),97265200,105,0.5,0.7
+2017,Atlantic,Rural Local,75685305,357,0.3,0.5
+2018,Atlantic,Urban Interstate/Freeway/Expressway,559311035,114,0.7,1
+2018,Atlantic,Urban Primary Arterial,595547870,250,0.7,1
+2018,Atlantic,Urban Minor Arterial,562994615,170,0.5,0.7
+2018,Atlantic,Urban Collector (Major and Minor),178009405,169,0.5,0.7
+2018,Atlantic,Urban Local,290879815,981,0.3,0.5
+2018,Atlantic,Rural Interstate/Primary Arterial,261829100,81,0.7,1
+2018,Atlantic,Rural Minor Arterial,93712655,34,0.5,0.7
+2018,Atlantic,Rural Collector (Major and Minor),96208160,105,0.5,0.7
+2018,Atlantic,Rural Local,81085845,358,0.3,0.5
+2019,Atlantic,Urban Interstate/Freeway/Expressway,556708220,114,0.7,1
+2019,Atlantic,Urban Primary Arterial,597975850,250,0.7,1
+2019,Atlantic,Urban Minor Arterial,571459330,170,0.5,0.7
+2019,Atlantic,Urban Collector (Major and Minor),185111940,170,0.5,0.7
+2019,Atlantic,Urban Local,284781760,982,0.3,0.5
+2019,Atlantic,Rural Interstate/Primary Arterial,260639200,81,0.7,1
+2019,Atlantic,Rural Minor Arterial,99289855,34,0.5,0.7
+2019,Atlantic,Rural Collector (Major and Minor),98856600,105,0.5,0.7
+2019,Atlantic,Rural Local,84464285,358,0.3,0.5
+2020,Atlantic,Urban Interstate/Freeway/Expressway,455118500,114,0.7,1
+2020,Atlantic,Urban Primary Arterial,525523715,250,0.7,1
+2020,Atlantic,Urban Minor Arterial,543562745,170,0.5,0.7
+2020,Atlantic,Urban Collector (Major and Minor),159621070,170,0.5,0.7
+2020,Atlantic,Urban Local,252170105,984,0.3,0.5
+2020,Atlantic,Rural Interstate/Primary Arterial,218445200,81,0.7,1
+2020,Atlantic,Rural Minor Arterial,89807885,34,0.5,0.7
+2020,Atlantic,Rural Collector (Major and Minor),90365240,105,0.5,0.7
+2020,Atlantic,Rural Local,70393900,358,0.3,0.5
+2021,Atlantic,Urban Interstate/Freeway/Expressway,528733890,114,0.7,1
+2021,Atlantic,Urban Primary Arterial,572277295,250,0.7,1
+2021,Atlantic,Urban Minor Arterial,572448480,170,0.5,0.7
+2021,Atlantic,Urban Collector (Major and Minor),166385980,170,0.5,0.7
+2021,Atlantic,Urban Local,277095225,984,0.3,0.5
+2021,Atlantic,Rural Interstate/Primary Arterial,249894330,81,0.7,1
+2021,Atlantic,Rural Minor Arterial,96960425,34,0.5,0.7
+2021,Atlantic,Rural Collector (Major and Minor),94409440,105,0.5,0.7
+2021,Atlantic,Rural Local,78788900,358,0.3,0.5
+2022,Atlantic,Urban Interstate/Freeway/Expressway,528890110,114,0.7,1
+2022,Atlantic,Urban Primary Arterial,568333105,250,0.7,1
+2022,Atlantic,Urban Minor Arterial,571062940,170,0.5,0.7
+2022,Atlantic,Urban Collector (Major and Minor),181937535,170,0.5,0.7
+2022,Atlantic,Urban Local,288450375,984,0.3,0.5
+2022,Atlantic,Rural Interstate/Primary Arterial,248204015,81,0.7,1
+2022,Atlantic,Rural Minor Arterial,93016600,34,0.5,0.7
+2022,Atlantic,Rural Collector (Major and Minor),97961620,105,0.5,0.7
+2022,Atlantic,Rural Local,80443445,358,0.3,0.5
+2017,Bergen,Urban Interstate/Freeway/Expressway,3664111265,294,0.7,1
+2017,Bergen,Urban Primary Arterial,1335691585,488,0.7,1
+2017,Bergen,Urban Minor Arterial,1190556635,339,0.5,0.7
+2017,Bergen,Urban Collector (Major and Minor),304161070,246,0.5,0.7
+2017,Bergen,Urban Local,1175898600,2138,0.3,0.5
+2017,Bergen,Rural Interstate/Primary Arterial,0,0,0.7,1
+2017,Bergen,Rural Minor Arterial,0,0,0.5,0.7
+2017,Bergen,Rural Collector (Major and Minor),0,0,0.5,0.7
+2017,Bergen,Rural Local,0,0,0.3,0.5
+2018,Bergen,Urban Interstate/Freeway/Expressway,3647559975,294,0.7,1
+2018,Bergen,Urban Primary Arterial,1326808580,483,0.7,1
+2018,Bergen,Urban Minor Arterial,1225698105,339,0.5,0.7
+2018,Bergen,Urban Collector (Major and Minor),316535300,246,0.5,0.7
+2018,Bergen,Urban Local,1188480880,2138,0.3,0.5
+2018,Bergen,Rural Interstate/Primary Arterial,0,0,0.7,1
+2018,Bergen,Rural Minor Arterial,0,0,0.5,0.7
+2018,Bergen,Rural Collector (Major and Minor),0,0,0.5,0.7
+2018,Bergen,Rural Local,0,0,0.3,0.5
+2019,Bergen,Urban Interstate/Freeway/Expressway,3739393975,294,0.7,1
+2019,Bergen,Urban Primary Arterial,1371734240,483,0.7,1
+2019,Bergen,Urban Minor Arterial,1285973110,339,0.5,0.7
+2019,Bergen,Urban Collector (Major and Minor),318584045,246,0.5,0.7
+2019,Bergen,Urban Local,1144109290,2141,0.3,0.5
+2019,Bergen,Rural Interstate/Primary Arterial,0,0,0.7,1
+2019,Bergen,Rural Minor Arterial,0,0,0.5,0.7
+2019,Bergen,Rural Collector (Major and Minor),0,0,0.5,0.7
+2019,Bergen,Rural Local,0,0,0.3,0.5
+2020,Bergen,Urban Interstate/Freeway/Expressway,2854382490,294,0.7,1
+2020,Bergen,Urban Primary Arterial,1100508215,483,0.7,1
+2020,Bergen,Urban Minor Arterial,1014621525,339,0.5,0.7
+2020,Bergen,Urban Collector (Major and Minor),278915115,246,0.5,0.7
+2020,Bergen,Urban Local,967462795,2141,0.3,0.5
+2020,Bergen,Rural Interstate/Primary Arterial,0,0,0.7,1
+2020,Bergen,Rural Minor Arterial,0,0,0.5,0.7
+2020,Bergen,Rural Collector (Major and Minor),0,0,0.5,0.7
+2020,Bergen,Rural Local,0,0,0.3,0.5
+2021,Bergen,Urban Interstate/Freeway/Expressway,3302985010,294,0.7,1
+2021,Bergen,Urban Primary Arterial,1253450880,483,0.7,1
+2021,Bergen,Urban Minor Arterial,1178629530,339,0.5,0.7
+2021,Bergen,Urban Collector (Major and Minor),311891040,246,0.5,0.7
+2021,Bergen,Urban Local,1114650505,2141,0.3,0.5
+2021,Bergen,Rural Interstate/Primary Arterial,0,0,0.7,1
+2021,Bergen,Rural Minor Arterial,0,0,0.5,0.7
+2021,Bergen,Rural Collector (Major and Minor),0,0,0.5,0.7
+2021,Bergen,Rural Local,0,0,0.3,0.5
+2022,Bergen,Urban Interstate/Freeway/Expressway,3394511315,294,0.7,1
+2022,Bergen,Urban Primary Arterial,1311812555,482.5,0.7,1
+2022,Bergen,Urban Minor Arterial,1196494820,339,0.5,0.7
+2022,Bergen,Urban Collector (Major and Minor),312615930,246,0.5,0.7
+2022,Bergen,Urban Local,1151872475,2141,0.3,0.5
+2022,Bergen,Rural Interstate/Primary Arterial,0,0,0.7,1
+2022,Bergen,Rural Minor Arterial,0,0,0.5,0.7
+2022,Bergen,Rural Collector (Major and Minor),0,0,0.5,0.7
+2022,Bergen,Rural Local,0,0,0.3,0.5
+2017,Burlington,Urban Interstate/Freeway/Expressway,1729449205,156,0.7,1
+2017,Burlington,Urban Primary Arterial,1251079840,345,0.7,1
+2017,Burlington,Urban Minor Arterial,677358970,218,0.5,0.7
+2017,Burlington,Urban Collector (Major and Minor),335165265,215,0.5,0.7
+2017,Burlington,Urban Local,593582710,1620,0.3,0.5
+2017,Burlington,Rural Interstate/Primary Arterial,176949445,84,0.7,1
+2017,Burlington,Rural Minor Arterial,51892050,20,0.5,0.7
+2017,Burlington,Rural Collector (Major and Minor),74613665,94,0.5,0.7
+2017,Burlington,Rural Local,78986365,372,0.3,0.5
+2018,Burlington,Urban Interstate/Freeway/Expressway,1747268140,156,0.7,1
+2018,Burlington,Urban Primary Arterial,1186348185,345,0.7,1
+2018,Burlington,Urban Minor Arterial,681592240,218,0.5,0.7
+2018,Burlington,Urban Collector (Major and Minor),340266140,215,0.5,0.7
+2018,Burlington,Urban Local,595756650,1620,0.3,0.5
+2018,Burlington,Rural Interstate/Primary Arterial,174667465,84,0.7,1
+2018,Burlington,Rural Minor Arterial,51588005,20,0.5,0.7
+2018,Burlington,Rural Collector (Major and Minor),74782295,94,0.5,0.7
+2018,Burlington,Rural Local,84263535,372,0.3,0.5
+2019,Burlington,Urban Interstate/Freeway/Expressway,1793655625,156,0.7,1
+2019,Burlington,Urban Primary Arterial,1197078455,345,0.7,1
+2019,Burlington,Urban Minor Arterial,693524090,218,0.5,0.7
+2019,Burlington,Urban Collector (Major and Minor),349483485,215,0.5,0.7
+2019,Burlington,Urban Local,609492330,1629,0.3,0.5
+2019,Burlington,Rural Interstate/Primary Arterial,181280900,84,0.7,1
+2019,Burlington,Rural Minor Arterial,51628520,20,0.5,0.7
+2019,Burlington,Rural Collector (Major and Minor),75392940,94,0.5,0.7
+2019,Burlington,Rural Local,87774105,372,0.3,0.5
+2020,Burlington,Urban Interstate/Freeway/Expressway,1367791145,156,0.7,1
+2020,Burlington,Urban Primary Arterial,1064352045,345,0.7,1
+2020,Burlington,Urban Minor Arterial,560517725,218,0.5,0.7
+2020,Burlington,Urban Collector (Major and Minor),327632030,215,0.5,0.7
+2020,Burlington,Urban Local,519859645,1632,0.3,0.5
+2020,Burlington,Rural Interstate/Primary Arterial,143711815,84,0.7,1
+2020,Burlington,Rural Minor Arterial,47207275,20,0.5,0.7
+2020,Burlington,Rural Collector (Major and Minor),72345555,94,0.5,0.7
+2020,Burlington,Rural Local,73152570,372,0.3,0.5
+2021,Burlington,Urban Interstate/Freeway/Expressway,1679391280,156,0.7,1
+2021,Burlington,Urban Primary Arterial,1184515520,345,0.7,1
+2021,Burlington,Urban Minor Arterial,661755950,218,0.5,0.7
+2021,Burlington,Urban Collector (Major and Minor),333476775,215,0.5,0.7
+2021,Burlington,Urban Local,580821945,1631,0.3,0.5
+2021,Burlington,Rural Interstate/Primary Arterial,174028350,84,0.7,1
+2021,Burlington,Rural Minor Arterial,49775415,20,0.5,0.7
+2021,Burlington,Rural Collector (Major and Minor),72777350,94,0.5,0.7
+2021,Burlington,Rural Local,68508675,311,0.3,0.5
+2022,Burlington,Urban Interstate/Freeway/Expressway,1730837665,156,0.7,1
+2022,Burlington,Urban Primary Arterial,1182286830,345,0.7,1
+2022,Burlington,Urban Minor Arterial,647205955,218,0.5,0.7
+2022,Burlington,Urban Collector (Major and Minor),328468245,215,0.5,0.7
+2022,Burlington,Urban Local,593665200,1631,0.3,0.5
+2022,Burlington,Rural Interstate/Primary Arterial,174243700,84,0.7,1
+2022,Burlington,Rural Minor Arterial,53225760,20,0.5,0.7
+2022,Burlington,Rural Collector (Major and Minor),70803795,94,0.5,0.7
+2022,Burlington,Rural Local,69946775,311,0.3,0.5
+2017,Camden,Urban Interstate/Freeway/Expressway,1379135345,144,0.7,1
+2017,Camden,Urban Primary Arterial,1215942385,305,0.7,1
+2017,Camden,Urban Minor Arterial,750583445,237,0.5,0.7
+2017,Camden,Urban Collector (Major and Minor),239964870,181,0.5,0.7
+2017,Camden,Urban Local,527412225,1440,0.3,0.5
+2017,Camden,Rural Interstate/Primary Arterial,26638065,6,0.7,1
+2017,Camden,Rural Minor Arterial,6154265,3,0.5,0.7
+2017,Camden,Rural Collector (Major and Minor),3405085,5,0.5,0.7
+2017,Camden,Rural Local,3800015,18,0.3,0.5
+2018,Camden,Urban Interstate/Freeway/Expressway,1380673820,144,0.7,1
+2018,Camden,Urban Primary Arterial,1207114860,305,0.7,1
+2018,Camden,Urban Minor Arterial,752568315,237,0.5,0.7
+2018,Camden,Urban Collector (Major and Minor),229833200,181,0.5,0.7
+2018,Camden,Urban Local,529300735,1440,0.3,0.5
+2018,Camden,Rural Interstate/Primary Arterial,26371615,6,0.7,1
+2018,Camden,Rural Minor Arterial,6206825,3,0.5,0.7
+2018,Camden,Rural Collector (Major and Minor),3436110,5,0.5,0.7
+2018,Camden,Rural Local,4054055,18,0.3,0.5
+2019,Camden,Urban Interstate/Freeway/Expressway,1399933775,144,0.7,1
+2019,Camden,Urban Primary Arterial,1200702905,305,0.7,1
+2019,Camden,Urban Minor Arterial,753813330,237,0.5,0.7
+2019,Camden,Urban Collector (Major and Minor),236623295,181,0.5,0.7
+2019,Camden,Urban Local,538829790,1440,0.3,0.5
+2019,Camden,Rural Interstate/Primary Arterial,24579100,6,0.7,1
+2019,Camden,Rural Minor Arterial,6461230,3,0.5,0.7
+2019,Camden,Rural Collector (Major and Minor),3474435,5,0.5,0.7
+2019,Camden,Rural Local,4222685,18,0.3,0.5
+2020,Camden,Urban Interstate/Freeway/Expressway,1198955650,144,0.7,1
+2020,Camden,Urban Primary Arterial,1030330760,305,0.7,1
+2020,Camden,Urban Minor Arterial,684540710,237,0.5,0.7
+2020,Camden,Urban Collector (Major and Minor),215522280,181,0.5,0.7
+2020,Camden,Urban Local,459174380,1441,0.3,0.5
+2020,Camden,Rural Interstate/Primary Arterial,26889185,6,0.7,1
+2020,Camden,Rural Minor Arterial,6725125,3,0.5,0.7
+2020,Camden,Rural Collector (Major and Minor),3210175,5,0.5,0.7
+2020,Camden,Rural Local,3519330,18,0.3,0.5
+2021,Camden,Urban Interstate/Freeway/Expressway,1375420740,144,0.7,1
+2021,Camden,Urban Primary Arterial,1172004050,305,0.7,1
+2021,Camden,Urban Minor Arterial,685712360,237,0.5,0.7
+2021,Camden,Urban Collector (Major and Minor),218723695,181,0.5,0.7
+2021,Camden,Urban Local,513085245,1441,0.3,0.5
+2021,Camden,Rural Interstate/Primary Arterial,29061300,6,0.7,1
+2021,Camden,Rural Minor Arterial,6754690,3,0.5,0.7
+2021,Camden,Rural Collector (Major and Minor),3380265,5,0.5,0.7
+2021,Camden,Rural Local,3939080,18,0.3,0.5
+2022,Camden,Urban Interstate/Freeway/Expressway,1384266515,144,0.7,1
+2022,Camden,Urban Primary Arterial,1155160030,305,0.7,1
+2022,Camden,Urban Minor Arterial,679844620,237,0.5,0.7
+2022,Camden,Urban Collector (Major and Minor),234007705,181,0.5,0.7
+2022,Camden,Urban Local,524430540,1441,0.3,0.5
+2022,Camden,Rural Interstate/Primary Arterial,29436520,6,0.7,1
+2022,Camden,Rural Minor Arterial,6574380,3,0.5,0.7
+2022,Camden,Rural Collector (Major and Minor),3221855,5,0.5,0.7
+2022,Camden,Rural Local,4021935,18,0.3,0.5
+2017,Cape May,Urban Interstate/Freeway/Expressway,217737465,69,0.7,1
+2017,Cape May,Urban Primary Arterial,91819035,60,0.7,1
+2017,Cape May,Urban Minor Arterial,256649020,88,0.5,0.7
+2017,Cape May,Urban Collector (Major and Minor),117410280,90,0.5,0.7
+2017,Cape May,Urban Local,214605035,637,0.3,0.5
+2017,Cape May,Rural Interstate/Primary Arterial,80567910,39,0.7,1
+2017,Cape May,Rural Minor Arterial,58989475,25,0.5,0.7
+2017,Cape May,Rural Collector (Major and Minor),45670990,39,0.5,0.7
+2017,Cape May,Rural Local,22622335,107,0.3,0.5
+2018,Cape May,Urban Interstate/Freeway/Expressway,217138135,69,0.7,1
+2018,Cape May,Urban Primary Arterial,90195515,60,0.7,1
+2018,Cape May,Urban Minor Arterial,259282495,88,0.5,0.7
+2018,Cape May,Urban Collector (Major and Minor),117641325,90,0.5,0.7
+2018,Cape May,Urban Local,217652420,638,0.3,0.5
+2018,Cape May,Rural Interstate/Primary Arterial,79760165,39,0.7,1
+2018,Cape May,Rural Minor Arterial,61521845,25,0.5,0.7
+2018,Cape May,Rural Collector (Major and Minor),45117285,39,0.5,0.7
+2018,Cape May,Rural Local,24135625,107,0.3,0.5
+2019,Cape May,Urban Interstate/Freeway/Expressway,215511330,69,0.7,1
+2019,Cape May,Urban Primary Arterial,86468500,60,0.7,1
+2019,Cape May,Urban Minor Arterial,258282395,88,0.5,0.7
+2019,Cape May,Urban Collector (Major and Minor),117604460,90,0.5,0.7
+2019,Cape May,Urban Local,223611775,638,0.3,0.5
+2019,Cape May,Rural Interstate/Primary Arterial,83662745,39,0.7,1
+2019,Cape May,Rural Minor Arterial,61645945,25,0.5,0.7
+2019,Cape May,Rural Collector (Major and Minor),42941155,39,0.5,0.7
+2019,Cape May,Rural Local,25141200,107,0.3,0.5
+2020,Cape May,Urban Interstate/Freeway/Expressway,195664455,69,0.7,1
+2020,Cape May,Urban Primary Arterial,89724665,60,0.7,1
+2020,Cape May,Urban Minor Arterial,245991750,88,0.5,0.7
+2020,Cape May,Urban Collector (Major and Minor),114124185,90,0.5,0.7
+2020,Cape May,Urban Local,207685730,638,0.3,0.5
+2020,Cape May,Rural Interstate/Primary Arterial,80139765,39,0.7,1
+2020,Cape May,Rural Minor Arterial,57202800,25,0.5,0.7
+2020,Cape May,Rural Collector (Major and Minor),42303500,39,0.5,0.7
+2020,Cape May,Rural Local,20953190,107,0.3,0.5
+2021,Cape May,Urban Interstate/Freeway/Expressway,225127985,69,0.7,1
+2021,Cape May,Urban Primary Arterial,92110305,60,0.7,1
+2021,Cape May,Urban Minor Arterial,266552565,88,0.5,0.7
+2021,Cape May,Urban Collector (Major and Minor),121831525,90,0.5,0.7
+2021,Cape May,Urban Local,225659060,638,0.3,0.5
+2021,Cape May,Rural Interstate/Primary Arterial,90046595,39,0.7,1
+2021,Cape May,Rural Minor Arterial,59726045,25,0.5,0.7
+2021,Cape May,Rural Collector (Major and Minor),41766220,39,0.5,0.7
+2021,Cape May,Rural Local,23451250,107,0.3,0.5
+2022,Cape May,Urban Interstate/Freeway/Expressway,219919800,69,0.7,1
+2022,Cape May,Urban Primary Arterial,91904445,60,0.7,1
+2022,Cape May,Urban Minor Arterial,249860750,88,0.5,0.7
+2022,Cape May,Urban Collector (Major and Minor),124015320,90,0.5,0.7
+2022,Cape May,Urban Local,221001660,638,0.3,0.5
+2022,Cape May,Rural Interstate/Primary Arterial,89174245,39,0.7,1
+2022,Cape May,Rural Minor Arterial,59592455,25,0.5,0.7
+2022,Cape May,Rural Collector (Major and Minor),43204320,39,0.5,0.7
+2022,Cape May,Rural Local,23943635,107,0.3,0.5
+2017,Cumberland,Urban Interstate/Freeway/Expressway,176849800,51,0.7,1
+2017,Cumberland,Urban Primary Arterial,65417490,43,0.7,1
+2017,Cumberland,Urban Minor Arterial,433448085,156,0.5,0.7
+2017,Cumberland,Urban Collector (Major and Minor),133038485,91,0.5,0.7
+2017,Cumberland,Urban Local,156598140,545,0.3,0.5
+2017,Cumberland,Rural Interstate/Primary Arterial,53427970,39,0.7,1
+2017,Cumberland,Rural Minor Arterial,62640205,47,0.5,0.7
+2017,Cumberland,Rural Collector (Major and Minor),47581400,98,0.5,0.7
+2017,Cumberland,Rural Local,70607060,333,0.3,0.5
+2018,Cumberland,Urban Interstate/Freeway/Expressway,182498540,51,0.7,1
+2018,Cumberland,Urban Primary Arterial,63289905,43,0.7,1
+2018,Cumberland,Urban Minor Arterial,429235255,156,0.5,0.7
+2018,Cumberland,Urban Collector (Major and Minor),132630780,91,0.5,0.7
+2018,Cumberland,Urban Local,165502680,545,0.3,0.5
+2018,Cumberland,Rural Interstate/Primary Arterial,51446750,39,0.7,1
+2018,Cumberland,Rural Minor Arterial,62282505,47,0.5,0.7
+2018,Cumberland,Rural Collector (Major and Minor),45959705,98,0.5,0.7
+2018,Cumberland,Rural Local,75324320,333,0.3,0.5
+2019,Cumberland,Urban Interstate/Freeway/Expressway,189713860,51,0.7,1
+2019,Cumberland,Urban Primary Arterial,63811855,43,0.7,1
+2019,Cumberland,Urban Minor Arterial,440522880,156,0.5,0.7
+2019,Cumberland,Urban Collector (Major and Minor),130453190,91,0.5,0.7
+2019,Cumberland,Urban Local,169084425,545,0.3,0.5
+2019,Cumberland,Rural Interstate/Primary Arterial,53457900,39,0.7,1
+2019,Cumberland,Rural Minor Arterial,61739750,47,0.5,0.7
+2019,Cumberland,Rural Collector (Major and Minor),47710245,98,0.5,0.7
+2019,Cumberland,Rural Local,78462590,333,0.3,0.5
+2020,Cumberland,Urban Interstate/Freeway/Expressway,158763685,51,0.7,1
+2020,Cumberland,Urban Primary Arterial,58018575,43,0.7,1
+2020,Cumberland,Urban Minor Arterial,382096235,156,0.5,0.7
+2020,Cumberland,Urban Collector (Major and Minor),128127410,91,0.5,0.7
+2020,Cumberland,Urban Local,148185620,546,0.3,0.5
+2020,Cumberland,Rural Interstate/Primary Arterial,49081185,39,0.7,1
+2020,Cumberland,Rural Minor Arterial,52227120,47,0.5,0.7
+2020,Cumberland,Rural Collector (Major and Minor),45103780,98,0.5,0.7
+2020,Cumberland,Rural Local,65392305,333,0.3,0.5
+2021,Cumberland,Urban Interstate/Freeway/Expressway,185290790,51,0.7,1
+2021,Cumberland,Urban Primary Arterial,65142645,43,0.7,1
+2021,Cumberland,Urban Minor Arterial,418722890,156,0.5,0.7
+2021,Cumberland,Urban Collector (Major and Minor),126498050,91,0.5,0.7
+2021,Cumberland,Urban Local,162995860,546,0.3,0.5
+2021,Cumberland,Rural Interstate/Primary Arterial,54892350,39,0.7,1
+2021,Cumberland,Rural Minor Arterial,62811025,47,0.5,0.7
+2021,Cumberland,Rural Collector (Major and Minor),47130990,98,0.5,0.7
+2021,Cumberland,Rural Local,73195275,333,0.3,0.5
+2022,Cumberland,Urban Interstate/Freeway/Expressway,187510720,51,0.7,1
+2022,Cumberland,Urban Primary Arterial,62246005,42.5,0.7,1
+2022,Cumberland,Urban Minor Arterial,418134145,156,0.5,0.7
+2022,Cumberland,Urban Collector (Major and Minor),125547955,91,0.5,0.7
+2022,Cumberland,Urban Local,183099695,546,0.3,0.5
+2022,Cumberland,Rural Interstate/Primary Arterial,53563385,39,0.7,1
+2022,Cumberland,Rural Minor Arterial,56919925,47,0.5,0.7
+2022,Cumberland,Rural Collector (Major and Minor),49702415,98,0.5,0.7
+2022,Cumberland,Rural Local,74732290,333,0.3,0.5
+2017,Essex,Urban Interstate/Freeway/Expressway,2437843760,153,0.7,1
+2017,Essex,Urban Primary Arterial,837295765,268,0.7,1
+2017,Essex,Urban Minor Arterial,678772250,198,0.5,0.7
+2017,Essex,Urban Collector (Major and Minor),363845870,179,0.5,0.7
+2017,Essex,Urban Local,633783080,1152,0.3,0.5
+2017,Essex,Rural Interstate/Primary Arterial,0,0,0.7,1
+2017,Essex,Rural Minor Arterial,0,0,0.5,0.7
+2017,Essex,Rural Collector (Major and Minor),0,0,0.5,0.7
+2017,Essex,Rural Local,0,0,0.3,0.5
+2018,Essex,Urban Interstate/Freeway/Expressway,2432735950,153,0.7,1
+2018,Essex,Urban Primary Arterial,827327980,268,0.7,1
+2018,Essex,Urban Minor Arterial,713653110,198,0.5,0.7
+2018,Essex,Urban Collector (Major and Minor),381615530,179,0.5,0.7
+2018,Essex,Urban Local,640564780,1152,0.3,0.5
+2018,Essex,Rural Interstate/Primary Arterial,0,0,0.7,1
+2018,Essex,Rural Minor Arterial,0,0,0.5,0.7
+2018,Essex,Rural Collector (Major and Minor),0,0,0.5,0.7
+2018,Essex,Rural Local,0,0,0.3,0.5
+2019,Essex,Urban Interstate/Freeway/Expressway,2323636355,153,0.7,1
+2019,Essex,Urban Primary Arterial,833365445,268,0.7,1
+2019,Essex,Urban Minor Arterial,718730990,198,0.5,0.7
+2019,Essex,Urban Collector (Major and Minor),385036675,179,0.5,0.7
+2019,Essex,Urban Local,615872530,1152,0.3,0.5
+2019,Essex,Rural Interstate/Primary Arterial,0,0,0.7,1
+2019,Essex,Rural Minor Arterial,0,0,0.5,0.7
+2019,Essex,Rural Collector (Major and Minor),0,0,0.5,0.7
+2019,Essex,Rural Local,0,0,0.3,0.5
+2020,Essex,Urban Interstate/Freeway/Expressway,1977591900,153,0.7,1
+2020,Essex,Urban Primary Arterial,804310350,268,0.7,1
+2020,Essex,Urban Minor Arterial,640395055,198,0.5,0.7
+2020,Essex,Urban Collector (Major and Minor),335961695,179,0.5,0.7
+2020,Essex,Urban Local,520783825,1152,0.3,0.5
+2020,Essex,Rural Interstate/Primary Arterial,0,0,0.7,1
+2020,Essex,Rural Minor Arterial,0,0,0.5,0.7
+2020,Essex,Rural Collector (Major and Minor),0,0,0.5,0.7
+2020,Essex,Rural Local,0,0,0.3,0.5
+2021,Essex,Urban Interstate/Freeway/Expressway,2229077265,153,0.7,1
+2021,Essex,Urban Primary Arterial,845956850,268,0.7,1
+2021,Essex,Urban Minor Arterial,696295900,198,0.5,0.7
+2021,Essex,Urban Collector (Major and Minor),332654065,179,0.5,0.7
+2021,Essex,Urban Local,600023135,1152,0.3,0.5
+2021,Essex,Rural Interstate/Primary Arterial,0,0,0.7,1
+2021,Essex,Rural Minor Arterial,0,0,0.5,0.7
+2021,Essex,Rural Collector (Major and Minor),0,0,0.5,0.7
+2021,Essex,Rural Local,0,0,0.3,0.5
+2022,Essex,Urban Interstate/Freeway/Expressway,2273803635,153,0.7,1
+2022,Essex,Urban Primary Arterial,870244680,267.5,0.7,1
+2022,Essex,Urban Minor Arterial,710077205,198,0.5,0.7
+2022,Essex,Urban Collector (Major and Minor),322225650,179,0.5,0.7
+2022,Essex,Urban Local,620059810,1152,0.3,0.5
+2022,Essex,Rural Interstate/Primary Arterial,0,0,0.7,1
+2022,Essex,Rural Minor Arterial,0,0,0.5,0.7
+2022,Essex,Rural Collector (Major and Minor),0,0,0.5,0.7
+2022,Essex,Rural Local,0,0,0.3,0.5
+2017,Gloucester,Urban Interstate/Freeway/Expressway,1287254625,177,0.7,1
+2017,Gloucester,Urban Primary Arterial,544043450,195,0.7,1
+2017,Gloucester,Urban Minor Arterial,564141080,207,0.5,0.7
+2017,Gloucester,Urban Collector (Major and Minor),248750055,176,0.5,0.7
+2017,Gloucester,Urban Local,407410080,1112,0.3,0.5
+2017,Gloucester,Rural Interstate/Primary Arterial,0,0,0.7,1
+2017,Gloucester,Rural Minor Arterial,7345625,7,0.5,0.7
+2017,Gloucester,Rural Collector (Major and Minor),28870405,21,0.5,0.7
+2017,Gloucester,Rural Local,12627175,59,0.3,0.5
+2018,Gloucester,Urban Interstate/Freeway/Expressway,1270671945,177,0.7,1
+2018,Gloucester,Urban Primary Arterial,520065505,195,0.7,1
+2018,Gloucester,Urban Minor Arterial,564550975,207,0.5,0.7
+2018,Gloucester,Urban Collector (Major and Minor),248444185,176,0.5,0.7
+2018,Gloucester,Urban Local,408878110,1112,0.3,0.5
+2018,Gloucester,Rural Interstate/Primary Arterial,0,0,0.7,1
+2018,Gloucester,Rural Minor Arterial,7270435,7,0.5,0.7
+2018,Gloucester,Rural Collector (Major and Minor),28753605,21,0.5,0.7
+2018,Gloucester,Rural Local,13471055,59,0.3,0.5
+2019,Gloucester,Urban Interstate/Freeway/Expressway,1310674485,177,0.7,1
+2019,Gloucester,Urban Primary Arterial,519714375,195,0.7,1
+2019,Gloucester,Urban Minor Arterial,576792345,207,0.5,0.7
+2019,Gloucester,Urban Collector (Major and Minor),250137055,176,0.5,0.7
+2019,Gloucester,Urban Local,416123360,1112,0.3,0.5
+2019,Gloucester,Rural Interstate/Primary Arterial,0,0,0.7,1
+2019,Gloucester,Rural Minor Arterial,7673760,7,0.5,0.7
+2019,Gloucester,Rural Collector (Major and Minor),29352205,21,0.5,0.7
+2019,Gloucester,Rural Local,14032060,59,0.3,0.5
+2020,Gloucester,Urban Interstate/Freeway/Expressway,1077102955,177,0.7,1
+2020,Gloucester,Urban Primary Arterial,457927905,195,0.7,1
+2020,Gloucester,Urban Minor Arterial,533176670,207,0.5,0.7
+2020,Gloucester,Urban Collector (Major and Minor),236424735,176,0.5,0.7
+2020,Gloucester,Urban Local,356789690,1120,0.3,0.5
+2020,Gloucester,Rural Interstate/Primary Arterial,0,0,0.7,1
+2020,Gloucester,Rural Minor Arterial,7390155,7,0.5,0.7
+2020,Gloucester,Rural Collector (Major and Minor),28860915,21,0.5,0.7
+2020,Gloucester,Rural Local,11694600,59,0.3,0.5
+2021,Gloucester,Urban Interstate/Freeway/Expressway,1259774505,177,0.7,1
+2021,Gloucester,Urban Primary Arterial,504318310,195,0.7,1
+2021,Gloucester,Urban Minor Arterial,557681675,207,0.5,0.7
+2021,Gloucester,Urban Collector (Major and Minor),241028845,176,0.5,0.7
+2021,Gloucester,Urban Local,398642780,1120,0.3,0.5
+2021,Gloucester,Rural Interstate/Primary Arterial,0,0,0.7,1
+2021,Gloucester,Rural Minor Arterial,7858815,7,0.5,0.7
+2021,Gloucester,Rural Collector (Major and Minor),28286770,21,0.5,0.7
+2021,Gloucester,Rural Local,13089630,59,0.3,0.5
+2022,Gloucester,Urban Interstate/Freeway/Expressway,1290325370,177,0.7,1
+2022,Gloucester,Urban Primary Arterial,514806950,195,0.7,1
+2022,Gloucester,Urban Minor Arterial,586669245,207,0.5,0.7
+2022,Gloucester,Urban Collector (Major and Minor),252597885,176,0.5,0.7
+2022,Gloucester,Urban Local,407457530,1120,0.3,0.5
+2022,Gloucester,Rural Interstate/Primary Arterial,0,0,0.7,1
+2022,Gloucester,Rural Minor Arterial,8239145,7,0.5,0.7
+2022,Gloucester,Rural Collector (Major and Minor),29916860,21,0.5,0.7
+2022,Gloucester,Rural Local,13364475,59,0.3,0.5
+2017,Hudson,Urban Interstate/Freeway/Expressway,1008268335,87,0.7,1
+2017,Hudson,Urban Primary Arterial,480456800,95,0.7,1
+2017,Hudson,Urban Minor Arterial,336672715,97,0.5,0.7
+2017,Hudson,Urban Collector (Major and Minor),191924300,80,0.5,0.7
+2017,Hudson,Urban Local,213910075,389,0.3,0.5
+2017,Hudson,Rural Interstate/Primary Arterial,0,0,0.7,1
+2017,Hudson,Rural Minor Arterial,0,0,0.5,0.7
+2017,Hudson,Rural Collector (Major and Minor),0,0,0.5,0.7
+2017,Hudson,Rural Local,0,0,0.3,0.5
+2018,Hudson,Urban Interstate/Freeway/Expressway,1016788895,87,0.7,1
+2018,Hudson,Urban Primary Arterial,430455450,95,0.7,1
+2018,Hudson,Urban Minor Arterial,380054060,97,0.5,0.7
+2018,Hudson,Urban Collector (Major and Minor),190437290,80,0.5,0.7
+2018,Hudson,Urban Local,219612105,395,0.3,0.5
+2018,Hudson,Rural Interstate/Primary Arterial,0,0,0.7,1
+2018,Hudson,Rural Minor Arterial,0,0,0.5,0.7
+2018,Hudson,Rural Collector (Major and Minor),0,0,0.5,0.7
+2018,Hudson,Rural Local,0,0,0.3,0.5
+2019,Hudson,Urban Interstate/Freeway/Expressway,1078436300,87,0.7,1
+2019,Hudson,Urban Primary Arterial,452441225,95,0.7,1
+2019,Hudson,Urban Minor Arterial,389539680,97,0.5,0.7
+2019,Hudson,Urban Collector (Major and Minor),195941125,80,0.5,0.7
+2019,Hudson,Urban Local,211150310,395,0.3,0.5
+2019,Hudson,Rural Interstate/Primary Arterial,0,0,0.7,1
+2019,Hudson,Rural Minor Arterial,0,0,0.5,0.7
+2019,Hudson,Rural Collector (Major and Minor),0,0,0.5,0.7
+2019,Hudson,Rural Local,0,0,0.3,0.5
+2020,Hudson,Urban Interstate/Freeway/Expressway,791658720,87,0.7,1
+2020,Hudson,Urban Primary Arterial,434585790,95,0.7,1
+2020,Hudson,Urban Minor Arterial,334976560,97,0.5,0.7
+2020,Hudson,Urban Collector (Major and Minor),153215320,80,0.5,0.7
+2020,Hudson,Urban Local,178549605,395,0.3,0.5
+2020,Hudson,Rural Interstate/Primary Arterial,0,0,0.7,1
+2020,Hudson,Rural Minor Arterial,0,0,0.5,0.7
+2020,Hudson,Rural Collector (Major and Minor),0,0,0.5,0.7
+2020,Hudson,Rural Local,0,0,0.3,0.5
+2021,Hudson,Urban Interstate/Freeway/Expressway,906603425,87,0.7,1
+2021,Hudson,Urban Primary Arterial,485857705,95,0.7,1
+2021,Hudson,Urban Minor Arterial,360477285,97,0.5,0.7
+2021,Hudson,Urban Collector (Major and Minor),161582945,80,0.5,0.7
+2021,Hudson,Urban Local,205714730,395,0.3,0.5
+2021,Hudson,Rural Interstate/Primary Arterial,0,0,0.7,1
+2021,Hudson,Rural Minor Arterial,0,0,0.5,0.7
+2021,Hudson,Rural Collector (Major and Minor),0,0,0.5,0.7
+2021,Hudson,Rural Local,0,0,0.3,0.5
+2022,Hudson,Urban Interstate/Freeway/Expressway,932150140,87,0.7,1
+2022,Hudson,Urban Primary Arterial,481986880,95,0.7,1
+2022,Hudson,Urban Minor Arterial,380499725,97,0.5,0.7
+2022,Hudson,Urban Collector (Major and Minor),156365270,80,0.5,0.7
+2022,Hudson,Urban Local,212584030,395,0.3,0.5
+2022,Hudson,Rural Interstate/Primary Arterial,0,0,0.7,1
+2022,Hudson,Rural Minor Arterial,0,0,0.5,0.7
+2022,Hudson,Rural Collector (Major and Minor),0,0,0.5,0.7
+2022,Hudson,Rural Local,0,0,0.3,0.5
+2017,Hunterdon,Urban Interstate/Freeway/Expressway,474541610,39,0.7,1
+2017,Hunterdon,Urban Primary Arterial,429635660,108,0.7,1
+2017,Hunterdon,Urban Minor Arterial,119144395,46,0.5,0.7
+2017,Hunterdon,Urban Collector (Major and Minor),77221590,60,0.5,0.7
+2017,Hunterdon,Urban Local,190075210,417,0.3,0.5
+2017,Hunterdon,Rural Interstate/Primary Arterial,348299790,48,0.7,1
+2017,Hunterdon,Rural Minor Arterial,100232650,58,0.5,0.7
+2017,Hunterdon,Rural Collector (Major and Minor),144364800,169,0.5,0.7
+2017,Hunterdon,Rural Local,135832925,640,0.3,0.5
+2018,Hunterdon,Urban Interstate/Freeway/Expressway,485184280,39,0.7,1
+2018,Hunterdon,Urban Primary Arterial,435602680,108,0.7,1
+2018,Hunterdon,Urban Minor Arterial,116064890,46,0.5,0.7
+2018,Hunterdon,Urban Collector (Major and Minor),79490430,60,0.5,0.7
+2018,Hunterdon,Urban Local,183392425,417,0.3,0.5
+2018,Hunterdon,Rural Interstate/Primary Arterial,327595895,48,0.7,1
+2018,Hunterdon,Rural Minor Arterial,97804670,58,0.5,0.7
+2018,Hunterdon,Rural Collector (Major and Minor),137947735,169,0.5,0.7
+2018,Hunterdon,Rural Local,144907555,640,0.3,0.5
+2019,Hunterdon,Urban Interstate/Freeway/Expressway,492100300,39,0.7,1
+2019,Hunterdon,Urban Primary Arterial,429438925,108,0.7,1
+2019,Hunterdon,Urban Minor Arterial,116615675,46,0.5,0.7
+2019,Hunterdon,Urban Collector (Major and Minor),79512695,60,0.5,0.7
+2019,Hunterdon,Urban Local,176131480,419,0.3,0.5
+2019,Hunterdon,Rural Interstate/Primary Arterial,332093060,48,0.7,1
+2019,Hunterdon,Rural Minor Arterial,99000410,58,0.5,0.7
+2019,Hunterdon,Rural Collector (Major and Minor),142501110,169,0.5,0.7
+2019,Hunterdon,Rural Local,150992105,640,0.3,0.5
+2020,Hunterdon,Urban Interstate/Freeway/Expressway,429370670,39,0.7,1
+2020,Hunterdon,Urban Primary Arterial,355722065,108,0.7,1
+2020,Hunterdon,Urban Minor Arterial,105583550,46,0.5,0.7
+2020,Hunterdon,Urban Collector (Major and Minor),69826690,60,0.5,0.7
+2020,Hunterdon,Urban Local,151479380,419,0.3,0.5
+2020,Hunterdon,Rural Interstate/Primary Arterial,252792795,48,0.7,1
+2020,Hunterdon,Rural Minor Arterial,85764780,58,0.5,0.7
+2020,Hunterdon,Rural Collector (Major and Minor),120358385,169,0.5,0.7
+2020,Hunterdon,Rural Local,125902370,640,0.3,0.5
+2021,Hunterdon,Urban Interstate/Freeway/Expressway,399978315,39,0.7,1
+2021,Hunterdon,Urban Primary Arterial,360130900,108,0.7,1
+2021,Hunterdon,Urban Minor Arterial,101636440,46,0.5,0.7
+2021,Hunterdon,Urban Collector (Major and Minor),73075555,60,0.5,0.7
+2021,Hunterdon,Urban Local,170081970,419,0.3,0.5
+2021,Hunterdon,Rural Interstate/Primary Arterial,278922050,48,0.7,1
+2021,Hunterdon,Rural Minor Arterial,95574155,58,0.5,0.7
+2021,Hunterdon,Rural Collector (Major and Minor),129961170,169,0.5,0.7
+2021,Hunterdon,Rural Local,140924310,640,0.3,0.5
+2022,Hunterdon,Urban Interstate/Freeway/Expressway,400040365,39,0.7,1
+2022,Hunterdon,Urban Primary Arterial,392356750,107.5,0.7,1
+2022,Hunterdon,Urban Minor Arterial,100126435,46,0.5,0.7
+2022,Hunterdon,Urban Collector (Major and Minor),75947740,60,0.5,0.7
+2022,Hunterdon,Urban Local,177168080,419,0.3,0.5
+2022,Hunterdon,Rural Interstate/Primary Arterial,288186480,48,0.7,1
+2022,Hunterdon,Rural Minor Arterial,95255510,58,0.5,0.7
+2022,Hunterdon,Rural Collector (Major and Minor),135939140,169,0.5,0.7
+2022,Hunterdon,Rural Local,143883365,640,0.3,0.5
+2017,Mercer,Urban Interstate/Freeway/Expressway,1431406995,165,0.7,1
+2017,Mercer,Urban Primary Arterial,731641770,213,0.7,1
+2017,Mercer,Urban Minor Arterial,635684365,185,0.5,0.7
+2017,Mercer,Urban Collector (Major and Minor),265310835,181,0.5,0.7
+2017,Mercer,Urban Local,361452565,932,0.3,0.5
+2017,Mercer,Rural Interstate/Primary Arterial,189608375,24,0.7,1
+2017,Mercer,Rural Minor Arterial,21610920,9,0.5,0.7
+2017,Mercer,Rural Collector (Major and Minor),29685450,26,0.5,0.7
+2017,Mercer,Rural Local,11986235,56,0.3,0.5
+2018,Mercer,Urban Interstate/Freeway/Expressway,1449843510,165,0.7,1
+2018,Mercer,Urban Primary Arterial,699354965,213,0.7,1
+2018,Mercer,Urban Minor Arterial,644250185,185,0.5,0.7
+2018,Mercer,Urban Collector (Major and Minor),267708520,181,0.5,0.7
+2018,Mercer,Urban Local,303352595,934,0.3,0.5
+2018,Mercer,Rural Interstate/Primary Arterial,190811415,24,0.7,1
+2018,Mercer,Rural Minor Arterial,23423875,9,0.5,0.7
+2018,Mercer,Rural Collector (Major and Minor),23316930,25,0.5,0.7
+2018,Mercer,Rural Local,12787045,56,0.3,0.5
+2019,Mercer,Urban Interstate/Freeway/Expressway,1514632835,165,0.7,1
+2019,Mercer,Urban Primary Arterial,711099570,213,0.7,1
+2019,Mercer,Urban Minor Arterial,671120390,185,0.5,0.7
+2019,Mercer,Urban Collector (Major and Minor),266017840,181,0.5,0.7
+2019,Mercer,Urban Local,300029635,934,0.3,0.5
+2019,Mercer,Rural Interstate/Primary Arterial,197858105,24,0.7,1
+2019,Mercer,Rural Minor Arterial,24664875,9,0.5,0.7
+2019,Mercer,Rural Collector (Major and Minor),23227870,25,0.5,0.7
+2019,Mercer,Rural Local,13319580,56,0.3,0.5
+2020,Mercer,Urban Interstate/Freeway/Expressway,1140809690,165,0.7,1
+2020,Mercer,Urban Primary Arterial,667762390,213,0.7,1
+2020,Mercer,Urban Minor Arterial,582056740,185,0.5,0.7
+2020,Mercer,Urban Collector (Major and Minor),250114790,181,0.5,0.7
+2020,Mercer,Urban Local,263554455,939,0.3,0.5
+2020,Mercer,Rural Interstate/Primary Arterial,151230450,24,0.7,1
+2020,Mercer,Rural Minor Arterial,24628375,9,0.5,0.7
+2020,Mercer,Rural Collector (Major and Minor),20942970,25,0.5,0.7
+2020,Mercer,Rural Local,11100745,56,0.3,0.5
+2021,Mercer,Urban Interstate/Freeway/Expressway,1360744090,165,0.7,1
+2021,Mercer,Urban Primary Arterial,759064220,213,0.7,1
+2021,Mercer,Urban Minor Arterial,586484555,185,0.5,0.7
+2021,Mercer,Urban Collector (Major and Minor),239888220,181,0.5,0.7
+2021,Mercer,Urban Local,297600560,938,0.3,0.5
+2021,Mercer,Rural Interstate/Primary Arterial,186417180,24,0.7,1
+2021,Mercer,Rural Minor Arterial,26732965,9,0.5,0.7
+2021,Mercer,Rural Collector (Major and Minor),21329870,25,0.5,0.7
+2021,Mercer,Rural Local,12424965,56,0.3,0.5
+2022,Mercer,Urban Interstate/Freeway/Expressway,1405914300,165,0.7,1
+2022,Mercer,Urban Primary Arterial,725456480,212.5,0.7,1
+2022,Mercer,Urban Minor Arterial,580243055,185,0.5,0.7
+2022,Mercer,Urban Collector (Major and Minor),236207925,181,0.5,0.7
+2022,Mercer,Urban Local,292360985,938,0.3,0.5
+2022,Mercer,Rural Interstate/Primary Arterial,190135070,24,0.7,1
+2022,Mercer,Rural Minor Arterial,24120295,9,0.5,0.7
+2022,Mercer,Rural Collector (Major and Minor),20779815,25,0.5,0.7
+2022,Mercer,Rural Local,12685940,56,0.3,0.5
+2017,Middlesex,Urban Interstate/Freeway/Expressway,3687852690,186,0.7,1
+2017,Middlesex,Urban Primary Arterial,2231910030,410,0.7,1
+2017,Middlesex,Urban Minor Arterial,911692255,286,0.5,0.7
+2017,Middlesex,Urban Collector (Major and Minor),611381935,276,0.5,0.7
+2017,Middlesex,Urban Local,973461205,1770,0.3,0.5
+2017,Middlesex,Rural Interstate/Primary Arterial,75777285,6,0.7,1
+2017,Middlesex,Rural Minor Arterial,4899395,3,0.5,0.7
+2017,Middlesex,Rural Collector (Major and Minor),15736610,6,0.5,0.7
+2017,Middlesex,Rural Local,2524340,12,0.3,0.5
+2018,Middlesex,Urban Interstate/Freeway/Expressway,3641650260,186,0.7,1
+2018,Middlesex,Urban Primary Arterial,2283731635,410,0.7,1
+2018,Middlesex,Urban Minor Arterial,918066980,286,0.5,0.7
+2018,Middlesex,Urban Collector (Major and Minor),566203695,276,0.5,0.7
+2018,Middlesex,Urban Local,986284385,1774,0.3,0.5
+2018,Middlesex,Rural Interstate/Primary Arterial,79495905,6,0.7,1
+2018,Middlesex,Rural Minor Arterial,6529850,3,0.5,0.7
+2018,Middlesex,Rural Collector (Major and Minor),4718355,6,0.5,0.7
+2018,Middlesex,Rural Local,2692970,12,0.3,0.5
+2019,Middlesex,Urban Interstate/Freeway/Expressway,3738222690,186,0.7,1
+2019,Middlesex,Urban Primary Arterial,2302065220,410,0.7,1
+2019,Middlesex,Urban Minor Arterial,935333670,286,0.5,0.7
+2019,Middlesex,Urban Collector (Major and Minor),581105185,276,0.5,0.7
+2019,Middlesex,Urban Local,951280155,1780,0.3,0.5
+2019,Middlesex,Rural Interstate/Primary Arterial,81724230,6,0.7,1
+2019,Middlesex,Rural Minor Arterial,6768925,3,0.5,0.7
+2019,Middlesex,Rural Collector (Major and Minor),4820190,6,0.5,0.7
+2019,Middlesex,Rural Local,2805025,12,0.3,0.5
+2020,Middlesex,Urban Interstate/Freeway/Expressway,2846312340,186,0.7,1
+2020,Middlesex,Urban Primary Arterial,1907218440,410,0.7,1
+2020,Middlesex,Urban Minor Arterial,782900910,286,0.5,0.7
+2020,Middlesex,Urban Collector (Major and Minor),545662955,276,0.5,0.7
+2020,Middlesex,Urban Local,808730865,1789,0.3,0.5
+2020,Middlesex,Rural Interstate/Primary Arterial,63564020,6,0.7,1
+2020,Middlesex,Rural Minor Arterial,6827325,3,0.5,0.7
+2020,Middlesex,Rural Collector (Major and Minor),4433655,6,0.5,0.7
+2020,Middlesex,Rural Local,3187180,16,0.3,0.5
+2021,Middlesex,Urban Interstate/Freeway/Expressway,3387119335,186,0.7,1
+2021,Middlesex,Urban Primary Arterial,2187637355,410,0.7,1
+2021,Middlesex,Urban Minor Arterial,891142390,286,0.5,0.7
+2021,Middlesex,Urban Collector (Major and Minor),521829185,276,0.5,0.7
+2021,Middlesex,Urban Local,931992825,1790,0.3,0.5
+2021,Middlesex,Rural Interstate/Primary Arterial,77450080,6,0.7,1
+2021,Middlesex,Rural Minor Arterial,7356210,3,0.5,0.7
+2021,Middlesex,Rural Collector (Major and Minor),4409930,6,0.5,0.7
+2021,Middlesex,Rural Local,3567145,16,0.3,0.5
+2022,Middlesex,Urban Interstate/Freeway/Expressway,3546832020,186,0.7,1
+2022,Middlesex,Urban Primary Arterial,2229723680,410,0.7,1
+2022,Middlesex,Urban Minor Arterial,961290645,286,0.5,0.7
+2022,Middlesex,Urban Collector (Major and Minor),490149010,276,0.5,0.7
+2022,Middlesex,Urban Local,963168935,1790,0.3,0.5
+2022,Middlesex,Rural Interstate/Primary Arterial,79343700,6,0.7,1
+2022,Middlesex,Rural Minor Arterial,6549560,3,0.5,0.7
+2022,Middlesex,Rural Collector (Major and Minor),4209545,6,0.5,0.7
+2022,Middlesex,Rural Local,3642335,16,0.3,0.5
+2017,Monmouth,Urban Interstate/Freeway/Expressway,2264869530,213,0.7,1
+2017,Monmouth,Urban Primary Arterial,1419100290,360,0.7,1
+2017,Monmouth,Urban Minor Arterial,802851445,262,0.5,0.7
+2017,Monmouth,Urban Collector (Major and Minor),592154100,318,0.5,0.7
+2017,Monmouth,Urban Local,1369904130,2491,0.3,0.5
+2017,Monmouth,Rural Interstate/Primary Arterial,142760625,24,0.7,1
+2017,Monmouth,Rural Minor Arterial,15538050,4,0.5,0.7
+2017,Monmouth,Rural Collector (Major and Minor),67336295,53,0.5,0.7
+2017,Monmouth,Rural Local,35052045,165,0.3,0.5
+2018,Monmouth,Urban Interstate/Freeway/Expressway,2232655725,213,0.7,1
+2018,Monmouth,Urban Primary Arterial,1414451650,360,0.7,1
+2018,Monmouth,Urban Minor Arterial,827846645,262,0.5,0.7
+2018,Monmouth,Urban Collector (Major and Minor),621794655,318,0.5,0.7
+2018,Monmouth,Urban Local,1385924345,2493,0.3,0.5
+2018,Monmouth,Rural Interstate/Primary Arterial,161156260,24,0.7,1
+2018,Monmouth,Rural Minor Arterial,15244225,4,0.5,0.7
+2018,Monmouth,Rural Collector (Major and Minor),63738490,53,0.5,0.7
+2018,Monmouth,Rural Local,37393885,165,0.3,0.5
+2019,Monmouth,Urban Interstate/Freeway/Expressway,2237468980,213,0.7,1
+2019,Monmouth,Urban Primary Arterial,1422423615,360,0.7,1
+2019,Monmouth,Urban Minor Arterial,825974560,262,0.5,0.7
+2019,Monmouth,Urban Collector (Major and Minor),653051065,318,0.5,0.7
+2019,Monmouth,Urban Local,1332405855,2493,0.3,0.5
+2019,Monmouth,Rural Interstate/Primary Arterial,170052770,24,0.7,1
+2019,Monmouth,Rural Minor Arterial,15348250,4,0.5,0.7
+2019,Monmouth,Rural Collector (Major and Minor),65666055,53,0.5,0.7
+2019,Monmouth,Rural Local,38951705,165,0.3,0.5
+2020,Monmouth,Urban Interstate/Freeway/Expressway,1835008300,213,0.7,1
+2020,Monmouth,Urban Primary Arterial,1235015460,360,0.7,1
+2020,Monmouth,Urban Minor Arterial,776410480,262,0.5,0.7
+2020,Monmouth,Urban Collector (Major and Minor),504244215,318,0.5,0.7
+2020,Monmouth,Urban Local,1126903920,2493,0.3,0.5
+2020,Monmouth,Rural Interstate/Primary Arterial,133120610,24,0.7,1
+2020,Monmouth,Rural Minor Arterial,13847005,4,0.5,0.7
+2020,Monmouth,Rural Collector (Major and Minor),56755310,53,0.5,0.7
+2020,Monmouth,Rural Local,32846350,167,0.3,0.5
+2021,Monmouth,Urban Interstate/Freeway/Expressway,2053677610,213,0.7,1
+2021,Monmouth,Urban Primary Arterial,1349560855,360,0.7,1
+2021,Monmouth,Urban Minor Arterial,747351005,262,0.5,0.7
+2021,Monmouth,Urban Collector (Major and Minor),560880535,318,0.5,0.7
+2021,Monmouth,Urban Local,1240122175,2382,0.3,0.5
+2021,Monmouth,Rural Interstate/Primary Arterial,151573915,24,0.7,1
+2021,Monmouth,Rural Minor Arterial,15259920,4,0.5,0.7
+2021,Monmouth,Rural Collector (Major and Minor),62844970,53,0.5,0.7
+2021,Monmouth,Rural Local,36765720,167,0.3,0.5
+2022,Monmouth,Urban Interstate/Freeway/Expressway,2089793265,213,0.7,1
+2022,Monmouth,Urban Primary Arterial,1386222550,360,0.7,1
+2022,Monmouth,Urban Minor Arterial,744499625,263,0.5,0.7
+2022,Monmouth,Urban Collector (Major and Minor),552689935,318,0.5,0.7
+2022,Monmouth,Urban Local,1281846055,2382,0.3,0.5
+2022,Monmouth,Rural Interstate/Primary Arterial,155968880,24,0.7,1
+2022,Monmouth,Rural Minor Arterial,15145310,4,0.5,0.7
+2022,Monmouth,Rural Collector (Major and Minor),60795860,53,0.5,0.7
+2022,Monmouth,Rural Local,37603030,167,0.3,0.5
+2017,Morris,Urban Interstate/Freeway/Expressway,2310470440,186,0.7,1
+2017,Morris,Urban Primary Arterial,1045135525,253,0.7,1
+2017,Morris,Urban Minor Arterial,599678575,279,0.5,0.7
+2017,Morris,Urban Collector (Major and Minor),350950420,260,0.5,0.7
+2017,Morris,Urban Local,971767240,1767,0.3,0.5
+2017,Morris,Rural Interstate/Primary Arterial,19959660,6,0.7,1
+2017,Morris,Rural Minor Arterial,2590405,1,0.5,0.7
+2017,Morris,Rural Collector (Major and Minor),24005685,27,0.5,0.7
+2017,Morris,Rural Local,20550230,97,0.3,0.5
+2018,Morris,Urban Interstate/Freeway/Expressway,2289260290,186,0.7,1
+2018,Morris,Urban Primary Arterial,1028650300,253,0.7,1
+2018,Morris,Urban Minor Arterial,648055675,279,0.5,0.7
+2018,Morris,Urban Collector (Major and Minor),372357305,260,0.5,0.7
+2018,Morris,Urban Local,982159885,1767,0.3,0.5
+2018,Morris,Rural Interstate/Primary Arterial,20104565,6,0.7,1
+2018,Morris,Rural Minor Arterial,2587120,1,0.5,0.7
+2018,Morris,Rural Collector (Major and Minor),24327250,27,0.5,0.7
+2018,Morris,Rural Local,21922995,97,0.3,0.5
+2019,Morris,Urban Interstate/Freeway/Expressway,2293224190,186,0.7,1
+2019,Morris,Urban Primary Arterial,1036007240,253,0.7,1
+2019,Morris,Urban Minor Arterial,667433890,279,0.5,0.7
+2019,Morris,Urban Collector (Major and Minor),370527195,260,0.5,0.7
+2019,Morris,Urban Local,944321430,1767,0.3,0.5
+2019,Morris,Rural Interstate/Primary Arterial,20931655,6,0.7,1
+2019,Morris,Rural Minor Arterial,2532370,1,0.5,0.7
+2019,Morris,Rural Collector (Major and Minor),25186095,27,0.5,0.7
+2019,Morris,Rural Local,22836590,97,0.3,0.5
+2020,Morris,Urban Interstate/Freeway/Expressway,1986896845,186,0.7,1
+2020,Morris,Urban Primary Arterial,868019275,253,0.7,1
+2020,Morris,Urban Minor Arterial,548970220,279,0.5,0.7
+2020,Morris,Urban Collector (Major and Minor),334967435,260,0.5,0.7
+2020,Morris,Urban Local,798521450,1767,0.3,0.5
+2020,Morris,Rural Interstate/Primary Arterial,19105560,6,0.7,1
+2020,Morris,Rural Minor Arterial,2317385,1,0.5,0.7
+2020,Morris,Rural Collector (Major and Minor),19957470,27,0.5,0.7
+2020,Morris,Rural Local,19032195,97,0.3,0.5
+2021,Morris,Urban Interstate/Freeway/Expressway,2250720305,186,0.7,1
+2021,Morris,Urban Primary Arterial,954879785,250,0.7,1
+2021,Morris,Urban Minor Arterial,623291885,279,0.5,0.7
+2021,Morris,Urban Collector (Major and Minor),328176975,260,0.5,0.7
+2021,Morris,Urban Local,920011335,1767,0.3,0.5
+2021,Morris,Rural Interstate/Primary Arterial,19016500,6,0.7,1
+2021,Morris,Rural Minor Arterial,2419220,1,0.5,0.7
+2021,Morris,Rural Collector (Major and Minor),21879925,27,0.5,0.7
+2021,Morris,Rural Local,21299210,97,0.3,0.5
+2022,Morris,Urban Interstate/Freeway/Expressway,2356687835,186,0.7,1
+2022,Morris,Urban Primary Arterial,981737215,250,0.7,1
+2022,Morris,Urban Minor Arterial,611868845,279,0.5,0.7
+2022,Morris,Urban Collector (Major and Minor),308565890,260,0.5,0.7
+2022,Morris,Urban Local,950765870,1767,0.3,0.5
+2022,Morris,Rural Interstate/Primary Arterial,19754895,6,0.7,1
+2022,Morris,Rural Minor Arterial,2414110,1,0.5,0.7
+2022,Morris,Rural Collector (Major and Minor),22120825,27,0.5,0.7
+2022,Morris,Rural Local,21746700,97,0.3,0.5
+2017,Ocean,Urban Interstate/Freeway/Expressway,1310199620,144,0.7,1
+2017,Ocean,Urban Primary Arterial,1094495205,353,0.7,1
+2017,Ocean,Urban Minor Arterial,773060875,199,0.5,0.7
+2017,Ocean,Urban Collector (Major and Minor),309628040,198,0.5,0.7
+2017,Ocean,Urban Local,1238273450,2251,0.3,0.5
+2017,Ocean,Rural Interstate/Primary Arterial,64010780,36,0.7,1
+2017,Ocean,Rural Minor Arterial,14381000,3,0.5,0.7
+2017,Ocean,Rural Collector (Major and Minor),94910220,47,0.5,0.7
+2017,Ocean,Rural Local,27647290,130,0.3,0.5
+2018,Ocean,Urban Interstate/Freeway/Expressway,1304852005,144,0.7,1
+2018,Ocean,Urban Primary Arterial,1083309780,353,0.7,1
+2018,Ocean,Urban Minor Arterial,775650550,199,0.5,0.7
+2018,Ocean,Urban Collector (Major and Minor),357781395,198,0.5,0.7
+2018,Ocean,Urban Local,1251623325,2252,0.3,0.5
+2018,Ocean,Rural Interstate/Primary Arterial,64293290,36,0.7,1
+2018,Ocean,Rural Minor Arterial,14176965,3,0.5,0.7
+2018,Ocean,Rural Collector (Major and Minor),91033555,47,0.5,0.7
+2018,Ocean,Rural Local,29494190,130,0.3,0.5
+2019,Ocean,Urban Interstate/Freeway/Expressway,1313404685,144,0.7,1
+2019,Ocean,Urban Primary Arterial,1113842030,353,0.7,1
+2019,Ocean,Urban Minor Arterial,779571380,199,0.5,0.7
+2019,Ocean,Urban Collector (Major and Minor),363595845,198,0.5,0.7
+2019,Ocean,Urban Local,1203482745,2252,0.3,0.5
+2019,Ocean,Rural Interstate/Primary Arterial,64388555,36,0.7,1
+2019,Ocean,Rural Minor Arterial,14403630,3,0.5,0.7
+2019,Ocean,Rural Collector (Major and Minor),94968985,47,0.5,0.7
+2019,Ocean,Rural Local,30723145,130,0.3,0.5
+2020,Ocean,Urban Interstate/Freeway/Expressway,1078022755,144,0.7,1
+2020,Ocean,Urban Primary Arterial,1033828555,353,0.7,1
+2020,Ocean,Urban Minor Arterial,719179210,199,0.5,0.7
+2020,Ocean,Urban Collector (Major and Minor),354715395,198,0.5,0.7
+2020,Ocean,Urban Local,1018211300,2253,0.3,0.5
+2020,Ocean,Rural Interstate/Primary Arterial,61312700,36,0.7,1
+2020,Ocean,Rural Minor Arterial,13151315,3,0.5,0.7
+2020,Ocean,Rural Collector (Major and Minor),87752570,47,0.5,0.7
+2020,Ocean,Rural Local,25605115,130,0.3,0.5
+2021,Ocean,Urban Interstate/Freeway/Expressway,1244530280,144,0.7,1
+2021,Ocean,Urban Primary Arterial,1138294840,353,0.7,1
+2021,Ocean,Urban Minor Arterial,787518890,199,0.5,0.7
+2021,Ocean,Urban Collector (Major and Minor),344568395,199,0.5,0.7
+2021,Ocean,Urban Local,1173305275,2253,0.3,0.5
+2021,Ocean,Rural Interstate/Primary Arterial,70534790,36,0.7,1
+2021,Ocean,Rural Minor Arterial,14072940,3,0.5,0.7
+2021,Ocean,Rural Collector (Major and Minor),94420025,47,0.5,0.7
+2021,Ocean,Rural Local,20517015,93,0.3,0.5
+2022,Ocean,Urban Interstate/Freeway/Expressway,1260498300,144,0.7,1
+2022,Ocean,Urban Primary Arterial,1078419875,352.5,0.7,1
+2022,Ocean,Urban Minor Arterial,821797500,199,0.5,0.7
+2022,Ocean,Urban Collector (Major and Minor),348457105,199,0.5,0.7
+2022,Ocean,Urban Local,1212485835,2253,0.3,0.5
+2022,Ocean,Rural Interstate/Primary Arterial,62049270,36,0.7,1
+2022,Ocean,Rural Minor Arterial,16203445,3,0.5,0.7
+2022,Ocean,Rural Collector (Major and Minor),89583775,47,0.5,0.7
+2022,Ocean,Rural Local,20947715,93,0.3,0.5
+2017,Passaic,Urban Interstate/Freeway/Expressway,1060426105,90,0.7,1
+2017,Passaic,Urban Primary Arterial,840523460,223,0.7,1
+2017,Passaic,Urban Minor Arterial,323341820,186,0.5,0.7
+2017,Passaic,Urban Collector (Major and Minor),152999240,113,0.5,0.7
+2017,Passaic,Urban Local,506684605,921,0.3,0.5
+2017,Passaic,Rural Interstate/Primary Arterial,0,0,0.7,1
+2017,Passaic,Rural Minor Arterial,0,0,0.5,0.7
+2017,Passaic,Rural Collector (Major and Minor),0,0,0.5,0.7
+2017,Passaic,Rural Local,0,0,0.3,0.5
+2018,Passaic,Urban Interstate/Freeway/Expressway,1044265730,90,0.7,1
+2018,Passaic,Urban Primary Arterial,834820700,223,0.7,1
+2018,Passaic,Urban Minor Arterial,348814440,186,0.5,0.7
+2018,Passaic,Urban Collector (Major and Minor),161162100,113,0.5,0.7
+2018,Passaic,Urban Local,512105950,921,0.3,0.5
+2018,Passaic,Rural Interstate/Primary Arterial,0,0,0.7,1
+2018,Passaic,Rural Minor Arterial,0,0,0.5,0.7
+2018,Passaic,Rural Collector (Major and Minor),0,0,0.5,0.7
+2018,Passaic,Rural Local,0,0,0.3,0.5
+2019,Passaic,Urban Interstate/Freeway/Expressway,1072126910,90,0.7,1
+2019,Passaic,Urban Primary Arterial,840209560,223,0.7,1
+2019,Passaic,Urban Minor Arterial,356840425,186,0.5,0.7
+2019,Passaic,Urban Collector (Major and Minor),160858785,113,0.5,0.7
+2019,Passaic,Urban Local,492299225,921,0.3,0.5
+2019,Passaic,Rural Interstate/Primary Arterial,0,0,0.7,1
+2019,Passaic,Rural Minor Arterial,0,0,0.5,0.7
+2019,Passaic,Rural Collector (Major and Minor),0,0,0.5,0.7
+2019,Passaic,Rural Local,0,0,0.3,0.5
+2020,Passaic,Urban Interstate/Freeway/Expressway,976197610,90,0.7,1
+2020,Passaic,Urban Primary Arterial,754057150,223,0.7,1
+2020,Passaic,Urban Minor Arterial,352929450,186,0.5,0.7
+2020,Passaic,Urban Collector (Major and Minor),153092315,113,0.5,0.7
+2020,Passaic,Urban Local,416290165,921,0.3,0.5
+2020,Passaic,Rural Interstate/Primary Arterial,0,0,0.7,1
+2020,Passaic,Rural Minor Arterial,0,0,0.5,0.7
+2020,Passaic,Rural Collector (Major and Minor),0,0,0.5,0.7
+2020,Passaic,Rural Local,0,0,0.3,0.5
+2021,Passaic,Urban Interstate/Freeway/Expressway,1040832905,90,0.7,1
+2021,Passaic,Urban Primary Arterial,805154595,223,0.7,1
+2021,Passaic,Urban Minor Arterial,351632240,186,0.5,0.7
+2021,Passaic,Urban Collector (Major and Minor),154957830,113,0.5,0.7
+2021,Passaic,Urban Local,479625695,921,0.3,0.5
+2021,Passaic,Rural Interstate/Primary Arterial,0,0,0.7,1
+2021,Passaic,Rural Minor Arterial,0,0,0.5,0.7
+2021,Passaic,Rural Collector (Major and Minor),0,0,0.5,0.7
+2021,Passaic,Rural Local,0,0,0.3,0.5
+2022,Passaic,Urban Interstate/Freeway/Expressway,1077223770,90,0.7,1
+2022,Passaic,Urban Primary Arterial,823983850,222.5,0.7,1
+2022,Passaic,Urban Minor Arterial,351342065,186,0.5,0.7
+2022,Passaic,Urban Collector (Major and Minor),154080005,113,0.5,0.7
+2022,Passaic,Urban Local,495642260,921,0.3,0.5
+2022,Passaic,Rural Interstate/Primary Arterial,0,0,0.7,1
+2022,Passaic,Rural Minor Arterial,0,0,0.5,0.7
+2022,Passaic,Rural Collector (Major and Minor),0,0,0.5,0.7
+2022,Passaic,Rural Local,0,0,0.3,0.5
+2017,Salem,Urban Interstate/Freeway/Expressway,94295925,21,0.7,1
+2017,Salem,Urban Primary Arterial,78694000,45,0.7,1
+2017,Salem,Urban Minor Arterial,66586585,23,0.5,0.7
+2017,Salem,Urban Collector (Major and Minor),51453320,56,0.5,0.7
+2017,Salem,Urban Local,80885460,221,0.3,0.5
+2017,Salem,Rural Interstate/Primary Arterial,239459345,99,0.7,1
+2017,Salem,Rural Minor Arterial,34046835,19,0.5,0.7
+2017,Salem,Rural Collector (Major and Minor),93568845,133,0.5,0.7
+2017,Salem,Rural Local,79939745,377,0.3,0.5
+2018,Salem,Urban Interstate/Freeway/Expressway,97203150,21,0.7,1
+2018,Salem,Urban Primary Arterial,78448355,45,0.7,1
+2018,Salem,Urban Minor Arterial,66533660,23,0.5,0.7
+2018,Salem,Urban Collector (Major and Minor),51913950,56,0.5,0.7
+2018,Salem,Urban Local,81176365,221,0.3,0.5
+2018,Salem,Rural Interstate/Primary Arterial,235738535,99,0.7,1
+2018,Salem,Rural Minor Arterial,33275955,19,0.5,0.7
+2018,Salem,Rural Collector (Major and Minor),91640550,133,0.5,0.7
+2018,Salem,Rural Local,85481905,377,0.3,0.5
+2019,Salem,Urban Interstate/Freeway/Expressway,95355885,21,0.7,1
+2019,Salem,Urban Primary Arterial,77608490,45,0.7,1
+2019,Salem,Urban Minor Arterial,67969570,23,0.5,0.7
+2019,Salem,Urban Collector (Major and Minor),51991695,56,0.5,0.7
+2019,Salem,Urban Local,82599865,221,0.3,0.5
+2019,Salem,Rural Interstate/Primary Arterial,240543760,99,0.7,1
+2019,Salem,Rural Minor Arterial,33389835,19,0.5,0.7
+2019,Salem,Rural Collector (Major and Minor),95172290,133,0.5,0.7
+2019,Salem,Rural Local,89043575,377,0.3,0.5
+2020,Salem,Urban Interstate/Freeway/Expressway,90553215,21,0.7,1
+2020,Salem,Urban Primary Arterial,71246905,45,0.7,1
+2020,Salem,Urban Minor Arterial,66528915,23,0.5,0.7
+2020,Salem,Urban Collector (Major and Minor),49339605,56,0.5,0.7
+2020,Salem,Urban Local,70348640,221,0.3,0.5
+2020,Salem,Rural Interstate/Primary Arterial,185952900,99,0.7,1
+2020,Salem,Rural Minor Arterial,34383365,19,0.5,0.7
+2020,Salem,Rural Collector (Major and Minor),82903545,133,0.5,0.7
+2020,Salem,Rural Local,74210340,377,0.3,0.5
+2021,Salem,Urban Interstate/Freeway/Expressway,108760875,21,0.7,1
+2021,Salem,Urban Primary Arterial,70938480,45,0.7,1
+2021,Salem,Urban Minor Arterial,70059925,23,0.5,0.7
+2021,Salem,Urban Collector (Major and Minor),48943945,56,0.5,0.7
+2021,Salem,Urban Local,78607860,221,0.3,0.5
+2021,Salem,Rural Interstate/Primary Arterial,223123770,99,0.7,1
+2021,Salem,Rural Minor Arterial,38498740,19,0.5,0.7
+2021,Salem,Rural Collector (Major and Minor),86754660,133,0.5,0.7
+2021,Salem,Rural Local,83062685,377,0.3,0.5
+2022,Salem,Urban Interstate/Freeway/Expressway,111416250,21,0.7,1
+2022,Salem,Urban Primary Arterial,74755285,45,0.7,1
+2022,Salem,Urban Minor Arterial,71206755,23,0.5,0.7
+2022,Salem,Urban Collector (Major and Minor),48995410,56,0.5,0.7
+2022,Salem,Urban Local,80345990,221,0.3,0.5
+2022,Salem,Rural Interstate/Primary Arterial,233678110,99,0.7,1
+2022,Salem,Rural Minor Arterial,38564440,19,0.5,0.7
+2022,Salem,Rural Collector (Major and Minor),89857160,133,0.5,0.7
+2022,Salem,Rural Local,84806655,377,0.3,0.5
+2017,Somerset,Urban Interstate/Freeway/Expressway,1079076145,96,0.7,1
+2017,Somerset,Urban Primary Arterial,861667910,168,0.7,1
+2017,Somerset,Urban Minor Arterial,456915030,162,0.5,0.7
+2017,Somerset,Urban Collector (Major and Minor),249138050,169,0.5,0.7
+2017,Somerset,Urban Local,678954385,1234,0.3,0.5
+2017,Somerset,Rural Interstate/Primary Arterial,168281790,15,0.7,1
+2017,Somerset,Rural Minor Arterial,6330560,2,0.5,0.7
+2017,Somerset,Rural Collector (Major and Minor),30873160,21,0.5,0.7
+2017,Somerset,Rural Local,15238385,72,0.3,0.5
+2018,Somerset,Urban Interstate/Freeway/Expressway,1067217660,96,0.7,1
+2018,Somerset,Urban Primary Arterial,859890725,168,0.7,1
+2018,Somerset,Urban Minor Arterial,443637060,162,0.5,0.7
+2018,Somerset,Urban Collector (Major and Minor),250412995,169,0.5,0.7
+2018,Somerset,Urban Local,686397465,1235,0.3,0.5
+2018,Somerset,Rural Interstate/Primary Arterial,166105660,15,0.7,1
+2018,Somerset,Rural Minor Arterial,6363775,2,0.5,0.7
+2018,Somerset,Rural Collector (Major and Minor),30416180,21,0.5,0.7
+2018,Somerset,Rural Local,16256735,72,0.3,0.5
+2019,Somerset,Urban Interstate/Freeway/Expressway,1098436110,96,0.7,1
+2019,Somerset,Urban Primary Arterial,860144400,168,0.7,1
+2019,Somerset,Urban Minor Arterial,470807660,162,0.5,0.7
+2019,Somerset,Urban Collector (Major and Minor),249518380,169,0.5,0.7
+2019,Somerset,Urban Local,665476030,1245,0.3,0.5
+2019,Somerset,Rural Interstate/Primary Arterial,164532510,15,0.7,1
+2019,Somerset,Rural Minor Arterial,6530215,2,0.5,0.7
+2019,Somerset,Rural Collector (Major and Minor),31953560,21,0.5,0.7
+2019,Somerset,Rural Local,16919940,72,0.3,0.5
+2020,Somerset,Urban Interstate/Freeway/Expressway,1079938275,96,0.7,1
+2020,Somerset,Urban Primary Arterial,642805515,168,0.7,1
+2020,Somerset,Urban Minor Arterial,432512955,162,0.5,0.7
+2020,Somerset,Urban Collector (Major and Minor),218531340,169,0.5,0.7
+2020,Somerset,Urban Local,563555985,1247,0.3,0.5
+2020,Somerset,Rural Interstate/Primary Arterial,124288705,15,0.7,1
+2020,Somerset,Rural Minor Arterial,6611610,2,0.5,0.7
+2020,Somerset,Rural Collector (Major and Minor),27319155,21,0.5,0.7
+2020,Somerset,Rural Local,14327345,73,0.3,0.5
+2021,Somerset,Urban Interstate/Freeway/Expressway,1034662580,96,0.7,1
+2021,Somerset,Urban Primary Arterial,710715955,168,0.7,1
+2021,Somerset,Urban Minor Arterial,417534450,162,0.5,0.7
+2021,Somerset,Urban Collector (Major and Minor),257174255,169,0.5,0.7
+2021,Somerset,Urban Local,649789425,1248,0.3,0.5
+2021,Somerset,Rural Interstate/Primary Arterial,142148155,15,0.7,1
+2021,Somerset,Rural Minor Arterial,7057640,2,0.5,0.7
+2021,Somerset,Rural Collector (Major and Minor),26233280,21,0.5,0.7
+2021,Somerset,Rural Local,16036275,73,0.3,0.5
+2022,Somerset,Urban Interstate/Freeway/Expressway,1032460170,96,0.7,1
+2022,Somerset,Urban Primary Arterial,796746455,167.5,0.7,1
+2022,Somerset,Urban Minor Arterial,421468420,162,0.5,0.7
+2022,Somerset,Urban Collector (Major and Minor),291787205,169,0.5,0.7
+2022,Somerset,Urban Local,671487945,1248,0.3,0.5
+2022,Somerset,Rural Interstate/Primary Arterial,150090555,15,0.7,1
+2022,Somerset,Rural Minor Arterial,5315495,2,0.5,0.7
+2022,Somerset,Rural Collector (Major and Minor),26249340,21,0.5,0.7
+2022,Somerset,Rural Local,16373170,73,0.3,0.5
+2017,Sussex,Urban Interstate/Freeway/Expressway,319010,0,0.7,1
+2017,Sussex,Urban Primary Arterial,218605435,80,0.7,1
+2017,Sussex,Urban Minor Arterial,214421440,68,0.5,0.7
+2017,Sussex,Urban Collector (Major and Minor),104856470,94,0.5,0.7
+2017,Sussex,Urban Local,216248995,475,0.3,0.5
+2017,Sussex,Rural Interstate/Primary Arterial,182673010,117,0.7,1
+2017,Sussex,Rural Minor Arterial,82912305,31,0.5,0.7
+2017,Sussex,Rural Collector (Major and Minor),109972310,159,0.5,0.7
+2017,Sussex,Rural Local,110096410,519,0.3,0.5
+2018,Sussex,Urban Interstate/Freeway/Expressway,314265,0,0.7,1
+2018,Sussex,Urban Primary Arterial,215108370,80,0.7,1
+2018,Sussex,Urban Minor Arterial,214349170,68,0.5,0.7
+2018,Sussex,Urban Collector (Major and Minor),106522330,94,0.5,0.7
+2018,Sussex,Urban Local,208671960,475,0.3,0.5
+2018,Sussex,Rural Interstate/Primary Arterial,177741130,117,0.7,1
+2018,Sussex,Rural Minor Arterial,84906665,31,0.5,0.7
+2018,Sussex,Rural Collector (Major and Minor),106578540,159,0.5,0.7
+2018,Sussex,Rural Local,117451525,519,0.3,0.5
+2019,Sussex,Urban Interstate/Freeway/Expressway,314630,0,0.7,1
+2019,Sussex,Urban Primary Arterial,215226265,80,0.7,1
+2019,Sussex,Urban Minor Arterial,222570795,68,0.5,0.7
+2019,Sussex,Urban Collector (Major and Minor),106616865,94,0.5,0.7
+2019,Sussex,Urban Local,199821440,475,0.3,0.5
+2019,Sussex,Rural Interstate/Primary Arterial,179271940,117,0.7,1
+2019,Sussex,Rural Minor Arterial,83636100,31,0.5,0.7
+2019,Sussex,Rural Collector (Major and Minor),111452020,159,0.5,0.7
+2019,Sussex,Rural Local,122345080,519,0.3,0.5
+2020,Sussex,Urban Interstate/Freeway/Expressway,262070,0,0.7,1
+2020,Sussex,Urban Primary Arterial,200449605,80,0.7,1
+2020,Sussex,Urban Minor Arterial,185892310,68,0.5,0.7
+2020,Sussex,Urban Collector (Major and Minor),90914200,94,0.5,0.7
+2020,Sussex,Urban Local,171853315,475,0.3,0.5
+2020,Sussex,Rural Interstate/Primary Arterial,147431165,117,0.7,1
+2020,Sussex,Rural Minor Arterial,76216015,31,0.5,0.7
+2020,Sussex,Rural Collector (Major and Minor),102558795,159,0.5,0.7
+2020,Sussex,Rural Local,102192700,520,0.3,0.5
+2021,Sussex,Urban Interstate/Freeway/Expressway,298205,0,0.7,1
+2021,Sussex,Urban Primary Arterial,200913520,80,0.7,1
+2021,Sussex,Urban Minor Arterial,198378960,68,0.5,0.7
+2021,Sussex,Urban Collector (Major and Minor),103064320,94,0.5,0.7
+2021,Sussex,Urban Local,192953965,475,0.3,0.5
+2021,Sussex,Rural Interstate/Primary Arterial,173650940,117,0.7,1
+2021,Sussex,Rural Minor Arterial,77566515,31,0.5,0.7
+2021,Sussex,Rural Collector (Major and Minor),103933385,159,0.5,0.7
+2021,Sussex,Rural Local,114380780,520,0.3,0.5
+2022,Sussex,Urban Interstate/Freeway/Expressway,297110,0,0.7,1
+2022,Sussex,Urban Primary Arterial,196625500,80,0.7,1
+2022,Sussex,Urban Minor Arterial,205396085,68,0.5,0.7
+2022,Sussex,Urban Collector (Major and Minor),106243470,94,0.5,0.7
+2022,Sussex,Urban Local,200993090,475,0.3,0.5
+2022,Sussex,Rural Interstate/Primary Arterial,172077425,117,0.7,1
+2022,Sussex,Rural Minor Arterial,77832235,31,0.5,0.7
+2022,Sussex,Rural Collector (Major and Minor),100653495,159,0.5,0.7
+2022,Sussex,Rural Local,116782480,520,0.3,0.5
+2017,Union,Urban Interstate/Freeway/Expressway,2090396610,102,0.7,1
+2017,Union,Urban Primary Arterial,670361920,155,0.7,1
+2017,Union,Urban Minor Arterial,561866035,173,0.5,0.7
+2017,Union,Urban Collector (Major and Minor),315746535,131,0.5,0.7
+2017,Union,Urban Local,568113740,1033,0.3,0.5
+2017,Union,Rural Interstate/Primary Arterial,0,0,0.7,1
+2017,Union,Rural Minor Arterial,0,0,0.5,0.7
+2017,Union,Rural Collector (Major and Minor),0,0,0.5,0.7
+2017,Union,Rural Local,0,0,0.3,0.5
+2018,Union,Urban Interstate/Freeway/Expressway,2092797215,102,0.7,1
+2018,Union,Urban Primary Arterial,652642995,155,0.7,1
+2018,Union,Urban Minor Arterial,594296285,174,0.5,0.7
+2018,Union,Urban Collector (Major and Minor),309371445,132,0.5,0.7
+2018,Union,Urban Local,578445065,1041,0.3,0.5
+2018,Union,Rural Interstate/Primary Arterial,0,0,0.7,1
+2018,Union,Rural Minor Arterial,0,0,0.5,0.7
+2018,Union,Rural Collector (Major and Minor),0,0,0.5,0.7
+2018,Union,Rural Local,0,0,0.3,0.5
+2019,Union,Urban Interstate/Freeway/Expressway,2092527845,102,0.7,1
+2019,Union,Urban Primary Arterial,661883700,155,0.7,1
+2019,Union,Urban Minor Arterial,588684045,174,0.5,0.7
+2019,Union,Urban Collector (Major and Minor),311922065,132,0.5,0.7
+2019,Union,Urban Local,556151595,1041,0.3,0.5
+2019,Union,Rural Interstate/Primary Arterial,0,0,0.7,1
+2019,Union,Rural Minor Arterial,0,0,0.5,0.7
+2019,Union,Rural Collector (Major and Minor),0,0,0.5,0.7
+2019,Union,Rural Local,0,0,0.3,0.5
+2020,Union,Urban Interstate/Freeway/Expressway,1621009530,102,0.7,1
+2020,Union,Urban Primary Arterial,540200000,155,0.7,1
+2020,Union,Urban Minor Arterial,487837830,174,0.5,0.7
+2020,Union,Urban Collector (Major and Minor),227738100,132,0.5,0.7
+2020,Union,Urban Local,470283885,1041,0.3,0.5
+2020,Union,Rural Interstate/Primary Arterial,0,0,0.7,1
+2020,Union,Rural Minor Arterial,0,0,0.5,0.7
+2020,Union,Rural Collector (Major and Minor),0,0,0.5,0.7
+2020,Union,Rural Local,0,0,0.3,0.5
+2021,Union,Urban Interstate/Freeway/Expressway,1886370735,102,0.7,1
+2021,Union,Urban Primary Arterial,622644375,155,0.7,1
+2021,Union,Urban Minor Arterial,559121600,174,0.5,0.7
+2021,Union,Urban Collector (Major and Minor),272158235,132,0.5,0.7
+2021,Union,Urban Local,541837390,1041,0.3,0.5
+2021,Union,Rural Interstate/Primary Arterial,0,0,0.7,1
+2021,Union,Rural Minor Arterial,0,0,0.5,0.7
+2021,Union,Rural Collector (Major and Minor),0,0,0.5,0.7
+2021,Union,Rural Local,0,0,0.3,0.5
+2022,Union,Urban Interstate/Freeway/Expressway,2020350190,102,0.7,1
+2022,Union,Urban Primary Arterial,667942335,155,0.7,1
+2022,Union,Urban Minor Arterial,573143440,174,0.5,0.7
+2022,Union,Urban Collector (Major and Minor),289455220,132,0.5,0.7
+2022,Union,Urban Local,559931170,1041,0.3,0.5
+2022,Union,Rural Interstate/Primary Arterial,0,0,0.7,1
+2022,Union,Rural Minor Arterial,0,0,0.5,0.7
+2022,Union,Rural Collector (Major and Minor),0,0,0.5,0.7
+2022,Union,Rural Local,0,0,0.3,0.5
+2017,Warren,Urban Interstate/Freeway/Expressway,361700400,42,0.7,1
+2017,Warren,Urban Primary Arterial,199909040,93,0.7,1
+2017,Warren,Urban Minor Arterial,121044585,49,0.5,0.7
+2017,Warren,Urban Collector (Major and Minor),32823355,41,0.5,0.7
+2017,Warren,Urban Local,95938060,328,0.3,0.5
+2017,Warren,Rural Interstate/Primary Arterial,378248405,90,0.7,1
+2017,Warren,Rural Minor Arterial,92894690,43,0.5,0.7
+2017,Warren,Rural Collector (Major and Minor),92699050,111,0.5,0.7
+2017,Warren,Rural Local,100169140,472,0.3,0.5
+2018,Warren,Urban Interstate/Freeway/Expressway,362871685,42,0.7,1
+2018,Warren,Urban Primary Arterial,203091110,93,0.7,1
+2018,Warren,Urban Minor Arterial,124064960,49,0.5,0.7
+2018,Warren,Urban Collector (Major and Minor),33294205,41,0.5,0.7
+2018,Warren,Urban Local,91045235,328,0.3,0.5
+2018,Warren,Rural Interstate/Primary Arterial,368093010,90,0.7,1
+2018,Warren,Rural Minor Arterial,99393150,43,0.5,0.7
+2018,Warren,Rural Collector (Major and Minor),90776230,111,0.5,0.7
+2018,Warren,Rural Local,107026760,473,0.3,0.5
+2019,Warren,Urban Interstate/Freeway/Expressway,370933075,42,0.7,1
+2019,Warren,Urban Primary Arterial,202081155,93,0.7,1
+2019,Warren,Urban Minor Arterial,123790845,49,0.5,0.7
+2019,Warren,Urban Collector (Major and Minor),33242740,41,0.5,0.7
+2019,Warren,Urban Local,86838245,328,0.3,0.5
+2019,Warren,Rural Interstate/Primary Arterial,356564120,90,0.7,1
+2019,Warren,Rural Minor Arterial,102205840,43,0.5,0.7
+2019,Warren,Rural Collector (Major and Minor),92685180,111,0.5,0.7
+2019,Warren,Rural Local,111485965,473,0.3,0.5
+2020,Warren,Urban Interstate/Freeway/Expressway,313489010,42,0.7,1
+2020,Warren,Urban Primary Arterial,175634715,93,0.7,1
+2020,Warren,Urban Minor Arterial,120629215,49,0.5,0.7
+2020,Warren,Urban Collector (Major and Minor),32142995,41,0.5,0.7
+2020,Warren,Urban Local,76034610,328,0.3,0.5
+2020,Warren,Rural Interstate/Primary Arterial,332734365,90,0.7,1
+2020,Warren,Rural Minor Arterial,88203710,43,0.5,0.7
+2020,Warren,Rural Collector (Major and Minor),85268745,111,0.5,0.7
+2020,Warren,Rural Local,92914400,473,0.3,0.5
+2021,Warren,Urban Interstate/Freeway/Expressway,344888135,42,0.7,1
+2021,Warren,Urban Primary Arterial,188945170,93,0.7,1
+2021,Warren,Urban Minor Arterial,132801235,49,0.5,0.7
+2021,Warren,Urban Collector (Major and Minor),31383430,41,0.5,0.7
+2021,Warren,Urban Local,77343865,328,0.3,0.5
+2021,Warren,Rural Interstate/Primary Arterial,371555035,90,0.7,1
+2021,Warren,Rural Minor Arterial,90155730,43,0.5,0.7
+2021,Warren,Rural Collector (Major and Minor),91531050,111,0.5,0.7
+2021,Warren,Rural Local,103997990,473,0.3,0.5
+2022,Warren,Urban Interstate/Freeway/Expressway,347934790,42,0.7,1
+2022,Warren,Urban Primary Arterial,194453020,92.5,0.7,1
+2022,Warren,Urban Minor Arterial,131098145,49,0.5,0.7
+2022,Warren,Urban Collector (Major and Minor),31368100,41,0.5,0.7
+2022,Warren,Urban Local,79306470,328,0.3,0.5
+2022,Warren,Rural Interstate/Primary Arterial,400834240,90,0.7,1
+2022,Warren,Rural Minor Arterial,107987075,43,0.5,0.7
+2022,Warren,Rural Collector (Major and Minor),92797600,111,0.5,0.7
+2022,Warren,Rural Local,106181420,473,0.3,0.5
